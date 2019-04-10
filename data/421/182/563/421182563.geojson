@@ -1,0 +1,96 @@
+{
+  "id": 421182563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.8,-27.2,-55.8,-27.2",
+    "geom:latitude":-27.2,
+    "geom:longitude":-55.8,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Capit\u00e1n Miranda"
+    ],
+    "name:por_x_preferred":[
+        "Capit\u00e1n Miranda"
+    ],
+    "name:spa_x_preferred":[
+        "Capit\u00e1n Miranda"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Capit\u00e1n Miranda"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u862d\u9054\u4e0a\u5c09\u93ae"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439184,
+    "qs:gn_pop":2498,
+    "qs:name":"Capit\u00e1n Miranda",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Itap\u00faa",
+    "qs:photos":48,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":48,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1342250,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377407,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        421180053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439184,
+        "gp:id":377407,
+        "qs:id":1342250,
+        "wd:id":"Q1984703",
+        "wk:page":"Capit\u00e1n Miranda"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009334,
+    "wof:geomhash":"540b9c22ce14140ace1086f706352cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421180053,
+            "locality_id":421182563,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":421182563,
+    "wof:lastmodified":1505340663,
+    "wof:name":"Capit\u00e1n Miranda",
+    "wof:parent_id":421180053,
+    "wof:placetype":"locality",
+    "wof:population":2498,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.8,
+    -27.2,
+    -55.8,
+    -27.2
+],
+  "geometry": {"coordinates":[-55.8,-27.2],"type":"Point"}
+}

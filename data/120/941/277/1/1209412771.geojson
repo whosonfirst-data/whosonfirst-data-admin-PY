@@ -1,0 +1,62 @@
+{
+  "id": 1209412771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.5,-25.11667,-57.5,-25.11667",
+    "geom:latitude":-25.11667,
+    "geom:longitude":-57.5,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1108",
+    "gn:asciiname":"Piquete Cue",
+    "gn:country_code":"PY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437516,
+    "gn:latitude":-25.11667,
+    "gn:longitude":-57.5,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Piquete Cu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437516
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"9e0a4c4347f249b5b15f8ace5b564213",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209412771
+        }
+    ],
+    "wof:id":1209412771,
+    "wof:lastmodified":1536287785,
+    "wof:name":"Piquete Cue",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.5,
+    -25.116670000000006,
+    -57.5,
+    -25.116670000000006
+],
+  "geometry": {"coordinates":[-57.5,-25.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226324811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.26667,-22.96667,-59.26667,-22.96667",
+    "geom:latitude":-22.96667,
+    "geom:longitude":-59.26667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1507",
+    "gn:asciiname":"Puesto Nanati",
+    "gn:country_code":"PY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437257,
+    "gn:latitude":-22.96667,
+    "gn:longitude":-59.26667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puesto Nanati",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        1108692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437257
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"597eafe14caecdd2bcb75e9ca87c9be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692815,
+            "locality_id":1226324811,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1226324811,
+    "wof:lastmodified":1536818833,
+    "wof:name":"Puesto Nanati",
+    "wof:parent_id":1108692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.26667,
+    -22.96667,
+    -59.26667,
+    -22.96667
+],
+  "geometry": {"coordinates":[-59.26667,-22.96667],"type":"Point"}
+}

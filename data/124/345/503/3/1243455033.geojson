@@ -1,0 +1,73 @@
+{
+  "id": 1243455033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.8,-25.55,-55.8,-25.55",
+    "geom:latitude":-25.55,
+    "geom:longitude":-55.8,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0507",
+    "gn:asciiname":"Colonia Ex Combatiente",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439048,
+    "gn:latitude":-25.55,
+    "gn:longitude":-55.8,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Ex Combatiente",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Arroyita Ex-combatientes",
+        "Colonia Ex Combatiente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439048
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4a903eb4dfa7f789996216946bce12f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692633,
+            "locality_id":1243455033,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1243455033,
+    "wof:lastmodified":1537683228,
+    "wof:name":"Colonia Ex Combatiente",
+    "wof:parent_id":1108692633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.8,
+    -25.55,
+    -55.8,
+    -25.55
+],
+  "geometry": {"coordinates":[-55.8,-25.55],"type":"Point"}
+}

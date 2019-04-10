@@ -1,0 +1,68 @@
+{
+  "id": 1276663557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.36667,-24.66667,-55.36667,-24.66667",
+    "geom:latitude":-24.66667,
+    "geom:longitude":-55.36667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0520",
+    "gn:asciiname":"Mariscal F. S. Lopez",
+    "gn:country_code":"PY",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437787,
+    "gn:latitude":-24.66667,
+    "gn:longitude":-55.36667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Mariscal F. S. Lopez",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437787
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f0d4bd05c92751bc9defb3a9eab0ab4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692663,
+            "locality_id":1276663557,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1276663557,
+    "wof:lastmodified":1536832197,
+    "wof:name":"Mariscal F. S. Lopez",
+    "wof:parent_id":1108692663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.36666999999999,
+    -24.66667,
+    -55.36666999999999,
+    -24.66667
+],
+  "geometry": {"coordinates":[-55.36666999999999,-24.66667],"type":"Point"}
+}

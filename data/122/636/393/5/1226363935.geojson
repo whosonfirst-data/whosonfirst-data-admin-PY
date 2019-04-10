@@ -1,0 +1,68 @@
+{
+  "id": 1226363935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.86667,-22.2,-57.86667,-22.2",
+    "geom:latitude":-22.2,
+    "geom:longitude":-57.86667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0106",
+    "gn:asciiname":"Estancia Tacho Cue",
+    "gn:country_code":"PY",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438192,
+    "gn:latitude":-22.2,
+    "gn:longitude":-57.86667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Tacho Cu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676665,
+        1108692753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438192
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"dff99200681ef60283a4cd378d3f2b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692753,
+            "locality_id":1226363935,
+            "region_id":85676665
+        }
+    ],
+    "wof:id":1226363935,
+    "wof:lastmodified":1536763701,
+    "wof:name":"Estancia Tacho Cue",
+    "wof:parent_id":1108692753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.86666999999999,
+    -22.2,
+    -57.86666999999999,
+    -22.2
+],
+  "geometry": {"coordinates":[-57.86666999999999,-22.2],"type":"Point"}
+}

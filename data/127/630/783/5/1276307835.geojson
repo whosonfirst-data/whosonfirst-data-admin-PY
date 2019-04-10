@@ -1,0 +1,68 @@
+{
+  "id": 1276307835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.5,-23.93333,-55.5,-23.93333",
+    "geom:latitude":-23.93333,
+    "geom:longitude":-55.5,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1404",
+    "gn:asciiname":"Comunidad",
+    "gn:country_code":"PY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438835,
+    "gn:latitude":-23.93333,
+    "gn:longitude":-55.5,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676719,
+        1108692455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438835
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1b0d5ef7a5c86e6019148d09cd882831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692455,
+            "locality_id":1276307835,
+            "region_id":85676719
+        }
+    ],
+    "wof:id":1276307835,
+    "wof:lastmodified":1536812331,
+    "wof:name":"Comunidad",
+    "wof:parent_id":1108692455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.5,
+    -23.93333,
+    -55.5,
+    -23.93333
+],
+  "geometry": {"coordinates":[-55.5,-23.93333],"type":"Point"}
+}

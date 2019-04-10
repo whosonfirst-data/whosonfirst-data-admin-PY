@@ -1,0 +1,71 @@
+{
+  "id": 1293361801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.84602,-25.92498,-57.84602,-25.92498",
+    "geom:latitude":-25.92498,
+    "geom:longitude":-57.84602,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1215",
+    "gn:asciiname":"Puerto Marite",
+    "gn:country_code":"PY",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3437373,
+    "gn:latitude":-25.92498,
+    "gn:longitude":-57.84602,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Marit\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "Puerto Marit\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        1108692791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437373
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f15dd76bcdea075ab7432e412da0da24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692791,
+            "locality_id":1293361801,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":1293361801,
+    "wof:lastmodified":1537683203,
+    "wof:name":"Puerto Marite",
+    "wof:parent_id":1108692791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.84602,
+    -25.92498,
+    -57.84602,
+    -25.92498
+],
+  "geometry": {"coordinates":[-57.84602,-25.92498],"type":"Point"}
+}

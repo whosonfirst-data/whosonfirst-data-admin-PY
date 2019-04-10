@@ -1,0 +1,71 @@
+{
+  "id": 1293380743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.24402,-25.132,-57.24402,-25.132",
+    "geom:latitude":-25.132,
+    "geom:longitude":-57.24402,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Estancia Margarita",
+    "gn:country_code":"PY",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438440,
+    "gn:latitude":-25.132,
+    "gn:longitude":-57.24402,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Margarita",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Margarita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676667,
+        1108692517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438440
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"16ddb0b9ed8fb69309dd15a93a2594c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692517,
+            "locality_id":1293380743,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":1293380743,
+    "wof:lastmodified":1537683216,
+    "wof:name":"Estancia Margarita",
+    "wof:parent_id":1108692517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.24401999999999,
+    -25.132,
+    -57.24401999999999,
+    -25.132
+],
+  "geometry": {"coordinates":[-57.24401999999999,-25.132],"type":"Point"}
+}

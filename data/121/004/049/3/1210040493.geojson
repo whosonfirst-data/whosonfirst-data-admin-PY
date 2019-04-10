@@ -1,0 +1,73 @@
+{
+  "id": 1210040493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.58333,-25.41667,-56.58333,-25.41667",
+    "geom:latitude":-25.41667,
+    "geom:longitude":-56.58333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0508",
+    "gn:asciiname":"Colonia Nueva Australia",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438972,
+    "gn:latitude":-25.41667,
+    "gn:longitude":-56.58333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Nueva Australia",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nueva Australia",
+        "Colonia Nueva Australia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438972
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"31f3261d8318496f02c460747ddf5e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692635,
+            "locality_id":1210040493,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1210040493,
+    "wof:lastmodified":1537683227,
+    "wof:name":"Colonia Nueva Australia",
+    "wof:parent_id":1108692635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.58333,
+    -25.41667,
+    -56.58333,
+    -25.41667
+],
+  "geometry": {"coordinates":[-56.58333,-25.41667],"type":"Point"}
+}

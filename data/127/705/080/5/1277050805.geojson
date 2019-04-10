@@ -1,0 +1,74 @@
+{
+  "id": 1277050805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.37673,-24.43215,-55.37673,-24.43215",
+    "geom:latitude":-24.43215,
+    "geom:longitude":-55.37673,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1403",
+    "gn:asciiname":"Ybyra Pyta",
+    "gn:country_code":"PY",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436632,
+    "gn:latitude":-24.43215,
+    "gn:longitude":-55.37673,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Ybyra Pyt\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ybyra Pyt\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Ybyr\u00e1-Pyt\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676719,
+        1108692453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436632
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7bd7c76b8ad4cd98ffcaf511443c6658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692453,
+            "locality_id":1277050805,
+            "region_id":85676719
+        }
+    ],
+    "wof:id":1277050805,
+    "wof:lastmodified":1537683195,
+    "wof:name":"Ybyra Pyta",
+    "wof:parent_id":1108692453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.37673,
+    -24.43215,
+    -55.37673,
+    -24.43215
+],
+  "geometry": {"coordinates":[-55.37673,-24.43215],"type":"Point"}
+}

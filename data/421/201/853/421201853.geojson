@@ -1,0 +1,105 @@
+{
+  "id": 421201853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.11667,-22.66667,-60.11667,-22.66667",
+    "geom:latitude":-22.66667,
+    "geom:longitude":-60.11667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Kolonie Neuland"
+    ],
+    "name:eng_x_preferred":[
+        "Neuland Colony"
+    ],
+    "name:ger_x_preferred":[
+        "Kolonie Neuland"
+    ],
+    "name:grn_x_preferred":[
+        "Neuland"
+    ],
+    "name:lit_x_preferred":[
+        "Noilandas"
+    ],
+    "name:pdc_x_preferred":[
+        "Neuland Colony"
+    ],
+    "name:por_x_preferred":[
+        "Neuland"
+    ],
+    "name:spa_x_preferred":[
+        "Neuland"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3867411,
+    "qs:gn_pop":2816,
+    "qs:name":"Colonia Neuland",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Boquer\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":214895,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377562,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867411,
+        "gp:id":377562,
+        "qs:id":214895,
+        "wd:id":"Q1709409",
+        "wk:page":"Neuland Colony"
+    },
+    "wof:country":"PY",
+    "wof:created":1459010089,
+    "wof:geomhash":"04bf6e351ba844d65c5b09eab8b1a36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":421201853,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":421201853,
+    "wof:lastmodified":1514498741,
+    "wof:name":"Colonia Neuland",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:population":2816,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.11667,
+    -22.66667,
+    -60.11667,
+    -22.66667
+],
+  "geometry": {"coordinates":[-60.11667,-22.66667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276180687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.4,-20.93333,-58.4,-20.93333",
+    "geom:latitude":-20.93333,
+    "geom:longitude":-58.4,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1701",
+    "gn:asciiname":"Puesto Rancho Quemado",
+    "gn:country_code":"PY",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437252,
+    "gn:latitude":-20.93333,
+    "gn:longitude":-58.4,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puesto Rancho Quemado",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676655,
+        421184639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437252
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"69f9bff63b322d072b414abcc54d427e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184639,
+            "locality_id":1276180687,
+            "region_id":85676655
+        }
+    ],
+    "wof:id":1276180687,
+    "wof:lastmodified":1536982808,
+    "wof:name":"Puesto Rancho Quemado",
+    "wof:parent_id":421184639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.4,
+    -20.93333,
+    -58.4,
+    -20.93333
+],
+  "geometry": {"coordinates":[-58.4,-20.93333],"type":"Point"}
+}

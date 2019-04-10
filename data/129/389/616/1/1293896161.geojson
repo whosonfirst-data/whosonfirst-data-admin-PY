@@ -1,0 +1,69 @@
+{
+  "id": 1293896161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.91667,-22.66667,-55.91667,-22.66667",
+    "geom:latitude":-22.66667,
+    "geom:longitude":-55.91667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1301",
+    "gn:asciiname":"Chingueelo",
+    "gn:country_code":"PY",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439110,
+    "gn:latitude":-22.66667,
+    "gn:longitude":-55.91667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Ching\u00fcelo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676701,
+        421170059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439110,
+        "wk:page":"Chiriguelo"
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"cb52a6dbccf0091b25f0f0101be0d4e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170059,
+            "locality_id":1293896161,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":1293896161,
+    "wof:lastmodified":1537571958,
+    "wof:name":"Chingueelo",
+    "wof:parent_id":421170059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.91667,
+    -22.66667,
+    -55.91667,
+    -22.66667
+],
+  "geometry": {"coordinates":[-55.91667,-22.66667],"type":"Point"}
+}

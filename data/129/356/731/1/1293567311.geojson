@@ -1,0 +1,68 @@
+{
+  "id": 1293567311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.85,-26.2,-54.85,-26.2",
+    "geom:latitude":-26.2,
+    "geom:longitude":-54.85,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0718",
+    "gn:asciiname":"Estancia Prado Verde",
+    "gn:country_code":"PY",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438365,
+    "gn:latitude":-26.2,
+    "gn:longitude":-54.85,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Prado Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438365
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"b09137642e6fbea0f54f3d9ea701fd25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692671,
+            "locality_id":1293567311,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1293567311,
+    "wof:lastmodified":1536672018,
+    "wof:name":"Estancia Prado Verde",
+    "wof:parent_id":1108692671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.85,
+    -26.2,
+    -54.85,
+    -26.2
+],
+  "geometry": {"coordinates":[-54.85,-26.2],"type":"Point"}
+}

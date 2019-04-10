@@ -1,0 +1,67 @@
+{
+  "id": 1209170449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.48333,-19.75,-59.48333,-19.75",
+    "geom:latitude":-19.75,
+    "geom:longitude":-59.48333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1704",
+    "gn:asciiname":"Campamento Michin",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439249,
+    "gn:latitude":-19.75,
+    "gn:longitude":-59.48333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Campamento Michin",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campo Michin",
+        "Campamento Michin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439249
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"fd8637fbd01785fc4cf41b0dff22aaed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209170449
+        }
+    ],
+    "wof:id":1209170449,
+    "wof:lastmodified":1537683231,
+    "wof:name":"Campamento Michin",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.48333,
+    -19.75,
+    -59.48333,
+    -19.75
+],
+  "geometry": {"coordinates":[-59.48333,-19.75],"type":"Point"}
+}

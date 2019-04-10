@@ -1,0 +1,68 @@
+{
+  "id": 1225948967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.78333,-25.91667,-55.78333,-25.91667",
+    "geom:latitude":-25.91667,
+    "geom:longitude":-55.78333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0602",
+    "gn:asciiname":"Taruma",
+    "gn:country_code":"PY",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436861,
+    "gn:latitude":-25.91667,
+    "gn:longitude":-55.78333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Tarum\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436861
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"70725cb799a6e2e5f6e11284190adfca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692841,
+            "locality_id":1225948967,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":1225948967,
+    "wof:lastmodified":1536863282,
+    "wof:name":"Taruma",
+    "wof:parent_id":1108692841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.78333000000001,
+    -25.91667,
+    -55.78333000000001,
+    -25.91667
+],
+  "geometry": {"coordinates":[-55.78333000000001,-25.91667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209688421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.98333,-23.88333,-59.98333,-23.88333",
+    "geom:latitude":-23.88333,
+    "geom:longitude":-59.98333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1508",
+    "gn:asciiname":"Estancia Agualinda",
+    "gn:country_code":"PY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438699,
+    "gn:latitude":-23.88333,
+    "gn:longitude":-59.98333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Agualinda",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438699
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"477670a8b6a0eea5e0bc423c93d33a15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209688421
+        }
+    ],
+    "wof:id":1209688421,
+    "wof:lastmodified":1536279330,
+    "wof:name":"Estancia Agualinda",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.98333,
+    -23.88333,
+    -59.98333,
+    -23.88333
+],
+  "geometry": {"coordinates":[-59.98333,-23.88333],"type":"Point"}
+}

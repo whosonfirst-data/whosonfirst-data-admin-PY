@@ -1,0 +1,67 @@
+{
+  "id": 1225902147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.53333,-23.35,-61.53333,-23.35",
+    "geom:latitude":-23.35,
+    "geom:longitude":-61.53333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Paso de los Tobas",
+    "gn:country_code":"PY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867201,
+    "gn:latitude":-23.35,
+    "gn:longitude":-61.53333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Paso de los Tobas",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867201
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e49cdde14d008b083340ccd2de194a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718261,
+            "locality_id":1225902147,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1225902147,
+    "wof:lastmodified":1536933303,
+    "wof:name":"Paso de los Tobas",
+    "wof:parent_id":1108718261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.53333000000001,
+    -23.35,
+    -61.53333000000001,
+    -23.35
+],
+  "geometry": {"coordinates":[-61.53333000000001,-23.35],"type":"Point"}
+}

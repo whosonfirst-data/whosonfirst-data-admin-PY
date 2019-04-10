@@ -1,0 +1,75 @@
+{
+  "id": 1293854181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.86283,-25.69253,-56.86283,-25.69253",
+    "geom:latitude":-25.69253,
+    "geom:longitude":-56.86283,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"0904",
+    "gn:asciiname":"General Bernardino Caballero",
+    "gn:country_code":"PY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439291,
+    "gn:latitude":-25.69253,
+    "gn:longitude":-56.86283,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"General Bernardino Caballero",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "General Bernardino Caballero"
+    ],
+    "name:und_x_variant":[
+        "Caballern",
+        "Caballero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        1108692709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439291
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"99963b926ec90993fe26fd300d5f480c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692709,
+            "locality_id":1293854181,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":1293854181,
+    "wof:lastmodified":1537683231,
+    "wof:name":"General Bernardino Caballero",
+    "wof:parent_id":1108692709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.86283,
+    -25.69253,
+    -56.86283,
+    -25.69253
+],
+  "geometry": {"coordinates":[-56.86283,-25.69253],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 421180689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.58333,-23.45,-56.58333,-23.45",
+    "geom:latitude":-23.45,
+    "geom:longitude":-56.58333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Tacuat\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Tacuat\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Tacuat\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Tacuaty"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5938\u8482"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436880,
+    "qs:gn_pop":2405,
+    "qs:name":"Tacuat\u00ed",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"San Pedro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1207136,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379270,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":154,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676665,
+        1108692757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436880,
+        "gp:id":379270,
+        "qs:id":1207136,
+        "wd:id":"Q371991",
+        "wk:page":"Tacuat\u00ed"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009267,
+    "wof:geomhash":"3a0240b1f3e450f6f51de9a4d57a8ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692757,
+            "locality_id":421180689,
+            "region_id":85676665
+        }
+    ],
+    "wof:id":421180689,
+    "wof:lastmodified":1527716235,
+    "wof:name":"Tacuat\u00ed",
+    "wof:parent_id":1108692757,
+    "wof:placetype":"locality",
+    "wof:population":2405,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.58333,
+    -23.45,
+    -56.58333,
+    -23.45
+],
+  "geometry": {"coordinates":[-56.58333,-23.45],"type":"Point"}
+}

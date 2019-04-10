@@ -1,0 +1,74 @@
+{
+  "id": 1226300707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.39574,-23.35499,-60.39574,-23.35499",
+    "geom:latitude":-23.35499,
+    "geom:longitude":-60.39574,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Establecimiento Ortiz",
+    "gn:country_code":"PY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867147,
+    "gn:latitude":-23.35499,
+    "gn:longitude":-60.39574,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Establecimiento Ortiz",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Establecimiento Ortiz"
+    ],
+    "name:und_x_variant":[
+        "Puesto Ortiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867147
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"9e8bdcf2c6c4ce98fc9ff33a4a75f70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1226300707,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1226300707,
+    "wof:lastmodified":1537683234,
+    "wof:name":"Establecimiento Ortiz",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.39574,
+    -23.35499,
+    -60.39574,
+    -23.35499
+],
+  "geometry": {"coordinates":[-60.39574,-23.35499],"type":"Point"}
+}

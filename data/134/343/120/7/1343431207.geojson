@@ -1,0 +1,68 @@
+{
+  "id": 1343431207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.96667,-26.28333,-56.96667,-26.28333",
+    "geom:latitude":-26.28333,
+    "geom:longitude":-56.96667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"0911",
+    "gn:asciiname":"Establecimiento Sanaoria",
+    "gn:country_code":"PY",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438709,
+    "gn:latitude":-26.28333,
+    "gn:longitude":-56.96667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Establecimiento Sana\u00f3r\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        1108692723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438709
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"481599e62013ae29c952779fc364f010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692723,
+            "locality_id":1343431207,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":1343431207,
+    "wof:lastmodified":1536789033,
+    "wof:name":"Establecimiento Sanaoria",
+    "wof:parent_id":1108692723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.96666999999999,
+    -26.28333,
+    -56.96666999999999,
+    -26.28333
+],
+  "geometry": {"coordinates":[-56.96666999999999,-26.28333],"type":"Point"}
+}

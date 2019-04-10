@@ -1,0 +1,76 @@
+{
+  "id": 1259897573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.64733,-25.74275,-54.64733,-25.74275",
+    "geom:latitude":-25.74275,
+    "geom:longitude":-54.64733,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1010",
+    "gn:asciiname":"Puerto Ordonez",
+    "gn:country_code":"PY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437361,
+    "gn:latitude":-25.74275,
+    "gn:longitude":-54.64733,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Ordo\u00f1ez",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Ordo\u00f1ez"
+    ],
+    "name:und_x_variant":[
+        "Puerto Odornez",
+        "Ord\u00f3\u00f1ez",
+        "Puerto Ord\u00f3\u00f1ez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        421182833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437361
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"b49797ff7ac96d865a14fe5503dbadb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421182833,
+            "locality_id":1259897573,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1259897573,
+    "wof:lastmodified":1537683203,
+    "wof:name":"Puerto Ordonez",
+    "wof:parent_id":421182833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.64733,
+    -25.74275,
+    -54.64733,
+    -25.74275
+],
+  "geometry": {"coordinates":[-54.64733,-25.74275],"type":"Point"}
+}

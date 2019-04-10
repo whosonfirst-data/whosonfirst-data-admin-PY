@@ -1,0 +1,72 @@
+{
+  "id": 890441859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.21667,-24.93333,-55.21667,-24.93333",
+    "geom:latitude":-24.93333,
+    "geom:longitude":-55.21667,
+    "gn:country":"PY",
+    "gn:fcode":"PPL",
+    "gn:pop":3038,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Ytaquyry"
+    ],
+    "qs:name":"Itaquyry",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        1108692553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437920,
+        "gp:id":378431,
+        "qs:id":147817,
+        "wd:id":"Q2445898",
+        "wk:page":"Itakyry"
+    },
+    "wof:country":"PY",
+    "wof:created":1469052340,
+    "wof:geomhash":"abf079cc225f389213abf8fed77c256a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692553,
+            "locality_id":890441859,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":890441859,
+    "wof:lastmodified":1527727228,
+    "wof:name":"Itaquyry",
+    "wof:parent_id":1108692553,
+    "wof:placetype":"locality",
+    "wof:population":3038,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.21667,
+    -24.93333,
+    -55.21667,
+    -24.93333
+],
+  "geometry": {"coordinates":[-55.21667,-24.93333],"type":"Point"}
+}

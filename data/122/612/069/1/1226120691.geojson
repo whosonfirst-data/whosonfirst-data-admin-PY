@@ -1,0 +1,71 @@
+{
+  "id": 1226120691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.23443,-26.93661,-55.23443,-26.93661",
+    "geom:latitude":-26.93661,
+    "geom:longitude":-55.23443,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0704",
+    "gn:asciiname":"Capitan Meza",
+    "gn:country_code":"PY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439186,
+    "gn:latitude":-26.93661,
+    "gn:longitude":-55.23443,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Capit\u00e1n Meza",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Capit\u00e1n Meza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439186
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"dc7980a9d82dbff1c3d68ca0166a86de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692867,
+            "locality_id":1226120691,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1226120691,
+    "wof:lastmodified":1537683230,
+    "wof:name":"Capitan Meza",
+    "wof:parent_id":1108692867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.23443,
+    -26.93661,
+    -55.23443,
+    -26.93661
+],
+  "geometry": {"coordinates":[-55.23443,-26.93661],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327491757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.88333,-20.96667,-57.88333,-20.96667",
+    "geom:latitude":-20.96667,
+    "geom:longitude":-57.88333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1701",
+    "gn:asciiname":"Estancia Barrero",
+    "gn:country_code":"PY",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438668,
+    "gn:latitude":-20.96667,
+    "gn:longitude":-57.88333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Barrero",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676655,
+        421184639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438668
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4817970ce9b16f38aaff971fc3a536cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184639,
+            "locality_id":1327491757,
+            "region_id":85676655
+        }
+    ],
+    "wof:id":1327491757,
+    "wof:lastmodified":1537089729,
+    "wof:name":"Estancia Barrero",
+    "wof:parent_id":421184639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.88333000000001,
+    -20.96667,
+    -57.88333000000001,
+    -20.96667
+],
+  "geometry": {"coordinates":[-57.88333000000001,-20.96667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259966917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.88333,-26.58333,-56.88333,-26.58333",
+    "geom:latitude":-26.58333,
+    "geom:longitude":-56.88333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"0804",
+    "gn:asciiname":"Estancia Santo Tomas",
+    "gn:country_code":"PY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438217,
+    "gn:latitude":-26.58333,
+    "gn:longitude":-56.88333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Santo Tom\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676689,
+        1108692483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438217
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"b359590c5359981483643add70603025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692483,
+            "locality_id":1259966917,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":1259966917,
+    "wof:lastmodified":1536659131,
+    "wof:name":"Estancia Santo Tomas",
+    "wof:parent_id":1108692483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.88333000000001,
+    -26.58333,
+    -56.88333000000001,
+    -26.58333
+],
+  "geometry": {"coordinates":[-56.88333000000001,-26.58333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343871367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.2,-22.38333,-56.2,-22.38333",
+    "geom:latitude":-22.38333,
+    "geom:longitude":-56.2,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1302",
+    "gn:asciiname":"Puesto Laguna Ciervo",
+    "gn:country_code":"PY",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437270,
+    "gn:latitude":-22.38333,
+    "gn:longitude":-56.2,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puesto Laguna Ciervo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676701,
+        1108692443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437270
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e55f84356f4bdff58bcd782162649d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692443,
+            "locality_id":1343871367,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":1343871367,
+    "wof:lastmodified":1536650603,
+    "wof:name":"Puesto Laguna Ciervo",
+    "wof:parent_id":1108692443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.2,
+    -22.38333,
+    -56.2,
+    -22.38333
+],
+  "geometry": {"coordinates":[-56.2,-22.38333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225900257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.31667,-21.81667,-62.31667,-21.81667",
+    "geom:latitude":-21.81667,
+    "geom:longitude":-62.31667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Beatriz",
+    "gn:country_code":"PY",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867444,
+    "gn:latitude":-21.81667,
+    "gn:longitude":-62.31667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Beatriz",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867444
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"78df83fc18fbfe9131066b6a96b2d75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1225900257,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1225900257,
+    "wof:lastmodified":1536936027,
+    "wof:name":"Beatriz",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.31667,
+    -21.81667,
+    -62.31667,
+    -21.81667
+],
+  "geometry": {"coordinates":[-62.31667,-21.81667],"type":"Point"}
+}

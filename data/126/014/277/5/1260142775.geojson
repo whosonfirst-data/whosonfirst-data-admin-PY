@@ -1,0 +1,77 @@
+{
+  "id": 1260142775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.15832,-24.46157,-55.15832,-24.46157",
+    "geom:latitude":-24.46157,
+    "geom:longitude":-55.15832,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1412",
+    "gn:asciiname":"Colonia General Alejandro Fretes Davalos",
+    "gn:country_code":"PY",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439026,
+    "gn:latitude":-24.46157,
+    "gn:longitude":-55.15832,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia General Alejandro Fretes Davalos",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia General Alejandro Fretes Davalos"
+    ],
+    "name:spa_x_variant":[
+        "Colonia General Alejandro F. Davalos"
+    ],
+    "name:und_x_variant":[
+        "Colonia General de Divisi\u00f3n A. Fretes D\u00e1valos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676719,
+        1108692739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439026
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d08dc5c7b5a7f1426421c78695ea315b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692739,
+            "locality_id":1260142775,
+            "region_id":85676719
+        }
+    ],
+    "wof:id":1260142775,
+    "wof:lastmodified":1537683228,
+    "wof:name":"Colonia General Alejandro Fretes Davalos",
+    "wof:parent_id":1108692739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.15832,
+    -24.46157,
+    -55.15832,
+    -24.46157
+],
+  "geometry": {"coordinates":[-55.15832,-24.46157],"type":"Point"}
+}

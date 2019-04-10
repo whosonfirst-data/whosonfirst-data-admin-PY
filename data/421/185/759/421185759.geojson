@@ -1,0 +1,93 @@
+{
+  "id": 421185759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.25,-26.48333,-55.25,-26.48333",
+    "geom:latitude":-26.48333,
+    "geom:longitude":-55.25,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Tom\u00e1s Romero Pereira"
+    ],
+    "name:ita_x_preferred":[
+        "Tom\u00e1s Romero Pereira"
+    ],
+    "name:spa_x_preferred":[
+        "Tom\u00e1s Romero Pereira"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u99ac\u65af\u7f85\u6885\u7f85\u4f69\u96f7\u62c9"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439402,
+    "qs:gn_pop":5533,
+    "qs:name":"Arquitecto Tom\u00e1s Romero Pereira",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Itap\u00faa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1044709,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377309,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439402,
+        "gp:id":377309,
+        "qs:id":1044709,
+        "wd:id":"Q369121"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009453,
+    "wof:geomhash":"4ad58078e8a6f943ea07de865d1c2e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692681,
+            "locality_id":421185759,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":421185759,
+    "wof:lastmodified":1527726508,
+    "wof:name":"Arquitecto Tom\u00e1s Romero Pereira",
+    "wof:parent_id":1108692681,
+    "wof:placetype":"locality",
+    "wof:population":5533,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.25,
+    -26.48333,
+    -55.25,
+    -26.48333
+],
+  "geometry": {"coordinates":[-55.25,-26.48333],"type":"Point"}
+}

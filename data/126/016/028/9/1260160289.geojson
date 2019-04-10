@@ -1,0 +1,74 @@
+{
+  "id": 1260160289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.73093,-25.91151,-57.73093,-25.91151",
+    "geom:latitude":-25.91151,
+    "geom:longitude":-57.73093,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1215",
+    "gn:asciiname":"Estancia las Palmas",
+    "gn:country_code":"PY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438478,
+    "gn:latitude":-25.91151,
+    "gn:longitude":-57.73093,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia las Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia las Palmas"
+    ],
+    "name:und_x_variant":[
+        "Estancia Las Palmas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        1108692791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438478
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3441cb7efd7752983de8313cd2b1037a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692791,
+            "locality_id":1260160289,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":1260160289,
+    "wof:lastmodified":1537683217,
+    "wof:name":"Estancia las Palmas",
+    "wof:parent_id":1108692791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.73093000000001,
+    -25.91151,
+    -57.73093000000001,
+    -25.91151
+],
+  "geometry": {"coordinates":[-57.73093000000001,-25.91151],"type":"Point"}
+}

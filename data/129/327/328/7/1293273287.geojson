@@ -1,0 +1,71 @@
+{
+  "id": 1293273287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.19914,-27.06111,-56.19914,-27.06111",
+    "geom:latitude":-27.06111,
+    "geom:longitude":-56.19914,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0708",
+    "gn:asciiname":"Estancia Avarenga",
+    "gn:country_code":"PY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438671,
+    "gn:latitude":-27.06111,
+    "gn:longitude":-56.19914,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Avarenga",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Avarenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438671
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"13805b797f3a1acc3e3435d04abe00e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692473,
+            "locality_id":1293273287,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1293273287,
+    "wof:lastmodified":1537683221,
+    "wof:name":"Estancia Avarenga",
+    "wof:parent_id":1108692473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.19914,
+    -27.06111,
+    -56.19914,
+    -27.06111
+],
+  "geometry": {"coordinates":[-56.19914,-27.06111],"type":"Point"}
+}

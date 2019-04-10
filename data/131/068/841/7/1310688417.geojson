@@ -1,0 +1,71 @@
+{
+  "id": 1310688417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.66878,-26.48845,-57.66878,-26.48845",
+    "geom:latitude":-26.48845,
+    "geom:longitude":-57.66878,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Puesto San Carlos",
+    "gn:country_code":"PY",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437244,
+    "gn:latitude":-26.48845,
+    "gn:longitude":-57.66878,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puesto San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puesto San Carlos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676689,
+        421180931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437244
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"de79917a9e4738e15dc3f3ac8543e4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421180931,
+            "locality_id":1310688417,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":1310688417,
+    "wof:lastmodified":1537683200,
+    "wof:name":"Puesto San Carlos",
+    "wof:parent_id":421180931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.66878000000001,
+    -26.48845,
+    -57.66878000000001,
+    -26.48845
+],
+  "geometry": {"coordinates":[-57.66878000000001,-26.48845],"type":"Point"}
+}

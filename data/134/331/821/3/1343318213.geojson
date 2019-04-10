@@ -1,0 +1,73 @@
+{
+  "id": 1343318213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.9,-21.78333,-57.9,-21.78333",
+    "geom:latitude":-21.78333,
+    "geom:longitude":-57.9,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Puerto Tres Palmas",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437318,
+    "gn:latitude":-21.78333,
+    "gn:longitude":-57.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto Tres Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palma Chica",
+        "Puerto Palma Chica",
+        "Puerto Tres Palmas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        85681947,
+        102055307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437318
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a5e393ee8a21b05687379feb797f6f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055307,
+            "locality_id":1343318213,
+            "region_id":85681947
+        }
+    ],
+    "wof:id":1343318213,
+    "wof:lastmodified":1537683202,
+    "wof:name":"Puerto Tres Palmas",
+    "wof:parent_id":102055307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.9,
+    -21.78333,
+    -57.9,
+    -21.78333
+],
+  "geometry": {"coordinates":[-57.9,-21.78333],"type":"Point"}
+}

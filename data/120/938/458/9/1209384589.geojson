@@ -1,0 +1,62 @@
+{
+  "id": 1209384589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.11667,-24.8,-58.11667,-24.8",
+    "geom:latitude":-24.8,
+    "geom:longitude":-58.11667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1506",
+    "gn:asciiname":"Estancia Santa Aurelia",
+    "gn:country_code":"PY",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438253,
+    "gn:latitude":-24.8,
+    "gn:longitude":-58.11667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Santa Aurelia",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438253
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1f8d174e03508dcdf0f0acd30d94b7a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209384589
+        }
+    ],
+    "wof:id":1209384589,
+    "wof:lastmodified":1536288667,
+    "wof:name":"Estancia Santa Aurelia",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.11666999999999,
+    -24.8,
+    -58.11666999999999,
+    -24.8
+],
+  "geometry": {"coordinates":[-58.11666999999999,-24.8],"type":"Point"}
+}

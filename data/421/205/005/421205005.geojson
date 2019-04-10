@@ -1,0 +1,97 @@
+{
+  "id": 421205005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.23333,-26.71667,-56.23333,-26.71667",
+    "geom:latitude":-26.71667,
+    "geom:longitude":-56.23333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Jos\u00e9 Leandro Oviedo"
+    ],
+    "name:ita_x_preferred":[
+        "Jos\u00e9 Leandro Oviedo"
+    ],
+    "name:por_x_preferred":[
+        "Jos\u00e9 Leandro Oviedo"
+    ],
+    "name:spa_x_preferred":[
+        "Jos\u00e9 Leandro Oviedo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f55\u585e\u840a\u5b89\u5fb7\u7f85\u5967\u7dad\u8036\u591a"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437848,
+    "qs:gn_pop":309,
+    "qs:name":"Leandro Oviedo",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Itap\u00faa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":251787,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378481,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437848,
+        "gp:id":378481,
+        "qs:id":251787,
+        "wd:id":"Q431581",
+        "wk:page":"Leandro Oviedo"
+    },
+    "wof:country":"PY",
+    "wof:created":1459010209,
+    "wof:geomhash":"3dbcc02e428a319881389a1d90524673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692667,
+            "locality_id":421205005,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":421205005,
+    "wof:lastmodified":1527716221,
+    "wof:name":"Leandro Oviedo",
+    "wof:parent_id":1108692667,
+    "wof:placetype":"locality",
+    "wof:population":309,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.23333,
+    -26.71667,
+    -56.23333,
+    -26.71667
+],
+  "geometry": {"coordinates":[-56.23333,-26.71667],"type":"Point"}
+}

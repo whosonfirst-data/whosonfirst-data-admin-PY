@@ -1,0 +1,68 @@
+{
+  "id": 1259656199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.56667,-25.16667,-57.56667,-25.16667",
+    "geom:latitude":-25.16667,
+    "geom:longitude":-57.56667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"La Cautiva",
+    "gn:country_code":"PY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437869,
+    "gn:latitude":-25.16667,
+    "gn:longitude":-57.56667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"La Cautiva",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        421171367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437869
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d6ca0fb6dce1035fce87561ab7f011ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171367,
+            "locality_id":1259656199,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1259656199,
+    "wof:lastmodified":1536607177,
+    "wof:name":"La Cautiva",
+    "wof:parent_id":421171367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.56667,
+    -25.16667,
+    -57.56667,
+    -25.16667
+],
+  "geometry": {"coordinates":[-57.56667,-25.16667],"type":"Point"}
+}

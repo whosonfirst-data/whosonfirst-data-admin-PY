@@ -1,0 +1,68 @@
+{
+  "id": 1327302217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.45,-22.38333,-62.45,-22.38333",
+    "geom:latitude":-22.38333,
+    "geom:longitude":-62.45,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Mision Guarani",
+    "gn:country_code":"PY",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867224,
+    "gn:latitude":-22.38333,
+    "gn:longitude":-62.45,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Misi\u00f3n Guaran\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867224
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"29b35bf92210b211e765f7d006dd1f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1327302217,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1327302217,
+    "wof:lastmodified":1536867687,
+    "wof:name":"Mision Guarani",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.45,
+    -22.38333,
+    -62.45,
+    -22.38333
+],
+  "geometry": {"coordinates":[-62.45,-22.38333],"type":"Point"}
+}

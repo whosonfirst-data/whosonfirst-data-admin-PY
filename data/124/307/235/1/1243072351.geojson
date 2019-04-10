@@ -1,0 +1,71 @@
+{
+  "id": 1243072351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.25973,-26.21535,-56.25973,-26.21535",
+    "geom:latitude":-26.21535,
+    "geom:longitude":-56.25973,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0601",
+    "gn:asciiname":"Estancia Sarubi",
+    "gn:country_code":"PY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438211,
+    "gn:latitude":-26.21535,
+    "gn:longitude":-56.25973,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Sarub\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Sarub\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438211
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"6f113d577b10ee290a7e2fa5d155a3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692839,
+            "locality_id":1243072351,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":1243072351,
+    "wof:lastmodified":1537683212,
+    "wof:name":"Estancia Sarubi",
+    "wof:parent_id":1108692839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.25973000000001,
+    -26.21535,
+    -56.25973000000001,
+    -26.21535
+],
+  "geometry": {"coordinates":[-56.25973000000001,-26.21535],"type":"Point"}
+}

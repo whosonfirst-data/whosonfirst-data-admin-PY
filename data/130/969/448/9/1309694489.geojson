@@ -1,0 +1,68 @@
+{
+  "id": 1309694489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.65333,-23.56917,-57.65333,-23.56917",
+    "geom:latitude":-23.56917,
+    "geom:longitude":-57.65333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Estancia Yetyty",
+    "gn:country_code":"PY",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438138,
+    "gn:latitude":-23.56917,
+    "gn:longitude":-57.65333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Yetyty",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        421171367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438138
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"b9c9e04177aaaeb7b10189ed3272c120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171367,
+            "locality_id":1309694489,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1309694489,
+    "wof:lastmodified":1537088425,
+    "wof:name":"Estancia Yetyty",
+    "wof:parent_id":421171367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.65333,
+    -23.56917,
+    -57.65333,
+    -23.56917
+],
+  "geometry": {"coordinates":[-57.65333,-23.56917],"type":"Point"}
+}

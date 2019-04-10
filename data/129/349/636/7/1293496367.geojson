@@ -1,0 +1,73 @@
+{
+  "id": 1293496367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.9,-23.65,-55.9,-23.65",
+    "geom:latitude":-23.65,
+    "geom:longitude":-55.9,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1303",
+    "gn:asciiname":"Panadero",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437607,
+    "gn:latitude":-23.65,
+    "gn:longitude":-55.9,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Panadero",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canandero",
+        "Panadero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676701,
+        1108692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437607
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"bd88022ffee6acf61f7190f9a44d466f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692445,
+            "locality_id":1293496367,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":1293496367,
+    "wof:lastmodified":1537683206,
+    "wof:name":"Panadero",
+    "wof:parent_id":1108692445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.9,
+    -23.65,
+    -55.9,
+    -23.65
+],
+  "geometry": {"coordinates":[-55.9,-23.65],"type":"Point"}
+}

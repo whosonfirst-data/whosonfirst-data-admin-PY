@@ -1,0 +1,74 @@
+{
+  "id": 1293396163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.79512,-25.55658,-56.79512,-25.55658",
+    "geom:latitude":-25.55658,
+    "geom:longitude":-56.79512,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0510",
+    "gn:asciiname":"San Antonio de la Cordillera",
+    "gn:country_code":"PY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437125,
+    "gn:latitude":-25.55658,
+    "gn:longitude":-56.79512,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"San Antonio de la Cordillera",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Antonio de la Cordillera"
+    ],
+    "name:und_x_variant":[
+        "San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437125
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"be8da38e354b968c4e96b965b6413864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692641,
+            "locality_id":1293396163,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1293396163,
+    "wof:lastmodified":1537683198,
+    "wof:name":"San Antonio de la Cordillera",
+    "wof:parent_id":1108692641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.79512,
+    -25.55658,
+    -56.79512,
+    -25.55658
+],
+  "geometry": {"coordinates":[-56.79512,-25.55658],"type":"Point"}
+}

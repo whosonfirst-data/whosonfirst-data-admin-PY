@@ -1,0 +1,68 @@
+{
+  "id": 1310061563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.96667,-22.21667,-59.96667,-22.21667",
+    "geom:latitude":-22.21667,
+    "geom:longitude":-59.96667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1604",
+    "gn:asciiname":"Potrero Palmas",
+    "gn:country_code":"PY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437461,
+    "gn:latitude":-22.21667,
+    "gn:longitude":-59.96667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Potrero Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        1108692879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437461
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d63cfcc891ee665b74d066dcbe0019a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692879,
+            "locality_id":1310061563,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1310061563,
+    "wof:lastmodified":1537057473,
+    "wof:name":"Potrero Palmas",
+    "wof:parent_id":1108692879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.96666999999999,
+    -22.21667,
+    -59.96666999999999,
+    -22.21667
+],
+  "geometry": {"coordinates":[-59.96666999999999,-22.21667],"type":"Point"}
+}

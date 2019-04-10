@@ -1,0 +1,81 @@
+{
+  "id": 1125899201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.91667,-25.95,-55.91667,-25.95",
+    "geom:latitude":-25.95,
+    "geom:longitude":-55.91667,
+    "gn:gn_country":"PY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1399,
+    "gn:population":1399,
+    "iso:country":"PY",
+    "lbl:latitude":-25.95,
+    "lbl:longitude":-55.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Colonia General Mor\u00ednigo"
+    ],
+    "qs_pg:aaroncc":"PY",
+    "qs_pg:gn_country":"PY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3438066,
+    "qs_pg:gn_pop":1399,
+    "qs_pg:name":"General Higinio Mor\u00ednigo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1044681,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438066,
+        "qs_pg:id":1044681
+    },
+    "wof:country":"PY",
+    "wof:created":1497295731,
+    "wof:geomhash":"22a1c202cdfb3e89dc1aeb80207b2cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692841,
+            "locality_id":1125899201,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":1125899201,
+    "wof:lastmodified":1509399298,
+    "wof:name":"General Higinio Mor\u00ednigo",
+    "wof:parent_id":1108692841,
+    "wof:placetype":"locality",
+    "wof:population":1399,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.91667,
+    -25.95,
+    -55.91667,
+    -25.95
+],
+  "geometry": {"coordinates":[-55.91667,-25.95],"type":"Point"}
+}

@@ -1,0 +1,140 @@
+{
+  "id": 421185887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.449642,-25.784469,-56.449642,-25.784469",
+    "geom:latitude":-25.784469,
+    "geom:longitude":-56.449642,
+    "gn:country":"PY",
+    "gn:fcode":"PPLA",
+    "gn:pop":41157,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u043b\u044c\u044f\u0440\u044b\u043a\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Villarrica"
+    ],
+    "name:eng_x_preferred":[
+        "Villarrica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0627\u0631\u06cc\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Villarrica"
+    ],
+    "name:grn_x_preferred":[
+        "Villarrika"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d8\u10d0\u10e0\u10d8\u10d9\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc57c\ub9ac\uce74"
+    ],
+    "name:lit_x_preferred":[
+        "Viljarika"
+    ],
+    "name:nld_x_preferred":[
+        "Villarrica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f\u0440\u0440\u0438\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Villarrica"
+    ],
+    "name:tur_x_preferred":[
+        "Villarrica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f\u0440\u0440\u0456\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Villarrica del Esp\u00edritu Santo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0627\u0631\u06cc\u06a9\u0627\u060c \u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u4e9a\u91cc\u5361"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Villarrica",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Guair\u00e1",
+    "qs:photos":131,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":131,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1054183,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379194,
+    "src:geom":"quattroshapes",
+    "src:population":"geonames",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676685,
+        421173301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436714,
+        "gp:id":379194,
+        "qs:id":1054183,
+        "wk:page":"Villarrica"
+    },
+    "wof:concordances_alt":{
+        "qs:id":1044646
+    },
+    "wof:country":"PY",
+    "wof:created":1459009457,
+    "wof:geomhash":"779723ccb251c635dd2a1ca70555e426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421173301,
+            "locality_id":421185887,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":421185887,
+    "wof:lastmodified":1534379450,
+    "wof:name":"Villarrica",
+    "wof:parent_id":421173301,
+    "wof:placetype":"locality",
+    "wof:population":41157,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890444631
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.449642,
+    -25.784469,
+    -56.449642,
+    -25.784469
+],
+  "geometry": {"coordinates":[-56.449642,-25.784469],"type":"Point"}
+}

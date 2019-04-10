@@ -1,0 +1,74 @@
+{
+  "id": 1242700523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.56667,-26.46667,-56.56667,-26.46667",
+    "geom:latitude":-26.46667,
+    "geom:longitude":-56.56667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0604",
+    "gn:asciiname":"Estancia Sapira",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438213,
+    "gn:latitude":-26.46667,
+    "gn:longitude":-56.56667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Sapira",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sapir\u00e1",
+        "Estancia Sapiro",
+        "Estancia Sapira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438213
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"fce81e1e241da48cb0b1afeabf7fdcc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692845,
+            "locality_id":1242700523,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":1242700523,
+    "wof:lastmodified":1537683212,
+    "wof:name":"Estancia Sapira",
+    "wof:parent_id":1108692845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.56667,
+    -26.46667,
+    -56.56667,
+    -26.46667
+],
+  "geometry": {"coordinates":[-56.56667,-26.46667],"type":"Point"}
+}

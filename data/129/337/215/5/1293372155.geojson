@@ -1,0 +1,74 @@
+{
+  "id": 1293372155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.13333,-24.4,-58.13333,-24.4",
+    "geom:latitude":-24.4,
+    "geom:longitude":-58.13333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1502",
+    "gn:asciiname":"Estancia Felicidad",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438556,
+    "gn:latitude":-24.4,
+    "gn:longitude":-58.13333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Felicidad",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Felicita",
+        "Felicidad",
+        "Estancia Felicidad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        421171779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438556
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c3369915ec0dcd35abdaf497d842c467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171779,
+            "locality_id":1293372155,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1293372155,
+    "wof:lastmodified":1537683219,
+    "wof:name":"Estancia Felicidad",
+    "wof:parent_id":421171779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.13333000000001,
+    -24.4,
+    -58.13333000000001,
+    -24.4
+],
+  "geometry": {"coordinates":[-58.13333000000001,-24.4],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293939637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.85,-19.68333,-60.85,-19.68333",
+    "geom:latitude":-19.68333,
+    "geom:longitude":-60.85,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1704",
+    "gn:asciiname":"Colonia Sierra Leon",
+    "gn:country_code":"PY",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867409,
+    "gn:latitude":-19.68333,
+    "gn:longitude":-60.85,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Sierra Le\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676655,
+        1108692779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867409
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"35e0ac2d364510c396ee80cc8ed460ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692779,
+            "locality_id":1293939637,
+            "region_id":85676655
+        }
+    ],
+    "wof:id":1293939637,
+    "wof:lastmodified":1536630995,
+    "wof:name":"Colonia Sierra Leon",
+    "wof:parent_id":1108692779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.85,
+    -19.68333,
+    -60.85,
+    -19.68333
+],
+  "geometry": {"coordinates":[-60.85,-19.68333],"type":"Point"}
+}

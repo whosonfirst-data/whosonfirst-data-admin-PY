@@ -1,0 +1,73 @@
+{
+  "id": 1309887971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.2,-23.95,-57.2,-23.95",
+    "geom:latitude":-23.95,
+    "geom:longitude":-57.2,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Puesto Monte Lindo",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437259,
+    "gn:latitude":-23.95,
+    "gn:longitude":-57.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puesto Monte Lindo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Montelindo",
+        "Monte Lindo",
+        "Puesto Monte Lindo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437259
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"606863585d7cc4a88b2087d45ec57540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692763,
+            "locality_id":1309887971,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1309887971,
+    "wof:lastmodified":1537683200,
+    "wof:name":"Puesto Monte Lindo",
+    "wof:parent_id":1108692763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.2,
+    -23.95,
+    -57.2,
+    -23.95
+],
+  "geometry": {"coordinates":[-57.2,-23.95],"type":"Point"}
+}

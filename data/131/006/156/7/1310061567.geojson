@@ -1,0 +1,67 @@
+{
+  "id": 1310061567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.9,-23.08333,-61.9,-23.08333",
+    "geom:latitude":-23.08333,
+    "geom:longitude":-61.9,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Perez",
+    "gn:country_code":"PY",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867198,
+    "gn:latitude":-23.08333,
+    "gn:longitude":-61.9,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"P\u00e9rez",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867198
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d697345af9196fcc7f8a3b8dde02753a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718275,
+            "locality_id":1310061567,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1310061567,
+    "wof:lastmodified":1537057467,
+    "wof:name":"Perez",
+    "wof:parent_id":1108718275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.9,
+    -23.08333,
+    -61.9,
+    -23.08333
+],
+  "geometry": {"coordinates":[-61.9,-23.08333],"type":"Point"}
+}

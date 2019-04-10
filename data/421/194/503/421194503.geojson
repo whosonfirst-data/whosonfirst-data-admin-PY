@@ -1,0 +1,81 @@
+{
+  "id": 421194503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.18333,-25.96667,-55.18333,-25.96667",
+    "geom:latitude":-25.96667,
+    "geom:longitude":-55.18333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437689,
+    "qs:gn_pop":2151,
+    "qs:name":"Naranjal",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Alto Paran\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1207096,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378562,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        1108692565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437689,
+        "gp:id":378562,
+        "qs:id":1207096,
+        "wd:id":"Q748292",
+        "wk:page":"Naranjal District"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009808,
+    "wof:geomhash":"a07d79a17515f38b63567a9e9e4d3882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692565,
+            "locality_id":421194503,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":421194503,
+    "wof:lastmodified":1505340741,
+    "wof:name":"Naranjal",
+    "wof:parent_id":1108692565,
+    "wof:placetype":"locality",
+    "wof:population":2151,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.18333,
+    -25.96667,
+    -55.18333,
+    -25.96667
+],
+  "geometry": {"coordinates":[-55.18333,-25.96667],"type":"Point"}
+}

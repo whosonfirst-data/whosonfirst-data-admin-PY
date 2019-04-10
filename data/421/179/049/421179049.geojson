@@ -1,0 +1,93 @@
+{
+  "id": 421179049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.96667,-27.3,-55.96667,-27.3",
+    "geom:latitude":-27.3,
+    "geom:longitude":-55.96667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "San Juan del Paran\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "San Juan del Paran\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan del Paran\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u723e\u5e15\u62c9\u7d0d"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437062,
+    "qs:gn_pop":1492,
+    "qs:name":"San Juan del Paran\u00e1",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Itap\u00faa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":147,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":147808,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378984,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437062,
+        "gp:id":378984,
+        "qs:id":147808,
+        "wd:id":"Q1984960",
+        "wk:page":"San Juan del Paran\u00e1"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009202,
+    "wof:geomhash":"93c2a750b03fdfad22e1b38a79880e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692687,
+            "locality_id":421179049,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":421179049,
+    "wof:lastmodified":1505340640,
+    "wof:name":"San Juan del Paran\u00e1",
+    "wof:parent_id":1108692687,
+    "wof:placetype":"locality",
+    "wof:population":1492,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.96667,
+    -27.3,
+    -55.96667,
+    -27.3
+],
+  "geometry": {"coordinates":[-55.96667,-27.3],"type":"Point"}
+}

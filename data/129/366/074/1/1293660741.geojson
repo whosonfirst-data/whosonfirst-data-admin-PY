@@ -1,0 +1,71 @@
+{
+  "id": 1293660741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.72976,-24.64249,-56.72976,-24.64249",
+    "geom:latitude":-24.64249,
+    "geom:longitude":-56.72976,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Colonia Friesland",
+    "gn:country_code":"PY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3439038,
+    "gn:latitude":-24.64249,
+    "gn:longitude":-56.72976,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Friesland",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Friesland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439038
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"44b6b4bd5e27bf353cfa5913b5c4acd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692771,
+            "locality_id":1293660741,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1293660741,
+    "wof:lastmodified":1537683228,
+    "wof:name":"Colonia Friesland",
+    "wof:parent_id":1108692771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.72976,
+    -24.64249,
+    -56.72976,
+    -24.64249
+],
+  "geometry": {"coordinates":[-56.72976,-24.64249],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327122345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.75533,-27.43846,-55.75533,-27.43846",
+    "geom:latitude":-27.43846,
+    "geom:longitude":-55.75533,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0703",
+    "gn:asciiname":"Puerto Campichuelo",
+    "gn:country_code":"PY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439245,
+    "gn:latitude":-27.43846,
+    "gn:longitude":-55.75533,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Campichuelo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Campichuelo"
+    ],
+    "name:und_x_variant":[
+        "Campichuelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439245
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f6e9a31668d43a6bdd82bc9435610799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692865,
+            "locality_id":1327122345,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1327122345,
+    "wof:lastmodified":1537683231,
+    "wof:name":"Puerto Campichuelo",
+    "wof:parent_id":1108692865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.75533000000001,
+    -27.43846,
+    -55.75533000000001,
+    -27.43846
+],
+  "geometry": {"coordinates":[-55.75533000000001,-27.43846],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277032541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.9,-23.06667,-61.9,-23.06667",
+    "geom:latitude":-23.06667,
+    "geom:longitude":-61.9,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Tronquito",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867061,
+    "gn:latitude":-23.06667,
+    "gn:longitude":-61.9,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Tronquito",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tranquita",
+        "Tronquito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867061
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"dadf0d17b890d8e435e9b193256f18f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1277032541,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1277032541,
+    "wof:lastmodified":1537683233,
+    "wof:name":"Tronquito",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.9,
+    -23.06667,
+    -61.9,
+    -23.06667
+],
+  "geometry": {"coordinates":[-61.9,-23.06667],"type":"Point"}
+}

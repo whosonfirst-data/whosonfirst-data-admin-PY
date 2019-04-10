@@ -1,0 +1,87 @@
+{
+  "id": 421180675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.81667,-22.36667,-59.81667,-22.36667",
+    "geom:latitude":-22.36667,
+    "geom:longitude":-59.81667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Menno Colony"
+    ],
+    "name:eng_x_preferred":[
+        "Menno Colony"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438981,
+    "qs:gn_pop":5615,
+    "qs:name":"Colonia Menno",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Boquer\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1207079,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377554,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        1108692881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438981,
+        "gp:id":377554,
+        "qs:id":1207079,
+        "wd:id":"Q6817183",
+        "wk:page":"Menno Colony"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009267,
+    "wof:geomhash":"a2d48eaa5d48c3b4fdd10a04beb6e711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692881,
+            "locality_id":421180675,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":421180675,
+    "wof:lastmodified":1514498741,
+    "wof:name":"Colonia Menno",
+    "wof:parent_id":1108692881,
+    "wof:placetype":"locality",
+    "wof:population":5615,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.81667,
+    -22.36667,
+    -59.81667,
+    -22.36667
+],
+  "geometry": {"coordinates":[-59.81667,-22.36667],"type":"Point"}
+}

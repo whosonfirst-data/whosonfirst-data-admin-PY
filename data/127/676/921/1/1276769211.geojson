@@ -1,0 +1,71 @@
+{
+  "id": 1276769211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.30621,-25.4327,-56.30621,-25.4327",
+    "geom:latitude":-25.4327,
+    "geom:longitude":-56.30621,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0501",
+    "gn:asciiname":"Colonia Mburupy",
+    "gn:country_code":"PY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3438984,
+    "gn:latitude":-25.4327,
+    "gn:longitude":-56.30621,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Mburupy",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Mburupy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        421184207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438984
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"efecf85c180d47f3f58d1aa7b1dafccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184207,
+            "locality_id":1276769211,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1276769211,
+    "wof:lastmodified":1537683227,
+    "wof:name":"Colonia Mburupy",
+    "wof:parent_id":421184207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.30621,
+    -25.4327,
+    -56.30621,
+    -25.4327
+],
+  "geometry": {"coordinates":[-56.30621,-25.4327],"type":"Point"}
+}

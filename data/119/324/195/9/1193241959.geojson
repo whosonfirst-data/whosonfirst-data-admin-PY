@@ -1,0 +1,74 @@
+{
+  "id": 1193241959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.51917,-23.82751,-56.51917,-23.82751",
+    "geom:latitude":-23.82751,
+    "geom:longitude":-56.51917,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0218",
+    "gn:asciiname":"Colonia Santa Rosa",
+    "gn:country_code":"PY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436962,
+    "gn:latitude":-23.82751,
+    "gn:longitude":-56.51917,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Santa Rosa"
+    ],
+    "name:und_x_variant":[
+        "Santa Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436962
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"2e3c10e97b12b2d8ae3a329609567c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692493,
+            "locality_id":1193241959,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1193241959,
+    "wof:lastmodified":1537683197,
+    "wof:name":"Colonia Santa Rosa",
+    "wof:parent_id":1108692493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.51917,
+    -23.82751,
+    -56.51917,
+    -23.82751
+],
+  "geometry": {"coordinates":[-56.51917,-23.82751],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243433609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.22856,-27.14596,-58.22856,-27.14596",
+    "geom:latitude":-27.14596,
+    "geom:longitude":-58.22856,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1210",
+    "gn:asciiname":"Mayor Martinez",
+    "gn:country_code":"PY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437782,
+    "gn:latitude":-27.14596,
+    "gn:longitude":-58.22856,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Mayor Mart\u00ednez",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mayor Mart\u00ednez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        1108692807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437782
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"dedf2942b3cc5db81776a506ed7aff85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692807,
+            "locality_id":1243433609,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":1243433609,
+    "wof:lastmodified":1537683207,
+    "wof:name":"Mayor Martinez",
+    "wof:parent_id":1108692807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.22856,
+    -27.14596,
+    -58.22856,
+    -27.14596
+],
+  "geometry": {"coordinates":[-58.22856,-27.14596],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225813569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65,-23.11667,-61.65,-23.11667",
+    "geom:latitude":-23.11667,
+    "geom:longitude":-61.65,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Tres Pozos",
+    "gn:country_code":"PY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867064,
+    "gn:latitude":-23.11667,
+    "gn:longitude":-61.65,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Tres Pozos",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867064
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"994ec9250150b4ea04b4cb35f4098e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1225813569,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1225813569,
+    "wof:lastmodified":1537057670,
+    "wof:name":"Tres Pozos",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65,
+    -23.11667000000001,
+    -61.65,
+    -23.11667000000001
+],
+  "geometry": {"coordinates":[-61.65,-23.11667000000001],"type":"Point"}
+}

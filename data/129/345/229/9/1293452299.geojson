@@ -1,0 +1,71 @@
+{
+  "id": 1293452299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.6034,-24.19983,-54.6034,-24.19983",
+    "geom:latitude":-24.19983,
+    "geom:longitude":-54.6034,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1409",
+    "gn:asciiname":"Mbaracayu",
+    "gn:country_code":"PY",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437777,
+    "gn:latitude":-24.19983,
+    "gn:longitude":-54.6034,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Mbaracay\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mbaracay\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676719,
+        1108692467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437777
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"00d13d8db3046df2afaab1a010a9c57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692467,
+            "locality_id":1293452299,
+            "region_id":85676719
+        }
+    ],
+    "wof:id":1293452299,
+    "wof:lastmodified":1537683207,
+    "wof:name":"Mbaracayu",
+    "wof:parent_id":1108692467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.6034,
+    -24.19983,
+    -54.6034,
+    -24.19983
+],
+  "geometry": {"coordinates":[-54.6034,-24.19983],"type":"Point"}
+}

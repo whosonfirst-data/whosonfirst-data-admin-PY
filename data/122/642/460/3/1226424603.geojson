@@ -1,0 +1,73 @@
+{
+  "id": 1226424603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.53333,-22.81667,-58.53333,-22.81667",
+    "geom:latitude":-22.81667,
+    "geom:longitude":-58.53333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1503",
+    "gn:asciiname":"Puesto Gonzalez",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437274,
+    "gn:latitude":-22.81667,
+    "gn:longitude":-58.53333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puesto Gonz\u00e1lez",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Retiro Gonz\u00e1lez",
+        "Puesto Gonz\u00e1lez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        1108692741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437274
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"928d7aeb539fab7f73b4635f1c13486b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692741,
+            "locality_id":1226424603,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1226424603,
+    "wof:lastmodified":1537683200,
+    "wof:name":"Puesto Gonzalez",
+    "wof:parent_id":1108692741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.53333000000001,
+    -22.81667,
+    -58.53333000000001,
+    -22.81667
+],
+  "geometry": {"coordinates":[-58.53333000000001,-22.81667],"type":"Point"}
+}

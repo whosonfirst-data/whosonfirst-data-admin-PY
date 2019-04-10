@@ -1,0 +1,96 @@
+{
+  "id": 421196593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.31667,-25.95,-56.31667,-25.95",
+    "geom:latitude":-25.95,
+    "geom:longitude":-56.31667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:grn_x_preferred":[
+        "\u00d1umi"
+    ],
+    "name:ita_x_preferred":[
+        "\u00d1um\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "\u00d1um\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "\u00d1um\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d10\u7c73"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437647,
+    "qs:gn_pop":864,
+    "qs:name":"\u00d1um\u00ed",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Guair\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1207101,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378577,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":658,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676685,
+        1108692609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437647,
+        "gp:id":378577,
+        "qs:id":1207101,
+        "wd:id":"Q2410962"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009886,
+    "wof:geomhash":"04ef260eee3b9f41d55a5581f376c466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692609,
+            "locality_id":421196593,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":421196593,
+    "wof:lastmodified":1527716360,
+    "wof:name":"\u00d1um\u00ed",
+    "wof:parent_id":1108692609,
+    "wof:placetype":"locality",
+    "wof:population":864,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.31667,
+    -25.95,
+    -56.31667,
+    -25.95
+],
+  "geometry": {"coordinates":[-56.31667,-25.95],"type":"Point"}
+}

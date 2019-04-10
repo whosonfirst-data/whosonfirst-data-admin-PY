@@ -1,0 +1,97 @@
+{
+  "id": 421168387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.96667,-26.1,-55.96667,-26.1",
+    "geom:latitude":-26.1,
+    "geom:longitude":-55.96667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:por_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:ron_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5b89\u5167\u6ce2\u7a46\u585e\u8afe"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437059,
+    "qs:gn_pop":7893,
+    "qs:name":"San Juan Nepomuceno",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Caazap\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1044659,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379265,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":138,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437059,
+        "gp:id":379265,
+        "qs:id":1044659,
+        "wd:id":"Q2439360",
+        "wk:page":"San Juan Nepomuceno, Paraguay"
+    },
+    "wof:country":"PY",
+    "wof:created":1459008763,
+    "wof:geomhash":"c395402423df0277781721f997f7f5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692851,
+            "locality_id":421168387,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":421168387,
+    "wof:lastmodified":1527716100,
+    "wof:name":"San Juan Nepomuceno",
+    "wof:parent_id":1108692851,
+    "wof:placetype":"locality",
+    "wof:population":7893,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.96667,
+    -26.1,
+    -55.96667,
+    -26.1
+],
+  "geometry": {"coordinates":[-55.96667,-26.1],"type":"Point"}
+}

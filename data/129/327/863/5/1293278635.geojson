@@ -1,0 +1,67 @@
+{
+  "id": 1293278635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.18333,-27.1,-57.18333,-27.1",
+    "geom:latitude":-27.1,
+    "geom:longitude":-57.18333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Platero",
+    "gn:country_code":"PY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437481,
+    "gn:latitude":-27.1,
+    "gn:longitude":-57.18333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Platero",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676689,
+        421170017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437481
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"b6fefe6c16e0054ca47fa5ed85c3bd81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170017,
+            "locality_id":1293278635,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":1293278635,
+    "wof:lastmodified":1537084972,
+    "wof:name":"Platero",
+    "wof:parent_id":421170017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.18333000000001,
+    -27.1,
+    -57.18333000000001,
+    -27.1
+],
+  "geometry": {"coordinates":[-57.18333000000001,-27.1],"type":"Point"}
+}

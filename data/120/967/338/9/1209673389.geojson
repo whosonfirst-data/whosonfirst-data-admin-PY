@@ -1,0 +1,67 @@
+{
+  "id": 1209673389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.5,-22.63333,-60.5,-22.63333",
+    "geom:latitude":-22.63333,
+    "geom:longitude":-60.5,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Teniente Lugo Chilaver",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867083,
+    "gn:latitude":-22.63333,
+    "gn:longitude":-60.5,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Teniente Lugo Chilaver",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pozo Colorado",
+        "Teniente Lugo Chilaver"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867083
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a67b1f6b11927c15b5a2f8673a50f4ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209673389
+        }
+    ],
+    "wof:id":1209673389,
+    "wof:lastmodified":1537683233,
+    "wof:name":"Teniente Lugo Chilaver",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.5,
+    -22.63333,
+    -60.5,
+    -22.63333
+],
+  "geometry": {"coordinates":[-60.5,-22.63333],"type":"Point"}
+}

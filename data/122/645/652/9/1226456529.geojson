@@ -1,0 +1,73 @@
+{
+  "id": 1226456529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.23333,-25.5,-55.23333,-25.5",
+    "geom:latitude":-25.5,
+    "geom:longitude":-55.23333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1004",
+    "gn:asciiname":"Puerto Venecia",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437312,
+    "gn:latitude":-25.5,
+    "gn:longitude":-55.23333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Venecia",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Venicia",
+        "Puerto Venecia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        1108692551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437312
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7fcaafac6eeb7e1fa4f597e17f607b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692551,
+            "locality_id":1226456529,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1226456529,
+    "wof:lastmodified":1537683201,
+    "wof:name":"Puerto Venecia",
+    "wof:parent_id":1108692551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.23333,
+    -25.5,
+    -55.23333,
+    -25.5
+],
+  "geometry": {"coordinates":[-55.23333,-25.5],"type":"Point"}
+}

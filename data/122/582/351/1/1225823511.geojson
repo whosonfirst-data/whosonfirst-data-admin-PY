@@ -1,0 +1,63 @@
+{
+  "id": 1225823511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.8,-26.56667,-54.8,-26.56667",
+    "geom:latitude":-26.56667,
+    "geom:longitude":-54.8,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Puerto San Jose",
+    "gn:country_code":"PY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437337,
+    "gn:latitude":-26.56667,
+    "gn:longitude":-54.8,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Puerto San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437337
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"87cfcc17ec3ff26e3122ecb651a2434d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1225823511,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225823511,
+    "wof:lastmodified":1537043976,
+    "wof:name":"Puerto San Jose",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.8,
+    -26.56667,
+    -54.8,
+    -26.56667
+],
+  "geometry": {"coordinates":[-54.8,-26.56667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293203807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.78333,-22.81667,-55.78333,-22.81667",
+    "geom:latitude":-22.81667,
+    "geom:longitude":-55.78333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1301",
+    "gn:asciiname":"Colonia Yby Yu",
+    "gn:country_code":"PY",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438875,
+    "gn:latitude":-22.81667,
+    "gn:longitude":-55.78333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Yby Yu",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676701,
+        421170059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438875
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e921519d4bd9798c5240c152c6727303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170059,
+            "locality_id":1293203807,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":1293203807,
+    "wof:lastmodified":1536699286,
+    "wof:name":"Colonia Yby Yu",
+    "wof:parent_id":421170059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.78333000000001,
+    -22.81667,
+    -55.78333000000001,
+    -22.81667
+],
+  "geometry": {"coordinates":[-55.78333000000001,-22.81667],"type":"Point"}
+}

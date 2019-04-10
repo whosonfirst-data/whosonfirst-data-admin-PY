@@ -1,0 +1,71 @@
+{
+  "id": 1276859737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.31073,-26.30767,-55.31073,-26.30767",
+    "geom:latitude":-26.30767,
+    "geom:longitude":-55.31073,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0721",
+    "gn:asciiname":"Pelanca",
+    "gn:country_code":"PY",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3437540,
+    "gn:latitude":-26.30767,
+    "gn:longitude":-55.31073,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Pelanca",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pelanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437540
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"0b39a946a768181a526322147b8b2499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692677,
+            "locality_id":1276859737,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1276859737,
+    "wof:lastmodified":1537683205,
+    "wof:name":"Pelanca",
+    "wof:parent_id":1108692677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.31073000000001,
+    -26.30767,
+    -55.31073000000001,
+    -26.30767
+],
+  "geometry": {"coordinates":[-55.31073000000001,-26.30767],"type":"Point"}
+}

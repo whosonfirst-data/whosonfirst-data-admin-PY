@@ -1,0 +1,68 @@
+{
+  "id": 1327137551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.83333,-22.61667,-55.83333,-22.61667",
+    "geom:latitude":-22.61667,
+    "geom:longitude":-55.83333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1301",
+    "gn:asciiname":"Yby-Pe",
+    "gn:country_code":"PY",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436637,
+    "gn:latitude":-22.61667,
+    "gn:longitude":-55.83333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Yby-Pe",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676701,
+        421170059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436637
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"ca0136ced9c24d08eed6f57093dd65ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170059,
+            "locality_id":1327137551,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":1327137551,
+    "wof:lastmodified":1536605686,
+    "wof:name":"Yby-Pe",
+    "wof:parent_id":421170059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.83333,
+    -22.61667000000001,
+    -55.83333,
+    -22.61667000000001
+],
+  "geometry": {"coordinates":[-55.83333,-22.61667000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209974659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.43333,-23.5,-60.43333,-23.5",
+    "geom:latitude":-23.5,
+    "geom:longitude":-60.43333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Ganadera",
+    "gn:country_code":"PY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867287,
+    "gn:latitude":-23.5,
+    "gn:longitude":-60.43333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Ganadera",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867287
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f48546711f09ba18ae84131595d5fd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1209974659,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1209974659,
+    "wof:lastmodified":1536393474,
+    "wof:name":"Ganadera",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.43333000000001,
+    -23.5,
+    -60.43333000000001,
+    -23.5
+],
+  "geometry": {"coordinates":[-60.43333000000001,-23.5],"type":"Point"}
+}

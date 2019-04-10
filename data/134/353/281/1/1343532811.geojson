@@ -1,0 +1,68 @@
+{
+  "id": 1343532811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.13333,-23.86667,-56.13333,-23.86667",
+    "geom:latitude":-23.86667,
+    "geom:longitude":-56.13333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0218",
+    "gn:asciiname":"Estancia Rio Verde",
+    "gn:country_code":"PY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438340,
+    "gn:latitude":-23.86667,
+    "gn:longitude":-56.13333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Rio Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438340
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"067e731d56ca6bed24fd22cc2e06c226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692493,
+            "locality_id":1343532811,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1343532811,
+    "wof:lastmodified":1536641075,
+    "wof:name":"Estancia Rio Verde",
+    "wof:parent_id":1108692493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.13333000000001,
+    -23.86667000000001,
+    -56.13333000000001,
+    -23.86667000000001
+],
+  "geometry": {"coordinates":[-56.13333000000001,-23.86667000000001],"type":"Point"}
+}

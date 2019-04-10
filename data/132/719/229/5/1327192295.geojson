@@ -1,0 +1,68 @@
+{
+  "id": 1327192295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.2,-20.2,-58.2,-20.2",
+    "geom:latitude":-20.2,
+    "geom:longitude":-58.2,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1704",
+    "gn:asciiname":"Puerto Caballo",
+    "gn:country_code":"PY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437416,
+    "gn:latitude":-20.2,
+    "gn:longitude":-58.2,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Caballo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676655,
+        1108692779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437416
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d418e13971f2dafa3ffb9e96fd271e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692779,
+            "locality_id":1327192295,
+            "region_id":85676655
+        }
+    ],
+    "wof:id":1327192295,
+    "wof:lastmodified":1537026452,
+    "wof:name":"Puerto Caballo",
+    "wof:parent_id":1108692779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.2,
+    -20.2,
+    -58.2,
+    -20.2
+],
+  "geometry": {"coordinates":[-58.2,-20.2],"type":"Point"}
+}

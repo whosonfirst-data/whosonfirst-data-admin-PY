@@ -1,0 +1,100 @@
+{
+  "id": 421205009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.91667,-27.15,-57.91667,-27.15",
+    "geom:latitude":-27.15,
+    "geom:longitude":-57.91667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u043b\u0430\u043b\u0431\u0438\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Villalb\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Villalb\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Villalb\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "Villalb\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Villalb\u00edn"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436723,
+    "qs:gn_pop":375,
+    "qs:name":"Villalbin",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"\u00d1eembuc\u00fa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":251790,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379144,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        1108692877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436723,
+        "gp:id":379144,
+        "qs:id":251790,
+        "wd:id":"Q4012866",
+        "wk:page":"Villalb\u00edn"
+    },
+    "wof:country":"PY",
+    "wof:created":1459010209,
+    "wof:geomhash":"62754bd25156722c61927195406db004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692877,
+            "locality_id":421205009,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":421205009,
+    "wof:lastmodified":1527716216,
+    "wof:name":"Villalbin",
+    "wof:parent_id":1108692877,
+    "wof:placetype":"locality",
+    "wof:population":375,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.91667,
+    -27.15,
+    -57.91667,
+    -27.15
+],
+  "geometry": {"coordinates":[-57.91667,-27.15],"type":"Point"}
+}

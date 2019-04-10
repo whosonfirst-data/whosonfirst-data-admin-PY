@@ -1,0 +1,62 @@
+{
+  "id": 1209585403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.01667,-24.18333,-58.01667,-24.18333",
+    "geom:latitude":-24.18333,
+    "geom:longitude":-58.01667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1502",
+    "gn:asciiname":"Puesto Luis",
+    "gn:country_code":"PY",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437263,
+    "gn:latitude":-24.18333,
+    "gn:longitude":-58.01667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puesto Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437263
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7ce372717d6fe4b3636abe634d3bd3fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209585403
+        }
+    ],
+    "wof:id":1209585403,
+    "wof:lastmodified":1536282653,
+    "wof:name":"Puesto Luis",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.01667,
+    -24.18333,
+    -58.01667,
+    -24.18333
+],
+  "geometry": {"coordinates":[-58.01667,-24.18333],"type":"Point"}
+}

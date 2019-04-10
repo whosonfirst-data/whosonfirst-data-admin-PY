@@ -1,0 +1,74 @@
+{
+  "id": 1243532787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.23586,-27.23199,-56.23586,-27.23199",
+    "geom:latitude":-27.23199,
+    "geom:longitude":-56.23586,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0708",
+    "gn:asciiname":"Estancia Laviste",
+    "gn:country_code":"PY",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438468,
+    "gn:latitude":-27.23199,
+    "gn:longitude":-56.23586,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Laviste",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Laviste"
+    ],
+    "name:und_x_variant":[
+        "Estancia Lavista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438468
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"ace3e3bc7e1b446854bf51ee0906db7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692473,
+            "locality_id":1243532787,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1243532787,
+    "wof:lastmodified":1537683217,
+    "wof:name":"Estancia Laviste",
+    "wof:parent_id":1108692473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.23586,
+    -27.23199,
+    -56.23586,
+    -27.23199
+],
+  "geometry": {"coordinates":[-56.23586,-27.23199],"type":"Point"}
+}

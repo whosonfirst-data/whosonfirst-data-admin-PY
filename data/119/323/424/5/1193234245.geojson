@@ -1,0 +1,73 @@
+{
+  "id": 1193234245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.68333,-23.08333,-61.68333,-23.08333",
+    "geom:latitude":-23.08333,
+    "geom:longitude":-61.68333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Las Senoras",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867252,
+    "gn:latitude":-23.08333,
+    "gn:longitude":-61.68333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Las Se\u00f1oras",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Se\u00f1ora",
+        "Las Se\u00f1oras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867252
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"9b0e723056a653bae07a4c3f75387210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1193234245,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1193234245,
+    "wof:lastmodified":1537683235,
+    "wof:name":"Las Senoras",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.68333000000001,
+    -23.08333,
+    -61.68333000000001,
+    -23.08333
+],
+  "geometry": {"coordinates":[-61.68333000000001,-23.08333],"type":"Point"}
+}

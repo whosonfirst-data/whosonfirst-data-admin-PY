@@ -1,0 +1,73 @@
+{
+  "id": 1293852167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.98333,-22.9,-61.98333,-22.9",
+    "geom:latitude":-22.9,
+    "geom:longitude":-61.98333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Villanueva San Antonio",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867056,
+    "gn:latitude":-22.9,
+    "gn:longitude":-61.98333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Villanueva San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villanueva",
+        "Villanueva San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867056
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a83797545f623edef96b2e4c2f09de69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1293852167,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1293852167,
+    "wof:lastmodified":1537683233,
+    "wof:name":"Villanueva San Antonio",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.98333,
+    -22.9,
+    -61.98333,
+    -22.9
+],
+  "geometry": {"coordinates":[-61.98333,-22.9],"type":"Point"}
+}

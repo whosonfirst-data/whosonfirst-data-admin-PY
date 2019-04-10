@@ -1,0 +1,100 @@
+{
+  "id": 421177335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.63333,-27.03333,-55.63333,-27.03333",
+    "geom:latitude":-27.03333,
+    "geom:longitude":-55.63333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Obligado"
+    ],
+    "name:por_x_preferred":[
+        "Obligado"
+    ],
+    "name:sco_x_preferred":[
+        "Obligado"
+    ],
+    "name:spa_x_preferred":[
+        "Obligado"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Doctor Pastor Obligado"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u592b\u5229\u52a0\u591a"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437637,
+    "qs:gn_pop":6350,
+    "qs:name":"Obligado",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Itap\u00faa",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1174645,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378579,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437637,
+        "gp:id":378579,
+        "qs:id":1174645,
+        "wd:id":"Q375095",
+        "wk:page":"Obligado"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009141,
+    "wof:geomhash":"399e7324167c33356d8bbf31a140f66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692669,
+            "locality_id":421177335,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":421177335,
+    "wof:lastmodified":1527716482,
+    "wof:name":"Obligado",
+    "wof:parent_id":1108692669,
+    "wof:placetype":"locality",
+    "wof:population":6350,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.63333,
+    -27.03333,
+    -55.63333,
+    -27.03333
+],
+  "geometry": {"coordinates":[-55.63333,-27.03333],"type":"Point"}
+}

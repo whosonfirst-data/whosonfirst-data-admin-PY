@@ -1,0 +1,72 @@
+{
+  "id": 890417859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.96667,-25.4,-56.96667,-25.4",
+    "geom:latitude":-25.4,
+    "geom:longitude":-56.96667,
+    "gn:country":"PY",
+    "gn:fcode":"PPL",
+    "gn:pop":8253,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Barrero Grande"
+    ],
+    "qs:name":"Eusebio Ayala",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":1008,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676667,
+        1108692507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438123,
+        "gp:id":379184,
+        "qs:id":1044687,
+        "wd:id":"Q559950",
+        "wk:page":"Eusebio Ayala"
+    },
+    "wof:country":"PY",
+    "wof:created":1469051223,
+    "wof:geomhash":"0cfd33c3c8a3d562ab535c880c519a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692507,
+            "locality_id":890417859,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":890417859,
+    "wof:lastmodified":1527782121,
+    "wof:name":"Eusebio Ayala",
+    "wof:parent_id":1108692507,
+    "wof:placetype":"locality",
+    "wof:population":8253,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.96667,
+    -25.4,
+    -56.96667,
+    -25.4
+],
+  "geometry": {"coordinates":[-56.96667,-25.4],"type":"Point"}
+}

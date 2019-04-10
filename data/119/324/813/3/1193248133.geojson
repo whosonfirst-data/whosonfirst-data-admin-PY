@@ -1,0 +1,74 @@
+{
+  "id": 1193248133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.35407,-24.07698,-57.35407,-24.07698",
+    "geom:latitude":-24.07698,
+    "geom:longitude":-57.35407,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Retiro Michi",
+    "gn:country_code":"PY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437261,
+    "gn:latitude":-24.07698,
+    "gn:longitude":-57.35407,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Retiro Mich\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Retiro Mich\u00ed"
+    ],
+    "name:und_x_variant":[
+        "Puesto Mich\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        421171367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437261
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d9559b091d6d367e1864545582bab64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171367,
+            "locality_id":1193248133,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1193248133,
+    "wof:lastmodified":1537683200,
+    "wof:name":"Retiro Michi",
+    "wof:parent_id":421171367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.35406999999999,
+    -24.07698,
+    -57.35406999999999,
+    -24.07698
+],
+  "geometry": {"coordinates":[-57.35406999999999,-24.07698],"type":"Point"}
+}

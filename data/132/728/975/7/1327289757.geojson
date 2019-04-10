@@ -1,0 +1,77 @@
+{
+  "id": 1327289757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.96872,-23.70347,-60.96872,-23.70347",
+    "geom:latitude":-23.70347,
+    "geom:longitude":-60.96872,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Mision San Jose de Estero",
+    "gn:country_code":"PY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867222,
+    "gn:latitude":-23.70347,
+    "gn:longitude":-60.96872,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Misi\u00f3n San Jos\u00e9 de Estero",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Misi\u00f3n San Jos\u00e9 de Estero"
+    ],
+    "name:und_x_variant":[
+        "Misi\u00f3n San Jos\u00e9 Estero",
+        "Misi\u00f3n",
+        "La Mizi\u00f3n",
+        "La Misi\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867222
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"37e33714c91d39df7ba396ddfe83892e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1327289757,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1327289757,
+    "wof:lastmodified":1537683235,
+    "wof:name":"Mision San Jose de Estero",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.96872,
+    -23.70347000000001,
+    -60.96872,
+    -23.70347000000001
+],
+  "geometry": {"coordinates":[-60.96872,-23.70347000000001],"type":"Point"}
+}

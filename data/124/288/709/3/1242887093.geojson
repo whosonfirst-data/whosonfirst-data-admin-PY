@@ -1,0 +1,68 @@
+{
+  "id": 1242887093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.56667,-22.8,-56.56667,-22.8",
+    "geom:latitude":-22.8,
+    "geom:longitude":-56.56667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1302",
+    "gn:asciiname":"Estancia Arambulo",
+    "gn:country_code":"PY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438678,
+    "gn:latitude":-22.8,
+    "gn:longitude":-56.56667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Ar\u00e1mbulo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676701,
+        1108692443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438678
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"74bf407fe435816bfb06a2511244b556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692443,
+            "locality_id":1242887093,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":1242887093,
+    "wof:lastmodified":1536615461,
+    "wof:name":"Estancia Arambulo",
+    "wof:parent_id":1108692443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.56667,
+    -22.8,
+    -56.56667,
+    -22.8
+],
+  "geometry": {"coordinates":[-56.56667,-22.8],"type":"Point"}
+}

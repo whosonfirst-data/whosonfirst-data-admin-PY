@@ -1,0 +1,68 @@
+{
+  "id": 1242655845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.6,-26.9,-55.6,-26.9",
+    "geom:latitude":-26.9,
+    "geom:longitude":-55.6,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0729",
+    "gn:asciiname":"Vacay",
+    "gn:country_code":"PY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436756,
+    "gn:latitude":-26.9,
+    "gn:longitude":-55.6,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Vacay",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436756
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f636e1fc4f5f0fe778d4488aa159af4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692689,
+            "locality_id":1242655845,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1242655845,
+    "wof:lastmodified":1536951370,
+    "wof:name":"Vacay",
+    "wof:parent_id":1108692689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.6,
+    -26.9,
+    -55.6,
+    -26.9
+],
+  "geometry": {"coordinates":[-55.6,-26.9],"type":"Point"}
+}

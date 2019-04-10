@@ -1,0 +1,68 @@
+{
+  "id": 1360240735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.61667,-22.3,-59.61667,-22.3",
+    "geom:latitude":-22.3,
+    "geom:longitude":-59.61667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1605",
+    "gn:asciiname":"Cacique Bueno",
+    "gn:country_code":"PY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439273,
+    "gn:latitude":-22.3,
+    "gn:longitude":-59.61667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Cacique Bueno",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        1108692881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439273
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8da831a34a6cdf5ea305ca2a4719f160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692881,
+            "locality_id":1360240735,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1360240735,
+    "wof:lastmodified":1536721614,
+    "wof:name":"Cacique Bueno",
+    "wof:parent_id":1108692881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.61666999999999,
+    -22.3,
+    -59.61666999999999,
+    -22.3
+],
+  "geometry": {"coordinates":[-59.61666999999999,-22.3],"type":"Point"}
+}

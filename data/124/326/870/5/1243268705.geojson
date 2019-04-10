@@ -1,0 +1,71 @@
+{
+  "id": 1243268705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.94419,-26.41819,-55.94419,-26.41819",
+    "geom:latitude":-26.41819,
+    "geom:longitude":-55.94419,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Dolores",
+    "gn:country_code":"PY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3438750,
+    "gn:latitude":-26.41819,
+    "gn:longitude":-55.94419,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Dolores",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dolores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438750
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"2ed6746af11184175eacb3404c552666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692859,
+            "locality_id":1243268705,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":1243268705,
+    "wof:lastmodified":1537683223,
+    "wof:name":"Dolores",
+    "wof:parent_id":1108692859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.94419,
+    -26.41819000000001,
+    -55.94419,
+    -26.41819000000001
+],
+  "geometry": {"coordinates":[-55.94419,-26.41819000000001],"type":"Point"}
+}

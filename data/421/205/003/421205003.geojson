@@ -1,0 +1,79 @@
+{
+  "id": 421205003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.05,-26.88333,-58.05,-26.88333",
+    "geom:latitude":-26.88333,
+    "geom:longitude":-58.05,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438021,
+    "qs:gn_pop":373,
+    "qs:name":"Guazucu\u00e1",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"\u00d1eembuc\u00fa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":251786,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378401,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        1108692805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438021,
+        "gp:id":378401,
+        "qs:id":251786
+    },
+    "wof:country":"PY",
+    "wof:created":1459010209,
+    "wof:geomhash":"f5d64191d15e6d32d6ebabb4ec6b5deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692805,
+            "locality_id":421205003,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":421205003,
+    "wof:lastmodified":1505340791,
+    "wof:name":"Guazucu\u00e1",
+    "wof:parent_id":1108692805,
+    "wof:placetype":"locality",
+    "wof:population":373,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.05,
+    -26.88333,
+    -58.05,
+    -26.88333
+],
+  "geometry": {"coordinates":[-58.05,-26.88333],"type":"Point"}
+}

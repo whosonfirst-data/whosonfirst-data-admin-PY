@@ -1,0 +1,63 @@
+{
+  "id": 1277045115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.36667,-24.45,-59.36667,-24.45",
+    "geom:latitude":-24.45,
+    "geom:longitude":-59.36667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Estancia La Angelica",
+    "gn:country_code":"PY",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438510,
+    "gn:latitude":-24.45,
+    "gn:longitude":-59.36667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Estancia La Angelica",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438510
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"47491766c4561682e95381c99a756b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1277045115,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277045115,
+    "wof:lastmodified":1536818875,
+    "wof:name":"Estancia La Angelica",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.36666999999999,
+    -24.45,
+    -59.36666999999999,
+    -24.45
+],
+  "geometry": {"coordinates":[-59.36666999999999,-24.45],"type":"Point"}
+}

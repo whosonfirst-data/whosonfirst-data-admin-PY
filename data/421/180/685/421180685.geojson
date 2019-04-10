@@ -1,0 +1,111 @@
+{
+  "id": 421180685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.48333,-26.05,-56.48333,-26.05",
+    "geom:latitude":-26.05,
+    "geom:longitude":-56.48333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:gla_x_preferred":[
+        "Iturbe"
+    ],
+    "name:ita_x_preferred":[
+        "Iturbe"
+    ],
+    "name:lit_x_preferred":[
+        "Iturb\u0117"
+    ],
+    "name:por_x_preferred":[
+        "Iturbe"
+    ],
+    "name:ron_x_preferred":[
+        "Iturbe"
+    ],
+    "name:spa_x_preferred":[
+        "Iturbe"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5716\u723e\u97cb"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437909,
+    "qs:gn_pop":4475,
+    "qs:name":"Iturbe",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Guair\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1207092,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378435,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692601,
+        85676685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437909,
+        "gp:id":378435,
+        "qs:id":1207092,
+        "wd:id":"Q2718422",
+        "wk:page":"Iturbe, Paraguay"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009267,
+    "wof:geomhash":"198c4ed436a4abec0868372961c31949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692601,
+            "locality_id":421180685,
+            "region_id":85676713
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692601,
+            "locality_id":421180685,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":421180685,
+    "wof:lastmodified":1527716239,
+    "wof:name":"Iturbe",
+    "wof:parent_id":1108692601,
+    "wof:placetype":"locality",
+    "wof:population":4475,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.48333,
+    -26.05,
+    -56.48333,
+    -26.05
+],
+  "geometry": {"coordinates":[-56.48333,-26.05],"type":"Point"}
+}

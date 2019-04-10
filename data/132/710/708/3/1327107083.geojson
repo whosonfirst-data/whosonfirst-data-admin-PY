@@ -1,0 +1,72 @@
+{
+  "id": 1327107083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.21667,-24.81667,-57.21667,-24.81667",
+    "geom:latitude":-24.81667,
+    "geom:longitude":-57.21667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Estancia Capiipobo",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438627,
+    "gn:latitude":-24.81667,
+    "gn:longitude":-57.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Estancia Capi\u00edpob\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capiipob\u00f3",
+        "Estancia Capi\u00edpob\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438627
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"0874929a4601a0df99e193cbad0d877f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692831,
+            "locality_id":1327107083,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1327107083,
+    "wof:lastmodified":1537683221,
+    "wof:name":"Estancia Capiipobo",
+    "wof:parent_id":1108692831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.21666999999999,
+    -24.81667,
+    -57.21666999999999,
+    -24.81667
+],
+  "geometry": {"coordinates":[-57.21666999999999,-24.81667],"type":"Point"}
+}

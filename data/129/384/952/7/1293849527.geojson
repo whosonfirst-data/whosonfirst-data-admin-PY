@@ -1,0 +1,73 @@
+{
+  "id": 1293849527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.35,-24.45,-54.35,-24.45",
+    "geom:latitude":-24.45,
+    "geom:longitude":-54.35,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1401",
+    "gn:asciiname":"Alvar Nunez Cabeza de Vaca",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439436,
+    "gn:latitude":-24.45,
+    "gn:longitude":-54.35,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Alvar N\u00fa\u00f1ez Cabeza de Vaca",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Alvar N\u00fa\u00f1ez Cabeza de Vaca",
+        "Alvar N\u00fa\u00f1ez Cabeza de Vaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676719,
+        1108692449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439436
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c66239a11b376f84008f3742a07478ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692449,
+            "locality_id":1293849527,
+            "region_id":85676719
+        }
+    ],
+    "wof:id":1293849527,
+    "wof:lastmodified":1537683232,
+    "wof:name":"Alvar Nunez Cabeza de Vaca",
+    "wof:parent_id":1108692449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.35,
+    -24.45,
+    -54.35,
+    -24.45
+],
+  "geometry": {"coordinates":[-54.35,-24.45],"type":"Point"}
+}

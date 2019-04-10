@@ -1,0 +1,71 @@
+{
+  "id": 1343325439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.28424,-23.53253,-56.28424,-23.53253",
+    "geom:latitude":-23.53253,
+    "geom:longitude":-56.28424,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Estancia Aguaray-mi",
+    "gn:country_code":"PY",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438698,
+    "gn:latitude":-23.53253,
+    "gn:longitude":-56.28424,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Aguaray-m\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Aguaray-m\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438698
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4b93a0446b6c8b6304ba3565a99073a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692775,
+            "locality_id":1343325439,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1343325439,
+    "wof:lastmodified":1537683222,
+    "wof:name":"Estancia Aguaray-mi",
+    "wof:parent_id":1108692775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.28424,
+    -23.53253,
+    -56.28424,
+    -23.53253
+],
+  "geometry": {"coordinates":[-56.28424,-23.53253],"type":"Point"}
+}

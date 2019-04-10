@@ -1,0 +1,75 @@
+{
+  "id": 1210030555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.37284,-25.41793,-55.37284,-25.41793",
+    "geom:latitude":-25.41793,
+    "geom:longitude":-55.37284,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1007",
+    "gn:asciiname":"Juan Emiliano O'Leary",
+    "gn:country_code":"PY",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437880,
+    "gn:latitude":-25.41793,
+    "gn:longitude":-55.37284,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Juan Emiliano O\u2019Leary",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Juan Emiliano O\u2019Leary"
+    ],
+    "name:und_x_variant":[
+        "Juan E. O\u2019leary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        1108692555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437880,
+        "wk:page":"Juan_Emilio_O%27Leary"
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8e3aa9c25d335d98f376cefeb315c6ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692555,
+            "locality_id":1210030555,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1210030555,
+    "wof:lastmodified":1537683208,
+    "wof:name":"Juan Emiliano O'Leary",
+    "wof:parent_id":1108692555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.37284,
+    -25.41793,
+    -55.37284,
+    -25.41793
+],
+  "geometry": {"coordinates":[-55.37284,-25.41793],"type":"Point"}
+}

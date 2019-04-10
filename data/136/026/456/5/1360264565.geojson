@@ -1,0 +1,71 @@
+{
+  "id": 1360264565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.34408,-27.12449,-57.34408,-27.12449",
+    "geom:latitude":-27.12449,
+    "geom:longitude":-57.34408,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1213",
+    "gn:asciiname":"Estancia Victoriano Ortiz",
+    "gn:country_code":"PY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438146,
+    "gn:latitude":-27.12449,
+    "gn:longitude":-57.34408,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Victoriano Ortiz",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Victoriano Ortiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        1108692787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438146
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7c60d3f88f03e72667da91c725f18fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692787,
+            "locality_id":1360264565,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":1360264565,
+    "wof:lastmodified":1537683210,
+    "wof:name":"Estancia Victoriano Ortiz",
+    "wof:parent_id":1108692787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.34408000000001,
+    -27.12449,
+    -57.34408000000001,
+    -27.12449
+],
+  "geometry": {"coordinates":[-57.34408000000001,-27.12449],"type":"Point"}
+}

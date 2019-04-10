@@ -1,0 +1,79 @@
+{
+  "id": 421173503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.11667,-24.95,-56.11667,-24.95",
+    "geom:latitude":-24.95,
+    "geom:longitude":-56.11667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437086,
+    "qs:gn_pop":1745,
+    "qs:name":"San Joaqu\u00edn",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Caaguaz\u00fa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":288846,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378968,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437086,
+        "gp:id":378968,
+        "qs:id":288846
+    },
+    "wof:country":"PY",
+    "wof:created":1459008984,
+    "wof:geomhash":"4753ed601898203861d82d87e7b3c464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692629,
+            "locality_id":421173503,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":421173503,
+    "wof:lastmodified":1505340617,
+    "wof:name":"San Joaqu\u00edn",
+    "wof:parent_id":1108692629,
+    "wof:placetype":"locality",
+    "wof:population":1745,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.11667,
+    -24.95,
+    -56.11667,
+    -24.95
+],
+  "geometry": {"coordinates":[-56.11667,-24.95],"type":"Point"}
+}

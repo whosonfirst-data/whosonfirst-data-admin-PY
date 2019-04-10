@@ -1,0 +1,71 @@
+{
+  "id": 1243249789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.81972,-26.33705,-57.81972,-26.33705",
+    "geom:latitude":-26.33705,
+    "geom:longitude":-57.81972,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1214",
+    "gn:asciiname":"Puesto Vega",
+    "gn:country_code":"PY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437224,
+    "gn:latitude":-26.33705,
+    "gn:longitude":-57.81972,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puesto Vega",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puesto Vega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        1108692789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437224
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"64493e04800ed5f16ce7fe8da6a6c8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692789,
+            "locality_id":1243249789,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":1243249789,
+    "wof:lastmodified":1537683200,
+    "wof:name":"Puesto Vega",
+    "wof:parent_id":1108692789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.81972,
+    -26.33705,
+    -57.81972,
+    -26.33705
+],
+  "geometry": {"coordinates":[-57.81972,-26.33705],"type":"Point"}
+}

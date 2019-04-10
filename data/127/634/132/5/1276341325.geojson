@@ -1,0 +1,71 @@
+{
+  "id": 1276341325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.20868,-25.45018,-56.20868,-25.45018",
+    "geom:latitude":-25.45018,
+    "geom:longitude":-56.20868,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0501",
+    "gn:asciiname":"Colonia Doctor Domingo Montanaro",
+    "gn:country_code":"PY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3439053,
+    "gn:latitude":-25.45018,
+    "gn:longitude":-56.20868,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Doctor Domingo Montanaro",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Doctor Domingo Montanaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        421184207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439053
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e5c5412871ebce486600ce666b4b821d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184207,
+            "locality_id":1276341325,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1276341325,
+    "wof:lastmodified":1537683228,
+    "wof:name":"Colonia Doctor Domingo Montanaro",
+    "wof:parent_id":421184207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.20868000000001,
+    -25.45018,
+    -56.20868000000001,
+    -25.45018
+],
+  "geometry": {"coordinates":[-56.20868000000001,-25.45018],"type":"Point"}
+}

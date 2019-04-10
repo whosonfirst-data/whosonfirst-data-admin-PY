@@ -1,0 +1,63 @@
+{
+  "id": 1226022011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.93333,-27.41667,-56.93333,-27.41667",
+    "geom:latitude":-27.41667,
+    "geom:longitude":-56.93333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Coratei",
+    "gn:country_code":"PY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438828,
+    "gn:latitude":-27.41667,
+    "gn:longitude":-56.93333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Coratei",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438828
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5790d0d0b7c480a6ea9a1dfe8b748e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1226022011,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226022011,
+    "wof:lastmodified":1536759657,
+    "wof:name":"Coratei",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.93333000000001,
+    -27.41667,
+    -56.93333000000001,
+    -27.41667
+],
+  "geometry": {"coordinates":[-56.93333000000001,-27.41667],"type":"Point"}
+}

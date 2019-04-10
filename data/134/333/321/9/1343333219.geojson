@@ -1,0 +1,68 @@
+{
+  "id": 1343333219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.2,-23.55611,-57.2,-23.55611",
+    "geom:latitude":-23.55611,
+    "geom:longitude":-57.2,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Colonia San Juan",
+    "gn:country_code":"PY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3480800,
+    "gn:latitude":-23.55611,
+    "gn:longitude":-57.2,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480800
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d3c11ea39886c88ee0727e9914c58586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692761,
+            "locality_id":1343333219,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1343333219,
+    "wof:lastmodified":1536930766,
+    "wof:name":"Colonia San Juan",
+    "wof:parent_id":1108692761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.2,
+    -23.55611,
+    -57.2,
+    -23.55611
+],
+  "geometry": {"coordinates":[-57.2,-23.55611],"type":"Point"}
+}

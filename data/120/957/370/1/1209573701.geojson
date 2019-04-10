@@ -1,0 +1,62 @@
+{
+  "id": 1209573701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.51667,-22.0,-58.51667,-22.0",
+    "geom:latitude":-22.0,
+    "geom:longitude":-58.51667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1702",
+    "gn:asciiname":"Estancia Campo Sastre",
+    "gn:country_code":"PY",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438630,
+    "gn:latitude":-22.0,
+    "gn:longitude":-58.51667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Campo Sastre",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438630
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"357ff5a8994217d6dd495ac4c70ec6bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209573701
+        }
+    ],
+    "wof:id":1209573701,
+    "wof:lastmodified":1536283004,
+    "wof:name":"Estancia Campo Sastre",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.51667,
+    -22.0,
+    -58.51667,
+    -22.0
+],
+  "geometry": {"coordinates":[-58.51667,-22.0],"type":"Point"}
+}

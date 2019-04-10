@@ -1,0 +1,107 @@
+{
+  "id": 421186035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.369132,-26.193182,-56.369132,-26.193182",
+    "geom:latitude":-26.193182,
+    "geom:longitude":-56.369132,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Caazap\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Caazap\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Caazap\u00e1"
+    ],
+    "name:fin_x_preferred":[
+        "Caazap\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Caazap\u00e1"
+    ],
+    "name:grn_x_preferred":[
+        "Ka'asapa"
+    ],
+    "name:ita_x_preferred":[
+        "Caazap\u00e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d0\u10e1\u10d0\u10de\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc0ac\ud30c"
+    ],
+    "name:spa_x_preferred":[
+        "Caazap\u00e1"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Caazap\u00e1",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Caazap\u00e1",
+    "qs:photos":38,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":38,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1057914,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379199,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":201,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":379199,
+        "qs:id":1057914,
+        "wd:id":"Q135939"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009462,
+    "wof:geomhash":"f01a8be9409147c41e62775292d81b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692839,
+            "locality_id":421186035,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":421186035,
+    "wof:lastmodified":1527716318,
+    "wof:name":"Caazap\u00e1",
+    "wof:parent_id":1108692839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.369132,
+    -26.193182,
+    -56.369132,
+    -26.193182
+],
+  "geometry": {"coordinates":[-56.369132,-26.193182],"type":"Point"}
+}

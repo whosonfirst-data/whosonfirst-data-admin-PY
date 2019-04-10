@@ -1,0 +1,71 @@
+{
+  "id": 1310180363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.56416,-24.0641,-55.56416,-24.0641",
+    "geom:latitude":-24.0641,
+    "geom:longitude":-55.56416,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1404",
+    "gn:asciiname":"Colonia Tendal",
+    "gn:country_code":"PY",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438898,
+    "gn:latitude":-24.0641,
+    "gn:longitude":-55.56416,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Tendal",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Tendal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676719,
+        1108692455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438898
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"ff4c2b26727bd311afc33ebc53beee67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692455,
+            "locality_id":1310180363,
+            "region_id":85676719
+        }
+    ],
+    "wof:id":1310180363,
+    "wof:lastmodified":1537683225,
+    "wof:name":"Colonia Tendal",
+    "wof:parent_id":1108692455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.56416,
+    -24.0641,
+    -55.56416,
+    -24.0641
+],
+  "geometry": {"coordinates":[-55.56416,-24.0641],"type":"Point"}
+}

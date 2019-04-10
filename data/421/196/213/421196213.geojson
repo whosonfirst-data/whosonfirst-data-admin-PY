@@ -1,0 +1,94 @@
+{
+  "id": 421196213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.46667,-27.25,-57.46667,-27.25",
+    "geom:latitude":-27.25,
+    "geom:longitude":-57.46667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Laureles"
+    ],
+    "name:por_x_preferred":[
+        "Laureles"
+    ],
+    "name:spa_x_preferred":[
+        "Laureles"
+    ],
+    "name:zho_x_preferred":[
+        "\u52de\u96f7\u840a\u65af"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437849,
+    "qs:gn_pop":708,
+    "qs:name":"Laureles",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"\u00d1eembuc\u00fa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1207131,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379253,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        1108692875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437849,
+        "gp:id":379253,
+        "qs:id":1207131,
+        "wd:id":"Q12012219",
+        "wk:page":"Laureles"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009873,
+    "wof:geomhash":"694acae79584726e6af3b4a203f72d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692875,
+            "locality_id":421196213,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":421196213,
+    "wof:lastmodified":1527716367,
+    "wof:name":"Laureles",
+    "wof:parent_id":1108692875,
+    "wof:placetype":"locality",
+    "wof:population":708,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.46667,
+    -27.25,
+    -57.46667,
+    -27.25
+],
+  "geometry": {"coordinates":[-57.46667,-27.25],"type":"Point"}
+}

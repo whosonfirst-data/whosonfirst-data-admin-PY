@@ -1,0 +1,73 @@
+{
+  "id": 1344115123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.53333,-20.13333,-59.53333,-20.13333",
+    "geom:latitude":-20.13333,
+    "geom:longitude":-59.53333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1704",
+    "gn:asciiname":"Campos",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439237,
+    "gn:latitude":-20.13333,
+    "gn:longitude":-59.53333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Campos",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fortin Campos",
+        "Campos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676655,
+        1108692779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439237
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"cbe0ccb62d0aa1ef370689709b906612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692779,
+            "locality_id":1344115123,
+            "region_id":85676655
+        }
+    ],
+    "wof:id":1344115123,
+    "wof:lastmodified":1537683231,
+    "wof:name":"Campos",
+    "wof:parent_id":1108692779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.53333000000001,
+    -20.13333,
+    -59.53333000000001,
+    -20.13333
+],
+  "geometry": {"coordinates":[-59.53333000000001,-20.13333],"type":"Point"}
+}

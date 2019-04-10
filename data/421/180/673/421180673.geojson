@@ -1,0 +1,96 @@
+{
+  "id": 421180673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.9,-24.86667,-54.9,-24.86667",
+    "geom:latitude":-24.86667,
+    "geom:longitude":-54.9,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Minga Por\u00e1"
+    ],
+    "name:lit_x_preferred":[
+        "Minga Pora"
+    ],
+    "name:por_x_preferred":[
+        "Minga Por\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Minga Por\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u660e\u52a0\u6ce2\u62c9"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438977,
+    "qs:gn_pop":1770,
+    "qs:name":"Colonia Minga Por\u00e1",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Alto Paran\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1207078,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377557,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        1108692571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438977,
+        "gp:id":377557,
+        "qs:id":1207078,
+        "wd:id":"Q2445910",
+        "wk:page":"Minga Por\u00e1 District"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009267,
+    "wof:geomhash":"42e712a36785ed002fbed7c1604ddfbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692571,
+            "locality_id":421180673,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":421180673,
+    "wof:lastmodified":1505340649,
+    "wof:name":"Colonia Minga Por\u00e1",
+    "wof:parent_id":1108692571,
+    "wof:placetype":"locality",
+    "wof:population":1770,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.9,
+    -24.86667,
+    -54.9,
+    -24.86667
+],
+  "geometry": {"coordinates":[-54.9,-24.86667],"type":"Point"}
+}

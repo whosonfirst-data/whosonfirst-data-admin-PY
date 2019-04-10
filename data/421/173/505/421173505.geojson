@@ -1,0 +1,100 @@
+{
+  "id": 421173505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.26667,-25.4,-55.26667,-25.4",
+    "geom:latitude":-25.4,
+    "geom:longitude":-55.26667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Doctor Juan Le\u00f3n Mallorqu\u00edn"
+    ],
+    "name:lit_x_preferred":[
+        "Chuan Leon Maljorkinas"
+    ],
+    "name:por_x_preferred":[
+        "Doctor Juan Le\u00f3n Mallorqu\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Doctor Juan Le\u00f3n Mallorqu\u00edn"
+    ],
+    "name:unk_x_variant":[
+        "Doctor J. Le\u00f3n Mallorqu\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5b89\u840a\u6602\u99ac\u7565\u723e\u91d1"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438754,
+    "qs:gn_pop":7481,
+    "qs:name":"Doctor Juan Le\u00f3n Mallorqu\u00edn",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Alto Paran\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":288864,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379234,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        1108692551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438754,
+        "gp:id":379234,
+        "qs:id":288864,
+        "wd:id":"Q2445886",
+        "wk:page":"Doctor Juan Le\u00f3n Mallorqu\u00edn District"
+    },
+    "wof:country":"PY",
+    "wof:created":1459008984,
+    "wof:geomhash":"32d9e4e467ccad936bf758da8f2a7e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692551,
+            "locality_id":421173505,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":421173505,
+    "wof:lastmodified":1527716254,
+    "wof:name":"Doctor Juan Le\u00f3n Mallorqu\u00edn",
+    "wof:parent_id":1108692551,
+    "wof:placetype":"locality",
+    "wof:population":7481,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.26667,
+    -25.4,
+    -55.26667,
+    -25.4
+],
+  "geometry": {"coordinates":[-55.26667,-25.4],"type":"Point"}
+}

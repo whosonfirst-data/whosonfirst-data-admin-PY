@@ -1,0 +1,73 @@
+{
+  "id": 1242633199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.95,-22.96667,-61.95,-22.96667",
+    "geom:latitude":-22.96667,
+    "geom:longitude":-61.95,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Amarillo Pericote",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867454,
+    "gn:latitude":-22.96667,
+    "gn:longitude":-61.95,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Amarillo Pericote",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amarillo",
+        "Amarillo Pericote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867454
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"67f383774c56495092f1c029f15c7afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1242633199,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1242633199,
+    "wof:lastmodified":1537683237,
+    "wof:name":"Amarillo Pericote",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.95,
+    -22.96667,
+    -61.95,
+    -22.96667
+],
+  "geometry": {"coordinates":[-61.95,-22.96667],"type":"Point"}
+}

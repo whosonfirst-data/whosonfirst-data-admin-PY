@@ -1,0 +1,67 @@
+{
+  "id": 1260203449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.8,-25.58333,-56.8,-25.58333",
+    "geom:latitude":-25.58333,
+    "geom:longitude":-56.8,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Colonia J. Cancio Flecha",
+    "gn:country_code":"PY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439015,
+    "gn:latitude":-25.58333,
+    "gn:longitude":-56.8,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Colonia J. Cancio Flecha",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439015
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7e18ca10872a83513a3d0c3422a0311b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692641,
+            "locality_id":1260203449,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1260203449,
+    "wof:lastmodified":1536819752,
+    "wof:name":"Colonia J. Cancio Flecha",
+    "wof:parent_id":1108692641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.8,
+    -25.58333,
+    -56.8,
+    -25.58333
+],
+  "geometry": {"coordinates":[-56.8,-25.58333],"type":"Point"}
+}

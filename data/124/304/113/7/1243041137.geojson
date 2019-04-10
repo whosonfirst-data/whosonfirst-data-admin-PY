@@ -1,0 +1,71 @@
+{
+  "id": 1243041137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.97094,-25.87976,-56.97094,-25.87976",
+    "geom:latitude":-25.87976,
+    "geom:longitude":-56.97094,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"0902",
+    "gn:asciiname":"Costa Pena",
+    "gn:country_code":"PY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3438804,
+    "gn:latitude":-25.87976,
+    "gn:longitude":-56.97094,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Costa Pe\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Costa Pe\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        1108692705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438804
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"463f71fcd14da2051f88406a85835770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692705,
+            "locality_id":1243041137,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":1243041137,
+    "wof:lastmodified":1537683223,
+    "wof:name":"Costa Pena",
+    "wof:parent_id":1108692705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.97094,
+    -25.87976,
+    -56.97094,
+    -25.87976
+],
+  "geometry": {"coordinates":[-56.97094,-25.87976],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209928557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.60359,-25.57858,-54.60359,-25.57858",
+    "geom:latitude":-25.57858,
+    "geom:longitude":-54.60359,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1002",
+    "gn:asciiname":"Tres Fronteras",
+    "gn:country_code":"PY",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3436781,
+    "gn:latitude":-25.57858,
+    "gn:longitude":-54.60359,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Tres Fronteras",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tres Fronteras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        421171537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436781
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"dcf3902f688022e553750ab261d86666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171537,
+            "locality_id":1209928557,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1209928557,
+    "wof:lastmodified":1537683196,
+    "wof:name":"Tres Fronteras",
+    "wof:parent_id":421171537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.60359,
+    -25.57858,
+    -54.60359,
+    -25.57858
+],
+  "geometry": {"coordinates":[-54.60359,-25.57858],"type":"Point"}
+}

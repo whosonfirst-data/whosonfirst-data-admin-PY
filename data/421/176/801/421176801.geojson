@@ -1,0 +1,111 @@
+{
+  "id": 421176801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.29628,-25.31067,-57.29628,-25.31067",
+    "geom:latitude":-25.31067,
+    "geom:longitude":-57.29628,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:ita_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:nld_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:por_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:ron_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:spa_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f2f\u7d0d\u8fea\u8afe"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437120,
+    "qs:gn_pop":4651,
+    "qs:name":"San Bernardino",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Cordillera",
+    "qs:photos":463,
+    "qs:photos_1k":94,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":463,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1082740,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378954,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":288,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676681,
+        421193197,
+        85676667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437120,
+        "gp:id":378954,
+        "qs:id":1082740,
+        "wd:id":"Q388644",
+        "wk:page":"San Bernardino, Paraguay"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009120,
+    "wof:geomhash":"d49fea4519f2af4e4e940c3f4f180e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421193197,
+            "locality_id":421176801,
+            "region_id":85676681
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421193197,
+            "locality_id":421176801,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":421176801,
+    "wof:lastmodified":1527726477,
+    "wof:name":"San Bernardino",
+    "wof:parent_id":421193197,
+    "wof:placetype":"locality",
+    "wof:population":4651,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.29628,
+    -25.31067,
+    -57.29628,
+    -25.31067
+],
+  "geometry": {"coordinates":[-57.29628,-25.31067],"type":"Point"}
+}

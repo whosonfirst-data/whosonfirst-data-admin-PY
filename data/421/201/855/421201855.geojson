@@ -1,0 +1,97 @@
+{
+  "id": 421201855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.46667,-26.16667,-56.46667,-26.16667",
+    "geom:latitude":-26.16667,
+    "geom:longitude":-56.46667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Maciel"
+    ],
+    "name:por_x_preferred":[
+        "Maciel"
+    ],
+    "name:spa_x_preferred":[
+        "Maciel"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0633\u06cc\u0644\u060c \u067e\u06cc\u0631\u0627\u06af\u0648\u0627\u0626\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u897f\u57c3\u723e"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437807,
+    "qs:gn_pop":503,
+    "qs:name":"Maciel",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Caazap\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":214910,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379207,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437807,
+        "gp:id":379207,
+        "qs:id":214910,
+        "wd:id":"Q1748956",
+        "wk:page":"Maciel, Paraguay"
+    },
+    "wof:country":"PY",
+    "wof:created":1459010089,
+    "wof:geomhash":"5e93b696b9c3f0008c003cd0c589a447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692849,
+            "locality_id":421201855,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":421201855,
+    "wof:lastmodified":1527716441,
+    "wof:name":"Maciel",
+    "wof:parent_id":1108692849,
+    "wof:placetype":"locality",
+    "wof:population":503,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.46667,
+    -26.16667,
+    -56.46667,
+    -26.16667
+],
+  "geometry": {"coordinates":[-56.46667,-26.16667],"type":"Point"}
+}

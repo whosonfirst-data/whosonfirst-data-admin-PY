@@ -1,0 +1,79 @@
+{
+  "id": 421182113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.16667,-25.25,-57.16667,-25.25",
+    "geom:latitude":-25.25,
+    "geom:longitude":-57.16667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439386,
+    "qs:gn_pop":4768,
+    "qs:name":"Atyr\u00e1",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Cordillera",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":154,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":888862,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377318,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676667,
+        421171783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439386,
+        "gp:id":377318,
+        "qs:id":888862
+    },
+    "wof:country":"PY",
+    "wof:created":1459009319,
+    "wof:geomhash":"7e24ad8554d4d09e26d6f463e737628b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171783,
+            "locality_id":421182113,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":421182113,
+    "wof:lastmodified":1505340661,
+    "wof:name":"Atyr\u00e1",
+    "wof:parent_id":421171783,
+    "wof:placetype":"locality",
+    "wof:population":4768,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.16667,
+    -25.25,
+    -57.16667,
+    -25.25
+],
+  "geometry": {"coordinates":[-57.16667,-25.25],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242776897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.43607,-26.73891,-56.43607,-26.73891",
+    "geom:latitude":-26.73891,
+    "geom:longitude":-56.43607,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0610",
+    "gn:asciiname":"Estancia Doldan",
+    "gn:country_code":"PY",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438569,
+    "gn:latitude":-26.73891,
+    "gn:longitude":-56.43607,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Dold\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Dold\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        421195025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438569
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"511b7de0d419fd879ea9a20df85a0052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421195025,
+            "locality_id":1242776897,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":1242776897,
+    "wof:lastmodified":1537683219,
+    "wof:name":"Estancia Doldan",
+    "wof:parent_id":421195025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.43607,
+    -26.73891,
+    -56.43607,
+    -26.73891
+],
+  "geometry": {"coordinates":[-56.43607,-26.73891],"type":"Point"}
+}

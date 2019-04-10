@@ -1,0 +1,77 @@
+{
+  "id": 421202921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.05,-26.86667,-57.05,-26.86667",
+    "geom:latitude":-26.86667,
+    "geom:longitude":-57.05,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436929,
+    "qs:gn_pop":0,
+    "qs:name":"San Ygnacio",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":158,
+    "qs:photos_1k":32,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":158,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228667,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379012,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676689,
+        421170017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436929,
+        "gp:id":379012,
+        "qs:id":228667
+    },
+    "wof:country":"PY",
+    "wof:created":1459010134,
+    "wof:geomhash":"5c5caa2dfebcc0696ade2f1dd208b635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170017,
+            "locality_id":421202921,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":421202921,
+    "wof:lastmodified":1527716213,
+    "wof:name":"San Ygnacio",
+    "wof:parent_id":421170017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.05,
+    -26.86667,
+    -57.05,
+    -26.86667
+],
+  "geometry": {"coordinates":[-57.05,-26.86667],"type":"Point"}
+}

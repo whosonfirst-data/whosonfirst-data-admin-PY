@@ -1,0 +1,103 @@
+{
+  "id": 421173813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.78333,-25.76667,-56.78333,-25.76667",
+    "geom:latitude":-25.76667,
+    "geom:longitude":-56.78333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:grn_x_preferred":[
+        "Ybytymi"
+    ],
+    "name:ita_x_preferred":[
+        "Ybytym\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Ybytym\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Ybytym\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Ybytim\u00ed"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0628\u06cc\u062a\u06cc\u0645\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6bd4\u8482\u7c73"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436627,
+    "qs:gn_pop":525,
+    "qs:name":"Ybytym\u00ed",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Paraguar\u00ed",
+    "qs:photos":56,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":300104,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379161,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        1108692735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436627,
+        "gp:id":379161,
+        "qs:id":300104,
+        "wd:id":"Q2410921",
+        "wk:page":"Ybytim\u00ed"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009006,
+    "wof:geomhash":"c0ad77c57567fc1403388582d87b329d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692735,
+            "locality_id":421173813,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":421173813,
+    "wof:lastmodified":1527716260,
+    "wof:name":"Ybytym\u00ed",
+    "wof:parent_id":1108692735,
+    "wof:placetype":"locality",
+    "wof:population":525,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.78333,
+    -25.76667,
+    -56.78333,
+    -25.76667
+],
+  "geometry": {"coordinates":[-56.78333,-25.76667],"type":"Point"}
+}

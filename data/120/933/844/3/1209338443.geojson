@@ -1,0 +1,68 @@
+{
+  "id": 1209338443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.95201,-25.29518,-55.95201,-25.29518",
+    "geom:latitude":-25.29518,
+    "geom:longitude":-55.95201,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0506",
+    "gn:asciiname":"Establecimiento Aquino Puentecita",
+    "gn:country_code":"PY",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438718,
+    "gn:latitude":-25.29518,
+    "gn:longitude":-55.95201,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Establecimiento Aquino Puentecita",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Establecimiento Aquino Puentecita"
+    ],
+    "name:und_x_variant":[
+        "Establecimiento Aquino Puentecito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438718
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"546e0eae1a523a69d1e12d5d813ac2b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209338443
+        }
+    ],
+    "wof:id":1209338443,
+    "wof:lastmodified":1537683222,
+    "wof:name":"Establecimiento Aquino Puentecita",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.95201,
+    -25.29518,
+    -55.95201,
+    -25.29518
+],
+  "geometry": {"coordinates":[-55.95201,-25.29518],"type":"Point"}
+}

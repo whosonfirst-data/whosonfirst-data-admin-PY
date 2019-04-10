@@ -1,0 +1,97 @@
+{
+  "id": 421167747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.4,-25.7,-56.4,-25.7",
+    "geom:latitude":-25.7,
+    "geom:longitude":-56.4,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Mbocayaty del Guair\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Mbocayaty del Guair\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Mbocayaty del Guair\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Mbocayaty del Guair\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u535a\u5361\u4e9e\u8482\u5fb7\u723e\u74dc\u4f0a\u62c9"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437763,
+    "qs:gn_pop":2296,
+    "qs:name":"Mbocayaty",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Guair\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":147813,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379254,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676685,
+        421184917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437763,
+        "gp:id":379254,
+        "qs:id":147813,
+        "wd:id":"Q1006425",
+        "wk:page":"Mbocayaty"
+    },
+    "wof:country":"PY",
+    "wof:created":1459008742,
+    "wof:geomhash":"a1b1e44c65db17b80f2b6e2fbc19db1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184917,
+            "locality_id":421167747,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":421167747,
+    "wof:lastmodified":1527716156,
+    "wof:name":"Mbocayaty",
+    "wof:parent_id":421184917,
+    "wof:placetype":"locality",
+    "wof:population":2296,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.4,
+    -25.7,
+    -56.4,
+    -25.7
+],
+  "geometry": {"coordinates":[-56.4,-25.7],"type":"Point"}
+}

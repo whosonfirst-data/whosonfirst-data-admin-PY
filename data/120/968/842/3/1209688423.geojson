@@ -1,0 +1,61 @@
+{
+  "id": 1209688423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.81667,-20.58333,-58.81667,-20.58333",
+    "geom:latitude":-20.58333,
+    "geom:longitude":-58.81667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"San Pablo",
+    "gn:country_code":"PY",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437036,
+    "gn:latitude":-20.58333,
+    "gn:longitude":-58.81667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"San Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437036
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"697efc3387cb9d297d78e72fc1ea8f49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209688423
+        }
+    ],
+    "wof:id":1209688423,
+    "wof:lastmodified":1536279330,
+    "wof:name":"San Pablo",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.81667,
+    -20.58333,
+    -58.81667,
+    -20.58333
+],
+  "geometry": {"coordinates":[-58.81667,-20.58333],"type":"Point"}
+}

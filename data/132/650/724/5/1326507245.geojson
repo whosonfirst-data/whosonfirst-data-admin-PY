@@ -1,0 +1,73 @@
+{
+  "id": 1326507245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.75,-26.7,-56.75,-26.7",
+    "geom:latitude":-26.7,
+    "geom:longitude":-56.75,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"0807",
+    "gn:asciiname":"Estancia Caatygue",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438642,
+    "gn:latitude":-26.7,
+    "gn:longitude":-56.75,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Caatygue",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Caaty Cue",
+        "Estancia Caatygue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676689,
+        1108692699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438642
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"189d85309dac7fb014fb288307f4ad6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692699,
+            "locality_id":1326507245,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":1326507245,
+    "wof:lastmodified":1537683221,
+    "wof:name":"Estancia Caatygue",
+    "wof:parent_id":1108692699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.75,
+    -26.7,
+    -56.75,
+    -26.7
+],
+  "geometry": {"coordinates":[-56.75,-26.7],"type":"Point"}
+}

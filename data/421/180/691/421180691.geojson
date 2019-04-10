@@ -1,0 +1,87 @@
+{
+  "id": 421180691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.05,-26.5,-57.05,-26.5",
+    "geom:latitude":-26.5,
+    "geom:longitude":-57.05,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437042,
+    "qs:gn_pop":1210,
+    "qs:name":"San Miguel",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1207137,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379266,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        421171781,
+        85676689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437042,
+        "gp:id":379266,
+        "qs:id":1207137
+    },
+    "wof:country":"PY",
+    "wof:created":1459009267,
+    "wof:geomhash":"9d4b6b17b83ea73e066a61dfa6848ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171781,
+            "locality_id":421180691,
+            "region_id":85676699
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171781,
+            "locality_id":421180691,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":421180691,
+    "wof:lastmodified":1505340649,
+    "wof:name":"San Miguel",
+    "wof:parent_id":421171781,
+    "wof:placetype":"locality",
+    "wof:population":1210,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.05,
+    -26.5,
+    -57.05,
+    -26.5
+],
+  "geometry": {"coordinates":[-57.05,-26.5],"type":"Point"}
+}

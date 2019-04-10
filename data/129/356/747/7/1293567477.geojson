@@ -1,0 +1,75 @@
+{
+  "id": 1293567477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.42763,-27.11244,-56.42763,-27.11244",
+    "geom:latitude":-27.11244,
+    "geom:longitude":-56.42763,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0708",
+    "gn:asciiname":"Compania Curunai",
+    "gn:country_code":"PY",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438774,
+    "gn:latitude":-27.11244,
+    "gn:longitude":-56.42763,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Compa\u00f1\u00eda Curu\u00f1ai",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Compa\u00f1\u00eda Curu\u00f1ai"
+    ],
+    "name:und_x_variant":[
+        "Compa\u00f1ia Curu\u00f1ai",
+        "Curu\u00f1ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438774
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"991962ad1441ffdaf0021d9b9a440a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692473,
+            "locality_id":1293567477,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1293567477,
+    "wof:lastmodified":1537683223,
+    "wof:name":"Compania Curunai",
+    "wof:parent_id":1108692473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.42763000000001,
+    -27.11244000000001,
+    -56.42763000000001,
+    -27.11244000000001
+],
+  "geometry": {"coordinates":[-56.42763000000001,-27.11244000000001],"type":"Point"}
+}

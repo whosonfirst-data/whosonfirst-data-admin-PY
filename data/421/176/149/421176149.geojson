@@ -1,0 +1,97 @@
+{
+  "id": 421176149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.3,-25.63333,-56.3,-25.63333",
+    "geom:latitude":-25.63333,
+    "geom:longitude":-56.3,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Natalicio Talavera"
+    ],
+    "name:por_x_preferred":[
+        "Natalicio Talavera"
+    ],
+    "name:spa_x_preferred":[
+        "Natalicio Talavera"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Natalicio Talavera"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5854\u5229\u897f\u5967\u5854\u62c9\u97cb\u62c9"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437682,
+    "qs:gn_pop":1809,
+    "qs:name":"Natalicio Talavera",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Guair\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1044671,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378566,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676685,
+        1108692533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437682,
+        "gp:id":378566,
+        "qs:id":1044671,
+        "wd:id":"Q1752721",
+        "wk:page":"Natalicio Talavera"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009097,
+    "wof:geomhash":"0208bbfa2e2d33c09b7d552190c03bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692533,
+            "locality_id":421176149,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":421176149,
+    "wof:lastmodified":1527726480,
+    "wof:name":"Natalicio Talavera",
+    "wof:parent_id":1108692533,
+    "wof:placetype":"locality",
+    "wof:population":1809,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.3,
+    -25.63333,
+    -56.3,
+    -25.63333
+],
+  "geometry": {"coordinates":[-56.3,-25.63333],"type":"Point"}
+}

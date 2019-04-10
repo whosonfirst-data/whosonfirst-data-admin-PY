@@ -1,0 +1,106 @@
+{
+  "id": 421199623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.24916,-25.2634,-57.24916,-25.2634",
+    "geom:latitude":-25.2634,
+    "geom:longitude":-57.24916,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062a\u0648\u0633\u060c \u067e\u0627\u0631\u0627\u06af\u0648\u0627\u06cc"
+    ],
+    "name:grn_x_preferred":[
+        "Altos"
+    ],
+    "name:ita_x_preferred":[
+        "Altos"
+    ],
+    "name:nld_x_preferred":[
+        "Altos"
+    ],
+    "name:por_x_preferred":[
+        "Altos"
+    ],
+    "name:ron_x_preferred":[
+        "Altos"
+    ],
+    "name:spa_x_preferred":[
+        "Altos"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u6258\u65af"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439439,
+    "qs:gn_pop":4763,
+    "qs:name":"Altos",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Cordillera",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":194818,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377292,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":809,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676667,
+        421175585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439439,
+        "gp:id":377292,
+        "qs:id":194818,
+        "wd:id":"Q2388597",
+        "wk:page":"Altos, Paraguay"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009995,
+    "wof:geomhash":"a7792824c3de336670c34554c02f119b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421175585,
+            "locality_id":421199623,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":421199623,
+    "wof:lastmodified":1527716416,
+    "wof:name":"Altos",
+    "wof:parent_id":421175585,
+    "wof:placetype":"locality",
+    "wof:population":4763,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.24916,
+    -25.2634,
+    -57.24916,
+    -25.2634
+],
+  "geometry": {"coordinates":[-57.24916,-25.2634],"type":"Point"}
+}

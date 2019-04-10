@@ -1,0 +1,68 @@
+{
+  "id": 1344165789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.13333,-22.33333,-56.13333,-22.33333",
+    "geom:latitude":-22.33333,
+    "geom:longitude":-56.13333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1302",
+    "gn:asciiname":"Esperanza",
+    "gn:country_code":"PY",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438727,
+    "gn:latitude":-22.33333,
+    "gn:longitude":-56.13333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676701,
+        1108692443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438727
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"40edf81285bc7683a7291c6ff70fe0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692443,
+            "locality_id":1344165789,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":1344165789,
+    "wof:lastmodified":1536723861,
+    "wof:name":"Esperanza",
+    "wof:parent_id":1108692443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.13333000000001,
+    -22.33333,
+    -56.13333000000001,
+    -22.33333
+],
+  "geometry": {"coordinates":[-56.13333000000001,-22.33333],"type":"Point"}
+}

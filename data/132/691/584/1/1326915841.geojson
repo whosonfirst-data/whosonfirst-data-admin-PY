@@ -1,0 +1,71 @@
+{
+  "id": 1326915841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.67519,-25.34671,-56.67519,-25.34671",
+    "geom:latitude":-25.34671,
+    "geom:longitude":-56.67519,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Colonia San Marcos",
+    "gn:country_code":"PY",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3438926,
+    "gn:latitude":-25.34671,
+    "gn:longitude":-56.67519,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia San Marcos",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia San Marcos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676667,
+        1108692519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438926
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"da0b701fdb005c6acfb07b8ac801c249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692519,
+            "locality_id":1326915841,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":1326915841,
+    "wof:lastmodified":1537683225,
+    "wof:name":"Colonia San Marcos",
+    "wof:parent_id":1108692519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.67519,
+    -25.34671,
+    -56.67519,
+    -25.34671
+],
+  "geometry": {"coordinates":[-56.67519,-25.34671],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242878257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.06667,-25.73333,-55.06667,-25.73333",
+    "geom:latitude":-25.73333,
+    "geom:longitude":-55.06667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1013",
+    "gn:asciiname":"Colonia General P. Colman",
+    "gn:country_code":"PY",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439023,
+    "gn:latitude":-25.73333,
+    "gn:longitude":-55.06667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia General P. Colm\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        1108692563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439023
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c6c589e0f655bb23ace6338f1e5cf32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692563,
+            "locality_id":1242878257,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1242878257,
+    "wof:lastmodified":1536628881,
+    "wof:name":"Colonia General P. Colman",
+    "wof:parent_id":1108692563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.06667,
+    -25.73333,
+    -55.06667,
+    -25.73333
+],
+  "geometry": {"coordinates":[-55.06667,-25.73333],"type":"Point"}
+}

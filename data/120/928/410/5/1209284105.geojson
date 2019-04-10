@@ -1,0 +1,65 @@
+{
+  "id": 1209284105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.32169,-24.29985,-57.32169,-24.29985",
+    "geom:latitude":-24.29985,
+    "geom:longitude":-57.32169,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Estancia Santa Catalina",
+    "gn:country_code":"PY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438251,
+    "gn:latitude":-24.29985,
+    "gn:longitude":-57.32169,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Santa Catalina",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Santa Catalina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438251
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1d8ec32a1a9debec931cea48c73c9943",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209284105
+        }
+    ],
+    "wof:id":1209284105,
+    "wof:lastmodified":1537683212,
+    "wof:name":"Estancia Santa Catalina",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.32169,
+    -24.29985,
+    -57.32169,
+    -24.29985
+],
+  "geometry": {"coordinates":[-57.32169,-24.29985],"type":"Point"}
+}

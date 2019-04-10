@@ -1,0 +1,71 @@
+{
+  "id": 1293779353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.88891,-25.55356,-56.88891,-25.55356",
+    "geom:latitude":-25.55356,
+    "geom:longitude":-56.88891,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"0319",
+    "gn:asciiname":"Colonia Stica",
+    "gn:country_code":"PY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3438907,
+    "gn:latitude":-25.55356,
+    "gn:longitude":-56.88891,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Stica",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Stica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676667,
+        421201649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438907
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"75ff09a0ad56244a67c0a364d0d25892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421201649,
+            "locality_id":1293779353,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":1293779353,
+    "wof:lastmodified":1537683225,
+    "wof:name":"Colonia Stica",
+    "wof:parent_id":421201649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.88891,
+    -25.55356,
+    -56.88891,
+    -25.55356
+],
+  "geometry": {"coordinates":[-56.88891,-25.55356],"type":"Point"}
+}

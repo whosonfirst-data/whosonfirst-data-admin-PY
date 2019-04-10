@@ -1,0 +1,100 @@
+{
+  "id": 421204667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.35,-25.18333,-57.35,-25.18333",
+    "geom:latitude":-25.18333,
+    "geom:longitude":-57.35,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:grn_x_preferred":[
+        "Nueva Colombia"
+    ],
+    "name:ita_x_preferred":[
+        "Nueva Colombia"
+    ],
+    "name:por_x_preferred":[
+        "Nueva Colombia"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Colombia"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Nueva Colombia"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u54e5\u502b\u6bd4\u4e9e"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437654,
+    "qs:gn_pop":683,
+    "qs:name":"Nueva Colombia",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Cordillera",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":243262,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378572,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676667,
+        1108692505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437654,
+        "gp:id":378572,
+        "qs:id":243262,
+        "wd:id":"Q2410393",
+        "wk:page":"Nueva Colombia District"
+    },
+    "wof:country":"PY",
+    "wof:created":1459010194,
+    "wof:geomhash":"0ae82ca369720ccf765037b732fc0ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692505,
+            "locality_id":421204667,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":421204667,
+    "wof:lastmodified":1527716181,
+    "wof:name":"Nueva Colombia",
+    "wof:parent_id":1108692505,
+    "wof:placetype":"locality",
+    "wof:population":683,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.35,
+    -25.18333,
+    -57.35,
+    -25.18333
+],
+  "geometry": {"coordinates":[-57.35,-25.18333],"type":"Point"}
+}

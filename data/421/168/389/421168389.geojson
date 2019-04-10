@@ -1,0 +1,99 @@
+{
+  "id": 421168389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.73333,-25.53333,-56.73333,-25.53333",
+    "geom:latitude":-25.53333,
+    "geom:longitude":-56.73333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "San Jos\u00e9 de los Arroyos"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 de los Arroyos"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 de los Arroyos"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de los Arroyos"
+    ],
+    "name:unk_x_variant":[
+        "San Jos\u00e9 de los Arroyos"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u6d1b\u65af\u963f\u7f85\u7d04\u65af"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437074,
+    "qs:gn_pop":5117,
+    "qs:name":"San Jos\u00e9",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Caaguaz\u00fa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1044660,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379218,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437074,
+        "gp:id":379218,
+        "qs:id":1044660,
+        "wd:id":"Q2406025",
+        "wk:page":"San Jos\u00e9 de los Arroyos"
+    },
+    "wof:country":"PY",
+    "wof:created":1459008763,
+    "wof:geomhash":"d02b5c85c1fee8b43e35c22f4c10d181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692641,
+            "locality_id":421168389,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":421168389,
+    "wof:lastmodified":1505340590,
+    "wof:name":"San Jos\u00e9",
+    "wof:parent_id":1108692641,
+    "wof:placetype":"locality",
+    "wof:population":5117,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.73333,
+    -25.53333,
+    -56.73333,
+    -25.53333
+],
+  "geometry": {"coordinates":[-56.73333,-25.53333],"type":"Point"}
+}

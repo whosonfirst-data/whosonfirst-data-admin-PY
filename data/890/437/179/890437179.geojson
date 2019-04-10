@@ -1,0 +1,87 @@
+{
+  "id": 890437179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.54021,-25.32308,-57.54021,-25.32308",
+    "geom:latitude":-25.32308,
+    "geom:longitude":-57.54021,
+    "gn:country":"PY",
+    "gn:fcode":"PPL",
+    "gn:pop":120167,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0631\u0646\u0627\u0646\u062f\u0648 \u062f\u064a \u0644\u0627 \u0645\u0648\u0631\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0646\u0627\u0646\u062f\u0648 \u062f\u0644\u0627 \u0645\u0648\u0631\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d4\u10e0\u10dc\u10d0\u10dc\u10d3\u10dd-\u10d3\u10d4-\u10da\u10d0-\u10db\u10dd\u10e0\u10d0"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e \u0434\u0435 \u043b\u0430 \u041c\u043e\u0440\u0430"
+    ],
+    "name:vep_x_preferred":[
+        "Fernando-de-la-Mor"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u723e\u5357\u591a\u5fb7\u62c9\u83ab\u62c9"
+    ],
+    "qs:name":"Fernando de la Mora",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":1016,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676681,
+        1108692587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438115,
+        "gp:id":378366,
+        "qs:id":1044685,
+        "wd:id":"Q47062",
+        "wk:page":"Fernando de la Mora, Paraguay"
+    },
+    "wof:country":"PY",
+    "wof:created":1469052141,
+    "wof:geomhash":"730249d0e26d3e2c14c5de5abda4eb74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692587,
+            "locality_id":890437179,
+            "region_id":85676681
+        }
+    ],
+    "wof:id":890437179,
+    "wof:lastmodified":1527729754,
+    "wof:name":"Fernando de la Mora",
+    "wof:parent_id":1108692587,
+    "wof:placetype":"locality",
+    "wof:population":120167,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.54021,
+    -25.32308,
+    -57.54021,
+    -25.32308
+],
+  "geometry": {"coordinates":[-57.54021,-25.32308],"type":"Point"}
+}

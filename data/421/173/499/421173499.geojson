@@ -1,0 +1,99 @@
+{
+  "id": 421173499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.55,-24.8,-56.55,-24.8",
+    "geom:latitude":-24.8,
+    "geom:longitude":-56.55,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Uni\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Uni\u00f3n"
+    ],
+    "name:ron_x_preferred":[
+        "Uni\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Uni\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0646\u06cc\u0646\u060c \u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5c3c\u7fc1"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436763,
+    "qs:gn_pop":1653,
+    "qs:name":"Uni\u00f3n",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"San Pedro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":288844,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379121,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436763,
+        "gp:id":379121,
+        "qs:id":288844,
+        "wd:id":"Q2449203",
+        "wk:page":"Uni\u00f3n, Paraguay"
+    },
+    "wof:country":"PY",
+    "wof:created":1459008984,
+    "wof:geomhash":"6163f937c79c0a86caf589d1ea500dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692827,
+            "locality_id":421173499,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":421173499,
+    "wof:lastmodified":1505340617,
+    "wof:name":"Uni\u00f3n",
+    "wof:parent_id":1108692827,
+    "wof:placetype":"locality",
+    "wof:population":1653,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.55,
+    -24.8,
+    -56.55,
+    -24.8
+],
+  "geometry": {"coordinates":[-56.55,-24.8],"type":"Point"}
+}

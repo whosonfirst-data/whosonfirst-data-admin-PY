@@ -1,0 +1,72 @@
+{
+  "id": 1276719985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.2,-19.76667,-58.2,-19.76667",
+    "geom:latitude":-19.76667,
+    "geom:longitude":-58.2,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Estancia Cerrito Jara",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438599,
+    "gn:latitude":-19.76667,
+    "gn:longitude":-58.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Estancia Cerrito Jara",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerrito Jara",
+        "Estancia Cerrito Jara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421183095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438599
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e05feff4dc16bdb5fc823a3aaca00111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421183095,
+            "locality_id":1276719985,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276719985,
+    "wof:lastmodified":1537683220,
+    "wof:name":"Estancia Cerrito Jara",
+    "wof:parent_id":421183095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.2,
+    -19.76667,
+    -58.2,
+    -19.76667
+],
+  "geometry": {"coordinates":[-58.2,-19.76667],"type":"Point"}
+}

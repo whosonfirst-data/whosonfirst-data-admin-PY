@@ -1,0 +1,73 @@
+{
+  "id": 1344178417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.88333,-22.68333,-56.88333,-22.68333",
+    "geom:latitude":-22.68333,
+    "geom:longitude":-56.88333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0109",
+    "gn:asciiname":"Estancia Gavilan",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438543,
+    "gn:latitude":-22.68333,
+    "gn:longitude":-56.88333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Gavil\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gavil\u00e1n",
+        "Estancia Gavil\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676665,
+        1108692759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438543
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"80de2c4e26ba2b859338db2bd77b060b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692759,
+            "locality_id":1344178417,
+            "region_id":85676665
+        }
+    ],
+    "wof:id":1344178417,
+    "wof:lastmodified":1537683219,
+    "wof:name":"Estancia Gavilan",
+    "wof:parent_id":1108692759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.88333000000001,
+    -22.68333,
+    -56.88333000000001,
+    -22.68333
+],
+  "geometry": {"coordinates":[-56.88333000000001,-22.68333],"type":"Point"}
+}

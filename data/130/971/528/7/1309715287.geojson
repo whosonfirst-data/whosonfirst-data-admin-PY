@@ -1,0 +1,74 @@
+{
+  "id": 1309715287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.58333,-23.31667,-55.58333,-23.31667",
+    "geom:latitude":-23.31667,
+    "geom:longitude":-55.58333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1303",
+    "gn:asciiname":"Colonia Costa Jhoby",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439058,
+    "gn:latitude":-23.31667,
+    "gn:longitude":-55.58333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Costa Jhoby",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Costa Jhovy",
+        "Colonia Mariscal Lopez",
+        "Colonia Costa Jhoby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676701,
+        1108692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439058
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"64136e82b53598765c906341c44f4e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692445,
+            "locality_id":1309715287,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":1309715287,
+    "wof:lastmodified":1537683229,
+    "wof:name":"Colonia Costa Jhoby",
+    "wof:parent_id":1108692445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.58333,
+    -23.31667,
+    -55.58333,
+    -23.31667
+],
+  "geometry": {"coordinates":[-55.58333,-23.31667],"type":"Point"}
+}

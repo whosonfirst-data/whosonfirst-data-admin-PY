@@ -1,0 +1,97 @@
+{
+  "id": 421179051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.9,-25.3,-56.9,-25.3",
+    "geom:latitude":-25.3,
+    "geom:longitude":-56.9,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:grn_x_preferred":[
+        "Isla Puku"
+    ],
+    "name:ita_x_preferred":[
+        "Isla Puc\u00fa"
+    ],
+    "name:por_x_preferred":[
+        "Isla Puc\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Puc\u00fa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u62c9\u666e\u5eab"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437962,
+    "qs:gn_pop":1529,
+    "qs:name":"Isla Puc\u00fa",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Cordillera",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":38,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":147820,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378420,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676667,
+        1108692509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437962,
+        "gp:id":378420,
+        "qs:id":147820,
+        "wd:id":"Q2410881",
+        "wk:page":"Isla Puc\u00fa"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009202,
+    "wof:geomhash":"a903912a892ec5f7a042b37070430109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692509,
+            "locality_id":421179051,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":421179051,
+    "wof:lastmodified":1527717715,
+    "wof:name":"Isla Puc\u00fa",
+    "wof:parent_id":1108692509,
+    "wof:placetype":"locality",
+    "wof:population":1529,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.9,
+    -25.3,
+    -56.9,
+    -25.3
+],
+  "geometry": {"coordinates":[-56.9,-25.3],"type":"Point"}
+}

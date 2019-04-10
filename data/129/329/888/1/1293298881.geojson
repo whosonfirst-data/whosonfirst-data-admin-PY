@@ -1,0 +1,71 @@
+{
+  "id": 1293298881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.09844,-25.47338,-56.09844,-25.47338",
+    "geom:latitude":-25.47338,
+    "geom:longitude":-56.09844,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0502",
+    "gn:asciiname":"Colonia Walter Insfran",
+    "gn:country_code":"PY",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3438883,
+    "gn:latitude":-25.47338,
+    "gn:longitude":-56.09844,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Walter Insfr\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Walter Insfr\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        421183417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438883
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7d4c133edee2a97c8283c95e59e8fbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421183417,
+            "locality_id":1293298881,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1293298881,
+    "wof:lastmodified":1537683224,
+    "wof:name":"Colonia Walter Insfran",
+    "wof:parent_id":421183417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.09844,
+    -25.47338,
+    -56.09844,
+    -25.47338
+],
+  "geometry": {"coordinates":[-56.09844,-25.47338],"type":"Point"}
+}

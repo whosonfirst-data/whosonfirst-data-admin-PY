@@ -1,0 +1,78 @@
+{
+  "id": 1125961679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.78333,-27.05,-55.78333,-27.05",
+    "geom:latitude":-27.05,
+    "geom:longitude":-55.78333,
+    "gn:gn_country":"PY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2530,
+    "gn:population":2530,
+    "iso:country":"PY",
+    "lbl:latitude":-27.05,
+    "lbl:longitude":-55.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PY",
+    "qs_pg:gn_country":"PY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3437898,
+    "qs_pg:gn_pop":2530,
+    "qs_pg:name":"Jes\u00fas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":147815,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        421204307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437898,
+        "qs_pg:id":147815
+    },
+    "wof:country":"PY",
+    "wof:created":1497297821,
+    "wof:geomhash":"e1f2039d1623d0ec5d62e1add0d43def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421204307,
+            "locality_id":1125961679,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1125961679,
+    "wof:lastmodified":1509403356,
+    "wof:name":"Jes\u00fas",
+    "wof:parent_id":421204307,
+    "wof:placetype":"locality",
+    "wof:population":2530,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.78333,
+    -27.05,
+    -55.78333,
+    -27.05
+],
+  "geometry": {"coordinates":[-55.78333,-27.05],"type":"Point"}
+}

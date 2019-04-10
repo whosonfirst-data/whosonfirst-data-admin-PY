@@ -1,0 +1,94 @@
+{
+  "id": 421185891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.26667,-26.75,-55.26667,-26.75",
+    "geom:latitude":-26.75,
+    "geom:longitude":-55.26667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Edelira"
+    ],
+    "name:por_x_preferred":[
+        "Edelira"
+    ],
+    "name:spa_x_preferred":[
+        "Edelira"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5fb7\u5229\u62c9"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438743,
+    "qs:gn_pop":1698,
+    "qs:name":"Edelira",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Itap\u00faa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1054200,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377709,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438743,
+        "gp:id":377709,
+        "qs:id":1054200,
+        "wd:id":"Q1985377",
+        "wk:page":"Edelira"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009457,
+    "wof:geomhash":"39bff6a15fd1c24dbfaa1ef5ec0d2cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692679,
+            "locality_id":421185891,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":421185891,
+    "wof:lastmodified":1527726510,
+    "wof:name":"Edelira",
+    "wof:parent_id":1108692679,
+    "wof:placetype":"locality",
+    "wof:population":1698,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.26667,
+    -26.75,
+    -55.26667,
+    -26.75
+],
+  "geometry": {"coordinates":[-55.26667,-26.75],"type":"Point"}
+}

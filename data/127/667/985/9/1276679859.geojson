@@ -1,0 +1,73 @@
+{
+  "id": 1276679859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.43333,-23.06667,-57.43333,-23.06667",
+    "geom:latitude":-23.06667,
+    "geom:longitude":-57.43333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0101",
+    "gn:asciiname":"Estancia Salinares",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438332,
+    "gn:latitude":-23.06667,
+    "gn:longitude":-57.43333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Salinares",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salinares",
+        "Estancia Salinares"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676665,
+        421201641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438332
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"00d085223fec77439bb555bdab104043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421201641,
+            "locality_id":1276679859,
+            "region_id":85676665
+        }
+    ],
+    "wof:id":1276679859,
+    "wof:lastmodified":1537683214,
+    "wof:name":"Estancia Salinares",
+    "wof:parent_id":421201641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.43333000000001,
+    -23.06667,
+    -57.43333000000001,
+    -23.06667
+],
+  "geometry": {"coordinates":[-57.43333000000001,-23.06667],"type":"Point"}
+}

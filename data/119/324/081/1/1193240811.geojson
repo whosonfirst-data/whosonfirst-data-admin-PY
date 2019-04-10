@@ -1,0 +1,67 @@
+{
+  "id": 1193240811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.61667,-23.81667,-54.61667,-23.81667",
+    "geom:latitude":-23.81667,
+    "geom:longitude":-54.61667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Estancia Santa Lucia",
+    "gn:country_code":"PY",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438237,
+    "gn:latitude":-23.81667,
+    "gn:longitude":-54.61667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Estancia Santa Lucia",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        85681947,
+        102055265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438237
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3bac73e33bf6c4cf048a4c423bd3c98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055265,
+            "locality_id":1193240811,
+            "region_id":85681947
+        }
+    ],
+    "wof:id":1193240811,
+    "wof:lastmodified":1536378629,
+    "wof:name":"Estancia Santa Lucia",
+    "wof:parent_id":102055265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.61666999999999,
+    -23.81667,
+    -54.61666999999999,
+    -23.81667
+],
+  "geometry": {"coordinates":[-54.61666999999999,-23.81667],"type":"Point"}
+}

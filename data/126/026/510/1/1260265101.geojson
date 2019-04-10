@@ -1,0 +1,68 @@
+{
+  "id": 1260265101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.73333,-23.81667,-60.73333,-23.81667",
+    "geom:latitude":-23.81667,
+    "geom:longitude":-60.73333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1508",
+    "gn:asciiname":"Mision Abajo",
+    "gn:country_code":"PY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867225,
+    "gn:latitude":-23.81667,
+    "gn:longitude":-60.73333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Misi\u00f3n Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        1108692817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867225
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"78901a44c8ad67f6c69a642a2bb6c5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692817,
+            "locality_id":1260265101,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1260265101,
+    "wof:lastmodified":1536736623,
+    "wof:name":"Mision Abajo",
+    "wof:parent_id":1108692817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.73333,
+    -23.81667,
+    -60.73333,
+    -23.81667
+],
+  "geometry": {"coordinates":[-60.73333,-23.81667],"type":"Point"}
+}

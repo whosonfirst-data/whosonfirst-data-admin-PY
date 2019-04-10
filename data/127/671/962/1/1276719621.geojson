@@ -1,0 +1,73 @@
+{
+  "id": 1276719621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.23333,-22.0,-62.23333,-22.0",
+    "geom:latitude":-22.0,
+    "geom:longitude":-62.23333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Alurralde",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867455,
+    "gn:latitude":-22.0,
+    "gn:longitude":-62.23333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Alurralde",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aluralde",
+        "Alurralde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867455
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5bd9d9462db099f349cfd3bcea4f35f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1276719621,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1276719621,
+    "wof:lastmodified":1537683237,
+    "wof:name":"Alurralde",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.23333,
+    -22.0,
+    -62.23333,
+    -22.0
+],
+  "geometry": {"coordinates":[-62.23333,-22.0],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310570971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.6375,-23.12167,-57.6375,-23.12167",
+    "geom:latitude":-23.12167,
+    "geom:longitude":-57.6375,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Puerto Carava Vuelta",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437413,
+    "gn:latitude":-23.12167,
+    "gn:longitude":-57.6375,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Carav\u00e1 Vuelta",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caray\u00e1 Vuelta",
+        "Puerto Caray\u00e1 Vuelta",
+        "Estancia Caray\u00e1 Vuelta",
+        "Puerto Carav\u00e1 Vuelta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        421171367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437413
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c2054b5eec513ba823fa47c2e14b5a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171367,
+            "locality_id":1310570971,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1310570971,
+    "wof:lastmodified":1537683205,
+    "wof:name":"Puerto Carava Vuelta",
+    "wof:parent_id":421171367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.6375,
+    -23.12167,
+    -57.6375,
+    -23.12167
+],
+  "geometry": {"coordinates":[-57.6375,-23.12167],"type":"Point"}
+}

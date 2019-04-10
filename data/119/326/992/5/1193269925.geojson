@@ -1,0 +1,68 @@
+{
+  "id": 1193269925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.65,-22.61667,-57.65,-22.61667",
+    "geom:latitude":-22.61667,
+    "geom:longitude":-57.65,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0101",
+    "gn:asciiname":"Isla Real",
+    "gn:country_code":"PY",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437961,
+    "gn:latitude":-22.61667,
+    "gn:longitude":-57.65,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Isla Real",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676665,
+        421201641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437961
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d9951a297c1b8d86e1341d328d2cce36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421201641,
+            "locality_id":1193269925,
+            "region_id":85676665
+        }
+    ],
+    "wof:id":1193269925,
+    "wof:lastmodified":1536371808,
+    "wof:name":"Isla Real",
+    "wof:parent_id":421201641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.65,
+    -22.61667000000001,
+    -57.65,
+    -22.61667000000001
+],
+  "geometry": {"coordinates":[-57.65,-22.61667000000001],"type":"Point"}
+}

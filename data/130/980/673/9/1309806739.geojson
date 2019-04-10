@@ -1,0 +1,68 @@
+{
+  "id": 1309806739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.55,-22.28333,-56.55,-22.28333",
+    "geom:latitude":-22.28333,
+    "geom:longitude":-56.55,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1302",
+    "gn:asciiname":"Estancia Arroyo Primero",
+    "gn:country_code":"PY",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438674,
+    "gn:latitude":-22.28333,
+    "gn:longitude":-56.55,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Arroyo Primero",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676701,
+        1108692443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438674
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"35c500add83851c690631574a0f2a616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692443,
+            "locality_id":1309806739,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":1309806739,
+    "wof:lastmodified":1536930387,
+    "wof:name":"Estancia Arroyo Primero",
+    "wof:parent_id":1108692443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.55,
+    -22.28333,
+    -56.55,
+    -22.28333
+],
+  "geometry": {"coordinates":[-56.55,-22.28333],"type":"Point"}
+}

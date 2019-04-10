@@ -1,0 +1,75 @@
+{
+  "id": 421186735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.931304,-20.117839,-61.931304,-20.117839",
+    "geom:latitude":-20.117839,
+    "geom:longitude":-61.931304,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Fortin Gabino Mendoza",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Boquer\u00f3n",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075782,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379238,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":379238,
+        "qs:id":1075782
+    },
+    "wof:country":"PY",
+    "wof:created":1459009490,
+    "wof:geomhash":"84a7bfed986cb60b15772b6cbfc08e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":421186735,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":421186735,
+    "wof:lastmodified":1500018972,
+    "wof:name":"Fortin Gabino Mendoza",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.931304,
+    -20.117839,
+    -61.931304,
+    -20.117839
+],
+  "geometry": {"coordinates":[-61.931304,-20.117839],"type":"Point"}
+}

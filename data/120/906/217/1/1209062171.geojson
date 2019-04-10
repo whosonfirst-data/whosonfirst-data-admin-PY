@@ -1,0 +1,66 @@
+{
+  "id": 1209062171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.35,-22.45,-62.35,-22.45",
+    "geom:latitude":-22.45,
+    "geom:longitude":-62.35,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Doctor Pedro P. Pena",
+    "gn:country_code":"PY",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867392,
+    "gn:latitude":-22.45,
+    "gn:longitude":-62.35,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Doctor Pedro P. Pe\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doctor Pedro P. Pe\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867392,
+        "wk:page":"Doctor_Pedro_P._Pe%C3%B1a"
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"2ac59488ee6002779c78e200091ca7a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209062171
+        }
+    ],
+    "wof:id":1209062171,
+    "wof:lastmodified":1537683236,
+    "wof:name":"Doctor Pedro P. Pena",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.35,
+    -22.45,
+    -62.35,
+    -22.45
+],
+  "geometry": {"coordinates":[-62.35,-22.45],"type":"Point"}
+}

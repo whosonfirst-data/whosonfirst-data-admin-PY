@@ -1,0 +1,68 @@
+{
+  "id": 1293862073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.0,-26.88333,-56.0,-26.88333",
+    "geom:latitude":-26.88333,
+    "geom:longitude":-56.0,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0720",
+    "gn:asciiname":"Jose Potrero",
+    "gn:country_code":"PY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437886,
+    "gn:latitude":-26.88333,
+    "gn:longitude":-56.0,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Jos\u00e9 Potrero",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437886
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"49db75c9b8baa658f3416e6b5d11389c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692673,
+            "locality_id":1293862073,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1293862073,
+    "wof:lastmodified":1536743950,
+    "wof:name":"Jose Potrero",
+    "wof:parent_id":1108692673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.0,
+    -26.88333,
+    -56.0,
+    -26.88333
+],
+  "geometry": {"coordinates":[-56.0,-26.88333],"type":"Point"}
+}

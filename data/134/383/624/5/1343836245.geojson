@@ -1,0 +1,68 @@
+{
+  "id": 1343836245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.75,-26.3,-54.75,-26.3",
+    "geom:latitude":-26.3,
+    "geom:longitude":-54.75,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0718",
+    "gn:asciiname":"Pareja",
+    "gn:country_code":"PY",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437588,
+    "gn:latitude":-26.3,
+    "gn:longitude":-54.75,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Pareja",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437588
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c07ebbdd77b2eb3335826ff9e7ebd933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692671,
+            "locality_id":1343836245,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1343836245,
+    "wof:lastmodified":1536701855,
+    "wof:name":"Pareja",
+    "wof:parent_id":1108692671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.75,
+    -26.3,
+    -54.75,
+    -26.3
+],
+  "geometry": {"coordinates":[-54.75,-26.3],"type":"Point"}
+}

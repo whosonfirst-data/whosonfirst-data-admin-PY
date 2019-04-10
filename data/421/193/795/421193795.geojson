@@ -1,0 +1,99 @@
+{
+  "id": 421193795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.15,-26.38333,-57.15,-26.38333",
+    "geom:latitude":-26.38333,
+    "geom:longitude":-57.15,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:grn_x_preferred":[
+        "Villa Florida"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Florida"
+    ],
+    "name:por_x_preferred":[
+        "Villa Florida"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Florida"
+    ],
+    "name:unk_x_variant":[
+        "Florida"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u6d1b\u91cc\u9054\u93ae"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436727,
+    "qs:gn_pop":2305,
+    "qs:name":"Villa Florida",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":148,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":147801,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379136,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        1108692707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436727,
+        "gp:id":379136,
+        "qs:id":147801,
+        "wd:id":"Q615791",
+        "wk:page":"Villa Florida"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009783,
+    "wof:geomhash":"e4c1fd71bee6906fd7ef7642f3355c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692707,
+            "locality_id":421193795,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":421193795,
+    "wof:lastmodified":1505340738,
+    "wof:name":"Villa Florida",
+    "wof:parent_id":1108692707,
+    "wof:placetype":"locality",
+    "wof:population":2305,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.15,
+    -26.38333,
+    -57.15,
+    -26.38333
+],
+  "geometry": {"coordinates":[-57.15,-26.38333],"type":"Point"}
+}

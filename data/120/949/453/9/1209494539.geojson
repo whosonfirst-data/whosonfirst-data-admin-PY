@@ -1,0 +1,62 @@
+{
+  "id": 1209494539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.25,-27.16667,-58.25,-27.16667",
+    "geom:latitude":-27.16667,
+    "geom:longitude":-58.25,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1210",
+    "gn:asciiname":"Pedro Gonzalez",
+    "gn:country_code":"PY",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437548,
+    "gn:latitude":-27.16667,
+    "gn:longitude":-58.25,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Pedro Gonz\u00e1lez",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437548
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"94cc5d808ee60f477e0c957a5f2b9c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209494539
+        }
+    ],
+    "wof:id":1209494539,
+    "wof:lastmodified":1536285378,
+    "wof:name":"Pedro Gonzalez",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.25,
+    -27.16667,
+    -58.25,
+    -27.16667
+],
+  "geometry": {"coordinates":[-58.25,-27.16667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209232389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.0,-22.9,-55.0,-22.9",
+    "geom:latitude":-22.9,
+    "geom:longitude":-55.0,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Colonia San Francisco",
+    "gn:country_code":"PY",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438931,
+    "gn:latitude":-22.9,
+    "gn:longitude":-55.0,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Colonia San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438931
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"45855a75884860f0ceb9617c49cc6b8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209232389
+        }
+    ],
+    "wof:id":1209232389,
+    "wof:lastmodified":1536293596,
+    "wof:name":"Colonia San Francisco",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.0,
+    -22.9,
+    -55.0,
+    -22.9
+],
+  "geometry": {"coordinates":[-55.0,-22.9],"type":"Point"}
+}

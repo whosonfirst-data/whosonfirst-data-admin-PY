@@ -1,0 +1,62 @@
+{
+  "id": 1209228805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.98333,-25.63333,-54.98333,-25.63333",
+    "geom:latitude":-25.63333,
+    "geom:longitude":-54.98333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1021",
+    "gn:asciiname":"Cruce Margarita",
+    "gn:country_code":"PY",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438790,
+    "gn:latitude":-25.63333,
+    "gn:longitude":-54.98333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Cruce Margarita",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438790
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8cce521f76ce6cf3716a3d6fff594bbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209228805
+        }
+    ],
+    "wof:id":1209228805,
+    "wof:lastmodified":1536293706,
+    "wof:name":"Cruce Margarita",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.98333,
+    -25.63333,
+    -54.98333,
+    -25.63333
+],
+  "geometry": {"coordinates":[-54.98333,-25.63333],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 421205311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.58333,-27.21667,-58.58333,-27.21667",
+    "geom:latitude":-27.21667,
+    "geom:longitude":-58.58333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:grn_x_preferred":[
+        "Paso de Patria"
+    ],
+    "name:hbs_x_preferred":[
+        "Paso de Patria"
+    ],
+    "name:ita_x_preferred":[
+        "Paso de Patria"
+    ],
+    "name:por_x_preferred":[
+        "Paso de Patria"
+    ],
+    "name:sco_x_preferred":[
+        "Paso de Patria"
+    ],
+    "name:spa_x_preferred":[
+        "Paso de Patria"
+    ],
+    "name:unk_x_variant":[
+        "Paso Patria"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7d22\u5fb7\u5e15\u7279\u91cc\u4e9e"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437578,
+    "qs:gn_pop":853,
+    "qs:name":"Paso de Patria",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"\u00d1eembuc\u00fa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":260592,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379211,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        421170011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437578,
+        "gp:id":379211,
+        "qs:id":260592,
+        "wd:id":"Q1293157",
+        "wk:page":"Paso de Patria"
+    },
+    "wof:country":"PY",
+    "wof:created":1459010221,
+    "wof:geomhash":"90e75dc7ffb1485ce25318ae5f073447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170011,
+            "locality_id":421205311,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":421205311,
+    "wof:lastmodified":1505340794,
+    "wof:name":"Paso de Patria",
+    "wof:parent_id":421170011,
+    "wof:placetype":"locality",
+    "wof:population":853,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.58333,
+    -27.21667,
+    -58.58333,
+    -27.21667
+],
+  "geometry": {"coordinates":[-58.58333,-27.21667],"type":"Point"}
+}

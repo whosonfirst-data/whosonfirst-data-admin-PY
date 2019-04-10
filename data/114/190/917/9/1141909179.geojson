@@ -1,0 +1,336 @@
+{
+  "id": 1141909179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.6160567643,-25.5166996065,-54.6160567643,-25.5166996065",
+    "geom:latitude":-25.5167,
+    "geom:longitude":-54.616057,
+    "iso:country":"PY",
+    "lbl:latitude":-25.5167,
+    "lbl:longitude":-54.616057,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0648\u062f\u0627\u062f \u062f\u064a\u0644 \u0627\u0633\u062a\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u056b\u0578\u0582\u0564\u0561\u0564 \u0564\u0565\u056c \u0537\u057d\u057f\u0565"
+    ],
+    "name:baq_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u0989\u09a6\u09be\u09a6 \u09a6\u09c7\u09b2 \u098f\u09b8\u09cd\u09a4\u09c7"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u0443\u0434\u0430\u0434 \u0434\u0435\u043b \u0415\u0441\u0442\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:chi_x_preferred":[
+        "\u6771\u65b9\u5e02"
+    ],
+    "name:cze_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:dan_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:dut_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:eng_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:epo_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:fin_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:fre_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d8\u10e3\u10d3\u10d0\u10d3-\u10d3\u10d4\u10da-\u10d4\u10e1\u10e2\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:glg_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b9\u03bf\u03c5\u03b4\u03ac\u03b4 \u03bd\u03c4\u03b5\u03bb \u0388\u03c3\u03c4\u03b5"
+    ],
+    "name:grn_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abf\u0aaf\u0ac1\u0aa6\u0abe\u0aa6 \u0aa1\u0ac7\u0ab2 \u0a8d\u0ab8\u0acd\u0a9f\u0ac7"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d5\u05d3\u05d3 \u05d3\u05dc \u05d0\u05e1\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u092f\u0942\u0926\u093e\u0926 \u0921\u0947\u0932 \u090f\u0938\u094d\u091f\u0947"
+    ],
+    "name:hrv_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:ido_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:ile_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:ina_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:ind_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:ita_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a6\u30c0\u30fc\u30fb\u30c7\u30eb\u30fb\u30a8\u30b9\u30c6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbf\u0caf\u0cc1\u0ca1\u0cbe\u0ca1\u0ccd \u0ca1\u0cc6\u0cb2\u0ccd \u0c8e\u0cb8\u0ccd\u0c9f\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\uc6b0\ub2e4\ub4dc\ub378\uc5d0\uc2a4\ud14c"
+    ],
+    "name:lad_x_preferred":[
+        "Sivdad del Este"
+    ],
+    "name:lav_x_preferred":[
+        "Siudada del Este"
+    ],
+    "name:lit_x_preferred":[
+        "Siudad del Est\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0458\u0443\u0434\u0430\u0434 \u0434\u0435\u043b \u0415\u0441\u0442\u0435"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093f\u0909\u0926\u093e\u0926 \u0921\u0947\u0932 \u090f\u0938\u094d\u200d\u0924\u0947"
+    ],
+    "name:may_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:nob_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u0648\u062f\u0627\u062f \u062f\u0644 \u0627\u0633\u062a\u0647"
+    ],
+    "name:pms_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:pol_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:por_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:rum_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044c\u044e\u0434\u0430\u0434-\u0434\u0435\u043b\u044c-\u042d\u0441\u0442\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd2\u0dba\u0dd4\u0da9\u0da9\u0dca \u0da9\u0dd9\u0dbd\u0dca \u0d91\u0dc3\u0dca\u0da7\u0dda"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u0458\u0443\u0434\u0430\u0434 \u0434\u0435\u043b \u0415\u0441\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0baf\u0bc2\u0b9f\u0bbe\u0b9f\u0bcd \u0b9f\u0bc6\u0bb2\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3f\u0c2f\u0c41\u0c21\u0c3e\u0c21\u0c4d \u0c21\u0c46\u0c32\u0c4d \u0c0e\u0c38\u0c4d\u0c1f\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e34\u0e27\u0e14\u0e31\u0e14\u0e40\u0e14\u0e25\u0e40\u0e2d\u0e2a\u0e40\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u044c\u044e\u0434\u0430\u0434-\u0434\u0435\u043b\u044c-\u0415\u0441\u0442\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0648\u062f\u0627\u062f \u062f\u06cc\u0644 \u0627\u0633\u062a\u06d2"
+    ],
+    "name:vep_x_preferred":[
+        "Sjudad Del' Este"
+    ],
+    "name:vie_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:vol_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:war_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e1\u05d9\u05d5\u05d3\u05d0\u05d3 \u05d3\u05e2\u05dc \u05e2\u05e1\u05d8\u05e2"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Paraguay",
+    "ne:ADM0_A3":"PRY",
+    "ne:ADM1NAME":"Alto Paran",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":1,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added place.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"Top 50 ranks with no GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"PY",
+    "ne:LABELRANK":7,
+    "ne:LATITUDE":-25.5167,
+    "ne:LONGITUDE":-54.616057,
+    "ne:LS_MATCH":2,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Ciudad del Este",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Ciudad del Este",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":50,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":320872,
+    "ne:POP_MIN":320872,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":4,
+    "ne:SOV0NAME":"Paraguay",
+    "ne:SOV_A3":"PRY",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":5.6,
+    "reversegeo:latitude":-25.5167,
+    "reversegeo:longitude":-54.616057,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        421169437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q192235"
+    },
+    "wof:country":"PY",
+    "wof:created":1499131038,
+    "wof:geomhash":"9e81755118ef218dc404fb66c429f1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421169437,
+            "locality_id":1141909179,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1141909179,
+    "wof:lastmodified":1534379451,
+    "wof:name":"Ciudad del Este",
+    "wof:parent_id":421169437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[
+        421187353
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.61605676432845,
+    -25.51669960653101,
+    -54.61605676432845,
+    -25.51669960653101
+],
+  "geometry": {"coordinates":[-54.61605676432845,-25.51669960653101],"type":"Point"}
+}

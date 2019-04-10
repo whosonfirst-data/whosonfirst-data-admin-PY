@@ -1,0 +1,68 @@
+{
+  "id": 1260205833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.4,-25.45,-57.4,-25.45",
+    "geom:latitude":-25.45,
+    "geom:longitude":-57.4,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1105",
+    "gn:asciiname":"J. Saldivar",
+    "gn:country_code":"PY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437883,
+    "gn:latitude":-25.45,
+    "gn:longitude":-57.4,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"J. Saldivar",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676681,
+        1108692591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437883
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1618a688752bfb60b0164b9298ec71b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692591,
+            "locality_id":1260205833,
+            "region_id":85676681
+        }
+    ],
+    "wof:id":1260205833,
+    "wof:lastmodified":1536816616,
+    "wof:name":"J. Saldivar",
+    "wof:parent_id":1108692591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.4,
+    -25.45,
+    -57.4,
+    -25.45
+],
+  "geometry": {"coordinates":[-57.4,-25.45],"type":"Point"}
+}

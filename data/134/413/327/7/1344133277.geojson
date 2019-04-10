@@ -1,0 +1,67 @@
+{
+  "id": 1344133277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.15,-26.2,-58.15,-26.2",
+    "geom:latitude":-26.2,
+    "geom:longitude":-58.15,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Galpones",
+    "gn:country_code":"PY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438096,
+    "gn:latitude":-26.2,
+    "gn:longitude":-58.15,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Galpones",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        421180291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438096
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1e75ce03441c37c35a14a1ecacc3dd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180291,
+            "locality_id":1344133277,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1344133277,
+    "wof:lastmodified":1536771100,
+    "wof:name":"Galpones",
+    "wof:parent_id":421180291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.15,
+    -26.2,
+    -58.15,
+    -26.2
+],
+  "geometry": {"coordinates":[-58.15,-26.2],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 421175843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.58333,-25.65,-54.58333,-25.65",
+    "geom:latitude":-25.65,
+    "geom:longitude":-54.58333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u064a\u0633\u064a\u0633 \u0628\u0631\u062a\u0648\u0646\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0438\u0441\u0435\u0441 \u0411\u0435\u0440\u0442\u043e\u043d\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Mois\u00e9s Santiago Bertoni"
+    ],
+    "name:grn_x_preferred":[
+        "Mois\u00e9s Santiago Bertoni"
+    ],
+    "name:ita_x_preferred":[
+        "Mos\u00e8 Bertoni"
+    ],
+    "name:por_x_preferred":[
+        "Mois\u00e9s Santiago Bertoni"
+    ],
+    "name:spa_x_preferred":[
+        "Mois\u00e9s Santiago Bertoni"
+    ],
+    "name:unk_x_variant":[
+        "Bertoni"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437418,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Bertoni",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Alto Paran\u00e1",
+    "qs:photos":354,
+    "qs:photos_1k":72,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":354,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1033528,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378676,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421198471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437418,
+        "gp:id":378676,
+        "qs:id":1033528
+    },
+    "wof:country":"PY",
+    "wof:created":1459009081,
+    "wof:geomhash":"c90c6d9e904e4d03ecd305223aa23aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198471,
+            "locality_id":421175843,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421175843,
+    "wof:lastmodified":1501266414,
+    "wof:name":"Puerto Bertoni",
+    "wof:parent_id":421198471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.58333,
+    -25.65,
+    -54.58333,
+    -25.65
+],
+  "geometry": {"coordinates":[-54.58333,-25.65],"type":"Point"}
+}

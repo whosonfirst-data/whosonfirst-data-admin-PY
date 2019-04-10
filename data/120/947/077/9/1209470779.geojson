@@ -1,0 +1,67 @@
+{
+  "id": 1209470779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.08333,-22.85,-61.08333,-22.85",
+    "geom:latitude":-22.85,
+    "geom:longitude":-61.08333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Sargento Saracho",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867111,
+    "gn:latitude":-22.85,
+    "gn:longitude":-61.08333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Sargento Saracho",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paz Sold\u00e1n",
+        "Sargento Saracho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867111
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"bc938055aa4881a1c06a7e4e0710832a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209470779
+        }
+    ],
+    "wof:id":1209470779,
+    "wof:lastmodified":1537683233,
+    "wof:name":"Sargento Saracho",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.08333,
+    -22.85,
+    -61.08333,
+    -22.85
+],
+  "geometry": {"coordinates":[-61.08333,-22.85],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 421168201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.7,-24.43333,-56.7,-24.43333",
+    "geom:latitude":-24.43333,
+    "geom:longitude":-56.7,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "General Elizardo Aquino"
+    ],
+    "name:pol_x_preferred":[
+        "General Elizardo Aquino"
+    ],
+    "name:por_x_preferred":[
+        "General Elizardo Aquino"
+    ],
+    "name:spa_x_preferred":[
+        "General Elizardo Aquino"
+    ],
+    "name:unk_x_variant":[
+        "Colonia General Acuino"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5229\u85a9\u591a\u963f\u57fa\u8afe\u5c07\u8ecd\u93ae"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438070,
+    "qs:gn_pop":2983,
+    "qs:name":"General Elizardo Aquino",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"San Pedro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1044682,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378383,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438070,
+        "gp:id":378383,
+        "qs:id":1044682,
+        "wd:id":"Q1989449",
+        "wk:page":"General Elizardo Aquino"
+    },
+    "wof:country":"PY",
+    "wof:created":1459008757,
+    "wof:geomhash":"70ec058cfdc313abd967ff68efbace6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692769,
+            "locality_id":421168201,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":421168201,
+    "wof:lastmodified":1527716098,
+    "wof:name":"General Elizardo Aquino",
+    "wof:parent_id":1108692769,
+    "wof:placetype":"locality",
+    "wof:population":2983,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.7,
+    -24.43333,
+    -56.7,
+    -24.43333
+],
+  "geometry": {"coordinates":[-56.7,-24.43333],"type":"Point"}
+}

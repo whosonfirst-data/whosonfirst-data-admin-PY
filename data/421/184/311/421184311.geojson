@@ -1,0 +1,97 @@
+{
+  "id": 421184311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.2,-26.21667,-57.2,-26.21667",
+    "geom:latitude":-26.21667,
+    "geom:longitude":-57.2,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:grn_x_preferred":[
+        "Ka'apuku"
+    ],
+    "name:ita_x_preferred":[
+        "Caapuc\u00fa"
+    ],
+    "name:por_x_preferred":[
+        "Caapuc\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Caapuc\u00fa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u666e\u5eab"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439304,
+    "qs:gn_pop":2284,
+    "qs:name":"Caapuc\u00fa",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Paraguar\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1063789,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379180,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":526,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        1108692707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439304,
+        "gp:id":379180,
+        "qs:id":1063789,
+        "wd:id":"Q2410335",
+        "wk:page":"Caapuc\u00fa"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009407,
+    "wof:geomhash":"736962f6afe909b9eaed3770be6f2289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692707,
+            "locality_id":421184311,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":421184311,
+    "wof:lastmodified":1527716455,
+    "wof:name":"Caapuc\u00fa",
+    "wof:parent_id":1108692707,
+    "wof:placetype":"locality",
+    "wof:population":2284,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.2,
+    -26.21667,
+    -57.2,
+    -26.21667
+],
+  "geometry": {"coordinates":[-57.2,-26.21667],"type":"Point"}
+}

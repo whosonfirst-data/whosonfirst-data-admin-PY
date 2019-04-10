@@ -1,0 +1,71 @@
+{
+  "id": 1276584175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.18238,-26.32087,-56.18238,-26.32087",
+    "geom:latitude":-26.32087,
+    "geom:longitude":-56.18238,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Estancia Taruma",
+    "gn:country_code":"PY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438179,
+    "gn:latitude":-26.32087,
+    "gn:longitude":-56.18238,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Tarum\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Tarum\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438179
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f4629ce0840cb50d4755712e95e4393b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692859,
+            "locality_id":1276584175,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":1276584175,
+    "wof:lastmodified":1537683211,
+    "wof:name":"Estancia Taruma",
+    "wof:parent_id":1108692859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.18238,
+    -26.32087000000001,
+    -56.18238,
+    -26.32087000000001
+],
+  "geometry": {"coordinates":[-56.18238,-26.32087000000001],"type":"Point"}
+}

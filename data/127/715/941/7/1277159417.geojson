@@ -1,0 +1,67 @@
+{
+  "id": 1277159417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.68333,-24.83333,-58.68333,-24.83333",
+    "geom:latitude":-24.83333,
+    "geom:longitude":-58.68333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"San Bernardo",
+    "gn:country_code":"PY",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437119,
+    "gn:latitude":-24.83333,
+    "gn:longitude":-58.68333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"San Bernardo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437119
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1ce6f2cc63103a26a24fa7fd1263a730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718269,
+            "locality_id":1277159417,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1277159417,
+    "wof:lastmodified":1536657298,
+    "wof:name":"San Bernardo",
+    "wof:parent_id":1108718269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.68333000000001,
+    -24.83333,
+    -58.68333000000001,
+    -24.83333
+],
+  "geometry": {"coordinates":[-58.68333000000001,-24.83333],"type":"Point"}
+}

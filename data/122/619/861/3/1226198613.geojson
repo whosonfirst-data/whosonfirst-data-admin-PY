@@ -1,0 +1,67 @@
+{
+  "id": 1226198613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.85,-21.21667,-57.85,-21.21667",
+    "geom:latitude":-21.21667,
+    "geom:longitude":-57.85,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"PY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437117,
+    "gn:latitude":-21.21667,
+    "gn:longitude":-57.85,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        85681947,
+        102055307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437117
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"273cab9cf949a4c0239bc9726a7bf27b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055307,
+            "locality_id":1226198613,
+            "region_id":85681947
+        }
+    ],
+    "wof:id":1226198613,
+    "wof:lastmodified":1537000916,
+    "wof:name":"San Carlos",
+    "wof:parent_id":102055307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.85,
+    -21.21667,
+    -57.85,
+    -21.21667
+],
+  "geometry": {"coordinates":[-57.85,-21.21667],"type":"Point"}
+}

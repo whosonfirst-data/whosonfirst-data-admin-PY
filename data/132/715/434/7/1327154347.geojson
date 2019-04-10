@@ -1,0 +1,70 @@
+{
+  "id": 1327154347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.57514,-25.30237,-56.57514,-25.30237",
+    "geom:latitude":-25.30237,
+    "geom:longitude":-56.57514,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia Andrada",
+    "gn:country_code":"PY",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3438684,
+    "gn:latitude":-25.30237,
+    "gn:longitude":-56.57514,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Estancia Andrada",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "Estancia Andrada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438684
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"90d1286c9f01ca625d33e867c8e8619c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692655,
+            "locality_id":1327154347,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1327154347,
+    "wof:lastmodified":1537683222,
+    "wof:name":"Estancia Andrada",
+    "wof:parent_id":1108692655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.57514000000001,
+    -25.30237,
+    -56.57514000000001,
+    -25.30237
+],
+  "geometry": {"coordinates":[-56.57514000000001,-25.30237],"type":"Point"}
+}

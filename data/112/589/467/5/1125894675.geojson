@@ -1,0 +1,78 @@
+{
+  "id": 1125894675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.2,-26.83333,-56.2,-26.83333",
+    "geom:latitude":-26.83333,
+    "geom:longitude":-56.2,
+    "gn:gn_country":"PY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5722,
+    "gn:population":5722,
+    "iso:country":"PY",
+    "lbl:latitude":-26.83333,
+    "lbl:longitude":-56.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PY",
+    "qs_pg:gn_country":"PY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3437022,
+    "qs_pg:gn_pop":5722,
+    "qs_pg:name":"San Pedro del Paran\u00e1",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1044657,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437022,
+        "qs_pg:id":1044657
+    },
+    "wof:country":"PY",
+    "wof:created":1497295490,
+    "wof:geomhash":"6a8279319784b5ef9145d2c9d2c8683d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692673,
+            "locality_id":1125894675,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1125894675,
+    "wof:lastmodified":1509399042,
+    "wof:name":"San Pedro del Paran\u00e1",
+    "wof:parent_id":1108692673,
+    "wof:placetype":"locality",
+    "wof:population":5722,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.2,
+    -26.83333,
+    -56.2,
+    -26.83333
+],
+  "geometry": {"coordinates":[-56.2,-26.83333],"type":"Point"}
+}

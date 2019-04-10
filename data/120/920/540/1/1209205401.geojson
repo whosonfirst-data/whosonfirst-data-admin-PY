@@ -1,0 +1,64 @@
+{
+  "id": 1209205401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.61642,-25.25741,-56.61642,-25.25741",
+    "geom:latitude":-25.25741,
+    "geom:longitude":-56.61642,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia Pastora",
+    "gn:country_code":"PY",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438389,
+    "gn:latitude":-25.25741,
+    "gn:longitude":-56.61642,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Estancia Pastora",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Pastora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438389
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d3795af1fbefaac2e218035e4d8d90a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209205401
+        }
+    ],
+    "wof:id":1209205401,
+    "wof:lastmodified":1537683215,
+    "wof:name":"Estancia Pastora",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.61642,
+    -25.25741,
+    -56.61642,
+    -25.25741
+],
+  "geometry": {"coordinates":[-56.61642,-25.25741],"type":"Point"}
+}

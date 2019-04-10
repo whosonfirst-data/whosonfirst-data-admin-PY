@@ -1,0 +1,78 @@
+{
+  "id": 1125894689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.7,-25.36667,-55.7,-25.36667",
+    "geom:latitude":-25.36667,
+    "geom:longitude":-55.7,
+    "gn:gn_country":"PY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11558,
+    "gn:population":11558,
+    "iso:country":"PY",
+    "lbl:latitude":-25.36667,
+    "lbl:longitude":-55.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PY",
+    "qs_pg:gn_country":"PY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3439032,
+    "qs_pg:gn_pop":11558,
+    "qs_pg:name":"Colonia General Alfredo Stroessner",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1044696,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439032,
+        "qs_pg:id":1044696
+    },
+    "wof:country":"PY",
+    "wof:created":1497295491,
+    "wof:geomhash":"1279ec03397bf7fc53ee050cc462bef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692645,
+            "locality_id":1125894689,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1125894689,
+    "wof:lastmodified":1509399045,
+    "wof:name":"Colonia General Alfredo Stroessner",
+    "wof:parent_id":1108692645,
+    "wof:placetype":"locality",
+    "wof:population":11558,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.7,
+    -25.36667,
+    -55.7,
+    -25.36667
+],
+  "geometry": {"coordinates":[-55.7,-25.36667],"type":"Point"}
+}

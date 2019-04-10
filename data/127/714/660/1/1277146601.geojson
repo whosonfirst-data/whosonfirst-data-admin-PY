@@ -1,0 +1,73 @@
+{
+  "id": 1277146601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.28333,-23.86667,-58.28333,-23.86667",
+    "geom:latitude":-23.86667,
+    "geom:longitude":-58.28333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1502",
+    "gn:asciiname":"Estancia Talavera",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438186,
+    "gn:latitude":-23.86667,
+    "gn:longitude":-58.28333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Talavera",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talavera",
+        "Estancia Talavera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        421171779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438186
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8801ce6e57f5cee520e13cfb9f13d113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171779,
+            "locality_id":1277146601,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1277146601,
+    "wof:lastmodified":1537683211,
+    "wof:name":"Estancia Talavera",
+    "wof:parent_id":421171779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.28333000000001,
+    -23.86667000000001,
+    -58.28333000000001,
+    -23.86667000000001
+],
+  "geometry": {"coordinates":[-58.28333000000001,-23.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226721611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.13351,-24.3686,-56.13351,-24.3686",
+    "geom:latitude":-24.3686,
+    "geom:longitude":-56.13351,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0216",
+    "gn:asciiname":"Puerto Jardin",
+    "gn:country_code":"PY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437907,
+    "gn:latitude":-24.3686,
+    "gn:longitude":-56.13351,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Jard\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Jard\u00edn"
+    ],
+    "name:und_x_variant":[
+        "Jard\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437907
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"9bc30e695dc78c7f56dc40e8f03331c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692489,
+            "locality_id":1226721611,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1226721611,
+    "wof:lastmodified":1537683208,
+    "wof:name":"Puerto Jardin",
+    "wof:parent_id":1108692489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.13351,
+    -24.3686,
+    -56.13351,
+    -24.3686
+],
+  "geometry": {"coordinates":[-56.13351,-24.3686],"type":"Point"}
+}

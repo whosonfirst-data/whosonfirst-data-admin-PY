@@ -1,0 +1,68 @@
+{
+  "id": 1259438821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.86667,-23.58333,-60.86667,-23.58333",
+    "geom:latitude":-23.58333,
+    "geom:longitude":-60.86667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Puesto Palomo",
+    "gn:country_code":"PY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867144,
+    "gn:latitude":-23.58333,
+    "gn:longitude":-60.86667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puesto Palomo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867144
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f270182d2f23b476eae3b0eea9fbbdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1259438821,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1259438821,
+    "wof:lastmodified":1536923840,
+    "wof:name":"Puesto Palomo",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.86666999999999,
+    -23.58333,
+    -60.86666999999999,
+    -23.58333
+],
+  "geometry": {"coordinates":[-60.86666999999999,-23.58333],"type":"Point"}
+}

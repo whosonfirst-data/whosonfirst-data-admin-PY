@@ -1,0 +1,75 @@
+{
+  "id": 421189521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-57.8862755,-21.065755,-57.8862755,-21.065755",
+    "geom:latitude":-21.065755,
+    "geom:longitude":-57.886276,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"La Victoria",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Alto Paraguay",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1113887,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":26810903,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810903,
+        "qs:id":1113887,
+        "wd:id":"Q299696"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009627,
+    "wof:geomhash":"bf9e0d74c8c84ce10eb30c75a25757f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421189521,
+            "region_id":85676655
+        }
+    ],
+    "wof:id":421189521,
+    "wof:lastmodified":1527716267,
+    "wof:name":"La Victoria",
+    "wof:parent_id":85676655,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.8862755,
+    -21.065755,
+    -57.8862755,
+    -21.065755
+],
+  "geometry": {"coordinates":[-57.8862755,-21.065755],"type":"Point"}
+}

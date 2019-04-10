@@ -1,0 +1,117 @@
+{
+  "id": 421194021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.9,-27.4,-56.9,-27.4",
+    "geom:latitude":-27.4,
+    "geom:longitude":-56.9,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Ayolas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06cc\u0648\u0644\u0627\u0633"
+    ],
+    "name:grn_x_preferred":[
+        "Ayolas"
+    ],
+    "name:hbs_x_preferred":[
+        "Ayolas"
+    ],
+    "name:hrv_x_preferred":[
+        "Ayolas"
+    ],
+    "name:ita_x_preferred":[
+        "Ayolas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10dd\u10da\u10d0\u10e1\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Ayolas"
+    ],
+    "name:por_x_preferred":[
+        "Ayolas"
+    ],
+    "name:spa_x_preferred":[
+        "Ayolas"
+    ],
+    "name:unk_x_variant":[
+        "Juan De Ayolas"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7d04\u62c9\u65af"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439378,
+    "qs:gn_pop":12061,
+    "qs:name":"Ayolas",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":116,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":116,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":893975,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377321,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676689,
+        421204309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439378,
+        "gp:id":377321,
+        "qs:id":893975,
+        "wd:id":"Q793189",
+        "wk:page":"Ayolas, Paraguay"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009790,
+    "wof:geomhash":"38af75b88667cc4d061823071e7582b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421204309,
+            "locality_id":421194021,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":421194021,
+    "wof:lastmodified":1505340739,
+    "wof:name":"Ayolas",
+    "wof:parent_id":421204309,
+    "wof:placetype":"locality",
+    "wof:population":12061,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.9,
+    -27.4,
+    -56.9,
+    -27.4
+],
+  "geometry": {"coordinates":[-56.9,-27.4],"type":"Point"}
+}

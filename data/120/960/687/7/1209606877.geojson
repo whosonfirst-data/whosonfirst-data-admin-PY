@@ -1,0 +1,68 @@
+{
+  "id": 1209606877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.96667,-22.13333,-57.96667,-22.13333",
+    "geom:latitude":-22.13333,
+    "geom:longitude":-57.96667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Puerto Valle Mi",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437313,
+    "gn:latitude":-22.13333,
+    "gn:longitude":-57.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto Valle Mi",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Ballem\u00ed",
+        "Valle-m\u00ed",
+        "Valley-mi",
+        "Puerto Valle Mi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437313
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3555aa48223da2f32c05d50cb47c93de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209606877
+        }
+    ],
+    "wof:id":1209606877,
+    "wof:lastmodified":1537683201,
+    "wof:name":"Puerto Valle Mi",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.96666999999999,
+    -22.13333,
+    -57.96666999999999,
+    -22.13333
+],
+  "geometry": {"coordinates":[-57.96666999999999,-22.13333],"type":"Point"}
+}

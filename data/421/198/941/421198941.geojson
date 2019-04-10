@@ -1,0 +1,97 @@
+{
+  "id": 421198941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.31667,-25.58333,-56.31667,-25.58333",
+    "geom:latitude":-25.58333,
+    "geom:longitude":-56.31667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Doctor Botrell"
+    ],
+    "name:por_x_preferred":[
+        "Doctor Botrell"
+    ],
+    "name:spa_x_preferred":[
+        "Doctor Botrell"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Doctor Bottrel"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u7279\u96f7\u723e\u93ae"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438756,
+    "qs:gn_pop":246,
+    "qs:name":"Doctor Botrell",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Guair\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1207088,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377698,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676685,
+        1108692615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438756,
+        "gp:id":377698,
+        "qs:id":1207088,
+        "wd:id":"Q3712443",
+        "wk:page":"Doctor Botrell"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009966,
+    "wof:geomhash":"24a38d788c289cddc21110c7da137db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692615,
+            "locality_id":421198941,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":421198941,
+    "wof:lastmodified":1527716352,
+    "wof:name":"Doctor Botrell",
+    "wof:parent_id":1108692615,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.31667,
+    -25.58333,
+    -56.31667,
+    -25.58333
+],
+  "geometry": {"coordinates":[-56.31667,-25.58333],"type":"Point"}
+}

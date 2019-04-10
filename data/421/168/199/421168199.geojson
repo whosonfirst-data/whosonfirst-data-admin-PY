@@ -1,0 +1,106 @@
+{
+  "id": 421168199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.46667,-25.48333,-57.46667,-25.48333",
+    "geom:latitude":-25.48333,
+    "geom:longitude":-57.46667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:grn_x_preferred":[
+        "Guarambare"
+    ],
+    "name:ita_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:lit_x_preferred":[
+        "Gvarambar\u0117"
+    ],
+    "name:por_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:sco_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u862d\u5df4\u96f7"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438043,
+    "qs:gn_pop":9065,
+    "qs:name":"Guarambar\u00e9",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1044680,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379247,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676681,
+        1108692589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438043,
+        "gp:id":379247,
+        "qs:id":1044680,
+        "wd:id":"Q2717421",
+        "wk:page":"Guarambar\u00e9"
+    },
+    "wof:country":"PY",
+    "wof:created":1459008757,
+    "wof:geomhash":"ee24b9b38e3952704acfa864a595e096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692589,
+            "locality_id":421168199,
+            "region_id":85676681
+        }
+    ],
+    "wof:id":421168199,
+    "wof:lastmodified":1527716096,
+    "wof:name":"Guarambar\u00e9",
+    "wof:parent_id":1108692589,
+    "wof:placetype":"locality",
+    "wof:population":9065,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.46667,
+    -25.48333,
+    -57.46667,
+    -25.48333
+],
+  "geometry": {"coordinates":[-57.46667,-25.48333],"type":"Point"}
+}

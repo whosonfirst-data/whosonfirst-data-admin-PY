@@ -1,0 +1,68 @@
+{
+  "id": 890438775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.08333,-26.18333,-56.08333,-26.18333",
+    "geom:latitude":-26.18333,
+    "geom:longitude":-56.08333,
+    "gn:country":"PY",
+    "gn:fcode":"PPL",
+    "gn:pop":1580,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Buena Vista",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":511,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439325,
+        "gp:id":377350,
+        "qs:id":1044708,
+        "wk:page":"Buena Vista"
+    },
+    "wof:country":"PY",
+    "wof:created":1469052208,
+    "wof:geomhash":"9c34c852feee580c5939a25a1a1c75f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692843,
+            "locality_id":890438775,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":890438775,
+    "wof:lastmodified":1527735426,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":1108692843,
+    "wof:placetype":"locality",
+    "wof:population":1580,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.08333,
+    -26.18333,
+    -56.08333,
+    -26.18333
+],
+  "geometry": {"coordinates":[-56.08333,-26.18333],"type":"Point"}
+}

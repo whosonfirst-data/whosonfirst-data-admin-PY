@@ -1,0 +1,71 @@
+{
+  "id": 1193257689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.78565,-25.8299,-57.78565,-25.8299",
+    "geom:latitude":-25.8299,
+    "geom:longitude":-57.78565,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1215",
+    "gn:asciiname":"Puerto Paraiso",
+    "gn:country_code":"PY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437357,
+    "gn:latitude":-25.8299,
+    "gn:longitude":-57.78565,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Para\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Para\u00edso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        1108692791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437357
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"d6978b9050b96c156c3110aae13ef6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692791,
+            "locality_id":1193257689,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":1193257689,
+    "wof:lastmodified":1537683203,
+    "wof:name":"Puerto Paraiso",
+    "wof:parent_id":1108692791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.78565,
+    -25.8299,
+    -57.78565,
+    -25.8299
+],
+  "geometry": {"coordinates":[-57.78565,-25.8299],"type":"Point"}
+}

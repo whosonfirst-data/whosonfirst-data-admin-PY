@@ -1,0 +1,74 @@
+{
+  "id": 1276228571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.02053,-25.26164,-56.02053,-25.26164",
+    "geom:latitude":-25.26164,
+    "geom:longitude":-56.02053,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0502",
+    "gn:asciiname":"Compania Guayaki-Cua",
+    "gn:country_code":"PY",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3438035,
+    "gn:latitude":-25.26164,
+    "gn:longitude":-56.02053,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Compa\u00f1\u00eda Guayaki-Cu\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Compa\u00f1\u00eda Guayaki-Cu\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Guayaqui Cu\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        421183417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438035
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"462505b0f2f3fdda2664ff6bb5fa7173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421183417,
+            "locality_id":1276228571,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1276228571,
+    "wof:lastmodified":1537683209,
+    "wof:name":"Compania Guayaki-Cua",
+    "wof:parent_id":421183417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.02053000000001,
+    -25.26164,
+    -56.02053000000001,
+    -25.26164
+],
+  "geometry": {"coordinates":[-56.02053000000001,-25.26164],"type":"Point"}
+}

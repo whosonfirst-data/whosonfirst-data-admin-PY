@@ -1,0 +1,74 @@
+{
+  "id": 1276316877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.66931,-26.05685,-56.66931,-26.05685",
+    "geom:latitude":-26.05685,
+    "geom:longitude":-56.66931,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0402",
+    "gn:asciiname":"Colonia Agustin Molas",
+    "gn:country_code":"PY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438956,
+    "gn:latitude":-26.05685,
+    "gn:longitude":-56.66931,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Agust\u00edn Molas",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Agust\u00edn Molas"
+    ],
+    "name:und_x_variant":[
+        "Colonia Presb\u00edtero A. Molas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676685,
+        1108692529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438956
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"2ea8d86607c65780d87affdefcce8d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692529,
+            "locality_id":1276316877,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":1276316877,
+    "wof:lastmodified":1537683226,
+    "wof:name":"Colonia Agustin Molas",
+    "wof:parent_id":1108692529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.66931,
+    -26.05685,
+    -56.66931,
+    -26.05685
+],
+  "geometry": {"coordinates":[-56.66931,-26.05685],"type":"Point"}
+}

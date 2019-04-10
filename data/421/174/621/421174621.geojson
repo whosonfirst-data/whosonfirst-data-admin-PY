@@ -1,0 +1,99 @@
+{
+  "id": 421174621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.56667,-24.96667,-57.56667,-24.96667",
+    "geom:latitude":-24.96667,
+    "geom:longitude":-57.56667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:grn_x_preferred":[
+        "Benjam\u00edn Aceval"
+    ],
+    "name:ita_x_preferred":[
+        "Benjam\u00edn Aceval"
+    ],
+    "name:por_x_preferred":[
+        "Benjam\u00edn Aceval"
+    ],
+    "name:spa_x_preferred":[
+        "Benjam\u00edn Aceval"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Aceval"
+    ],
+    "name:zho_x_preferred":[
+        "\u672c\u5091\u660e\u963f\u585e\u74e6\u723e"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439348,
+    "qs:gn_pop":7751,
+    "qs:name":"Benjam\u00edn Aceval",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Presidente Hayes",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":888850,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377343,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        421171779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439348,
+        "gp:id":377343,
+        "qs:id":888850,
+        "wd:id":"Q2475363",
+        "wk:page":"Benjam\u00edn Aceval"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009038,
+    "wof:geomhash":"918289a2b9aeb56e7961b3fce8c6378e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171779,
+            "locality_id":421174621,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":421174621,
+    "wof:lastmodified":1505340621,
+    "wof:name":"Benjam\u00edn Aceval",
+    "wof:parent_id":421171779,
+    "wof:placetype":"locality",
+    "wof:population":7751,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.56667,
+    -24.96667,
+    -57.56667,
+    -24.96667
+],
+  "geometry": {"coordinates":[-57.56667,-24.96667],"type":"Point"}
+}

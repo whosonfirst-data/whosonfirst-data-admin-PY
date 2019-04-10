@@ -1,0 +1,68 @@
+{
+  "id": 1259796801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.61667,-23.13333,-55.61667,-23.13333",
+    "geom:latitude":-23.13333,
+    "geom:longitude":-55.61667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1303",
+    "gn:asciiname":"Cafetal Cerro Cuatia",
+    "gn:country_code":"PY",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439268,
+    "gn:latitude":-23.13333,
+    "gn:longitude":-55.61667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Cafetal Cerro Cuatia",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676701,
+        1108692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439268
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"935a17f3615f99fc4f0ab1460eaa6c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692445,
+            "locality_id":1259796801,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":1259796801,
+    "wof:lastmodified":1536904107,
+    "wof:name":"Cafetal Cerro Cuatia",
+    "wof:parent_id":1108692445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.61666999999999,
+    -23.13333,
+    -55.61666999999999,
+    -23.13333
+],
+  "geometry": {"coordinates":[-55.61666999999999,-23.13333],"type":"Point"}
+}

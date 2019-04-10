@@ -1,0 +1,68 @@
+{
+  "id": 1192974319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.75,-22.06667,-61.75,-22.06667",
+    "geom:latitude":-22.06667,
+    "geom:longitude":-61.75,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Colonia Austria-i",
+    "gn:country_code":"PY",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867412,
+    "gn:latitude":-22.06667,
+    "gn:longitude":-61.75,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Austria-\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867412
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"ee42786216f19fd57a57999bc7eb5ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1192974319,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1192974319,
+    "wof:lastmodified":1536374951,
+    "wof:name":"Colonia Austria-i",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.75,
+    -22.06667,
+    -61.75,
+    -22.06667
+],
+  "geometry": {"coordinates":[-61.75,-22.06667],"type":"Point"}
+}

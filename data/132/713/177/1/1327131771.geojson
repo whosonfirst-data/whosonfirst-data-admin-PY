@@ -1,0 +1,71 @@
+{
+  "id": 1327131771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.65953,-25.71624,-57.65953,-25.71624",
+    "geom:latitude":-25.71624,
+    "geom:longitude":-57.65953,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1116",
+    "gn:asciiname":"Puesto Deidamia",
+    "gn:country_code":"PY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3437281,
+    "gn:latitude":-25.71624,
+    "gn:longitude":-57.65953,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puesto Deidam\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "Puesto Deidam\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676681,
+        421195021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437281
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f5e9b2c2037623f7aa6175b32eeb5ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421195021,
+            "locality_id":1327131771,
+            "region_id":85676681
+        }
+    ],
+    "wof:id":1327131771,
+    "wof:lastmodified":1537683200,
+    "wof:name":"Puesto Deidamia",
+    "wof:parent_id":421195021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.65953,
+    -25.71624,
+    -57.65953,
+    -25.71624
+],
+  "geometry": {"coordinates":[-57.65953,-25.71624],"type":"Point"}
+}

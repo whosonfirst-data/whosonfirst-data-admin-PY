@@ -1,0 +1,256 @@
+{
+  "id": 421185751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.0,-25.45,-55.0,-25.45",
+    "geom:latitude":-25.45,
+    "geom:longitude":-55.0,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0632 \u062f\u0648 \u0625\u064a\u063a\u0648\u0627\u0633\u0648"
+    ],
+    "name:arm_x_preferred":[
+        "\u0556\u0578\u057d \u0564\u0578 \u053b\u0563\u0561\u0579\u0578\u0582"
+    ],
+    "name:baq_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u099c \u09a6\u09cb \u0987\u0997\u09c1\u09af\u09bc\u09be\u099a"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ab\u09cb\u099c \u09a1\u09cb \u0987\u0997\u09c1\u09f1\u09be\u0995\u09c1"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u043e\u0441 \u0434\u043e \u0418\u0433\u0443\u0430\u0441\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u74dc\u82cf"
+    ],
+    "name:dan_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:dut_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:eng_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:epo_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:est_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:fij_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:fin_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:fre_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:ger_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:glg_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a6\u03bf\u03b6 \u03bd\u03c4\u03bf \u0399\u03b3\u03ba\u03bf\u03c5\u03ac\u03c4\u03c3\u03bf\u03c5"
+    ],
+    "name:grn_x_preferred":[
+        "Yguasu"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aab\u0acb\u0a9d \u0aa1\u0acb \u0a88\u0a97\u0ac1\u0a86\u0a95\u0ac1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d6 \u05d3\u05d5 \u05d0\u05d9\u05d2\u05d5\u05d0\u05e1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u094c\u091c \u0926\u0941\u0906\u0917\u094d\u0938\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:ido_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:ind_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:ita_x_preferred":[
+        "Yguaz\u00fa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30b9\u30fb\u30c9\u30fb\u30a4\u30b0\u30a2\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cab\u0cca\u0c9c\u0ccd \u0ca1\u0cca \u0c87\u0c97\u0cc1\u0cb5\u0cbe\u0c95\u0ccd\u0caf\u0cc1"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\uc2a4\ub450\uc774\uad6c\uc544\uc218"
+    ],
+    "name:lav_x_preferred":[
+        "Fos-du-Iguasu"
+    ],
+    "name:lit_x_preferred":[
+        "Kolonia Igvasu"
+    ],
+    "name:mar_x_preferred":[
+        "\u092b\u094b\u091c \u0921\u094b \u0907\u0917\u0941\u0906\u0915\u0942"
+    ],
+    "name:may_x_preferred":[
+        "Foz do Iguacu"
+    ],
+    "name:mlg_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:nan_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:nob_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0648\u0632 \u062f\u0648 \u0644\u0648\u0622\u0686\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:por_x_preferred":[
+        "Colonia Yguaz\u00fa"
+    ],
+    "name:rum_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0441-\u0434\u0443-\u0418\u0433\u0443\u0430\u0441\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc6\u0ddc\u0dc3\u0dca \u0da9\u0ddc \u0d89\u0d9c\u0dd4\u0d85\u0d9a\u0dd4"
+    ],
+    "name:slv_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:spa_x_preferred":[
+        "Yguaz\u00fa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u043e\u0441 \u0434\u043e \u0418\u0433\u0443\u0430\u0441\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb8\u0bcd  \u0b9f\u0bc2  \u0b87\u0b95\u0bc1\u0bb5\u0bbe\u0b95\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2b\u0c4b\u0c1c\u0c41 \u0c07\u0c17\u0c4d\u0c35\u0c3e\u0c15\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e1f\u0e0b \u0e42\u0e14 \u0e2d\u0e35\u0e01\u0e31\u0e27\u0e2a\u0e38"
+    ],
+    "name:tur_x_preferred":[
+        "Foz do Igacu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u0441-\u0434\u0443-\u0406\u0491\u0443\u0430\u0441\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0648\u0632 \u062f\u0648 \u06cc\u062c\u0648\u0627\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:vol_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:war_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e4\u05d0\u05e1 \u05d3\u05d5 \u05d0\u05d9\u05d2\u05d5\u05d5\u05d0\u05e1\u05d5"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u74dc\u8607"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438872,
+    "qs:gn_pop":3363,
+    "qs:name":"Colonia Yguaz\u00fa",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Alto Paran\u00e1",
+    "qs:photos":83,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":83,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1044695,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377652,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":331,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        421191499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438872,
+        "gp:id":377652,
+        "qs:id":1044695,
+        "wd:id":"Q202316",
+        "wk:page":"Colonia Yguaz\u00fa"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009453,
+    "wof:geomhash":"159e8572c357b8676ff5d97244772d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421191499,
+            "locality_id":421185751,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":421185751,
+    "wof:lastmodified":1527726507,
+    "wof:name":"Colonia Yguaz\u00fa",
+    "wof:parent_id":421191499,
+    "wof:placetype":"locality",
+    "wof:population":3363,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.0,
+    -25.45,
+    -55.0,
+    -25.45
+],
+  "geometry": {"coordinates":[-55.0,-25.45],"type":"Point"}
+}

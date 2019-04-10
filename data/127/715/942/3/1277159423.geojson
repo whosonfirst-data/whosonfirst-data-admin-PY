@@ -1,0 +1,68 @@
+{
+  "id": 1277159423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.7,-23.93333,-59.7,-23.93333",
+    "geom:latitude":-23.93333,
+    "geom:longitude":-59.7,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1508",
+    "gn:asciiname":"Estancia Santo Domingo",
+    "gn:country_code":"PY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438218,
+    "gn:latitude":-23.93333,
+    "gn:longitude":-59.7,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Santo Domingo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        1108692817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438218
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"589816468f4ffbc0bf0a58661645e1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692817,
+            "locality_id":1277159423,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1277159423,
+    "wof:lastmodified":1536657289,
+    "wof:name":"Estancia Santo Domingo",
+    "wof:parent_id":1108692817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.7,
+    -23.93333,
+    -59.7,
+    -23.93333
+],
+  "geometry": {"coordinates":[-59.7,-23.93333],"type":"Point"}
+}

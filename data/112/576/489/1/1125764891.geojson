@@ -1,0 +1,78 @@
+{
+  "id": 1125764891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.7,-26.4,-54.7,-26.4",
+    "geom:latitude":-26.4,
+    "geom:longitude":-54.7,
+    "gn:gn_country":"PY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4701,
+    "gn:population":4701,
+    "iso:country":"PY",
+    "lbl:latitude":-26.4,
+    "lbl:longitude":-54.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PY",
+    "qs_pg:gn_country":"PY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3437370,
+    "qs_pg:gn_pop":4701,
+    "qs_pg:name":"Puerto Mayor Ota\u00f1o",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1044664,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437370,
+        "qs_pg:id":1044664
+    },
+    "wof:country":"PY",
+    "wof:created":1497289845,
+    "wof:geomhash":"04cd9682859d8060a3b733a7dfa03786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692671,
+            "locality_id":1125764891,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1125764891,
+    "wof:lastmodified":1509390628,
+    "wof:name":"Puerto Mayor Ota\u00f1o",
+    "wof:parent_id":1108692671,
+    "wof:placetype":"locality",
+    "wof:population":4701,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.7,
+    -26.4,
+    -54.7,
+    -26.4
+],
+  "geometry": {"coordinates":[-54.7,-26.4],"type":"Point"}
+}

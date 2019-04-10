@@ -1,0 +1,97 @@
+{
+  "id": 421176677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.93333,-26.78333,-56.93333,-26.78333",
+    "geom:latitude":-26.78333,
+    "geom:longitude":-56.93333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:por_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda de Fe"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u746a\u5229\u4e9e"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436977,
+    "qs:gn_pop":2095,
+    "qs:name":"Santa Mar\u00eda",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1063787,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379027,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676689,
+        1108692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436977,
+        "gp:id":379027,
+        "qs:id":1063787,
+        "wd:id":"Q1749350",
+        "wk:page":"Santa Mar\u00eda, Paraguay"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009116,
+    "wof:geomhash":"83187c7915acfd81aed025c54ac60c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692697,
+            "locality_id":421176677,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":421176677,
+    "wof:lastmodified":1527726476,
+    "wof:name":"Santa Mar\u00eda",
+    "wof:parent_id":1108692697,
+    "wof:placetype":"locality",
+    "wof:population":2095,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.93333,
+    -26.78333,
+    -56.93333,
+    -26.78333
+],
+  "geometry": {"coordinates":[-56.93333,-26.78333],"type":"Point"}
+}

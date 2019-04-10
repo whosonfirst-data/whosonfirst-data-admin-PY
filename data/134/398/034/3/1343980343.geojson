@@ -1,0 +1,70 @@
+{
+  "id": 1343980343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.56832,-25.25846,-56.56832,-25.25846",
+    "geom:latitude":-25.25846,
+    "geom:longitude":-56.56832,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Colonia la Pastora",
+    "gn:country_code":"PY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3439005,
+    "gn:latitude":-25.25846,
+    "gn:longitude":-56.56832,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Colonia la Pastora",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia la Pastora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439005
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a7e3d957af6e273434dbbcf1d97c3b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692655,
+            "locality_id":1343980343,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1343980343,
+    "wof:lastmodified":1537683227,
+    "wof:name":"Colonia la Pastora",
+    "wof:parent_id":1108692655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.56831999999999,
+    -25.25846,
+    -56.56831999999999,
+    -25.25846
+],
+  "geometry": {"coordinates":[-56.56831999999999,-25.25846],"type":"Point"}
+}

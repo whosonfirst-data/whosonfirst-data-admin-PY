@@ -1,0 +1,71 @@
+{
+  "id": 1193251593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.11457,-25.73983,-57.11457,-25.73983",
+    "geom:latitude":-25.73983,
+    "geom:longitude":-57.11457,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"0901",
+    "gn:asciiname":"Estancia Cardus",
+    "gn:country_code":"PY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438618,
+    "gn:latitude":-25.73983,
+    "gn:longitude":-57.11457,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Card\u00fas",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Card\u00fas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        421173745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438618
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f9d8e2e465521979bc6ac1d5a46bc305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421173745,
+            "locality_id":1193251593,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":1193251593,
+    "wof:lastmodified":1537683220,
+    "wof:name":"Estancia Cardus",
+    "wof:parent_id":421173745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.11456999999999,
+    -25.73983,
+    -57.11456999999999,
+    -25.73983
+],
+  "geometry": {"coordinates":[-57.11456999999999,-25.73983],"type":"Point"}
+}

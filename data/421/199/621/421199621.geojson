@@ -1,0 +1,94 @@
+{
+  "id": 421199621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.23333,-25.48333,-57.23333,-25.48333",
+    "geom:latitude":-25.48333,
+    "geom:longitude":-57.23333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Piray\u00fa"
+    ],
+    "name:por_x_preferred":[
+        "Piray\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Piray\u00fa"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u62c9\u5c24"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437499,
+    "qs:gn_pop":4000,
+    "qs:name":"Piray\u00fa",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Paraguar\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":149,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":194817,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378632,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        1108692719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437499,
+        "gp:id":378632,
+        "qs:id":194817,
+        "wd:id":"Q1750484",
+        "wk:page":"Piray\u00fa"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009995,
+    "wof:geomhash":"ec9a49850eaee1d964faa10b2dcdb52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692719,
+            "locality_id":421199621,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":421199621,
+    "wof:lastmodified":1527716410,
+    "wof:name":"Piray\u00fa",
+    "wof:parent_id":1108692719,
+    "wof:placetype":"locality",
+    "wof:population":4000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.23333,
+    -25.48333,
+    -57.23333,
+    -25.48333
+],
+  "geometry": {"coordinates":[-57.23333,-25.48333],"type":"Point"}
+}

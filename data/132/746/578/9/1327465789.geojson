@@ -1,0 +1,73 @@
+{
+  "id": 1327465789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.45,-26.56667,-56.45,-26.56667",
+    "geom:latitude":-26.56667,
+    "geom:longitude":-56.45,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0609",
+    "gn:asciiname":"Canete",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439224,
+    "gn:latitude":-26.56667,
+    "gn:longitude":-56.45,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Ca\u00f1ete",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1ete-cue",
+        "Ca\u00f1ete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676713,
+        1108692857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439224
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e72eea10ad7567ee11ffb70c67c7ba1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692857,
+            "locality_id":1327465789,
+            "region_id":85676713
+        }
+    ],
+    "wof:id":1327465789,
+    "wof:lastmodified":1537683231,
+    "wof:name":"Canete",
+    "wof:parent_id":1108692857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.45,
+    -26.56667,
+    -56.45,
+    -26.56667
+],
+  "geometry": {"coordinates":[-56.45,-26.56667],"type":"Point"}
+}

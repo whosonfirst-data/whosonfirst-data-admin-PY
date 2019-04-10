@@ -1,0 +1,83 @@
+{
+  "id": 1209998753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.06667,-25.03333,-58.06667,-25.03333",
+    "geom:latitude":-25.03333,
+    "geom:longitude":-58.06667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1506",
+    "gn:asciiname":"Fiore",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438114,
+    "gn:latitude":-25.03333,
+    "gn:longitude":-58.06667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Fiore",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fiori",
+        "Fiore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718273,
+        85632355,
+        85676671,
+        1108692813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438114
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"93485ab822cf1368eeb9152508bde6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718273,
+            "locality_id":1209998753,
+            "region_id":85668067
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692813,
+            "locality_id":1209998753,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1209998753,
+    "wof:lastmodified":1537683209,
+    "wof:name":"Fiore",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.06667,
+    -25.03333,
+    -58.06667,
+    -25.03333
+],
+  "geometry": {"coordinates":[-58.06667,-25.03333],"type":"Point"}
+}

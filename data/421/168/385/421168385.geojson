@@ -1,0 +1,94 @@
+{
+  "id": 421168385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.81667,-26.96667,-56.81667,-26.96667",
+    "geom:latitude":-26.96667,
+    "geom:longitude":-56.81667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "San Patricio"
+    ],
+    "name:por_x_preferred":[
+        "San Patricio"
+    ],
+    "name:spa_x_preferred":[
+        "San Patricio"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5e15\u7279\u91cc\u897f\u5967"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437029,
+    "qs:gn_pop":1525,
+    "qs:name":"San Patricio",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1044658,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379267,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676689,
+        1108692695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437029,
+        "gp:id":379267,
+        "qs:id":1044658,
+        "wd:id":"Q1749429",
+        "wk:page":"San Patricio, Paraguay"
+    },
+    "wof:country":"PY",
+    "wof:created":1459008763,
+    "wof:geomhash":"e25ed45e5c0f37f6ed160d560624499b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692695,
+            "locality_id":421168385,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":421168385,
+    "wof:lastmodified":1527716094,
+    "wof:name":"San Patricio",
+    "wof:parent_id":1108692695,
+    "wof:placetype":"locality",
+    "wof:population":1525,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.81667,
+    -26.96667,
+    -56.81667,
+    -26.96667
+],
+  "geometry": {"coordinates":[-56.81667,-26.96667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309929839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.43333,-25.35,-56.43333,-25.35",
+    "geom:latitude":-25.35,
+    "geom:longitude":-56.43333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0501",
+    "gn:asciiname":"Colonia Genaro Romero",
+    "gn:country_code":"PY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439035,
+    "gn:latitude":-25.35,
+    "gn:longitude":-56.43333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Genaro Romero",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        421184207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439035
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4e422b1d69791465808dd781bd15def2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184207,
+            "locality_id":1309929839,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1309929839,
+    "wof:lastmodified":1536752284,
+    "wof:name":"Colonia Genaro Romero",
+    "wof:parent_id":421184207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.43333000000001,
+    -25.35,
+    -56.43333000000001,
+    -25.35
+],
+  "geometry": {"coordinates":[-56.43333000000001,-25.35],"type":"Point"}
+}

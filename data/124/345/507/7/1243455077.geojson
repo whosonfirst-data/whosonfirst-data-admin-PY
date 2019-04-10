@@ -1,0 +1,71 @@
+{
+  "id": 1243455077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.51565,-25.30388,-56.51565,-25.30388",
+    "geom:latitude":-25.30388,
+    "geom:longitude":-56.51565,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0517",
+    "gn:asciiname":"Estancia Bottrell",
+    "gn:country_code":"PY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438653,
+    "gn:latitude":-25.30388,
+    "gn:longitude":-56.51565,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Bottrell",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Bottrell"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438653
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"455a101c8ed884216b928e9728c82589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692655,
+            "locality_id":1243455077,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1243455077,
+    "wof:lastmodified":1537683221,
+    "wof:name":"Estancia Bottrell",
+    "wof:parent_id":1108692655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.51565,
+    -25.30388,
+    -56.51565,
+    -25.30388
+],
+  "geometry": {"coordinates":[-56.51565,-25.30388],"type":"Point"}
+}

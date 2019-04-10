@@ -1,0 +1,71 @@
+{
+  "id": 1310669107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.10606,-23.36491,-61.10606,-23.36491",
+    "geom:latitude":-23.36491,
+    "geom:longitude":-61.10606,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Estancia Pozo Leon",
+    "gn:country_code":"PY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867319,
+    "gn:latitude":-23.36491,
+    "gn:longitude":-61.10606,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Pozo Le\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Pozo Le\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867319
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"32b9c0026eea2e8cd95360584b33f59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1310669107,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1310669107,
+    "wof:lastmodified":1537683236,
+    "wof:name":"Estancia Pozo Leon",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.10606,
+    -23.36491,
+    -61.10606,
+    -23.36491
+],
+  "geometry": {"coordinates":[-61.10606,-23.36491],"type":"Point"}
+}

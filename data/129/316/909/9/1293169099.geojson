@@ -1,0 +1,68 @@
+{
+  "id": 1293169099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.18333,-21.51667,-61.18333,-21.51667",
+    "geom:latitude":-21.51667,
+    "geom:longitude":-61.18333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Estancia Dojavina",
+    "gn:country_code":"PY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867361,
+    "gn:latitude":-21.51667,
+    "gn:longitude":-61.18333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Dojavina",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867361
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"b088d90fb77be22bb87cdd4bcdd0baa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1293169099,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1293169099,
+    "wof:lastmodified":1536749090,
+    "wof:name":"Estancia Dojavina",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.18333000000001,
+    -21.51667,
+    -61.18333000000001,
+    -21.51667
+],
+  "geometry": {"coordinates":[-61.18333000000001,-21.51667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226544091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.62515,-25.4584,-54.62515,-25.4584",
+    "geom:latitude":-25.4584,
+    "geom:longitude":-54.62515,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1005",
+    "gn:asciiname":"Puerto Embalse",
+    "gn:country_code":"PY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437397,
+    "gn:latitude":-25.4584,
+    "gn:longitude":-54.62515,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Embalse",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Embalse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        421193629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437397
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"730316ba57267ee2bd1978227fc654dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421193629,
+            "locality_id":1226544091,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1226544091,
+    "wof:lastmodified":1537683204,
+    "wof:name":"Puerto Embalse",
+    "wof:parent_id":421193629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.62515,
+    -25.4584,
+    -54.62515,
+    -25.4584
+],
+  "geometry": {"coordinates":[-54.62515,-25.4584],"type":"Point"}
+}

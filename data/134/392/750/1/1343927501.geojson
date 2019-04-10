@@ -1,0 +1,68 @@
+{
+  "id": 1343927501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.36667,-23.55,-59.36667,-23.55",
+    "geom:latitude":-23.55,
+    "geom:longitude":-59.36667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1508",
+    "gn:asciiname":"Estancia San Luis",
+    "gn:country_code":"PY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438288,
+    "gn:latitude":-23.55,
+    "gn:longitude":-59.36667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        1108692817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438288
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"ebd556ad9f1764c31063a24bdecf92b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692817,
+            "locality_id":1343927501,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1343927501,
+    "wof:lastmodified":1537064788,
+    "wof:name":"Estancia San Luis",
+    "wof:parent_id":1108692817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.36666999999999,
+    -23.55,
+    -59.36666999999999,
+    -23.55
+],
+  "geometry": {"coordinates":[-59.36666999999999,-23.55],"type":"Point"}
+}

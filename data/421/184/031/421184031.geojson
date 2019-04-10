@@ -1,0 +1,100 @@
+{
+  "id": 421184031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.61667,-27.25,-55.61667,-27.25",
+    "geom:latitude":-27.25,
+    "geom:longitude":-55.61667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Nueva Alborada"
+    ],
+    "name:ita_x_preferred":[
+        "Nueva Alborada"
+    ],
+    "name:por_x_preferred":[
+        "Nueva Alborada"
+    ],
+    "name:sco_x_preferred":[
+        "Nueva Alborada"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Alborada"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u963f\u723e\u6c83\u62c9\u9054"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3437655,
+    "qs:gn_pop":289,
+    "qs:name":"Nueva Alborada",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Itap\u00faa",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":988323,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378571,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437655,
+        "gp:id":378571,
+        "qs:id":988323,
+        "wd:id":"Q1754733",
+        "wk:page":"Nueva Alborada"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009398,
+    "wof:geomhash":"19e6f20fa26e81f93f2cf21e3259b3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692809,
+            "locality_id":421184031,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":421184031,
+    "wof:lastmodified":1527716446,
+    "wof:name":"Nueva Alborada",
+    "wof:parent_id":1108692809,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.61667,
+    -27.25,
+    -55.61667,
+    -27.25
+],
+  "geometry": {"coordinates":[-55.61667,-27.25],"type":"Point"}
+}

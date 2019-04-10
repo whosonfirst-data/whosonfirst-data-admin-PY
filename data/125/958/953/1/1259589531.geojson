@@ -1,0 +1,68 @@
+{
+  "id": 1259589531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.75,-25.56667,-56.75,-25.56667",
+    "geom:latitude":-25.56667,
+    "geom:longitude":-56.75,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0510",
+    "gn:asciiname":"Colonia Pedro M. de Portugal",
+    "gn:country_code":"PY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438962,
+    "gn:latitude":-25.56667,
+    "gn:longitude":-56.75,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Pedro M. de Portugal",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438962
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"16eb55349062f2a538b3f9a5960f7551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692641,
+            "locality_id":1259589531,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1259589531,
+    "wof:lastmodified":1536706308,
+    "wof:name":"Colonia Pedro M. de Portugal",
+    "wof:parent_id":1108692641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.75,
+    -25.56667,
+    -56.75,
+    -25.56667
+],
+  "geometry": {"coordinates":[-56.75,-25.56667],"type":"Point"}
+}

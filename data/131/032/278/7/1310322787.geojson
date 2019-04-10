@@ -1,0 +1,74 @@
+{
+  "id": 1310322787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.70306,-25.22245,-54.70306,-25.22245",
+    "geom:latitude":-25.22245,
+    "geom:longitude":-54.70306,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1020",
+    "gn:asciiname":"Guido Coronel",
+    "gn:country_code":"PY",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438966,
+    "gn:latitude":-25.22245,
+    "gn:longitude":-54.70306,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Guido Coronel",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guido Coronel"
+    ],
+    "name:und_x_variant":[
+        "Colonia Padre Guido Coronel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        1108692579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438966
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"b7c990ce99a4a1ccb4c2e9c10027d9d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692579,
+            "locality_id":1310322787,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1310322787,
+    "wof:lastmodified":1537683226,
+    "wof:name":"Guido Coronel",
+    "wof:parent_id":1108692579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.70306,
+    -25.22245,
+    -54.70306,
+    -25.22245
+],
+  "geometry": {"coordinates":[-54.70306,-25.22245],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226214069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.95,-24.2,-56.95,-24.2",
+    "geom:latitude":-24.2,
+    "geom:longitude":-56.95,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0213",
+    "gn:asciiname":"Puesto-cue",
+    "gn:country_code":"PY",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437284,
+    "gn:latitude":-24.2,
+    "gn:longitude":-56.95,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puesto-cu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437284
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a2c4e3d2a9bbc4f4a9e681c357cd3437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692831,
+            "locality_id":1226214069,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1226214069,
+    "wof:lastmodified":1536978768,
+    "wof:name":"Puesto-cue",
+    "wof:parent_id":1108692831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.95,
+    -24.2,
+    -56.95,
+    -24.2
+],
+  "geometry": {"coordinates":[-56.95,-24.2],"type":"Point"}
+}

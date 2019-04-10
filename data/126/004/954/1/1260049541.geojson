@@ -1,0 +1,73 @@
+{
+  "id": 1260049541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.66667,-24.88333,-57.66667,-24.88333",
+    "geom:latitude":-24.88333,
+    "geom:longitude":-57.66667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1502",
+    "gn:asciiname":"Estancia Santa Jacinta",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438239,
+    "gn:latitude":-24.88333,
+    "gn:longitude":-57.66667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Santa Jacinta",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Jacinta",
+        "Estancia Santa Jacinta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        421171779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438239
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"26b1e26441eb1e29cf134073e654f73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171779,
+            "locality_id":1260049541,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1260049541,
+    "wof:lastmodified":1537683212,
+    "wof:name":"Estancia Santa Jacinta",
+    "wof:parent_id":421171779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.66667,
+    -24.88333,
+    -57.66667,
+    -24.88333
+],
+  "geometry": {"coordinates":[-57.66667,-24.88333],"type":"Point"}
+}

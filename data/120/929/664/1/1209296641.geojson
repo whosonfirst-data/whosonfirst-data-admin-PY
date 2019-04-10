@@ -1,0 +1,67 @@
+{
+  "id": 1209296641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.3,-23.66667,-58.3,-23.66667",
+    "geom:latitude":-23.66667,
+    "geom:longitude":-58.3,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Estancia Soledad",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438201,
+    "gn:latitude":-23.66667,
+    "gn:longitude":-58.3,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Soledad",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soledad",
+        "Estancia Soledad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438201
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c22f15eb1ab12e82aa9d250ca07f67d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209296641
+        }
+    ],
+    "wof:id":1209296641,
+    "wof:lastmodified":1537683211,
+    "wof:name":"Estancia Soledad",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.3,
+    -23.66667,
+    -58.3,
+    -23.66667
+],
+  "geometry": {"coordinates":[-58.3,-23.66667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310119741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.13068,-25.56419,-55.13068,-25.56419",
+    "geom:latitude":-25.56419,
+    "geom:longitude":-55.13068,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1021",
+    "gn:asciiname":"Puerto San Vicente",
+    "gn:country_code":"PY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436930,
+    "gn:latitude":-25.56419,
+    "gn:longitude":-55.13068,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto San Vicente",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Sao Vicente",
+        "San Vicente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        1108692581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436930
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4eb6a9d6f8abc3630ba0db9c1e7c0b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692581,
+            "locality_id":1310119741,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1310119741,
+    "wof:lastmodified":1537683197,
+    "wof:name":"Puerto San Vicente",
+    "wof:parent_id":1108692581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.13068000000001,
+    -25.56419,
+    -55.13068000000001,
+    -25.56419
+],
+  "geometry": {"coordinates":[-55.13068000000001,-25.56419],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 421171773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.78333,-27.15,-56.78333,-27.15",
+    "geom:latitude":-27.15,
+    "geom:longitude":-56.78333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:grn_x_preferred":[
+        "Santiago"
+    ],
+    "name:ita_x_preferred":[
+        "Santiago"
+    ],
+    "name:por_x_preferred":[
+        "Santiago"
+    ],
+    "name:spa_x_preferred":[
+        "Santiago"
+    ],
+    "name:unk_x_variant":[
+        "Santiago De Las Misiones"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5730\u4e9e\u54e5"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436943,
+    "qs:gn_pop":2144,
+    "qs:name":"Santiago",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1264233,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379040,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":495,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676689,
+        1108692701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436943,
+        "gp:id":379040,
+        "qs:id":1264233,
+        "wd:id":"Q2410850",
+        "wk:page":"Santiago, Paraguay"
+    },
+    "wof:country":"PY",
+    "wof:created":1459008906,
+    "wof:geomhash":"42de3df768be33d51ad9ddc45201a007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692701,
+            "locality_id":421171773,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":421171773,
+    "wof:lastmodified":1527726498,
+    "wof:name":"Santiago",
+    "wof:parent_id":1108692701,
+    "wof:placetype":"locality",
+    "wof:population":2144,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.78333,
+    -27.15,
+    -56.78333,
+    -27.15
+],
+  "geometry": {"coordinates":[-56.78333,-27.15],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 421178915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.51667,-27.16667,-56.51667,-27.16667",
+    "geom:latitude":-27.16667,
+    "geom:longitude":-56.51667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "General Delgado"
+    ],
+    "name:por_x_preferred":[
+        "General Delgado"
+    ],
+    "name:spa_x_preferred":[
+        "General Delgado"
+    ],
+    "name:unk_x_variant":[
+        "Colonia General Delgado"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u723e\u52a0\u591a\u5c07\u8ecd\u93ae"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438076,
+    "qs:gn_pop":1544,
+    "qs:name":"General Delgado",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Itap\u00faa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":288815,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378382,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438076,
+        "gp:id":378382,
+        "qs:id":288815,
+        "wd:id":"Q1985386",
+        "wk:page":"General Delgado"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009197,
+    "wof:geomhash":"0f1e35d0098c7c74a0f463beaca6526e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692743,
+            "locality_id":421178915,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":421178915,
+    "wof:lastmodified":1527717722,
+    "wof:name":"General Delgado",
+    "wof:parent_id":1108692743,
+    "wof:placetype":"locality",
+    "wof:population":1544,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.51667,
+    -27.16667,
+    -56.51667,
+    -27.16667
+],
+  "geometry": {"coordinates":[-56.51667,-27.16667],"type":"Point"}
+}

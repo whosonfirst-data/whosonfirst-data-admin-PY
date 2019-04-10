@@ -1,0 +1,68 @@
+{
+  "id": 1276442435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.5,-25.45,-55.5,-25.45",
+    "geom:latitude":-25.45,
+    "geom:longitude":-55.5,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0512",
+    "gn:asciiname":"Mision del Divino Salvador",
+    "gn:country_code":"PY",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437728,
+    "gn:latitude":-25.45,
+    "gn:longitude":-55.5,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Misi\u00f3n del Divino Salvador",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437728
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c8c232d41571a43bcadbaf5cb52a1d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692645,
+            "locality_id":1276442435,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1276442435,
+    "wof:lastmodified":1536630845,
+    "wof:name":"Mision del Divino Salvador",
+    "wof:parent_id":1108692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.5,
+    -25.45,
+    -55.5,
+    -25.45
+],
+  "geometry": {"coordinates":[-55.5,-25.45],"type":"Point"}
+}

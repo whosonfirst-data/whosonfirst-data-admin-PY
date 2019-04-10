@@ -1,0 +1,70 @@
+{
+  "id": 1309873929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.7834,-23.78916,-60.7834,-23.78916",
+    "geom:latitude":-23.78916,
+    "geom:longitude":-60.7834,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mision San Leonardo",
+    "gn:country_code":"PY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867221,
+    "gn:latitude":-23.78916,
+    "gn:longitude":-60.7834,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Misi\u00f3n San Leonardo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Misi\u00f3n San Leonardo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        1108692817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867221
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4b2207df1b5332afafb4a5b5e093d5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692817,
+            "locality_id":1309873929,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1309873929,
+    "wof:lastmodified":1537683235,
+    "wof:name":"Mision San Leonardo",
+    "wof:parent_id":1108692817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.7834,
+    -23.78916,
+    -60.7834,
+    -23.78916
+],
+  "geometry": {"coordinates":[-60.7834,-23.78916],"type":"Point"}
+}

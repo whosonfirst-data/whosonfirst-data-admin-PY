@@ -1,0 +1,102 @@
+{
+  "id": 421192697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.91667,-25.66667,-56.91667,-25.66667",
+    "geom:latitude":-25.66667,
+    "geom:longitude":-56.91667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:grn_x_preferred":[
+        "Sapukai"
+    ],
+    "name:ita_x_preferred":[
+        "Sapucai"
+    ],
+    "name:por_x_preferred":[
+        "Sapucai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043f\u0443\u043a\u0430\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Sapucai"
+    ],
+    "name:unk_x_variant":[
+        "Sapucay"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u666e\u51f1"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436927,
+    "qs:gn_pop":1932,
+    "qs:name":"Sapuca\u00ed",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Paraguar\u00ed",
+    "qs:photos":263,
+    "qs:photos_1k":53,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":263,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":147807,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379220,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        421191497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436927,
+        "gp:id":379220,
+        "qs:id":147807,
+        "wd:id":"Q785504",
+        "wk:page":"Sapuca\u00ed"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009745,
+    "wof:geomhash":"ee3ffc09cff1bf353df389160792fea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421191497,
+            "locality_id":421192697,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":421192697,
+    "wof:lastmodified":1505340731,
+    "wof:name":"Sapuca\u00ed",
+    "wof:parent_id":421191497,
+    "wof:placetype":"locality",
+    "wof:population":1932,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.91667,
+    -25.66667,
+    -56.91667,
+    -25.66667
+],
+  "geometry": {"coordinates":[-56.91667,-25.66667],"type":"Point"}
+}

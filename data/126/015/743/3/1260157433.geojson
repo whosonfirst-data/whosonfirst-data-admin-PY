@@ -1,0 +1,71 @@
+{
+  "id": 1260157433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.80573,-26.47313,-57.80573,-26.47313",
+    "geom:latitude":-26.47313,
+    "geom:longitude":-57.80573,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1212",
+    "gn:asciiname":"Puesto Benjamin",
+    "gn:country_code":"PY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437298,
+    "gn:latitude":-26.47313,
+    "gn:longitude":-57.80573,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puesto Benjam\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puesto Benjam\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        1108692785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437298
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"f159491cb5a8e9644c26522e485dbcc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692785,
+            "locality_id":1260157433,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":1260157433,
+    "wof:lastmodified":1537683201,
+    "wof:name":"Puesto Benjamin",
+    "wof:parent_id":1108692785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.80573,
+    -26.47313,
+    -57.80573,
+    -26.47313
+],
+  "geometry": {"coordinates":[-57.80573,-26.47313],"type":"Point"}
+}

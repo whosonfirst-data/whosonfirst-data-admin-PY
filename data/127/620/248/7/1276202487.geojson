@@ -1,0 +1,74 @@
+{
+  "id": 1276202487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.00003,-24.19103,-57.00003,-24.19103",
+    "geom:latitude":-24.19103,
+    "geom:longitude":-57.00003,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0213",
+    "gn:asciiname":"Estancia Tacuru de Felix Storm",
+    "gn:country_code":"PY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438188,
+    "gn:latitude":-24.19103,
+    "gn:longitude":-57.00003,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Tacur\u00fa de Felix Storm",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Tacur\u00fa de Felix Storm"
+    ],
+    "name:und_x_variant":[
+        "Estancia Tacuru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438188
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"19c2623c1639ff4feb26aa15fd8edf08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692831,
+            "locality_id":1276202487,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1276202487,
+    "wof:lastmodified":1537683211,
+    "wof:name":"Estancia Tacuru de Felix Storm",
+    "wof:parent_id":1108692831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.00003,
+    -24.19103,
+    -57.00003,
+    -24.19103
+],
+  "geometry": {"coordinates":[-57.00003,-24.19103],"type":"Point"}
+}

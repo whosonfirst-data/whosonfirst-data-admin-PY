@@ -1,0 +1,74 @@
+{
+  "id": 1242931657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.4,-21.06667,-58.4,-21.06667",
+    "geom:latitude":-21.06667,
+    "geom:longitude":-58.4,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1701",
+    "gn:asciiname":"Estancia Isla Corazon",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438525,
+    "gn:latitude":-21.06667,
+    "gn:longitude":-58.4,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Isla Coraz\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Coraz\u00f3n",
+        "Estaci\u00f3n Isla Coraz\u00f3n",
+        "Estancia Isla Coraz\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676655,
+        421184639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438525
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7c36ec7d68fd0f9b4487816cf8d04998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184639,
+            "locality_id":1242931657,
+            "region_id":85676655
+        }
+    ],
+    "wof:id":1242931657,
+    "wof:lastmodified":1537683218,
+    "wof:name":"Estancia Isla Corazon",
+    "wof:parent_id":421184639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.4,
+    -21.06667,
+    -58.4,
+    -21.06667
+],
+  "geometry": {"coordinates":[-58.4,-21.06667],"type":"Point"}
+}

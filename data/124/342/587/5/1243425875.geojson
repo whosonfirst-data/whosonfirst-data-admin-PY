@@ -1,0 +1,68 @@
+{
+  "id": 1243425875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.19444,-23.89583,-57.19444,-23.89583",
+    "geom:latitude":-23.89583,
+    "geom:longitude":-57.19444,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Estancia Serratti",
+    "gn:country_code":"PY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3480793,
+    "gn:latitude":-23.89583,
+    "gn:longitude":-57.19444,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Serratti",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480793
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c7880b93047773fb3401f9ed4a9b0c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692761,
+            "locality_id":1243425875,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1243425875,
+    "wof:lastmodified":1536834191,
+    "wof:name":"Estancia Serratti",
+    "wof:parent_id":1108692761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.19444,
+    -23.89583,
+    -57.19444,
+    -23.89583
+],
+  "geometry": {"coordinates":[-57.19444,-23.89583],"type":"Point"}
+}

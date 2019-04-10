@@ -1,0 +1,78 @@
+{
+  "id": 1243143627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.4503,-24.06394,-56.4503,-24.06394",
+    "geom:latitude":-24.06394,
+    "geom:longitude":-56.4503,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0214",
+    "gn:asciiname":"General Francisco Isidoro Resquin",
+    "gn:country_code":"PY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438065,
+    "gn:latitude":-24.06394,
+    "gn:longitude":-56.4503,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"General Francisco Isidoro Resqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "General Francisco Isidoro Resqu\u00edn"
+    ],
+    "name:spa_x_variant":[
+        "General Francisco I. Resqu\u00edn"
+    ],
+    "name:und_x_variant":[
+        "General Isidoro Resqu\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438065,
+        "wk:page":"General_Isidoro_Resqu%C3%ADn"
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"5970b292c184d72d4d30650a08ce03ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692485,
+            "locality_id":1243143627,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1243143627,
+    "wof:lastmodified":1537683209,
+    "wof:name":"General Francisco Isidoro Resquin",
+    "wof:parent_id":1108692485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.4503,
+    -24.06394,
+    -56.4503,
+    -24.06394
+],
+  "geometry": {"coordinates":[-56.4503,-24.06394],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209107065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.66462,-25.49867,-56.66462,-25.49867",
+    "geom:latitude":-25.49867,
+    "geom:longitude":-56.66462,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0510",
+    "gn:asciiname":"Estancia Bella Vista",
+    "gn:country_code":"PY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438659,
+    "gn:latitude":-25.49867,
+    "gn:longitude":-56.66462,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Bella Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Bella Vista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438659
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8db54603f402c2c2d46d11024052db4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209107065
+        }
+    ],
+    "wof:id":1209107065,
+    "wof:lastmodified":1537683221,
+    "wof:name":"Estancia Bella Vista",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.66461999999999,
+    -25.49867,
+    -56.66461999999999,
+    -25.49867
+],
+  "geometry": {"coordinates":[-56.66461999999999,-25.49867],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276321657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.45,-26.98333,-55.45,-26.98333",
+    "geom:latitude":-26.98333,
+    "geom:longitude":-55.45,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0702",
+    "gn:asciiname":"Puerto Italia",
+    "gn:country_code":"PY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437384,
+    "gn:latitude":-26.98333,
+    "gn:longitude":-55.45,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Italia",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437384
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"1f799b849ec1ea8c39b259a6f470242f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692863,
+            "locality_id":1276321657,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1276321657,
+    "wof:lastmodified":1536794644,
+    "wof:name":"Puerto Italia",
+    "wof:parent_id":1108692863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.45,
+    -26.98333,
+    -55.45,
+    -26.98333
+],
+  "geometry": {"coordinates":[-55.45,-26.98333],"type":"Point"}
+}

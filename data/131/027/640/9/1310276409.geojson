@@ -1,0 +1,68 @@
+{
+  "id": 1310276409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.05,-23.76667,-57.05,-23.76667",
+    "geom:latitude":-23.76667,
+    "geom:longitude":-57.05,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Estancia Belen-cue",
+    "gn:country_code":"PY",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438661,
+    "gn:latitude":-23.76667,
+    "gn:longitude":-57.05,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Bel\u00e9n-cu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438661
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"038a93034b564cad61c8cff2f1a96d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692761,
+            "locality_id":1310276409,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1310276409,
+    "wof:lastmodified":1536749849,
+    "wof:name":"Estancia Belen-cue",
+    "wof:parent_id":1108692761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.05,
+    -23.76667,
+    -57.05,
+    -23.76667
+],
+  "geometry": {"coordinates":[-57.05,-23.76667],"type":"Point"}
+}

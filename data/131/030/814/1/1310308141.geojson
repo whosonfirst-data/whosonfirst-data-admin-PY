@@ -1,0 +1,67 @@
+{
+  "id": 1310308141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.56667,-22.78333,-55.56667,-22.78333",
+    "geom:latitude":-22.78333,
+    "geom:longitude":-55.56667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Colonia Mariscal Lopez",
+    "gn:country_code":"PY",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438994,
+    "gn:latitude":-22.78333,
+    "gn:longitude":-55.56667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Colonia Mariscal L\u00f3pez",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        85681947,
+        102055191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438994
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a6272793e379c37332a5db800cfbf7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055191,
+            "locality_id":1310308141,
+            "region_id":85681947
+        }
+    ],
+    "wof:id":1310308141,
+    "wof:lastmodified":1536704354,
+    "wof:name":"Colonia Mariscal Lopez",
+    "wof:parent_id":102055191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.56667,
+    -22.78333,
+    -55.56667,
+    -22.78333
+],
+  "geometry": {"coordinates":[-55.56667,-22.78333],"type":"Point"}
+}

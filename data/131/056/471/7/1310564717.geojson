@@ -1,0 +1,71 @@
+{
+  "id": 1310564717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.96697,-24.22494,-56.96697,-24.22494",
+    "geom:latitude":-24.22494,
+    "geom:longitude":-56.96697,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0213",
+    "gn:asciiname":"Colonia Volendam",
+    "gn:country_code":"PY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3438884,
+    "gn:latitude":-24.22494,
+    "gn:longitude":-56.96697,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Volendam",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Volendam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438884
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"07de4568cf330c70cf72123778e70466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692831,
+            "locality_id":1310564717,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1310564717,
+    "wof:lastmodified":1537683224,
+    "wof:name":"Colonia Volendam",
+    "wof:parent_id":1108692831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.96697,
+    -24.22494,
+    -56.96697,
+    -24.22494
+],
+  "geometry": {"coordinates":[-56.96697,-24.22494],"type":"Point"}
+}

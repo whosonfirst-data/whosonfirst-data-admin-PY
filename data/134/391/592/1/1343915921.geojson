@@ -1,0 +1,68 @@
+{
+  "id": 1343915921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.7,-21.8,-61.7,-21.8",
+    "geom:latitude":-21.8,
+    "geom:longitude":-61.7,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Pozo Quince de Abril",
+    "gn:country_code":"PY",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867179,
+    "gn:latitude":-21.8,
+    "gn:longitude":-61.7,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Pozo Quince de Abril",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        421171777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867179
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"16320c0d37aa6e6bb1dba73b733e869d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171777,
+            "locality_id":1343915921,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1343915921,
+    "wof:lastmodified":1537081242,
+    "wof:name":"Pozo Quince de Abril",
+    "wof:parent_id":421171777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7,
+    -21.8,
+    -61.7,
+    -21.8
+],
+  "geometry": {"coordinates":[-61.7,-21.8],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360190703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.81921,-25.12177,-55.81921,-25.12177",
+    "geom:latitude":-25.12177,
+    "geom:longitude":-55.81921,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Compania Potrero Santo Domingo",
+    "gn:country_code":"PY",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3436938,
+    "gn:latitude":-25.12177,
+    "gn:longitude":-55.81921,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Compa\u00f1\u00eda Potrero Santo Domingo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Compa\u00f1\u00eda Potrero Santo Domingo"
+    ],
+    "name:und_x_variant":[
+        "Santo Domingo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        1108692643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436938
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"3545253301a778fe24b46175318210ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692643,
+            "locality_id":1360190703,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1360190703,
+    "wof:lastmodified":1537683197,
+    "wof:name":"Compania Potrero Santo Domingo",
+    "wof:parent_id":1108692643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.81921,
+    -25.12177,
+    -55.81921,
+    -25.12177
+],
+  "geometry": {"coordinates":[-55.81921,-25.12177],"type":"Point"}
+}

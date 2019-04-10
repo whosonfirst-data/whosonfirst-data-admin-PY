@@ -1,0 +1,68 @@
+{
+  "id": 1243446119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.26667,-22.9,-56.26667,-22.9",
+    "geom:latitude":-22.9,
+    "geom:longitude":-56.26667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0107",
+    "gn:asciiname":"Estancia La Victoria",
+    "gn:country_code":"PY",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438471,
+    "gn:latitude":-22.9,
+    "gn:longitude":-56.26667,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia La Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676665,
+        1108692755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438471
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"ed7defc03837466858cddfcdcb07970d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692755,
+            "locality_id":1243446119,
+            "region_id":85676665
+        }
+    ],
+    "wof:id":1243446119,
+    "wof:lastmodified":1536805845,
+    "wof:name":"Estancia La Victoria",
+    "wof:parent_id":1108692755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.26667,
+    -22.9,
+    -56.26667,
+    -22.9
+],
+  "geometry": {"coordinates":[-56.26667,-22.9],"type":"Point"}
+}

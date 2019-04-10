@@ -1,0 +1,232 @@
+{
+  "id": 421196007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.52361,-25.09306,-57.52361,-25.09306",
+    "geom:latitude":-25.09306,
+    "geom:longitude":-57.52361,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:epo_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0627 \u0647\u0627\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:grn_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d8\u10d0-\u10f0\u10d4\u10d8\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc57c\uc544\uc608\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Vilja Hajesas"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:por_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:ron_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:unk_x_variant":[
+        "Nueva Burdeos"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0627 \u062e\u06cc\u0626\u0633"
+    ],
+    "name:war_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8036\u65af\u9547"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Paraguay",
+    "ne:ADM0_A3":"PRY",
+    "ne:ADM1NAME":"Presidente Hayes",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":2,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":null,
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"PY",
+    "ne:LABELRANK":7,
+    "ne:LATITUDE":-25.090007,
+    "ne:LONGITUDE":-57.529987,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Villa Hayes",
+    "ne:MAX_AREAKM":6.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-57.508333,
+    "ne:MAX_BBXMIN":-57.541667,
+    "ne:MAX_BBYMAX":-25.083333,
+    "ne:MAX_BBYMIN":-25.108333,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":12.0,
+    "ne:MAX_PERMI":8.0,
+    "ne:MAX_POP10":15643,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-57.525,
+    "ne:MEAN_BBYC":-25.095833,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":6.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-57.508333,
+    "ne:MIN_BBXMIN":-57.541667,
+    "ne:MIN_BBYMAX":-25.083333,
+    "ne:MIN_BBYMIN":-25.108333,
+    "ne:MIN_PERKM":12.0,
+    "ne:MIN_PERMI":8.0,
+    "ne:NAME":"Villa Hayes",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Villa Hayes",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":15643,
+    "ne:POP_MIN":15643,
+    "ne:POP_OTHER":141527,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Paraguay",
+    "ne:SOV_A3":"PRY",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3436725,
+    "qs:gn_pop":0,
+    "qs:name":"Villa Hayes",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Presidente Hayes",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1044655,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379193,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        421171367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436725,
+        "gp:id":379193,
+        "qs:id":1044655,
+        "wd:id":"Q135953",
+        "wk:page":"Villa Hayes"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009866,
+    "wof:geomhash":"ec33fc1ecabb12017e98385c7eb867a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171367,
+            "locality_id":421196007,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":421196007,
+    "wof:lastmodified":1534379450,
+    "wof:name":"Villa Hayes",
+    "wof:parent_id":421171367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[
+        1141906393
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.52361,
+    -25.09306,
+    -57.52361,
+    -25.09306
+],
+  "geometry": {"coordinates":[-57.52361,-25.09306],"type":"Point"}
+}

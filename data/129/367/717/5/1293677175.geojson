@@ -1,0 +1,73 @@
+{
+  "id": 1293677175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.6,-27.1,-56.6,-27.1",
+    "geom:latitude":-27.1,
+    "geom:longitude":-56.6,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0713",
+    "gn:asciiname":"San Luis",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437049,
+    "gn:latitude":-27.1,
+    "gn:longitude":-56.6,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Luis Boquer\u00f3n",
+        "San Luis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437049
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e1bd7c291c5a9200c55f3787ad6bb646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692743,
+            "locality_id":1293677175,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1293677175,
+    "wof:lastmodified":1537683198,
+    "wof:name":"San Luis",
+    "wof:parent_id":1108692743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.6,
+    -27.1,
+    -56.6,
+    -27.1
+],
+  "geometry": {"coordinates":[-56.6,-27.1],"type":"Point"}
+}

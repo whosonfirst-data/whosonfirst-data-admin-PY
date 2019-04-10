@@ -1,0 +1,121 @@
+{
+  "id": 421201849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.53333,-23.26667,-55.53333,-23.26667",
+    "geom:latitude":-23.26667,
+    "geom:longitude":-55.53333,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5df4\u591a\u4e0a\u5c09\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Capit\u00e1n Bado"
+    ],
+    "name:eng_x_preferred":[
+        "Capit\u00e1n Bado"
+    ],
+    "name:fre_x_preferred":[
+        "Capit\u00e1n Bado"
+    ],
+    "name:grn_x_preferred":[
+        "\u00d1u Vera"
+    ],
+    "name:ita_x_preferred":[
+        "Capit\u00e1n Bado"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d4\u30bf\u30f3\u30fb\u30d0\u30c9"
+    ],
+    "name:lit_x_preferred":[
+        "Kapitan Bado"
+    ],
+    "name:por_x_preferred":[
+        "Capit\u00e1n Bado"
+    ],
+    "name:ron_x_preferred":[
+        "Capit\u00e1n Bado"
+    ],
+    "name:rum_x_preferred":[
+        "Capit\u00e1n Bado"
+    ],
+    "name:spa_x_preferred":[
+        "Capit\u00e1n Bado"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u591a\u4e0a\u5c09\u93ae"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439189,
+    "qs:gn_pop":9114,
+    "qs:name":"Capit\u00e1n Bado",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Amambay",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":214882,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":377403,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":285,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676701,
+        1108692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439189,
+        "gp:id":377403,
+        "qs:id":214882,
+        "wd:id":"Q2717429",
+        "wk:page":"Capit\u00e1n Bado"
+    },
+    "wof:country":"PY",
+    "wof:created":1459010089,
+    "wof:geomhash":"9cf21f37c86edf53f0f8923dcc4f9f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692445,
+            "locality_id":421201849,
+            "region_id":85676701
+        }
+    ],
+    "wof:id":421201849,
+    "wof:lastmodified":1527716438,
+    "wof:name":"Capit\u00e1n Bado",
+    "wof:parent_id":1108692445,
+    "wof:placetype":"locality",
+    "wof:population":9114,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.53333,
+    -23.26667,
+    -55.53333,
+    -23.26667
+],
+  "geometry": {"coordinates":[-55.53333,-23.26667],"type":"Point"}
+}

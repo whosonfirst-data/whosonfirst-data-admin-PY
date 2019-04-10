@@ -1,0 +1,68 @@
+{
+  "id": 1310690365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.38333,-25.81667,-56.38333,-25.81667",
+    "geom:latitude":-25.81667,
+    "geom:longitude":-56.38333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0401",
+    "gn:asciiname":"Colonia Catorce de Mayo",
+    "gn:country_code":"PY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439063,
+    "gn:latitude":-25.81667,
+    "gn:longitude":-56.38333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Catorce de Mayo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676685,
+        421173301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439063
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a00b84820160601a20a3dd56f7c83e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421173301,
+            "locality_id":1310690365,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":1310690365,
+    "wof:lastmodified":1536649989,
+    "wof:name":"Colonia Catorce de Mayo",
+    "wof:parent_id":421173301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.38333000000001,
+    -25.81667,
+    -56.38333000000001,
+    -25.81667
+],
+  "geometry": {"coordinates":[-56.38333000000001,-25.81667],"type":"Point"}
+}

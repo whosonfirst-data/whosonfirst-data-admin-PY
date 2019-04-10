@@ -1,0 +1,99 @@
+{
+  "id": 421180683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.41667,-27.16667,-58.41667,-27.16667",
+    "geom:latitude":-27.16667,
+    "geom:longitude":-58.41667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "General Jos\u00e9 Eduvigis D\u00edaz"
+    ],
+    "name:por_x_preferred":[
+        "General Jos\u00e9 Eduvigis D\u00edaz"
+    ],
+    "name:sco_x_preferred":[
+        "General Jos\u00e9 Eduvigis D\u00edaz"
+    ],
+    "name:spa_x_preferred":[
+        "General Jos\u00e9 Eduvigis D\u00edaz"
+    ],
+    "name:unk_x_variant":[
+        "General Diaz"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f55\u585e\u57c3\u675c\u7dad\u8d6b\u65af\u8fea\u4e9e\u65af"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438064,
+    "qs:gn_pop":1345,
+    "qs:name":"General Jos\u00e9 Eduvigis D\u00edaz",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"\u00d1eembuc\u00fa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1207084,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":378388,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        421189017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438064,
+        "gp:id":378388,
+        "qs:id":1207084,
+        "wd:id":"Q2778877"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009267,
+    "wof:geomhash":"d277b2e3a013f6b65ef060f1dcb66b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421189017,
+            "locality_id":421180683,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":421180683,
+    "wof:lastmodified":1527716240,
+    "wof:name":"General Jos\u00e9 Eduvigis D\u00edaz",
+    "wof:parent_id":421189017,
+    "wof:placetype":"locality",
+    "wof:population":1345,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.41667,
+    -27.16667,
+    -58.41667,
+    -27.16667
+],
+  "geometry": {"coordinates":[-58.41667,-27.16667],"type":"Point"}
+}

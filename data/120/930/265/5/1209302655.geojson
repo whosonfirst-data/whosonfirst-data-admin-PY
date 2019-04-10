@@ -1,0 +1,65 @@
+{
+  "id": 1209302655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.71715,-27.29265,-55.71715,-27.29265",
+    "geom:latitude":-27.29265,
+    "geom:longitude":-55.71715,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0705",
+    "gn:asciiname":"Alborada Dos",
+    "gn:country_code":"PY",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3439447,
+    "gn:latitude":-27.29265,
+    "gn:longitude":-55.71715,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Alborada Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alborada Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439447
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"4db1b74ca72325e7c96bda8240f89e76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632355,
+            "locality_id":1209302655
+        }
+    ],
+    "wof:id":1209302655,
+    "wof:lastmodified":1537683232,
+    "wof:name":"Alborada Dos",
+    "wof:parent_id":85632355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.71715,
+    -27.29265,
+    -55.71715,
+    -27.29265
+],
+  "geometry": {"coordinates":[-55.71715,-27.29265],"type":"Point"}
+}

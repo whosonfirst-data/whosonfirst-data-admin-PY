@@ -1,0 +1,75 @@
+{
+  "id": 421183139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.6685235,-25.3091915,-57.6685235,-25.3091915",
+    "geom:latitude":-25.309192,
+    "geom:longitude":-57.668523,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Garcete Cue",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Formosa",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":963383,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":26795703,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676651,
+        421166713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26795703,
+        "qs:id":963383
+    },
+    "wof:country":"PY",
+    "wof:created":1459009359,
+    "wof:geomhash":"2427c365e5558a477c6d33fd26a4cff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421166713,
+            "locality_id":421183139,
+            "region_id":85676651
+        }
+    ],
+    "wof:id":421183139,
+    "wof:lastmodified":1500018948,
+    "wof:name":"Garcete Cue",
+    "wof:parent_id":421166713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.6685235,
+    -25.3091915,
+    -57.6685235,
+    -25.3091915
+],
+  "geometry": {"coordinates":[-57.6685235,-25.3091915],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344043049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.3,-25.0,-57.3,-25.0",
+    "geom:latitude":-25.0,
+    "geom:longitude":-57.3,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"0303",
+    "gn:asciiname":"Puerto Olivares",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437362,
+    "gn:latitude":-25.0,
+    "gn:longitude":-57.3,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Olivares",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Olivares",
+        "Puerto Olivares"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676667,
+        1108692501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437362
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a83894775e18264a68557a87802f64e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692501,
+            "locality_id":1344043049,
+            "region_id":85676667
+        }
+    ],
+    "wof:id":1344043049,
+    "wof:lastmodified":1537683203,
+    "wof:name":"Puerto Olivares",
+    "wof:parent_id":1108692501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.3,
+    -25.0,
+    -57.3,
+    -25.0
+],
+  "geometry": {"coordinates":[-57.3,-25.0],"type":"Point"}
+}

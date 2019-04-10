@@ -1,0 +1,68 @@
+{
+  "id": 1326808553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.33333,-26.93333,-56.33333,-26.93333",
+    "geom:latitude":-26.93333,
+    "geom:longitude":-56.33333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Estancia Pirity",
+    "gn:country_code":"PY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438382,
+    "gn:latitude":-26.93333,
+    "gn:longitude":-56.33333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Pirity",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723,
+        1108692545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438382
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c93c0ab5962ea582fbf279e0fa86c694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692545,
+            "locality_id":1326808553,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":1326808553,
+    "wof:lastmodified":1537079825,
+    "wof:name":"Estancia Pirity",
+    "wof:parent_id":1108692545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.33333,
+    -26.93333,
+    -56.33333,
+    -26.93333
+],
+  "geometry": {"coordinates":[-56.33333,-26.93333],"type":"Point"}
+}

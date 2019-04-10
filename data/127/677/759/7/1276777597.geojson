@@ -1,0 +1,74 @@
+{
+  "id": 1276777597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.35575,-25.60291,-55.35575,-25.60291",
+    "geom:latitude":-25.60291,
+    "geom:longitude":-55.35575,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1012",
+    "gn:asciiname":"Puerto Caa Yovai",
+    "gn:country_code":"PY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439298,
+    "gn:latitude":-25.60291,
+    "gn:longitude":-55.35575,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Ca\u00e1 Yovai",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Ca\u00e1 Yovai"
+    ],
+    "name:und_x_variant":[
+        "Ca\u00e1 Yovai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        1108692561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439298
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"04ca7c44b3f6cb8ba61786d6b8fc8829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692561,
+            "locality_id":1276777597,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1276777597,
+    "wof:lastmodified":1537683231,
+    "wof:name":"Puerto Caa Yovai",
+    "wof:parent_id":1108692561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.35575,
+    -25.60291,
+    -55.35575,
+    -25.60291
+],
+  "geometry": {"coordinates":[-55.35575,-25.60291],"type":"Point"}
+}

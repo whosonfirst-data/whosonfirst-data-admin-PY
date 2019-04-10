@@ -1,0 +1,71 @@
+{
+  "id": 1276882795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.01009,-25.58047,-55.01009,-25.58047",
+    "geom:latitude":-25.58047,
+    "geom:longitude":-55.01009,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1009",
+    "gn:asciiname":"Puerto Dolores",
+    "gn:country_code":"PY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437403,
+    "gn:latitude":-25.58047,
+    "gn:longitude":-55.01009,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Dolores",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Dolores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        421191499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437403
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"7507d4482b5414611b368edd3dafb866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421191499,
+            "locality_id":1276882795,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1276882795,
+    "wof:lastmodified":1537683204,
+    "wof:name":"Puerto Dolores",
+    "wof:parent_id":421191499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.01009000000001,
+    -25.58047,
+    -55.01009000000001,
+    -25.58047
+],
+  "geometry": {"coordinates":[-55.01009000000001,-25.58047],"type":"Point"}
+}

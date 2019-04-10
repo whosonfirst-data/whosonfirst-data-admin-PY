@@ -1,0 +1,68 @@
+{
+  "id": 1293362869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.58028,-23.81167,-57.58028,-23.81167",
+    "geom:latitude":-23.81167,
+    "geom:longitude":-57.58028,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Estancia San Onofre",
+    "gn:country_code":"PY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438275,
+    "gn:latitude":-23.81167,
+    "gn:longitude":-57.58028,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia San Onofre",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        421171367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438275
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"b08944f84604055da775d5e0f634e8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171367,
+            "locality_id":1293362869,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1293362869,
+    "wof:lastmodified":1536966537,
+    "wof:name":"Estancia San Onofre",
+    "wof:parent_id":421171367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.58028,
+    -23.81167,
+    -57.58028,
+    -23.81167
+],
+  "geometry": {"coordinates":[-57.58028,-23.81167],"type":"Point"}
+}

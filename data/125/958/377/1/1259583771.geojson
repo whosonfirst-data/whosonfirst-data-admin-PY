@@ -1,0 +1,74 @@
+{
+  "id": 1259583771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.25497,-25.49686,-56.25497,-25.49686",
+    "geom:latitude":-25.49686,
+    "geom:longitude":-56.25497,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0501",
+    "gn:asciiname":"Colonia Blas A. Garay",
+    "gn:country_code":"PY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3439076,
+    "gn:latitude":-25.49686,
+    "gn:longitude":-56.25497,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Colonia Blas A. Garay",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Blas A. Garay"
+    ],
+    "name:spa_x_variant":[
+        "Colonia Blas Garay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676709,
+        421184207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439076
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a61c339c5ea381b72c2124eeaa352867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421184207,
+            "locality_id":1259583771,
+            "region_id":85676709
+        }
+    ],
+    "wof:id":1259583771,
+    "wof:lastmodified":1537683229,
+    "wof:name":"Colonia Blas A. Garay",
+    "wof:parent_id":421184207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.25496999999999,
+    -25.49686,
+    -56.25496999999999,
+    -25.49686
+],
+  "geometry": {"coordinates":[-56.25496999999999,-25.49686],"type":"Point"}
+}

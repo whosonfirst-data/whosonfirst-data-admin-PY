@@ -1,0 +1,78 @@
+{
+  "id": 1360261309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.18625,-24.7003,-57.18625,-24.7003",
+    "geom:latitude":-24.7003,
+    "geom:longitude":-57.18625,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0213",
+    "gn:asciiname":"Seccion Uruguaita",
+    "gn:country_code":"PY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438155,
+    "gn:latitude":-24.7003,
+    "gn:longitude":-57.18625,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Secci\u00f3n Uruguait\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Secci\u00f3n Uruguait\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Uruguayita",
+        "Estancia Uruguayita",
+        "Uruguaita Estancia",
+        "Uruguait\u00e1",
+        "Estancia Uruguait\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438155
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"eca53c4d0c29530f3e3457a203ff7dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692831,
+            "locality_id":1360261309,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1360261309,
+    "wof:lastmodified":1537683210,
+    "wof:name":"Seccion Uruguaita",
+    "wof:parent_id":1108692831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.18625,
+    -24.7003,
+    -57.18625,
+    -24.7003
+],
+  "geometry": {"coordinates":[-57.18625,-24.7003],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310391775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.57633,-27.1365,-57.57633,-27.1365",
+    "geom:latitude":-27.1365,
+    "geom:longitude":-57.57633,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1209",
+    "gn:asciiname":"Estancia Santa Isolina",
+    "gn:country_code":"PY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438240,
+    "gn:latitude":-27.1365,
+    "gn:longitude":-57.57633,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Santa Isolina",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Santa Isolina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        1108692875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438240
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"a83f1cd7176d937259aeaa981abf9ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692875,
+            "locality_id":1310391775,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":1310391775,
+    "wof:lastmodified":1537683212,
+    "wof:name":"Estancia Santa Isolina",
+    "wof:parent_id":1108692875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.57633000000001,
+    -27.1365,
+    -57.57633000000001,
+    -27.1365
+],
+  "geometry": {"coordinates":[-57.57633000000001,-27.1365],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327104879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.6,-26.26667,-57.6,-26.26667",
+    "geom:latitude":-26.26667,
+    "geom:longitude":-57.6,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"0903",
+    "gn:asciiname":"Estancia Camalote",
+    "gn:cc2":"PY",
+    "gn:country_code":"PY",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438634,
+    "gn:latitude":-26.26667,
+    "gn:longitude":-57.6,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia Camalote",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camalote",
+        "Estancia Camalote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        1108692707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438634
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"e4e91783b3e4baa36b17198028eabd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692707,
+            "locality_id":1327104879,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":1327104879,
+    "wof:lastmodified":1537683221,
+    "wof:name":"Estancia Camalote",
+    "wof:parent_id":1108692707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.6,
+    -26.26667,
+    -57.6,
+    -26.26667
+],
+  "geometry": {"coordinates":[-57.6,-26.26667],"type":"Point"}
+}

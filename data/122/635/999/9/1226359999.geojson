@@ -1,0 +1,74 @@
+{
+  "id": 1226359999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.12802,-26.03616,-55.12802,-26.03616",
+    "geom:latitude":-26.03616,
+    "geom:longitude":-55.12802,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1014",
+    "gn:asciiname":"San Alfredo",
+    "gn:country_code":"PY",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438934,
+    "gn:latitude":-26.03616,
+    "gn:longitude":-55.12802,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"San Alfredo",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Alfredo"
+    ],
+    "name:und_x_variant":[
+        "Colonia San Alfredo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705,
+        1108692565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438934
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"c6fe84a7f64be374b084b8ea8a915ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692565,
+            "locality_id":1226359999,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":1226359999,
+    "wof:lastmodified":1537683226,
+    "wof:name":"San Alfredo",
+    "wof:parent_id":1108692565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.12801999999999,
+    -26.03616,
+    -55.12801999999999,
+    -26.03616
+],
+  "geometry": {"coordinates":[-55.12801999999999,-26.03616],"type":"Point"}
+}

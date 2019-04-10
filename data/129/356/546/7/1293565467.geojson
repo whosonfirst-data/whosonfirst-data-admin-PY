@@ -1,0 +1,68 @@
+{
+  "id": 1293565467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.18333,-24.0,-57.18333,-24.0",
+    "geom:latitude":-24.0,
+    "geom:longitude":-57.18333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"0202",
+    "gn:asciiname":"Puerto Doria",
+    "gn:country_code":"PY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3437402,
+    "gn:latitude":-24.0,
+    "gn:longitude":-57.18333,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Puerto Doria",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676675,
+        1108692763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3437402
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"cf077fab8a5b5aef1040898b66a15733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692763,
+            "locality_id":1293565467,
+            "region_id":85676675
+        }
+    ],
+    "wof:id":1293565467,
+    "wof:lastmodified":1536674701,
+    "wof:name":"Puerto Doria",
+    "wof:parent_id":1108692763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.18333000000001,
+    -24.0,
+    -57.18333000000001,
+    -24.0
+],
+  "geometry": {"coordinates":[-57.18333000000001,-24.0],"type":"Point"}
+}

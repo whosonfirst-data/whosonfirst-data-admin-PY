@@ -1,0 +1,100 @@
+{
+  "id": 421185749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.61667,-25.75,-56.61667,-25.75",
+    "geom:latitude":-25.75,
+    "geom:longitude":-56.61667,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Coronel Mart\u00ednez"
+    ],
+    "name:ita_x_preferred":[
+        "Coronel Mart\u00ednez"
+    ],
+    "name:por_x_preferred":[
+        "Coronel Mart\u00ednez"
+    ],
+    "name:spa_x_preferred":[
+        "Coronel Mart\u00ednez"
+    ],
+    "name:unk_x_variant":[
+        "Martinez"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4e01\u5167\u65af\u4e0a\u6821\u93ae"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3438822,
+    "qs:gn_pop":1359,
+    "qs:name":"Coronel Mart\u00ednez",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Guair\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1044693,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379233,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676685,
+        1108692535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438822,
+        "gp:id":379233,
+        "qs:id":1044693,
+        "wd:id":"Q1005030",
+        "wk:page":"Coronel Mart\u00ednez"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009453,
+    "wof:geomhash":"ffd57635b9ddebb2600715022220c48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692535,
+            "locality_id":421185749,
+            "region_id":85676685
+        }
+    ],
+    "wof:id":421185749,
+    "wof:lastmodified":1527726506,
+    "wof:name":"Coronel Mart\u00ednez",
+    "wof:parent_id":1108692535,
+    "wof:placetype":"locality",
+    "wof:population":1359,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.61667,
+    -25.75,
+    -56.61667,
+    -25.75
+],
+  "geometry": {"coordinates":[-56.61667,-25.75],"type":"Point"}
+}

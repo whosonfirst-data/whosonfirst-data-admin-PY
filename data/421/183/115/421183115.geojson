@@ -1,0 +1,96 @@
+{
+  "id": 421183115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.65,-25.91667,-56.65,-25.91667",
+    "geom:latitude":-25.91667,
+    "geom:longitude":-56.65,
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:grn_x_preferred":[
+        "Tevikuarymi"
+    ],
+    "name:ita_x_preferred":[
+        "Tebicuarym\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Tebicuarym\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Tebicuarym\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u6bd4\u5938\u91cc\u7c73"
+    ],
+    "qs:gn_country":"PY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436837,
+    "qs:gn_pop":403,
+    "qs:name":"Tebicuary M\u00ed",
+    "qs:name_adm0":"Paraguay",
+    "qs:name_adm1":"Paraguar\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":962419,
+    "qs:woe_adm0":23424917,
+    "qs:woe_id":379081,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676699,
+        1108692727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436837,
+        "gp:id":379081,
+        "qs:id":962419,
+        "wd:id":"Q2410898"
+    },
+    "wof:country":"PY",
+    "wof:created":1459009358,
+    "wof:geomhash":"b1659d8918645156c97c9f2d7cf4cb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692727,
+            "locality_id":421183115,
+            "region_id":85676699
+        }
+    ],
+    "wof:id":421183115,
+    "wof:lastmodified":1527717699,
+    "wof:name":"Tebicuary M\u00ed",
+    "wof:parent_id":1108692727,
+    "wof:placetype":"locality",
+    "wof:population":403,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.65,
+    -25.91667,
+    -56.65,
+    -25.91667
+],
+  "geometry": {"coordinates":[-56.65,-25.91667],"type":"Point"}
+}

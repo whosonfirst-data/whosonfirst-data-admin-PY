@@ -1,0 +1,72 @@
+{
+  "id": 1260163183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.48454,-24.05078,-57.48454,-24.05078",
+    "geom:latitude":-24.05078,
+    "geom:longitude":-57.48454,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Estancia del Medio",
+    "gn:country_code":"PY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438571,
+    "gn:latitude":-24.05078,
+    "gn:longitude":-57.48454,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Estancia del Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Medio",
+        "Estancia del Medio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676671,
+        421171367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438571
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"35d61d13e7bb6bc2330b2292231a1ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421171367,
+            "locality_id":1260163183,
+            "region_id":85676671
+        }
+    ],
+    "wof:id":1260163183,
+    "wof:lastmodified":1537683220,
+    "wof:name":"Estancia del Medio",
+    "wof:parent_id":421171367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.48454,
+    -24.05078,
+    -57.48454,
+    -24.05078
+],
+  "geometry": {"coordinates":[-57.48454,-24.05078],"type":"Point"}
+}

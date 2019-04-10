@@ -1,0 +1,67 @@
+{
+  "id": 1293571399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.65,-22.33333,-59.65,-22.33333",
+    "geom:latitude":-22.33333,
+    "geom:longitude":-59.65,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Campo Esperanza",
+    "gn:country_code":"PY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439240,
+    "gn:latitude":-22.33333,
+    "gn:longitude":-59.65,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Campo Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676659,
+        1108692881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439240
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"8adcd72f4a0450613975312b4ebd69ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692881,
+            "locality_id":1293571399,
+            "region_id":85676659
+        }
+    ],
+    "wof:id":1293571399,
+    "wof:lastmodified":1536666176,
+    "wof:name":"Campo Esperanza",
+    "wof:parent_id":1108692881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.65,
+    -22.33333,
+    -59.65,
+    -22.33333
+],
+  "geometry": {"coordinates":[-59.65,-22.33333],"type":"Point"}
+}

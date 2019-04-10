@@ -1,0 +1,67 @@
+{
+  "id": 1276315417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.1,-22.06667,-59.1,-22.06667",
+    "geom:latitude":-22.06667,
+    "geom:longitude":-59.1,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Estancia Adelina",
+    "gn:country_code":"PY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3438701,
+    "gn:latitude":-22.06667,
+    "gn:longitude":-59.1,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Estancia Adelina",
+    "gn:population":0,
+    "gn:timezone":"America/Asuncion",
+    "iso:country":"PY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676655,
+        1108692777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3438701
+    },
+    "wof:country":"PY",
+    "wof:geomhash":"dede0cf46a14bc2dd776b3d74e55ee86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692777,
+            "locality_id":1276315417,
+            "region_id":85676655
+        }
+    ],
+    "wof:id":1276315417,
+    "wof:lastmodified":1536802716,
+    "wof:name":"Estancia Adelina",
+    "wof:parent_id":1108692777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-py",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.1,
+    -22.06667,
+    -59.1,
+    -22.06667
+],
+  "geometry": {"coordinates":[-59.1,-22.06667],"type":"Point"}
+}
