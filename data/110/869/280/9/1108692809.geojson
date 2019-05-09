@@ -10,6 +10,12 @@
     "geom:latitude":-27.263434,
     "geom:longitude":-55.653227,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Nueva Alborada District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.253943,
     "lbl:longitude":-55.651942,
     "meso:adm1_en":"Itapua",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692809,
-    "wof:lastmodified":1536615285,
+    "wof:lastmodified":1553718218,
     "wof:name":"Nueva Alborada",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

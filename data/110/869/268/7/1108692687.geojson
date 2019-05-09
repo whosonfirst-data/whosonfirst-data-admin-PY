@@ -10,6 +10,12 @@
     "geom:latitude":-27.29834,
     "geom:longitude":-55.979977,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Juan Del Parana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.300925,
     "lbl:longitude":-55.987063,
     "meso:adm1_en":"Itapua",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692687,
-    "wof:lastmodified":1536615275,
+    "wof:lastmodified":1553718208,
     "wof:name":"San Juan Del Parana",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

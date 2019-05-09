@@ -10,6 +10,12 @@
     "geom:latitude":-25.215098,
     "geom:longitude":-56.777374,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Caraguatay District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.203698,
     "lbl:longitude":-56.827595,
     "meso:adm1_en":"Cordillera",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692503,
-    "wof:lastmodified":1536615256,
+    "wof:lastmodified":1553718191,
     "wof:name":"Caraguatay",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-24.312065,
     "geom:longitude":-58.875262,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "General Jose Maria Bruguez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.345695,
     "lbl:longitude":-58.911409,
     "meso:adm1_en":"Presidente Hayes",
@@ -25,6 +31,9 @@
     "mps:longitude":-58.911409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "General Jose Maria Bruguez"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1108692821,
-    "wof:lastmodified":1536615286,
+    "wof:lastmodified":1555047530,
     "wof:name":"General Jose Maria Bruguez",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

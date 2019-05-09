@@ -10,6 +10,12 @@
     "geom:latitude":-25.858222,
     "geom:longitude":-54.690235,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Domingo Martinez De Irala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.853931,
     "lbl:longitude":-54.681091,
     "meso:adm1_en":"Alto Parana",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692737,
-    "wof:lastmodified":1536615279,
+    "wof:lastmodified":1553718214,
     "wof:name":"Domingo Martinez De Irala",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

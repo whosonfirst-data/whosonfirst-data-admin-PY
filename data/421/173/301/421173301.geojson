@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029281,
-    "geom:area_square_m":325889869.960478,
+    "geom:area_square_m":325889869.960576,
     "geom:bbox":"-56.5368124629,-25.9192039701,-56.2750941191,-25.7220134584",
     "geom:latitude":-25.830981,
     "geom:longitude":-56.408368,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Villarrica District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.832995,
     "lbl:longitude":-56.410428,
     "meso:adm1_en":"Guaira",
@@ -226,7 +232,7 @@
         }
     ],
     "wof:id":421173301,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1555037139,
     "wof:name":"Villarrica",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

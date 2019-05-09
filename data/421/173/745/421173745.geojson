@@ -10,6 +10,12 @@
     "geom:latitude":-25.679939,
     "geom:longitude":-57.1421,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Paraguari District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.710423,
     "lbl:longitude":-57.165131,
     "meso:adm1_en":"Paraguari",
@@ -221,7 +227,7 @@
         }
     ],
     "wof:id":421173745,
-    "wof:lastmodified":1536615945,
+    "wof:lastmodified":1553717353,
     "wof:name":"Paraguari",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

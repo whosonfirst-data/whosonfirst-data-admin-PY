@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062466,
-    "geom:area_square_m":704613241.434165,
+    "geom:area_square_m":704613241.433938,
     "geom:bbox":"-56.8125734956,-24.3559666456,-56.4840346773,-24.0342085819",
     "geom:latitude":-24.184314,
     "geom:longitude":-56.632884,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Chore District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.177289,
     "lbl:longitude":-56.632923,
     "meso:adm1_en":"San Pedro",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692767,
-    "wof:lastmodified":1553816460,
+    "wof:lastmodified":1555037581,
     "wof:name":"Chore",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

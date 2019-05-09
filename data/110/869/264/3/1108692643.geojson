@@ -10,6 +10,12 @@
     "geom:latitude":-24.911842,
     "geom:longitude":-55.74918,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Yhu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.760935,
     "lbl:longitude":-55.60983,
     "meso:adm1_en":"Caaguazu",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692643,
-    "wof:lastmodified":1536615269,
+    "wof:lastmodified":1553718208,
     "wof:name":"Yhu",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

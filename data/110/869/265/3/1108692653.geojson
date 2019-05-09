@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077959,
-    "geom:area_square_m":872379572.467469,
+    "geom:area_square_m":872379572.468227,
     "geom:bbox":"-55.4223872474,-25.3875183829,-54.9232269419,-24.9907624128",
     "geom:latitude":-25.179476,
     "geom:longitude":-55.180127,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Mariscal Francisco Solano Lope District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.221061,
     "lbl:longitude":-55.134997,
     "meso:adm1_en":"Caaguazu",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692653,
-    "wof:lastmodified":1553816459,
+    "wof:lastmodified":1555037584,
     "wof:name":"Mariscal Francisco Solano Lope",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-24.582386,
     "geom:longitude":-56.819594,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Itacurubi Del Rosario District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.572396,
     "lbl:longitude":-56.823091,
     "meso:adm1_en":"San Pedro",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108692771,
-    "wof:lastmodified":1536615282,
+    "wof:lastmodified":1553718215,
     "wof:name":"Itacurubi Del Rosario",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

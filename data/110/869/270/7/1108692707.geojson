@@ -10,6 +10,12 @@
     "geom:latitude":-26.337452,
     "geom:longitude":-57.384496,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Caapucu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.349411,
     "lbl:longitude":-57.390899,
     "meso:adm1_en":"Paraguari",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692707,
-    "wof:lastmodified":1536615276,
+    "wof:lastmodified":1553718213,
     "wof:name":"Caapucu",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

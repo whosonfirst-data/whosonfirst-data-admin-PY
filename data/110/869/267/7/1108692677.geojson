@@ -10,6 +10,12 @@
     "geom:latitude":-26.439679,
     "geom:longitude":-55.100627,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Rafael Del Parana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.515057,
     "lbl:longitude":-55.012237,
     "meso:adm1_en":"Itapua",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692677,
-    "wof:lastmodified":1536615273,
+    "wof:lastmodified":1553718212,
     "wof:name":"San Rafael Del Parana",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

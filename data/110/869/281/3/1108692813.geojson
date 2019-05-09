@@ -10,6 +10,12 @@
     "geom:latitude":-24.909689,
     "geom:longitude":-58.124103,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Jose Falcon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.814063,
     "lbl:longitude":-58.230719,
     "meso:adm1_en":"Presidente Hayes",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692813,
-    "wof:lastmodified":1536615286,
+    "wof:lastmodified":1553718221,
     "wof:name":"Jose Falcon",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

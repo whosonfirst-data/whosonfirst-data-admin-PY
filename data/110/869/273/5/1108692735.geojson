@@ -10,6 +10,12 @@
     "geom:latitude":-25.78094,
     "geom:longitude":-56.767048,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Yvytimi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.778459,
     "lbl:longitude":-56.765138,
     "meso:adm1_en":"Paraguari",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692735,
-    "wof:lastmodified":1536615278,
+    "wof:lastmodified":1553718215,
     "wof:name":"Yvytimi",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

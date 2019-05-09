@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084153,
-    "geom:area_square_m":932390273.534739,
+    "geom:area_square_m":932390273.534176,
     "geom:bbox":"-55.212029771,-26.5472098558,-54.6964608255,-26.206021039",
     "geom:latitude":-26.357384,
     "geom:longitude":-54.925699,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Carlos Antonio Lopez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.341168,
     "lbl:longitude":-54.921697,
     "meso:adm1_en":"Itapua",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692475,
-    "wof:lastmodified":1553816457,
+    "wof:lastmodified":1555037590,
     "wof:name":"Carlos Antonio Lopez",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

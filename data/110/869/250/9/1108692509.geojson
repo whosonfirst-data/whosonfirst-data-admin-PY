@@ -10,6 +10,12 @@
     "geom:latitude":-25.300835,
     "geom:longitude":-56.896097,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Isla Pucu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.304245,
     "lbl:longitude":-56.901675,
     "meso:adm1_en":"Cordillera",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692509,
-    "wof:lastmodified":1536615256,
+    "wof:lastmodified":1553718192,
     "wof:name":"Isla Pucu",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-26.978268,
     "geom:longitude":-58.317633,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Isla Umbu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.965423,
     "lbl:longitude":-58.321552,
     "meso:adm1_en":"\u00d1eembucu",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692481,
-    "wof:lastmodified":1536615254,
+    "wof:lastmodified":1553718188,
     "wof:name":"Isla Umbu",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

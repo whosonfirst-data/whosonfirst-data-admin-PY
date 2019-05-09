@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.324099,
-    "geom:area_square_m":3703254493.124191,
+    "geom:area_square_m":3703254493.123315,
     "geom:bbox":"-56.8260672921,-22.9134993422,-56.0704087204,-22.0744557066",
     "geom:latitude":-22.470827,
     "geom:longitude":-56.454791,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Bella Vista District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.492239,
     "lbl:longitude":-56.429491,
     "meso:adm1_en":"Amambay",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692443,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555037594,
     "wof:name":"Bella Vista",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

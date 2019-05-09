@@ -10,6 +10,12 @@
     "geom:latitude":-23.759056,
     "geom:longitude":-56.27188,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosa Del Aguaray District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.769615,
     "lbl:longitude":-56.266017,
     "meso:adm1_en":"San Pedro",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1108692493,
-    "wof:lastmodified":1536615255,
+    "wof:lastmodified":1553718193,
     "wof:name":"Santa Rosa Del Aguaray",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

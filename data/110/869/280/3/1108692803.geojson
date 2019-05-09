@@ -10,6 +10,12 @@
     "geom:latitude":-27.087964,
     "geom:longitude":-58.124058,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Desmochados District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.079612,
     "lbl:longitude":-58.109206,
     "meso:adm1_en":"\u00d1eembucu",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692803,
-    "wof:lastmodified":1536615285,
+    "wof:lastmodified":1553718219,
     "wof:name":"Desmochados",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

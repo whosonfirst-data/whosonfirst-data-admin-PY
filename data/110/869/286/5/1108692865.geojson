@@ -10,6 +10,12 @@
     "geom:latitude":-27.356426,
     "geom:longitude":-55.76349,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Cambyreta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.359006,
     "lbl:longitude":-55.748914,
     "meso:adm1_en":"Itapua",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692865,
-    "wof:lastmodified":1536615292,
+    "wof:lastmodified":1553718225,
     "wof:name":"Cambyreta",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

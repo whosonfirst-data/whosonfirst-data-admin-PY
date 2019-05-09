@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009343,
-    "geom:area_square_m":104093791.670039,
+    "geom:area_square_m":104093791.670074,
     "geom:bbox":"-56.5844481522,-25.7777625656,-56.474521741,-25.6390485793",
     "geom:latitude":-25.712148,
     "geom:longitude":-56.53142,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Felix Perez Cardozo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.714453,
     "lbl:longitude":-56.532462,
     "meso:adm1_en":"Guaira",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692537,
-    "wof:lastmodified":1553816457,
+    "wof:lastmodified":1555037589,
     "wof:name":"Felix Perez Cardozo",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

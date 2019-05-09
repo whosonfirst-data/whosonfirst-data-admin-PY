@@ -10,6 +10,12 @@
     "geom:latitude":-26.405487,
     "geom:longitude":-56.067656,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "3 De Mayo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.441244,
     "lbl:longitude":-56.064468,
     "meso:adm1_en":"Caazapa",
@@ -25,6 +31,9 @@
     "mps:longitude":-56.064468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "3 De Mayo"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1108692859,
-    "wof:lastmodified":1536615292,
+    "wof:lastmodified":1555047531,
     "wof:name":"3 De Mayo",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

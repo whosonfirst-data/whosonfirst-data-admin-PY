@@ -10,6 +10,12 @@
     "geom:latitude":-26.220557,
     "geom:longitude":-56.513324,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Maciel District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.194794,
     "lbl:longitude":-56.474205,
     "meso:adm1_en":"Caazapa",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692849,
-    "wof:lastmodified":1536615290,
+    "wof:lastmodified":1553718222,
     "wof:name":"Maciel",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

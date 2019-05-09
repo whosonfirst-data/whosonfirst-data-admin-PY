@@ -10,6 +10,12 @@
     "geom:latitude":-25.503393,
     "geom:longitude":-54.841465,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Minga Guazu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.502989,
     "lbl:longitude":-54.850926,
     "meso:adm1_en":"Alto Parana",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1108692559,
-    "wof:lastmodified":1536615260,
+    "wof:lastmodified":1553718196,
     "wof:name":"Minga Guazu",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

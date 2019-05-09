@@ -10,6 +10,12 @@
     "geom:latitude":-25.760048,
     "geom:longitude":-56.886128,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "General Bernardino Caballero District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.76645,
     "lbl:longitude":-56.886168,
     "meso:adm1_en":"Paraguari",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692709,
-    "wof:lastmodified":1536615276,
+    "wof:lastmodified":1553718210,
     "wof:name":"General Bernardino Caballero",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

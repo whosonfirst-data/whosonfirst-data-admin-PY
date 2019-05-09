@@ -10,6 +10,12 @@
     "geom:latitude":-26.99528,
     "geom:longitude":-55.545126,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Bella Vista District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.00868,
     "lbl:longitude":-55.557025,
     "meso:adm1_en":"Itapua",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692863,
-    "wof:lastmodified":1536615292,
+    "wof:lastmodified":1553718222,
     "wof:name":"Bella Vista",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

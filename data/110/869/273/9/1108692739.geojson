@@ -10,6 +10,12 @@
     "geom:latitude":-24.350899,
     "geom:longitude":-55.116196,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Yvyrarobana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.364991,
     "lbl:longitude":-55.082009,
     "meso:adm1_en":"Canindeyu",
@@ -25,6 +31,9 @@
     "mps:longitude":-55.082009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Yvyrarobana"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1108692739,
-    "wof:lastmodified":1536615279,
+    "wof:lastmodified":1555047529,
     "wof:name":"Yvyrarobana",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

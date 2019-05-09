@@ -10,6 +10,12 @@
     "geom:latitude":-26.903144,
     "geom:longitude":-58.216801,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Pilar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.858919,
     "lbl:longitude":-58.266673,
     "meso:adm1_en":"\u00d1eembucu",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":421170007,
-    "wof:lastmodified":1536615903,
+    "wof:lastmodified":1553717309,
     "wof:name":"Pilar",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

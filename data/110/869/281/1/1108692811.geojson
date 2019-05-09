@@ -10,6 +10,12 @@
     "geom:latitude":-26.189921,
     "geom:longitude":-58.070904,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Alberdi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.189174,
     "lbl:longitude":-58.070901,
     "meso:adm1_en":"\u00d1eembucu",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692811,
-    "wof:lastmodified":1536615285,
+    "wof:lastmodified":1553718219,
     "wof:name":"Alberdi",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

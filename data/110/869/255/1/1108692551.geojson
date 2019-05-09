@@ -10,6 +10,12 @@
     "geom:latitude":-25.48375,
     "geom:longitude":-55.254533,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Dr. Juan Leon Mallorquin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.471978,
     "lbl:longitude":-55.26555,
     "meso:adm1_en":"Alto Parana",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1108692551,
-    "wof:lastmodified":1536615259,
+    "wof:lastmodified":1553718195,
     "wof:name":"Dr. Juan Leon Mallorquin",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

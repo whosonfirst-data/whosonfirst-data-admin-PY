@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195705,
-    "geom:area_square_m":2161652121.766615,
+    "geom:area_square_m":2161652121.766526,
     "geom:bbox":"-57.7431393375,-27.0573744859,-57.0010295361,-26.3882134017",
     "geom:latitude":-26.712204,
     "geom:longitude":-57.405886,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Juan Bautista District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.760963,
     "lbl:longitude":-57.461675,
     "meso:adm1_en":"Misiones",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":421180931,
-    "wof:lastmodified":1553816370,
+    "wof:lastmodified":1555037129,
     "wof:name":"San Juan Bautista",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

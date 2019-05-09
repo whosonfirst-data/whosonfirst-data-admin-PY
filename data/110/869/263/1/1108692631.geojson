@@ -10,6 +10,12 @@
     "geom:latitude":-25.362111,
     "geom:longitude":-55.821632,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Dr. Juan Manuel Frutos District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.355777,
     "lbl:longitude":-55.810716,
     "meso:adm1_en":"Caaguazu",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692631,
-    "wof:lastmodified":1536615266,
+    "wof:lastmodified":1553718211,
     "wof:name":"Dr. Juan Manuel Frutos",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

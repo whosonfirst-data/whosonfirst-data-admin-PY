@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123377,
-    "geom:area_square_m":1392491788.67893,
+    "geom:area_square_m":1392491788.679404,
     "geom:bbox":"-55.3340340239,-24.355635263,-54.8158560203,-23.8835142049",
     "geom:latitude":-24.110466,
     "geom:longitude":-55.009925,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Corpus Christi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.075179,
     "lbl:longitude":-54.941585,
     "meso:adm1_en":"Canindeyu",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692451,
-    "wof:lastmodified":1553816456,
+    "wof:lastmodified":1555037593,
     "wof:name":"Corpus Christi",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

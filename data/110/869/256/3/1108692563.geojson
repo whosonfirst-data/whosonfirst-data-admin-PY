@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05395,
-    "geom:area_square_m":600733224.532801,
+    "geom:area_square_m":600733224.532525,
     "geom:bbox":"-55.2879628945,-25.9174289791,-54.9775897666,-25.6533637314",
     "geom:latitude":-25.774664,
     "geom:longitude":-55.136008,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Santa Rita District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.769148,
     "lbl:longitude":-55.133094,
     "meso:adm1_en":"Alto Parana",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692563,
-    "wof:lastmodified":1553816458,
+    "wof:lastmodified":1555037586,
     "wof:name":"Santa Rita",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

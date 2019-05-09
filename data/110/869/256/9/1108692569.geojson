@@ -10,6 +10,12 @@
     "geom:latitude":-25.845616,
     "geom:longitude":-54.923178,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosa Del Monday District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.84661,
     "lbl:longitude":-54.925124,
     "meso:adm1_en":"Alto Parana",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692569,
-    "wof:lastmodified":1536615262,
+    "wof:lastmodified":1553718197,
     "wof:name":"Santa Rosa Del Monday",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

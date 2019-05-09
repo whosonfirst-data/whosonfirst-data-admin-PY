@@ -10,6 +10,12 @@
     "geom:latitude":-25.488652,
     "geom:longitude":-57.451822,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Guarambare District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.488555,
     "lbl:longitude":-57.451223,
     "meso:adm1_en":"Central",
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1108692589,
-    "wof:lastmodified":1536615263,
+    "wof:lastmodified":1553718198,
     "wof:name":"Guarambare",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

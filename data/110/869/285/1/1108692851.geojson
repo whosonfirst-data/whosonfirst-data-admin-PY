@@ -10,6 +10,12 @@
     "geom:latitude":-26.231455,
     "geom:longitude":-55.900663,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Juan Nepomuceno District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.232972,
     "lbl:longitude":-55.886428,
     "meso:adm1_en":"Caazapa",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692851,
-    "wof:lastmodified":1536615290,
+    "wof:lastmodified":1553718229,
     "wof:name":"San Juan Nepomuceno",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

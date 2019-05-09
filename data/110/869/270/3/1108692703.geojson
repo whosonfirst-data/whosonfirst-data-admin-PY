@@ -10,6 +10,12 @@
     "geom:latitude":-27.256282,
     "geom:longitude":-57.143038,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Yabebyry District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.232302,
     "lbl:longitude":-57.140172,
     "meso:adm1_en":"Misiones",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692703,
-    "wof:lastmodified":1536615276,
+    "wof:lastmodified":1553718209,
     "wof:name":"Yabebyry",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-22.758809,
     "geom:longitude":-58.490172,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Puerto Pinasco District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.81008,
     "lbl:longitude":-58.424722,
     "meso:adm1_en":"Presidente Hayes",
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":1108692741,
-    "wof:lastmodified":1536615279,
+    "wof:lastmodified":1553718223,
     "wof:name":"Puerto Pinasco",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

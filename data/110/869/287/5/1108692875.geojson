@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076283,
-    "geom:area_square_m":839119908.146011,
+    "geom:area_square_m":839119908.146032,
     "geom:bbox":"-58.0184708452,-27.2813650046,-57.2187653694,-27.0180941842",
     "geom:latitude":-27.176357,
     "geom:longitude":-57.582989,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Los Laureles District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.176815,
     "lbl:longitude":-57.643429,
     "meso:adm1_en":"\u00d1eembucu",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108692875,
-    "wof:lastmodified":1553816460,
+    "wof:lastmodified":1555037579,
     "wof:name":"Los Laureles",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

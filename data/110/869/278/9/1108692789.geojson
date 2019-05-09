@@ -10,6 +10,12 @@
     "geom:latitude":-26.347354,
     "geom:longitude":-57.960241,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Villa Franca District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.305116,
     "lbl:longitude":-57.904802,
     "meso:adm1_en":"\u00d1eembucu",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108692789,
-    "wof:lastmodified":1536615284,
+    "wof:lastmodified":1553718216,
     "wof:name":"Villa Franca",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

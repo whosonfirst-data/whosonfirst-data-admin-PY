@@ -10,6 +10,12 @@
     "geom:latitude":-26.995449,
     "geom:longitude":-56.829387,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Patricio District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.9891,
     "lbl:longitude":-56.815272,
     "meso:adm1_en":"Misiones",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692695,
-    "wof:lastmodified":1536615275,
+    "wof:lastmodified":1553718208,
     "wof:name":"San Patricio",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

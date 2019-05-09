@@ -10,6 +10,12 @@
     "geom:latitude":-21.96421,
     "geom:longitude":-61.286816,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Mariscal Estigarribia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.92137,
     "lbl:longitude":-61.5363,
     "meso:adm1_en":"Boqueron",
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":421171777,
-    "wof:lastmodified":1536615933,
+    "wof:lastmodified":1553717333,
     "wof:name":"Mariscal Estigarribia",
     "wof:parent_id":85676659,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-24.396162,
     "geom:longitude":-58.045254,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Benjamin Aceval District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.333574,
     "lbl:longitude":-58.144151,
     "meso:adm1_en":"Presidente Hayes",
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":421171779,
-    "wof:lastmodified":1536615934,
+    "wof:lastmodified":1553717346,
     "wof:name":"Benjamin Aceval",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

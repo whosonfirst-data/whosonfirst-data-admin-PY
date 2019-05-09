@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175839,
-    "geom:area_square_m":1977528539.028517,
+    "geom:area_square_m":1977528539.02819,
     "geom:bbox":"-57.300132993,-25.0192518148,-56.8116179011,-24.167661736",
     "geom:latitude":-24.561086,
     "geom:longitude":-57.07704,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Villa Del Rosario District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.571717,
     "lbl:longitude":-57.080753,
     "meso:adm1_en":"San Pedro",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108692831,
-    "wof:lastmodified":1553816460,
+    "wof:lastmodified":1555037580,
     "wof:name":"Villa Del Rosario",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

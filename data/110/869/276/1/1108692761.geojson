@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.290216,
-    "geom:area_square_m":3284094131.397004,
+    "geom:area_square_m":3284094131.396558,
     "geom:bbox":"-57.4735167528,-24.1577673327,-56.6973879039,-23.4420206779",
     "geom:latitude":-23.772186,
     "geom:longitude":-57.059513,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Del Ykuamandiyu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.765978,
     "lbl:longitude":-57.097425,
     "meso:adm1_en":"San Pedro",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1108692761,
-    "wof:lastmodified":1553816459,
+    "wof:lastmodified":1555037581,
     "wof:name":"San Pedro Del Ykuamandiyu",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

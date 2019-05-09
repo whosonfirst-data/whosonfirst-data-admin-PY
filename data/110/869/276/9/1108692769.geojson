@@ -10,6 +10,12 @@
     "geom:latitude":-24.383363,
     "geom:longitude":-56.793329,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "General Elizardo Aquino District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.358926,
     "lbl:longitude":-56.762722,
     "meso:adm1_en":"San Pedro",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692769,
-    "wof:lastmodified":1536615282,
+    "wof:lastmodified":1553718216,
     "wof:name":"General Elizardo Aquino",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

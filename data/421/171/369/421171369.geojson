@@ -10,6 +10,12 @@
     "geom:latitude":-27.134346,
     "geom:longitude":-55.730891,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Trinidad District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.150722,
     "lbl:longitude":-55.721696,
     "meso:adm1_en":"Itapua",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421171369,
-    "wof:lastmodified":1536615928,
+    "wof:lastmodified":1553717326,
     "wof:name":"Trinidad",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

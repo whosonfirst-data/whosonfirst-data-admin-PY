@@ -10,6 +10,12 @@
     "geom:latitude":-26.069493,
     "geom:longitude":-54.781578,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "\u00d1acunday District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.082821,
     "lbl:longitude":-54.769212,
     "meso:adm1_en":"Alto Parana",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692557,
-    "wof:lastmodified":1536615260,
+    "wof:lastmodified":1553718197,
     "wof:name":"\u00d1acunday",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

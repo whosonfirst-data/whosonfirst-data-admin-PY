@@ -10,6 +10,12 @@
     "geom:latitude":-23.780753,
     "geom:longitude":-58.047353,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Villa Hayes District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.550211,
     "lbl:longitude":-57.969102,
     "meso:adm1_en":"Presidente Hayes",
@@ -218,7 +224,7 @@
         }
     ],
     "wof:id":421171367,
-    "wof:lastmodified":1536615925,
+    "wof:lastmodified":1553717350,
     "wof:name":"Villa Hayes",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

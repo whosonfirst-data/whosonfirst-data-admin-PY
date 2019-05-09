@@ -10,6 +10,12 @@
     "geom:latitude":-25.783464,
     "geom:longitude":-55.384826,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Cristobal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.772608,
     "lbl:longitude":-55.387409,
     "meso:adm1_en":"Alto Parana",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692561,
-    "wof:lastmodified":1536615260,
+    "wof:lastmodified":1553718200,
     "wof:name":"San Cristobal",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

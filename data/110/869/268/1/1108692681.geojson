@@ -10,6 +10,12 @@
     "geom:latitude":-26.473468,
     "geom:longitude":-55.282483,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Tomas Romero Pereira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.501438,
     "lbl:longitude":-55.243538,
     "meso:adm1_en":"Itapua",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692681,
-    "wof:lastmodified":1536615274,
+    "wof:lastmodified":1553718213,
     "wof:name":"Tomas Romero Pereira",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

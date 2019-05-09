@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041653,
-    "geom:area_square_m":463861547.929661,
+    "geom:area_square_m":463861547.929224,
     "geom:bbox":"-57.4682092862,-25.8799443207,-57.1370830284,-25.6280469689",
     "geom:latitude":-25.759075,
     "geom:longitude":-57.328851,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Carapegua District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.744681,
     "lbl:longitude":-57.358949,
     "meso:adm1_en":"Paraguari",
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":421170015,
-    "wof:lastmodified":1553816358,
+    "wof:lastmodified":1555037166,
     "wof:name":"Carapegua",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

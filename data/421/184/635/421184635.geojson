@@ -10,6 +10,12 @@
     "geom:latitude":-26.588302,
     "geom:longitude":-55.742062,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Alto Vera District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.638513,
     "lbl:longitude":-55.731908,
     "meso:adm1_en":"Itapua",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421184635,
-    "wof:lastmodified":1536616022,
+    "wof:lastmodified":1553717432,
     "wof:name":"Alto Vera",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

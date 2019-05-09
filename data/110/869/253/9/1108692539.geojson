@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044116,
-    "geom:area_square_m":491285893.641874,
+    "geom:area_square_m":491285893.641793,
     "geom:bbox":"-56.3138340112,-25.8663770473,-56.0290722081,-25.6241357114",
     "geom:latitude":-25.761947,
     "geom:longitude":-56.167387,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Colonia Independencia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.756239,
     "lbl:longitude":-56.170099,
     "meso:adm1_en":"Guaira",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692539,
-    "wof:lastmodified":1553816458,
+    "wof:lastmodified":1555037588,
     "wof:name":"Colonia Independencia",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

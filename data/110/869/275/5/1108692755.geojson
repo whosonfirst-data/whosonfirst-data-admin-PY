@@ -10,6 +10,12 @@
     "geom:latitude":-22.99614,
     "geom:longitude":-56.381428,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Yvy Ya\u00b4u District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.985782,
     "lbl:longitude":-56.376846,
     "meso:adm1_en":"Concepcion",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108692755,
-    "wof:lastmodified":1536615281,
+    "wof:lastmodified":1553718218,
     "wof:name":"Yvy Ya\u00b4u",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

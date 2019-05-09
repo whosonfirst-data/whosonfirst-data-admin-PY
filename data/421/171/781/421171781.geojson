@@ -10,6 +10,12 @@
     "geom:latitude":-26.466893,
     "geom:longitude":-57.122912,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Villa Florida District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.458854,
     "lbl:longitude":-57.122924,
     "meso:adm1_en":"Misiones",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421171781,
-    "wof:lastmodified":1536615934,
+    "wof:lastmodified":1553717333,
     "wof:name":"Villa Florida",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

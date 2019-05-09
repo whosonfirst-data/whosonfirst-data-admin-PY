@@ -10,6 +10,12 @@
     "geom:latitude":-23.928064,
     "geom:longitude":-55.767585,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Ype Jhu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.957192,
     "lbl:longitude":-55.894339,
     "meso:adm1_en":"Canindeyu",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692461,
-    "wof:lastmodified":1536615252,
+    "wof:lastmodified":1553718188,
     "wof:name":"Ype Jhu",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

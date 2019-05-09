@@ -10,6 +10,12 @@
     "geom:latitude":-22.392954,
     "geom:longitude":-57.297788,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Carlos District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.417351,
     "lbl:longitude":-57.292905,
     "meso:adm1_en":"Concepcion",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108692751,
-    "wof:lastmodified":1536615281,
+    "wof:lastmodified":1555047529,
     "wof:name":"San Carlos",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

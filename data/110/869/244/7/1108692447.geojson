@@ -10,6 +10,12 @@
     "geom:latitude":-22.7719,
     "geom:longitude":-55.708776,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "3 De Mayo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.740202,
     "lbl:longitude":-55.717234,
     "meso:adm1_en":"Amambay",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108692447,
-    "wof:lastmodified":1536615250,
+    "wof:lastmodified":1555047526,
     "wof:name":"Zanja Pyta",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

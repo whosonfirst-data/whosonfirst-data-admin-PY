@@ -10,6 +10,12 @@
     "geom:latitude":-26.188236,
     "geom:longitude":-55.529953,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Tavai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.162256,
     "lbl:longitude":-55.51115,
     "meso:adm1_en":"Caazapa",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692853,
-    "wof:lastmodified":1536615291,
+    "wof:lastmodified":1553718234,
     "wof:name":"Tavai",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

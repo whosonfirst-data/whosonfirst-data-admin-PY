@@ -10,6 +10,12 @@
     "geom:latitude":-19.893155,
     "geom:longitude":-59.965118,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Bahia Negra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.953598,
     "lbl:longitude":-60.198768,
     "meso:adm1_en":"Alto Paraguay",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692779,
-    "wof:lastmodified":1536615284,
+    "wof:lastmodified":1555047530,
     "wof:name":"Bahia Negra",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

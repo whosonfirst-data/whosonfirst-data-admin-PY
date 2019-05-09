@@ -10,6 +10,12 @@
     "geom:latitude":-26.132833,
     "geom:longitude":-55.033449,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Iru\u00f1a District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.139002,
     "lbl:longitude":-55.061286,
     "meso:adm1_en":"Alto Parana",
@@ -33,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Iru\u00f1a"
+    ],
+    "name:eng_x_variant":[
+        "Iru\u00d1a"
     ],
     "name:fre_x_preferred":[
         "Iru\u00f1a"
@@ -73,8 +82,8 @@
         }
     ],
     "wof:id":1108692577,
-    "wof:lastmodified":1536615263,
-    "wof:name":"Iru\u00d1a",
+    "wof:lastmodified":1555047527,
+    "wof:name":"Iru\u00f1a",
     "wof:parent_id":85676705,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-py",

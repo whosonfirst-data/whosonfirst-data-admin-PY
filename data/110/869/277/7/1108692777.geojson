@@ -10,6 +10,12 @@
     "geom:latitude":-21.666912,
     "geom:longitude":-58.979862,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Puerto Casado District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.677174,
     "lbl:longitude":-59.173792,
     "meso:adm1_en":"Alto Paraguay",
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":1108692777,
-    "wof:lastmodified":1536615283,
+    "wof:lastmodified":1553718224,
     "wof:name":"Puerto Casado",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-27.354937,
     "geom:longitude":-56.504194,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Cosme Y Damian District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.348507,
     "lbl:longitude":-56.499636,
     "meso:adm1_en":"Itapua",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421171423,
-    "wof:lastmodified":1536615928,
+    "wof:lastmodified":1553717327,
     "wof:name":"San Cosme Y Damian",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

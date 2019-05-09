@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012701,
-    "geom:area_square_m":139868912.365764,
+    "geom:area_square_m":139868912.365705,
     "geom:bbox":"-55.8791703927,-27.1137807702,-55.6657278044,-26.992065907",
     "geom:latitude":-27.053637,
     "geom:longitude":-55.774181,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Jesus District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.040271,
     "lbl:longitude":-55.781444,
     "meso:adm1_en":"Itapua",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421204307,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1555037048,
     "wof:name":"Jesus",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

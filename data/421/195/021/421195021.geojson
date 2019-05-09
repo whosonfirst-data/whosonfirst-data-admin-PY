@@ -10,6 +10,12 @@
     "geom:latitude":-25.711554,
     "geom:longitude":-57.607137,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Villeta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.750125,
     "lbl:longitude":-57.627475,
     "meso:adm1_en":"Central",
@@ -197,7 +203,7 @@
         }
     ],
     "wof:id":421195021,
-    "wof:lastmodified":1536616119,
+    "wof:lastmodified":1553717534,
     "wof:name":"Villeta",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

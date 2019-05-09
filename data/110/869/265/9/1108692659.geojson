@@ -10,6 +10,12 @@
     "geom:latitude":-25.212614,
     "geom:longitude":-55.808083,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "3 De Febrero District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.212564,
     "lbl:longitude":-55.787062,
     "meso:adm1_en":"Caaguazu",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108692659,
-    "wof:lastmodified":1536615271,
+    "wof:lastmodified":1553718207,
     "wof:name":"3 De Febrero",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198056,
-    "geom:area_square_m":2262031987.35866,
+    "geom:area_square_m":2262031987.359194,
     "geom:bbox":"-57.2774835233,-22.7860262308,-56.6094257501,-22.2379208429",
     "geom:latitude":-22.532576,
     "geom:longitude":-56.94168,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Sgto. Jose Felix Lopez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.522797,
     "lbl:longitude":-56.919065,
     "meso:adm1_en":"Concepcion",
@@ -25,6 +31,9 @@
     "mps:longitude":-56.919065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sgto. Jose Felix Lopez"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1108692759,
-    "wof:lastmodified":1512516803,
+    "wof:lastmodified":1555047529,
     "wof:name":"Sgto. Jose Felix Lopez",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

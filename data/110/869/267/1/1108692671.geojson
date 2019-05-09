@@ -10,6 +10,12 @@
     "geom:latitude":-26.278434,
     "geom:longitude":-54.768846,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Mayor Ota\u00d1o District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.305708,
     "lbl:longitude":-54.734913,
     "meso:adm1_en":"Itapua",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692671,
-    "wof:lastmodified":1536615272,
+    "wof:lastmodified":1553718205,
     "wof:name":"Mayor Ota\u00d1o",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

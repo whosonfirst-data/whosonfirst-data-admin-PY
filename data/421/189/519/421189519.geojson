@@ -10,6 +10,12 @@
     "geom:latitude":-27.208451,
     "geom:longitude":-56.09826,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Carmen Del Parana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.207458,
     "lbl:longitude":-56.096735,
     "meso:adm1_en":"Itapua",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421189519,
-    "wof:lastmodified":1536616077,
+    "wof:lastmodified":1553717486,
     "wof:name":"Carmen Del Parana",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

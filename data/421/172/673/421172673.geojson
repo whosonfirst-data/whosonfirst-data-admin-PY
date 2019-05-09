@@ -10,6 +10,12 @@
     "geom:latitude":-25.38041,
     "geom:longitude":-57.126728,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Caacupe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.389142,
     "lbl:longitude":-57.125679,
     "meso:adm1_en":"Cordillera",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":421172673,
-    "wof:lastmodified":1536615944,
+    "wof:lastmodified":1553717345,
     "wof:name":"Caacupe",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-26.905159,
     "geom:longitude":-56.375929,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "General Artigas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.898052,
     "lbl:longitude":-56.371505,
     "meso:adm1_en":"Itapua",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692545,
-    "wof:lastmodified":1536615259,
+    "wof:lastmodified":1553718197,
     "wof:name":"General Artigas",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

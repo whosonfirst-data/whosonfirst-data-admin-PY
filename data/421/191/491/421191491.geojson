@@ -10,6 +10,12 @@
     "geom:latitude":-25.353615,
     "geom:longitude":-57.61576,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Lambare District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.353359,
     "lbl:longitude":-57.61576,
     "meso:adm1_en":"Central",
@@ -233,7 +239,7 @@
         }
     ],
     "wof:id":421191491,
-    "wof:lastmodified":1536616095,
+    "wof:lastmodified":1553717507,
     "wof:name":"Lambare",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

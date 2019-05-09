@@ -10,6 +10,12 @@
     "geom:latitude":-25.402858,
     "geom:longitude":-55.594056,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "J Eulogio Estigarribia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.403085,
     "lbl:longitude":-55.594064,
     "meso:adm1_en":"Caaguazu",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692645,
-    "wof:lastmodified":1536615269,
+    "wof:lastmodified":1553718204,
     "wof:name":"J Eulogio Estigarribia",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

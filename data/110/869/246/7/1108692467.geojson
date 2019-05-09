@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056463,
-    "geom:area_square_m":636849349.61213,
+    "geom:area_square_m":636849349.612145,
     "geom:bbox":"-54.706573006,-24.4012167,-54.412297933,-23.9624040706",
     "geom:latitude":-24.193801,
     "geom:longitude":-54.561997,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "La Paloma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.201691,
     "lbl:longitude":-54.547589,
     "meso:adm1_en":"Canindeyu",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692467,
-    "wof:lastmodified":1553816456,
+    "wof:lastmodified":1555037592,
     "wof:name":"La Paloma",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

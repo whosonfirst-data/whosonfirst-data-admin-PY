@@ -10,6 +10,12 @@
     "geom:latitude":-24.814184,
     "geom:longitude":-55.152669,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Itakyry District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.814463,
     "lbl:longitude":-55.176396,
     "meso:adm1_en":"Alto Parana",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1108692553,
-    "wof:lastmodified":1536615259,
+    "wof:lastmodified":1553718201,
     "wof:name":"Itakyry",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

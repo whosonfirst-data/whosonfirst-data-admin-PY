@@ -10,6 +10,12 @@
     "geom:latitude":-27.059518,
     "geom:longitude":-56.552196,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "General Delgado District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.059272,
     "lbl:longitude":-56.560962,
     "meso:adm1_en":"Itapua",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692743,
-    "wof:lastmodified":1536615280,
+    "wof:lastmodified":1553718215,
     "wof:name":"General Delgado",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-24.745879,
     "geom:longitude":-55.991597,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Capiibary District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.723565,
     "lbl:longitude":-56.007696,
     "meso:adm1_en":"San Pedro",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692491,
-    "wof:lastmodified":1536615255,
+    "wof:lastmodified":1553718193,
     "wof:name":"Capiibary",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

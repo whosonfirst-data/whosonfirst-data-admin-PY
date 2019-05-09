@@ -10,6 +10,12 @@
     "geom:latitude":-24.869902,
     "geom:longitude":-56.530898,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Union District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.887827,
     "lbl:longitude":-56.530904,
     "meso:adm1_en":"San Pedro",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692827,
-    "wof:lastmodified":1536615287,
+    "wof:lastmodified":1553718219,
     "wof:name":"Union",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

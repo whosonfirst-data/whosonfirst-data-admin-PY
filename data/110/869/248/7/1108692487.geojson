@@ -10,6 +10,12 @@
     "geom:latitude":-24.83738,
     "geom:longitude":-56.329043,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Yataity Del Norte District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.843136,
     "lbl:longitude":-56.338774,
     "meso:adm1_en":"San Pedro",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692487,
-    "wof:lastmodified":1536615254,
+    "wof:lastmodified":1553718189,
     "wof:name":"Yataity Del Norte",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

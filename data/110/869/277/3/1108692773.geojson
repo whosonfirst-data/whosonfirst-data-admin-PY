@@ -10,6 +10,12 @@
     "geom:latitude":-23.978333,
     "geom:longitude":-56.569352,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Lima District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.96064,
     "lbl:longitude":-56.52428,
     "meso:adm1_en":"San Pedro",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692773,
-    "wof:lastmodified":1536615283,
+    "wof:lastmodified":1553718216,
     "wof:name":"Lima",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

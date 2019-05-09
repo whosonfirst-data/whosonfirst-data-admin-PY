@@ -10,6 +10,12 @@
     "geom:latitude":-25.452271,
     "geom:longitude":-56.864017,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Itacurubi De La Cordillera District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.463207,
     "lbl:longitude":-56.871215,
     "meso:adm1_en":"Cordillera",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692511,
-    "wof:lastmodified":1536615256,
+    "wof:lastmodified":1553718191,
     "wof:name":"Itacurubi De La Cordillera",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

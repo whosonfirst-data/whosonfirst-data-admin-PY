@@ -10,6 +10,12 @@
     "geom:latitude":-24.186293,
     "geom:longitude":-54.466611,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Saltos Del Guaira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.073476,
     "lbl:longitude":-54.427303,
     "meso:adm1_en":"Canindeyu",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1108692449,
-    "wof:lastmodified":1536615250,
+    "wof:lastmodified":1553718186,
     "wof:name":"Saltos Del Guaira",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

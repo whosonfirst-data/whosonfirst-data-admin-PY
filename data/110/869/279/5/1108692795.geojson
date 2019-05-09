@@ -10,6 +10,12 @@
     "geom:latitude":-25.460402,
     "geom:longitude":-57.509294,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Ypane District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.459015,
     "lbl:longitude":-57.50561,
     "meso:adm1_en":"Central",
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":1108692795,
-    "wof:lastmodified":1536615285,
+    "wof:lastmodified":1553718218,
     "wof:name":"Ypane",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

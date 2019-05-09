@@ -10,6 +10,12 @@
     "geom:latitude":-26.542052,
     "geom:longitude":-56.562008,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Fulgencio Yegros District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.577841,
     "lbl:longitude":-56.623252,
     "meso:adm1_en":"Caazapa",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692857,
-    "wof:lastmodified":1536615291,
+    "wof:lastmodified":1553718222,
     "wof:name":"Fulgencio Yegros",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

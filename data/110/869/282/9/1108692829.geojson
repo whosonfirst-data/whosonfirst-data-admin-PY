@@ -10,6 +10,12 @@
     "geom:latitude":-24.772559,
     "geom:longitude":-56.801263,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "25 De Diciembre District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.779471,
     "lbl:longitude":-56.801566,
     "meso:adm1_en":"San Pedro",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692829,
-    "wof:lastmodified":1536615287,
+    "wof:lastmodified":1553718220,
     "wof:name":"25 De Diciembre",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

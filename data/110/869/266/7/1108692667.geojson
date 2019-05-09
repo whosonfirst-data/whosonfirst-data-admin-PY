@@ -10,6 +10,12 @@
     "geom:latitude":-26.747756,
     "geom:longitude":-56.229119,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Leandro Oviedo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.750606,
     "lbl:longitude":-56.236386,
     "meso:adm1_en":"Itapua",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692667,
-    "wof:lastmodified":1536615272,
+    "wof:lastmodified":1553718205,
     "wof:name":"Leandro Oviedo",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

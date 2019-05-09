@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119628,
-    "geom:area_square_m":1345156841.389202,
+    "geom:area_square_m":1345156841.389048,
     "geom:bbox":"-55.0278339114,-24.7234000534,-54.3165123373,-24.4473227302",
     "geom:latitude":-24.581662,
     "geom:longitude":-54.653881,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Nueva Esperanza District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.584738,
     "lbl:longitude":-54.653631,
     "meso:adm1_en":"Canindeyu",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692469,
-    "wof:lastmodified":1553816457,
+    "wof:lastmodified":1555037591,
     "wof:name":"Nueva Esperanza",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

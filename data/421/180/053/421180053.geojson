@@ -10,6 +10,12 @@
     "geom:latitude":-27.189661,
     "geom:longitude":-55.811685,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Capitan Miranda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.187188,
     "lbl:longitude":-55.809909,
     "meso:adm1_en":"Itapua",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421180053,
-    "wof:lastmodified":1536615965,
+    "wof:lastmodified":1553717375,
     "wof:name":"Capitan Miranda",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

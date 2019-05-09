@@ -10,6 +10,12 @@
     "geom:latitude":-25.432685,
     "geom:longitude":-57.433888,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "J Augusto Saldivar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.434088,
     "lbl:longitude":-57.434574,
     "meso:adm1_en":"Central",
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1108692799,
-    "wof:lastmodified":1536615285,
+    "wof:lastmodified":1553718219,
     "wof:name":"J Augusto Saldivar",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

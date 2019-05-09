@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071988,
-    "geom:area_square_m":818234128.151045,
+    "geom:area_square_m":818234128.150721,
     "geom:bbox":"-57.3782515937,-23.3550720601,-56.8941439492,-23.0511848619",
     "geom:latitude":-23.18896,
     "geom:longitude":-57.151191,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Loreto District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.177305,
     "lbl:longitude":-57.154903,
     "meso:adm1_en":"Concepcion",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692749,
-    "wof:lastmodified":1553816459,
+    "wof:lastmodified":1555037582,
     "wof:name":"Loreto",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

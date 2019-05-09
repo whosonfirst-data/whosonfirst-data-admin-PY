@@ -10,6 +10,12 @@
     "geom:latitude":-24.336176,
     "geom:longitude":-55.774626,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Curuguaty District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.352065,
     "lbl:longitude":-55.745285,
     "meso:adm1_en":"Canindeyu",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108692453,
-    "wof:lastmodified":1536615250,
+    "wof:lastmodified":1553718187,
     "wof:name":"Curuguaty",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

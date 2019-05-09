@@ -10,6 +10,12 @@
     "geom:latitude":-26.034332,
     "geom:longitude":-56.610266,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Borja District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.045635,
     "lbl:longitude":-56.635982,
     "meso:adm1_en":"Guaira",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692529,
-    "wof:lastmodified":1536615257,
+    "wof:lastmodified":1553718196,
     "wof:name":"Borja",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

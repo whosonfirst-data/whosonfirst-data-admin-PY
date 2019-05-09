@@ -10,6 +10,12 @@
     "geom:latitude":-26.220982,
     "geom:longitude":-56.082786,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Buena Vista District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.218895,
     "lbl:longitude":-56.097731,
     "meso:adm1_en":"Caazapa",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692843,
-    "wof:lastmodified":1536615290,
+    "wof:lastmodified":1553718222,
     "wof:name":"Buena Vista",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

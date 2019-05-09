@@ -10,6 +10,12 @@
     "geom:latitude":-23.256506,
     "geom:longitude":-56.837998,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Horqueta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.271586,
     "lbl:longitude":-56.805386,
     "meso:adm1_en":"Concepcion",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108692745,
-    "wof:lastmodified":1536615280,
+    "wof:lastmodified":1553718217,
     "wof:name":"Horqueta",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

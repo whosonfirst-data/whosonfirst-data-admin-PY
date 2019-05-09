@@ -10,6 +10,12 @@
     "geom:latitude":-26.580815,
     "geom:longitude":-55.381985,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Edelira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.529028,
     "lbl:longitude":-55.442598,
     "meso:adm1_en":"Itapua",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692679,
-    "wof:lastmodified":1536615274,
+    "wof:lastmodified":1553718210,
     "wof:name":"Edelira",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

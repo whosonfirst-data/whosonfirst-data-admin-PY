@@ -10,6 +10,12 @@
     "geom:latitude":-25.291214,
     "geom:longitude":-57.604942,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Asuncion District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.283963,
     "lbl:longitude":-57.585571,
     "meso:adm1_en":"Asuncion",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421166713,
-    "wof:lastmodified":1537303680,
+    "wof:lastmodified":1553717299,
     "wof:name":"Asuncion",
     "wof:parent_id":85676651,
     "wof:placetype":"county",

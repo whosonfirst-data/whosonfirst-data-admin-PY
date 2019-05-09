@@ -10,6 +10,12 @@
     "geom:latitude":-25.350719,
     "geom:longitude":-57.510937,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Lorenzo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.351932,
     "lbl:longitude":-57.51172,
     "meso:adm1_en":"Central",
@@ -211,7 +217,7 @@
         }
     ],
     "wof:id":1108692627,
-    "wof:lastmodified":1536615266,
+    "wof:lastmodified":1553718202,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

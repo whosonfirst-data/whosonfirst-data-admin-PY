@@ -10,6 +10,12 @@
     "geom:latitude":-26.730107,
     "geom:longitude":-56.008579,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Del Parana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.729538,
     "lbl:longitude":-56.01218,
     "meso:adm1_en":"Itapua",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692673,
-    "wof:lastmodified":1536615272,
+    "wof:lastmodified":1553718214,
     "wof:name":"San Pedro Del Parana",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

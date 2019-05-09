@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029682,
-    "geom:area_square_m":326805359.043795,
+    "geom:area_square_m":326805359.04387,
     "geom:bbox":"-56.1296278939,-27.1911567081,-55.8850800897,-26.9733404586",
     "geom:latitude":-27.074132,
     "geom:longitude":-56.011832,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Fram District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.070631,
     "lbl:longitude":-56.009967,
     "meso:adm1_en":"Itapua",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692543,
-    "wof:lastmodified":1553816458,
+    "wof:lastmodified":1555037587,
     "wof:name":"Fram",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

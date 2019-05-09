@@ -10,6 +10,12 @@
     "geom:latitude":-25.596662,
     "geom:longitude":-54.641504,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Presidente Franco District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.592871,
     "lbl:longitude":-54.640252,
     "meso:adm1_en":"Alto Parana",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421171537,
-    "wof:lastmodified":1536615931,
+    "wof:lastmodified":1553717330,
     "wof:name":"Presidente Franco",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

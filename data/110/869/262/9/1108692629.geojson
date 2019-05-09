@@ -10,6 +10,12 @@
     "geom:latitude":-24.932607,
     "geom:longitude":-56.253577,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosa Del Mbutuy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.969539,
     "lbl:longitude":-56.239603,
     "meso:adm1_en":"Caaguazu",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692629,
-    "wof:lastmodified":1536615266,
+    "wof:lastmodified":1553718202,
     "wof:name":"Santa Rosa Del Mbutuy",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

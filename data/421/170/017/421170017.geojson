@@ -10,6 +10,12 @@
     "geom:latitude":-26.9589,
     "geom:longitude":-57.145572,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Ignacio District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.961343,
     "lbl:longitude":-57.149581,
     "meso:adm1_en":"Misiones",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421170017,
-    "wof:lastmodified":1536615904,
+    "wof:lastmodified":1553717310,
     "wof:name":"San Ignacio",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

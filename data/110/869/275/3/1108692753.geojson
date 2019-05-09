@@ -10,6 +10,12 @@
     "geom:latitude":-22.247185,
     "geom:longitude":-57.735041,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "San Lazaro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.257453,
     "lbl:longitude":-57.730293,
     "meso:adm1_en":"Concepcion",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692753,
-    "wof:lastmodified":1536615281,
+    "wof:lastmodified":1553718216,
     "wof:name":"San Lazaro",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

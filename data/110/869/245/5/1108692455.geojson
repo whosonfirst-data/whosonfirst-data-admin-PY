@@ -10,6 +10,12 @@
     "geom:latitude":-24.133463,
     "geom:longitude":-55.481914,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Villa Ygatim\u00cd District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.133836,
     "lbl:longitude":-55.504592,
     "meso:adm1_en":"Canindeyu",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108692455,
-    "wof:lastmodified":1536615251,
+    "wof:lastmodified":1553718191,
     "wof:name":"Villa Ygatim\u00cd",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

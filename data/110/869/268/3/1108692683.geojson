@@ -10,6 +10,12 @@
     "geom:latitude":-26.977913,
     "geom:longitude":-55.89728,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "La Paz District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.978822,
     "lbl:longitude":-55.895546,
     "meso:adm1_en":"Itapua",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108692683,
-    "wof:lastmodified":1536615274,
+    "wof:lastmodified":1553718206,
     "wof:name":"La Paz",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

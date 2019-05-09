@@ -10,6 +10,12 @@
     "geom:latitude":-26.072284,
     "geom:longitude":-56.471033,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Iturbe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.078899,
     "lbl:longitude":-56.459506,
     "meso:adm1_en":"Guaira",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692601,
-    "wof:lastmodified":1536615264,
+    "wof:lastmodified":1553718199,
     "wof:name":"Iturbe",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-27.178591,
     "geom:longitude":-57.915109,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Villalbin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.173639,
     "lbl:longitude":-57.917357,
     "meso:adm1_en":"\u00d1eembucu",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108692877,
-    "wof:lastmodified":1536615293,
+    "wof:lastmodified":1553718224,
     "wof:name":"Villalbin",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

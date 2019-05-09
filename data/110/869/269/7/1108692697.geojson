@@ -10,6 +10,12 @@
     "geom:latitude":-26.739268,
     "geom:longitude":-56.88897,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Santa Maria District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.742925,
     "lbl:longitude":-56.890764,
     "meso:adm1_en":"Misiones",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692697,
-    "wof:lastmodified":1536615275,
+    "wof:lastmodified":1553718209,
     "wof:name":"Santa Maria",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

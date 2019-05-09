@@ -10,6 +10,12 @@
     "geom:latitude":-27.021066,
     "geom:longitude":-55.7154,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Hohenau District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.97662,
     "lbl:longitude":-55.767233,
     "meso:adm1_en":"Itapua",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692665,
-    "wof:lastmodified":1536615272,
+    "wof:lastmodified":1553718204,
     "wof:name":"Hohenau",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

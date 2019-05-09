@@ -10,6 +10,12 @@
     "geom:latitude":-23.424184,
     "geom:longitude":-55.812917,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Capitan Bado District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.442318,
     "lbl:longitude":-55.790282,
     "meso:adm1_en":"Amambay",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692445,
-    "wof:lastmodified":1536615249,
+    "wof:lastmodified":1553718190,
     "wof:name":"Capitan Bado",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

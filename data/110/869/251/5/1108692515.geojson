@@ -10,6 +10,12 @@
     "geom:latitude":-24.994954,
     "geom:longitude":-56.772914,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Juan De Mena District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.988787,
     "lbl:longitude":-56.756134,
     "meso:adm1_en":"Cordillera",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692515,
-    "wof:lastmodified":1536615257,
+    "wof:lastmodified":1553718194,
     "wof:name":"Juan De Mena",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

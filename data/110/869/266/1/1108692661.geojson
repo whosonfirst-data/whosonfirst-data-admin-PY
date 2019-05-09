@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031219,
-    "geom:area_square_m":349765254.646835,
+    "geom:area_square_m":349765254.646504,
     "geom:bbox":"-56.5644844768,-25.1417683676,-56.1419538719,-24.9444276385",
     "geom:latitude":-25.033191,
     "geom:longitude":-56.349587,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Simon Bolivar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.048947,
     "lbl:longitude":-56.364038,
     "meso:adm1_en":"Caaguazu",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692661,
-    "wof:lastmodified":1553816459,
+    "wof:lastmodified":1555037583,
     "wof:name":"Simon Bolivar",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-27.262248,
     "geom:longitude":-55.895232,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Encarnacion District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-27.234866,
     "lbl:longitude":-55.906579,
     "meso:adm1_en":"Itapua",
@@ -217,7 +223,7 @@
         }
     ],
     "wof:id":1108692861,
-    "wof:lastmodified":1536615292,
+    "wof:lastmodified":1553718225,
     "wof:name":"Encarnacion",
     "wof:parent_id":85676723,
     "wof:placetype":"county",
