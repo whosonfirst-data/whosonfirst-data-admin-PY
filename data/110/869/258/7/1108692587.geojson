@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Fernando de la Mora"
     ],
-    "name:chi_x_preferred":[
-        "\u8cbb\u723e\u5357\u591a\u5fb7\u62c9\u83ab\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Fernando de la Mora"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fernando de la Mora"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b5\u03c1\u03bd\u03ac\u03bd\u03c4\u03bf \u03bd\u03c4\u03b5 \u03bb\u03b1 \u039c\u03cc\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fernando de la Mora"
@@ -55,20 +55,14 @@
     "name:epo_x_preferred":[
         "Fernando de la Mora"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0646\u0627\u0646\u062f\u0648 \u062f\u0644\u0627 \u0645\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Fernando de la Mora"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fernando de la Mora"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d4\u10e0\u10dc\u10d0\u10dc\u10d3\u10dd-\u10d3\u10d4-\u10da\u10d0-\u10db\u10dd\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Fernando de la Mora"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b5\u03c1\u03bd\u03ac\u03bd\u03c4\u03bf \u03bd\u03c4\u03b5 \u03bb\u03b1 \u039c\u03cc\u03c1\u03b1"
     ],
     "name:grn_x_preferred":[
         "Fernando de la Mora"
@@ -91,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0cb0\u0ccd\u0ca8\u0cbe\u0c82\u0ca1\u0ccb \u0ca1\u0cc6 \u0cb2\u0cbe \u0cae\u0cca\u0cb0\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d4\u10e0\u10dc\u10d0\u10dc\u10d3\u10dd-\u10d3\u10d4-\u10da\u10d0-\u10db\u10dd\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud398\ub974\ub09c\ub3c4 \ub370 \ub77c \ubaa8\ub77c"
     ],
@@ -100,13 +97,16 @@
     "name:lit_x_preferred":[
         "Fernando de la Mora"
     ],
-    "name:mac_x_preferred":[
-        "\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e \u0434\u0435 \u043b\u0430 \u041c\u043e\u0440\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092b\u0930\u094d\u0928\u093e\u0902\u0921\u094b \u0926\u0947 \u0932\u093e \u092e\u094b\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e \u0434\u0435 \u043b\u0430 \u041c\u043e\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Fernando de la Mora"
+    ],
+    "name:nld_x_preferred":[
         "Fernando de la Mora"
     ],
     "name:nob_x_preferred":[
@@ -114,9 +114,6 @@
     ],
     "name:oci_x_preferred":[
         "Fernando de la Mora"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0646\u0627\u0646\u062f\u0648 \u062f\u0644\u0627 \u0645\u0648\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Fernando de la Mora"
@@ -172,6 +169,9 @@
     "name:war_x_preferred":[
         "Fernando de la Mora"
     ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u723e\u5357\u591a\u5fb7\u62c9\u83ab\u62c9"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":1108692587,
-    "wof:lastmodified":1553718198,
+    "wof:lastmodified":1561830057,
     "wof:name":"Fernando De La Mora",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

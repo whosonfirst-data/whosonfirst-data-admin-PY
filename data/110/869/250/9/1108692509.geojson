@@ -31,16 +31,10 @@
     "mps:longitude":-56.901675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f0a\u65af\u62c9\u666e\u5eab"
-    ],
-    "name:dut_x_preferred":[
-        "Isla Puc\u00fa"
-    ],
     "name:eng_x_preferred":[
         "Isla Puc\u00fa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Isla Puc\u00fa"
     ],
     "name:grn_x_preferred":[
@@ -49,11 +43,17 @@
     "name:ita_x_preferred":[
         "Isla Puc\u00fa"
     ],
+    "name:nld_x_preferred":[
+        "Isla Puc\u00fa"
+    ],
     "name:por_x_preferred":[
         "Isla Puc\u00fa"
     ],
     "name:spa_x_preferred":[
         "Isla Puc\u00fa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u62c9\u666e\u5eab"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108692509,
-    "wof:lastmodified":1553718192,
+    "wof:lastmodified":1561830050,
     "wof:name":"Isla Pucu",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

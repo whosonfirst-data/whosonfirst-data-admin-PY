@@ -35,19 +35,16 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u502b"
-    ],
-    "name:dut_x_preferred":[
-        "Bel\u00e9n"
-    ],
     "name:eng_x_preferred":[
         "Bel\u00e9n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bel\u00e9n"
     ],
     "name:ita_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:nld_x_preferred":[
         "Bel\u00e9n"
     ],
     "name:pol_x_preferred":[
@@ -58,6 +55,9 @@
     ],
     "name:spa_x_preferred":[
         "Bel\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u502b"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":421166801,
-    "wof:lastmodified":1553717299,
+    "wof:lastmodified":1561830085,
     "wof:name":"Belen",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

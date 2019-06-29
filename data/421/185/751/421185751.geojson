@@ -16,12 +16,6 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0632 \u062f\u0648 \u0625\u064a\u063a\u0648\u0627\u0633\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0556\u0578\u057d \u0564\u0578 \u053b\u0563\u0561\u0579\u0578\u0582"
-    ],
-    "name:baq_x_preferred":[
-        "Foz do Igua\u00e7u"
-    ],
     "name:ben_x_preferred":[
         "\u09ab\u099c \u09a6\u09cb \u0987\u0997\u09c1\u09af\u09bc\u09be\u099a"
     ],
@@ -34,14 +28,14 @@
     "name:cat_x_preferred":[
         "Foz do Igua\u00e7u"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u74dc\u82cf"
-    ],
     "name:dan_x_preferred":[
         "Foz do Igua\u00e7u"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Foz do Igua\u00e7u"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03b6 \u03bd\u03c4\u03bf \u0399\u03b3\u03ba\u03bf\u03c5\u03ac\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Foz do Igua\u00e7u"
@@ -52,23 +46,23 @@
     "name:est_x_preferred":[
         "Foz do Igua\u00e7u"
     ],
+    "name:eus_x_preferred":[
+        "Foz do Igua\u00e7u"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u0632 \u062f\u0648 \u0644\u0648\u0622\u0686\u0648"
+    ],
     "name:fij_x_preferred":[
         "Foz do Igua\u00e7u"
     ],
     "name:fin_x_preferred":[
         "Foz do Igua\u00e7u"
     ],
-    "name:fre_x_preferred":[
-        "Foz do Igua\u00e7u"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Foz do Igua\u00e7u"
     ],
     "name:glg_x_preferred":[
         "Foz do Igua\u00e7u"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03b6 \u03bd\u03c4\u03bf \u0399\u03b3\u03ba\u03bf\u03c5\u03ac\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:grn_x_preferred":[
         "Yguasu"
@@ -84,6 +78,9 @@
     ],
     "name:hun_x_preferred":[
         "Foz do Igua\u00e7u"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u057d \u0564\u0578 \u053b\u0563\u0561\u0579\u0578\u0582"
     ],
     "name:ido_x_preferred":[
         "Foz do Igua\u00e7u"
@@ -112,20 +109,20 @@
     "name:mar_x_preferred":[
         "\u092b\u094b\u091c \u0921\u094b \u0907\u0917\u0941\u0906\u0915\u0942"
     ],
-    "name:may_x_preferred":[
-        "Foz do Iguacu"
-    ],
     "name:mlg_x_preferred":[
         "Foz do Igua\u00e7u"
+    ],
+    "name:msa_x_preferred":[
+        "Foz do Iguacu"
     ],
     "name:nan_x_preferred":[
         "Foz do Igua\u00e7u"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Foz do Igua\u00e7u"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u0632 \u062f\u0648 \u0644\u0648\u0622\u0686\u0648"
+    "name:nob_x_preferred":[
+        "Foz do Igua\u00e7u"
     ],
     "name:pol_x_preferred":[
         "Foz do Igua\u00e7u"
@@ -133,7 +130,7 @@
     "name:por_x_preferred":[
         "Colonia Yguaz\u00fa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Foz do Igua\u00e7u"
     ],
     "name:rus_x_preferred":[
@@ -187,6 +184,9 @@
     "name:zho_x_preferred":[
         "\u4f0a\u74dc\u8607"
     ],
+    "name:zho_x_variant":[
+        "\u4f0a\u74dc\u82cf"
+    ],
     "qs:gn_country":"PY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3438872,
@@ -235,7 +235,7 @@
         }
     ],
     "wof:id":421185751,
-    "wof:lastmodified":1527726507,
+    "wof:lastmodified":1561830102,
     "wof:name":"Colonia Yguaz\u00fa",
     "wof:parent_id":421191499,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.806045,
-    "geom:area_square_m":78767137469.689499,
+    "geom:area_square_m":78767137469.687286,
     "geom:bbox":"-61.9224000004,-22.3992232634,-57.8171488333,-19.2896000005",
     "geom:latitude":-20.604826,
     "geom:longitude":-59.384297,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0623\u0644\u062a\u0648 \u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Paraguai Garaiko departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u09aa\u09cd\u09af\u09be\u09b0\u09be\u0997\u09c1\u0987"
     ],
@@ -40,14 +37,14 @@
     "name:cat_x_preferred":[
         "Departament de l'Alt Paraguai"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u5df4\u62c9\u572d\u7701"
-    ],
     "name:dan_x_preferred":[
         "Alto Paraguai"
     ],
-    "name:dut_x_preferred":[
-        "Alto Paraguay"
+    "name:deu_x_preferred":[
+        "Departamento Alto Paraguay"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u03a0\u03b1\u03c1\u03b1\u03b3\u03bf\u03c5\u03ac\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Alto Paraguay"
@@ -55,23 +52,20 @@
     "name:epo_x_preferred":[
         "Departemento Alto Paraguay"
     ],
+    "name:eus_x_preferred":[
+        "Paraguai Garaiko departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0644\u062a\u0648 \u067e\u0627\u0631\u0627\u06af\u0648\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Alto Paraguayn maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Alto Paraguay"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10e2\u10dd-\u10de\u10d0\u10e0\u10d0\u10d2\u10d5\u10d0\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Alto Paraguay"
     ],
     "name:glg_x_preferred":[
         "Departamento de Alto Paraguay"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03bd\u03c9 \u03a0\u03b1\u03c1\u03b1\u03b3\u03bf\u03c5\u03ac\u03b7\u03c2"
     ],
     "name:grn_x_preferred":[
         "Alto Paragu\u00e1i"
@@ -100,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0c86\u0cb2\u0ccd\u0c9f\u0cca \u0caa\u0cb0\u0cbe\u0c97\u0cc1\u0caf\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10e2\u10dd-\u10de\u10d0\u10e0\u10d0\u10d2\u10d5\u10d0\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\ud1a0\ud30c\ub77c\uacfc\uc774 \uc8fc"
     ],
@@ -109,20 +106,20 @@
     "name:lit_x_preferred":[
         "Auk\u0161tutinio Paragvajaus departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043b\u0442\u043e \u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0932\u094d\u091f\u094b \u092a\u0930\u093e\u0917\u094d\u0935\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0442\u043e \u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0458"
+    ],
+    "name:msa_x_preferred":[
         "Alto Paraguai"
+    ],
+    "name:nld_x_preferred":[
+        "Alto Paraguay"
     ],
     "name:nob_x_preferred":[
         "Alto Paraguai"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0644\u062a\u0648 \u067e\u0627\u0631\u0627\u06af\u0648\u0627\u06cc"
     ],
     "name:pol_x_preferred":[
         "G\u00f3rny Paragwaj"
@@ -177,6 +174,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10da\u10e2\u10dd-\u10de\u10d0\u10e0\u10d0\u10d2\u10d5\u10d0\u10d8\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5df4\u62c9\u572d\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRY",
@@ -301,7 +301,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1553814815,
+    "wof:lastmodified":1561830033,
     "wof:name":"Alto Paraguay",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

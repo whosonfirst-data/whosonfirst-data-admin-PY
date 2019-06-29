@@ -35,9 +35,6 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0643\u064a\u060c \u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0578\u0582\u056f\u0565"
-    ],
     "name:bel_x_preferred":[
         "\u041b\u0443\u043a\u0435"
     ],
@@ -50,14 +47,14 @@
     "name:cat_x_preferred":[
         "Luque"
     ],
-    "name:chi_x_preferred":[
-        "\u5362\u514b"
-    ],
     "name:dan_x_preferred":[
         "Luque"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Luque"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03cd\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Luque"
@@ -65,20 +62,14 @@
     "name:epo_x_preferred":[
         "Luque"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06a9\u0647"
+    ],
     "name:fin_x_preferred":[
         "Luque"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Luque"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10e3\u10d9\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Luque"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03cd\u03ba\u03b5"
     ],
     "name:grn_x_preferred":[
         "L\u00fake"
@@ -95,6 +86,9 @@
     "name:hrv_x_preferred":[
         "Luque"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u056f\u0565"
+    ],
     "name:ind_x_preferred":[
         "Luque"
     ],
@@ -107,6 +101,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cc1\u0c95\u0ccd\u0caf\u0cc1"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10e3\u10d9\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ub8e8\ucf00"
     ],
@@ -116,20 +113,20 @@
     "name:lit_x_preferred":[
         "Luk\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0443\u043a\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u0941\u0915\u094d\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u0443\u043a\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Luque"
+    ],
+    "name:nld_x_preferred":[
         "Luque"
     ],
     "name:nob_x_preferred":[
         "Luque"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u06a9\u0647"
     ],
     "name:pol_x_preferred":[
         "Luque"
@@ -137,7 +134,7 @@
     "name:por_x_preferred":[
         "Luque"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Luque"
     ],
     "name:rus_x_preferred":[
@@ -187,6 +184,9 @@
     ],
     "name:war_x_preferred":[
         "Luque"
+    ],
+    "name:zho_x_preferred":[
+        "\u5362\u514b"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -248,7 +248,7 @@
         }
     ],
     "wof:id":421189267,
-    "wof:lastmodified":1553717487,
+    "wof:lastmodified":1561830089,
     "wof:name":"Luque",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

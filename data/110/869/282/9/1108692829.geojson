@@ -31,16 +31,13 @@
     "mps:longitude":-56.801566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5341\u4e8c\u6708\u4e8c\u5341\u4e94\u65e5\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Veinticinco de Diciembre"
-    ],
     "name:eng_x_preferred":[
         "25 de Diciembre"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0646\u062a\u06cc\u06a9\u06cc\u0646\u06a9\u0648 \u062f\u0648 \u062f\u06cc\u06a9\u06cc\u0645\u0628\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Veinticinco de Diciembre"
     ],
     "name:grn_x_preferred":[
@@ -49,14 +46,17 @@
     "name:ita_x_preferred":[
         "Veinticinco de Diciembre"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0646\u062a\u06cc\u06a9\u06cc\u0646\u06a9\u0648 \u062f\u0648 \u062f\u06cc\u06a9\u06cc\u0645\u0628\u0631"
+    "name:nld_x_preferred":[
+        "Veinticinco de Diciembre"
     ],
     "name:por_x_preferred":[
         "Veinticinco de Diciembre"
     ],
     "name:spa_x_preferred":[
         "25 de Diciembre"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u4e8c\u6708\u4e8c\u5341\u4e94\u65e5\u93ae"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1108692829,
-    "wof:lastmodified":1553718220,
+    "wof:lastmodified":1561830071,
     "wof:name":"25 De Diciembre",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

@@ -13,20 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8036\u683c\u7f85\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Yegros"
-    ],
     "name:eng_x_preferred":[
         "Yegros"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yegros"
     ],
     "name:ita_x_preferred":[
         "Fulgencio Yegros"
+    ],
+    "name:nld_x_preferred":[
+        "Yegros"
     ],
     "name:por_x_preferred":[
         "Yegros"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421199625,
-    "wof:lastmodified":1527716416,
+    "wof:lastmodified":1561830091,
     "wof:name":"Yegros",
     "wof:parent_id":1108692857,
     "wof:placetype":"locality",

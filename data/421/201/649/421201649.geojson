@@ -38,13 +38,7 @@
     "name:cat_x_preferred":[
         "Valenzuela"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u502b\u8607\u57c3\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Valenzuela"
-    ],
-    "name:dut_x_preferred":[
         "Valenzuela"
     ],
     "name:eng_x_preferred":[
@@ -57,9 +51,6 @@
         "Valenzuela"
     ],
     "name:fra_x_preferred":[
-        "Valenzuela"
-    ],
-    "name:fre_x_preferred":[
         "Valenzuela"
     ],
     "name:glg_x_preferred":[
@@ -100,6 +91,9 @@
     ],
     "name:war_x_preferred":[
         "Valenzuela"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u502b\u8607\u57c3\u62c9"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -160,7 +154,7 @@
         }
     ],
     "wof:id":421201649,
-    "wof:lastmodified":1553717556,
+    "wof:lastmodified":1561830091,
     "wof:name":"Valenzuela",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0627\u0628\u0648\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Itap\u00faako departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09c1\u09af\u09bc\u09be"
     ],
@@ -40,23 +37,26 @@
     "name:cat_x_preferred":[
         "Departament d'Itap\u00faa"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5854\u666e\u963f\u7701"
-    ],
     "name:dan_x_preferred":[
         "Itap\u00faa"
     ],
     "name:deu_x_preferred":[
         "Departamento Itap\u00faa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Itap\u00faa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03b1\u03c0\u03bf\u03cd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Itap\u00faa"
     ],
     "name:epo_x_preferred":[
         "Departemento Itap\u00faa"
+    ],
+    "name:eus_x_preferred":[
+        "Itap\u00faako departamendua"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u062a\u0627\u067e\u0648\u0627"
@@ -67,13 +67,7 @@
     "name:fra_x_preferred":[
         "D\u00e9partement d'Itap\u00faa"
     ],
-    "name:fre_x_preferred":[
-        "Itap\u00faa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e2\u10d0\u10de\u10e3\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Itap\u00faa"
     ],
     "name:gla_x_preferred":[
@@ -81,9 +75,6 @@
     ],
     "name:glg_x_preferred":[
         "Itap\u00faa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c4\u03b1\u03c0\u03bf\u03cd\u03b1"
     ],
     "name:grn_x_preferred":[
         "Itap\u00faa"
@@ -112,6 +103,9 @@
     "name:kan_x_preferred":[
         "\u0c87\u0c9f\u0caa\u0cc1"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e2\u10d0\u10de\u10e3\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc774\ud0c0\ud478\uc544 \uc8fc"
     ],
@@ -121,20 +115,20 @@
     "name:lit_x_preferred":[
         "Itapujos departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u0442\u0430\u043f\u0443\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0907\u091f\u093e\u092a\u0941\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0418\u0442\u0430\u043f\u0443\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Itapua"
+    ],
+    "name:nld_x_preferred":[
+        "Itap\u00faa"
     ],
     "name:nob_x_preferred":[
         "Itapua"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u062a\u0627\u067e\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Itap\u00faa"
@@ -193,6 +187,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d8\u10e2\u10d0\u10de\u10e3\u10d0\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5854\u666e\u963f\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRY",
@@ -319,7 +316,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1553550618,
+    "wof:lastmodified":1561830026,
     "wof:name":"Itap\u00faa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

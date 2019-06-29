@@ -34,16 +34,10 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0643\u0648\u0646\u062f\u0627\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u4e9e\u6606\u4ee3"
-    ],
-    "name:dut_x_preferred":[
-        "\u00d1acunday"
-    ],
     "name:eng_x_preferred":[
         "\u00d1acunday"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00d1acunday"
     ],
     "name:ita_x_preferred":[
@@ -52,11 +46,17 @@
     "name:lit_x_preferred":[
         "Njakundajus"
     ],
+    "name:nld_x_preferred":[
+        "\u00d1acunday"
+    ],
     "name:por_x_preferred":[
         "\u00d1acunday"
     ],
     "name:spa_x_preferred":[
         "\u00d1acunday"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9e\u6606\u4ee3"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1108692557,
-    "wof:lastmodified":1553718197,
+    "wof:lastmodified":1561830082,
     "wof:name":"\u00d1acunday",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

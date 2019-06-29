@@ -23,16 +23,10 @@
     "name:ces_x_preferred":[
         "Hohenau"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u57c3\u7459"
-    ],
     "name:dan_x_preferred":[
         "Hohenau"
     ],
     "name:deu_x_preferred":[
-        "Hohenau"
-    ],
-    "name:dut_x_preferred":[
         "Hohenau"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +39,6 @@
         "\u0647\u0648\u0647\u0646\u0627\u0648"
     ],
     "name:fra_x_preferred":[
-        "Hohenau"
-    ],
-    "name:fre_x_preferred":[
-        "Hohenau"
-    ],
-    "name:ger_x_preferred":[
         "Hohenau"
     ],
     "name:hbs_x_preferred":[
@@ -89,9 +77,6 @@
     "name:ron_x_preferred":[
         "Hohenau"
     ],
-    "name:rum_x_preferred":[
-        "Hohenau"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u044d\u043d\u0430\u0443"
     ],
@@ -127,6 +112,9 @@
     ],
     "name:zho_x_preferred":[
         "\u970d\u9ed1\u7459"
+    ],
+    "name:zho_x_variant":[
+        "\u5967\u57c3\u7459"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Paraguay",
@@ -267,7 +255,7 @@
         }
     ],
     "wof:id":421186323,
-    "wof:lastmodified":1527716314,
+    "wof:lastmodified":1561830090,
     "wof:name":"Hohenau",
     "wof:parent_id":421171369,
     "wof:placetype":"locality",
