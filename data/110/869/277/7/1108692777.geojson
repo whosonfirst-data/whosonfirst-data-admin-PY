@@ -37,14 +37,14 @@
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u0995\u09be\u09b8\u09be\u09a1\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u85a9\u591a\u6e2f"
-    ],
     "name:dan_x_preferred":[
         "Puerto Casado"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puerto Casado"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039a\u03b1\u03c3\u03ac\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "La Victoria"
@@ -52,14 +52,8 @@
     "name:fin_x_preferred":[
         "Puerto Casado"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Puerto Casado"
-    ],
-    "name:ger_x_preferred":[
-        "Puerto Casado"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039a\u03b1\u03c3\u03ac\u03bd\u03c4\u03bf"
     ],
     "name:grn_x_preferred":[
         "La Victoria"
@@ -94,7 +88,10 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0935\u0947\u0930\u094d\u091f\u094b \u0915\u0945\u0938\u093e\u0921\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Puerto Casado"
+    ],
+    "name:nld_x_preferred":[
         "Puerto Casado"
     ],
     "name:nob_x_preferred":[
@@ -106,7 +103,7 @@
     "name:por_x_preferred":[
         "La Victoria"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Puerto Casado"
     ],
     "name:rus_x_preferred":[
@@ -141,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Puerto Casado"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u85a9\u591a\u6e2f"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":1108692777,
-    "wof:lastmodified":1553718224,
+    "wof:lastmodified":1561830065,
     "wof:name":"Puerto Casado",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

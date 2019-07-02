@@ -31,29 +31,29 @@
     "mps:longitude":-56.236386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f55\u585e\u840a\u5b89\u5fb7\u7f85\u5967\u7dad\u8036\u591a"
-    ],
-    "name:dut_x_preferred":[
-        "Leandro Oviedo"
+    "name:deu_x_preferred":[
+        "Jos\u00e9 Leandro Oviedo"
     ],
     "name:eng_x_preferred":[
         "Jos\u00e9 Leandro Oviedo"
     ],
-    "name:fre_x_preferred":[
-        "Jos\u00e9 Leandro Oviedo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Jos\u00e9 Leandro Oviedo"
     ],
     "name:ita_x_preferred":[
         "Jos\u00e9 Leandro Oviedo"
+    ],
+    "name:nld_x_preferred":[
+        "Leandro Oviedo"
     ],
     "name:por_x_preferred":[
         "Jos\u00e9 Leandro Oviedo"
     ],
     "name:spa_x_preferred":[
         "Jos\u00e9 Leandro Oviedo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f55\u585e\u840a\u5b89\u5fb7\u7f85\u5967\u7dad\u8036\u591a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108692667,
-    "wof:lastmodified":1553718205,
+    "wof:lastmodified":1561830051,
     "wof:name":"Leandro Oviedo",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

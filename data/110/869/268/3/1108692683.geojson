@@ -31,22 +31,19 @@
     "mps:longitude":-55.895546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u5e15\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "La Paz"
     ],
     "name:eng_x_preferred":[
         "La Paz"
     ],
-    "name:fre_x_preferred":[
-        "La Paz"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "La Paz"
     ],
     "name:ita_x_preferred":[
+        "La Paz"
+    ],
+    "name:nld_x_preferred":[
         "La Paz"
     ],
     "name:por_x_preferred":[
@@ -54,6 +51,9 @@
     ],
     "name:spa_x_preferred":[
         "La Paz"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e15\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108692683,
-    "wof:lastmodified":1553718206,
+    "wof:lastmodified":1561830050,
     "wof:name":"La Paz",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

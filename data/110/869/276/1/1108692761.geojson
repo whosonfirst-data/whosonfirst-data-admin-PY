@@ -34,11 +34,8 @@
     "name:cat_x_preferred":[
         "San Pedro de Ycuamandiy\u00fa"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u4f69\u5fb7\u7f85"
-    ],
-    "name:dut_x_preferred":[
-        "San Pedro"
+    "name:deu_x_preferred":[
+        "San Pedro de Ykuamandyju"
     ],
     "name:eng_x_preferred":[
         "San Pedro del Ycuamandiy\u00fa"
@@ -49,14 +46,8 @@
     "name:fin_x_preferred":[
         "San Pedro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Pedro de Ycuamandyy\u00fa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10de\u10d4\u10d3\u10e0\u10dd-\u10d3\u10d4-\u10d8\u10d9\u10e3\u10d0\u10db\u10d0\u10dc\u10d3\u10d8\u10d8\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "San Pedro de Ykuamandyju"
     ],
     "name:glg_x_preferred":[
         "San Pedro de Ycuamandiy\u00fa"
@@ -70,11 +61,17 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10de\u10d4\u10d3\u10e0\u10dd-\u10d3\u10d4-\u10d8\u10d9\u10e3\u10d0\u10db\u10d0\u10dc\u10d3\u10d8\u10d8\u10e3"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0\ud398\ub4dc\ub85c\ub370\uc774\ucfe0\uc544\ub9cc\ub514\uc720"
     ],
     "name:lit_x_preferred":[
         "San Pedras"
+    ],
+    "name:nld_x_preferred":[
+        "San Pedro"
     ],
     "name:oci_x_preferred":[
         "San Pedro de Ycuamandiy\u00fa"
@@ -85,7 +82,7 @@
     "name:por_x_preferred":[
         "San Pedro del Ycuamandiy\u00fa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "San Pedro del Ycua Mandiyu"
     ],
     "name:spa_x_preferred":[
@@ -96,6 +93,9 @@
     ],
     "name:war_x_preferred":[
         "San Pedro"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108692761,
-    "wof:lastmodified":1555037581,
+    "wof:lastmodified":1561830070,
     "wof:name":"San Pedro Del Ykuamandiyu",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

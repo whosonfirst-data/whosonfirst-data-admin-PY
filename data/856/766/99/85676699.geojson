@@ -31,14 +31,8 @@
     "name:cat_x_preferred":[
         "Departament de Paraguar\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62c9\u74dc\u91cc\u7701"
-    ],
     "name:deu_x_preferred":[
         "Departamento Paraguar\u00ed"
-    ],
-    "name:dut_x_preferred":[
-        "Paraguar\u00ed"
     ],
     "name:eng_x_preferred":[
         "Paraguar\u00ed"
@@ -52,14 +46,8 @@
     "name:fra_x_preferred":[
         "D\u00e9partement de Paraguar\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Paraguar\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0\u10e0\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Paraguar\u00ed"
     ],
     "name:glg_x_preferred":[
         "Departamento de Paraguar\u00ed"
@@ -82,14 +70,20 @@
     "name:jpn_x_preferred":[
         "\u30d1\u30e9\u30b0\u30a2\u30ea\u30fc\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0\u10e0\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud30c\ub77c\uacfc\ub9ac \uc8fc"
     ],
     "name:lit_x_preferred":[
         "Paragvari departamentas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0440\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Paraguar\u00ed"
     ],
     "name:pol_x_preferred":[
         "Paraguar\u00ed"
@@ -127,6 +121,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10de\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0\u10e0\u10d8\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u74dc\u91cc\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRY",
@@ -253,7 +250,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1553550530,
+    "wof:lastmodified":1561830032,
     "wof:name":"Paraguar\u00ed",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

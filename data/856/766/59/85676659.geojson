@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0628\u0648\u0643\u0648\u064a\u0631\u0648\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Boquer\u00f3ngo departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0995\u09c7\u09b0\u09a8"
     ],
@@ -40,23 +37,23 @@
     "name:cat_x_preferred":[
         "Departament de Boquer\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u514b\u9f8d\u7701"
-    ],
     "name:dan_x_preferred":[
         "XVI Boquer\u00f3n"
     ],
     "name:deu_x_preferred":[
         "Departamento Boquer\u00f3n"
     ],
-    "name:dut_x_preferred":[
-        "Boquer\u00f3n"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03ba\u03b5\u03c1\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Boquer\u00f3n"
     ],
     "name:epo_x_preferred":[
         "Departemento Boquer\u00f3n"
+    ],
+    "name:eus_x_preferred":[
+        "Boquer\u00f3ngo departamendua"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0648\u06a9\u0648\u0631\u0648\u0646"
@@ -67,20 +64,11 @@
     "name:fra_x_preferred":[
         "D\u00e9partement de Boquer\u00f3n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Boquer\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10d9\u10d4\u10e0\u10dd\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Boquer\u00f3n"
     ],
     "name:glg_x_preferred":[
         "Boquer\u00f3n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03ba\u03b5\u03c1\u03cc\u03bd"
     ],
     "name:grn_x_preferred":[
         "Boquer\u00f3n"
@@ -109,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0ce7\u0cec \u0cac\u0cca\u0c95\u0cc6\u0cb0\u0cca\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d9\u10d4\u10e0\u10dd\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubcf4\ucf00\ub860 \uc8fc"
     ],
@@ -118,20 +109,20 @@
     "name:lit_x_preferred":[
         "Bokerono departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043e\u043a\u0435\u0440\u043e\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0938\u0935\u093f \u092c\u0941\u0915\u0930\u0949\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u043a\u0435\u0440\u043e\u043d"
+    ],
+    "name:msa_x_preferred":[
         "XVI Boqueron"
+    ],
+    "name:nld_x_preferred":[
+        "Boquer\u00f3n"
     ],
     "name:nob_x_preferred":[
         "XVI Boqueron"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0648\u06a9\u0648\u0631\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Boquer\u00f3n"
@@ -142,7 +133,7 @@
     "name:que_x_preferred":[
         "Boquer\u00f3n suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Boquer\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -190,6 +181,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10dd\u10d9\u10d4\u10e0\u10dd\u10dc\u10d8\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u514b\u9f8d\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRY",
@@ -316,7 +310,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1553550480,
+    "wof:lastmodified":1561830029,
     "wof:name":"Boquer\u00f3n",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

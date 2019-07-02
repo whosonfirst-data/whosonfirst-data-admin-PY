@@ -31,19 +31,13 @@
     "mps:longitude":-56.429491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5317\u8c9d\u4e9e\u7dad\u65af\u5854"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bella Vista Norte"
     ],
     "name:eng_x_preferred":[
         "Bella Vista"
     ],
-    "name:fre_x_preferred":[
-        "Bella Vista Norte"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bella Vista Norte"
     ],
     "name:ita_x_preferred":[
@@ -51,6 +45,9 @@
     ],
     "name:lit_x_preferred":[
         "Belja Vista"
+    ],
+    "name:nld_x_preferred":[
+        "Bella Vista Norte"
     ],
     "name:por_x_preferred":[
         "Bella Vista Norte"
@@ -60,6 +57,9 @@
     ],
     "name:spa_x_preferred":[
         "Bella Vista Norte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u8c9d\u4e9e\u7dad\u65af\u5854"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108692443,
-    "wof:lastmodified":1555037594,
+    "wof:lastmodified":1561830043,
     "wof:name":"Bella Vista",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

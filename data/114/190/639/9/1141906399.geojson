@@ -20,7 +20,7 @@
     "name:cat_x_preferred":[
         "Pozo Colorado"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pozo Colorado"
     ],
     "name:eng_x_preferred":[
@@ -29,10 +29,7 @@
     "name:fin_x_preferred":[
         "Pozo Colorado"
     ],
-    "name:fre_x_preferred":[
-        "Pozo Colorado"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pozo Colorado"
     ],
     "name:grn_x_preferred":[
@@ -44,10 +41,13 @@
     "name:kor_x_preferred":[
         "\ud3ec\uc18c\ucf5c\ub85c\ub77c\ub3c4"
     ],
+    "name:nld_x_preferred":[
+        "Pozo Colorado"
+    ],
     "name:por_x_preferred":[
         "Pozo Colorado"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pozo Colorado"
     ],
     "name:spa_x_preferred":[
@@ -172,7 +172,7 @@
         }
     ],
     "wof:id":1141906399,
-    "wof:lastmodified":1514499259,
+    "wof:lastmodified":1561830108,
     "wof:name":"Pozo Colorado",
     "wof:parent_id":421171367,
     "wof:placetype":"locality",

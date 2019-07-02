@@ -37,14 +37,11 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09af\u09bc\u09be\u09b0\u09be\u09ae\u09cd\u09ac\u09be\u09b0\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u862d\u5df4\u96f7"
-    ],
     "name:dan_x_preferred":[
         "Guarambar\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Guarambar\u00e9"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03b1\u03c1\u03b1\u03bc\u03c0\u03b1\u03c1\u03ad"
     ],
     "name:eng_x_preferred":[
         "Guarambar\u00e9"
@@ -52,11 +49,8 @@
     "name:fin_x_preferred":[
         "Guarambar\u00e9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Guarambar\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c5\u03b1\u03c1\u03b1\u03bc\u03c0\u03b1\u03c1\u03ad"
     ],
     "name:grn_x_preferred":[
         "Guarambare"
@@ -91,8 +85,11 @@
     "name:mar_x_preferred":[
         "\u0917\u0942\u0930\u0902\u092c\u0947\u0930\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Guarambare"
+    ],
+    "name:nld_x_preferred":[
+        "Guarambar\u00e9"
     ],
     "name:nob_x_preferred":[
         "Guarambare"
@@ -139,6 +136,9 @@
     "name:vie_x_preferred":[
         "Guarambare"
     ],
+    "name:zho_x_preferred":[
+        "\u74dc\u862d\u5df4\u96f7"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":1108692589,
-    "wof:lastmodified":1553718198,
+    "wof:lastmodified":1561830056,
     "wof:name":"Guarambare",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

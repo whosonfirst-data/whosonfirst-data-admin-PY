@@ -37,14 +37,11 @@
     "name:ben_x_preferred":[
         "\u0987\u09a4\u09be\u0995\u09bf\u09b0\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5854\u57fa\u91cc"
-    ],
     "name:dan_x_preferred":[
         "Itakyry"
     ],
-    "name:dut_x_preferred":[
-        "Itakyry"
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03b1\u03ba\u03af\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Itakyry"
@@ -52,11 +49,8 @@
     "name:fin_x_preferred":[
         "Itakyry"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Itakyry"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c4\u03b1\u03ba\u03af\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a95\u0abe\u0a95\u0ac0"
@@ -88,7 +82,10 @@
     "name:mar_x_preferred":[
         "\u0907\u0915\u093e\u0915\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Itakyry"
+    ],
+    "name:nld_x_preferred":[
         "Itakyry"
     ],
     "name:nob_x_preferred":[
@@ -133,6 +130,9 @@
     "name:vie_x_preferred":[
         "Itakyry"
     ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5854\u57fa\u91cc"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":1108692553,
-    "wof:lastmodified":1553718201,
+    "wof:lastmodified":1561830082,
     "wof:name":"Itakyry",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

@@ -37,14 +37,11 @@
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u09af\u09bc\u09c7\u09ad\u09be \u0987\u09a4\u09be\u09b2\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u610f\u5927\u5229"
-    ],
     "name:dan_x_preferred":[
         "Nueva Italia"
     ],
-    "name:dut_x_preferred":[
-        "Nueva Italia"
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u0399\u03c4\u03ac\u03bb\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nueva Italia"
@@ -52,11 +49,8 @@
     "name:fin_x_preferred":[
         "Nueva Italia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nueva Italia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u0399\u03c4\u03ac\u03bb\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac1\u0a8f\u0ab5\u0abe \u0a87\u0a9f\u0abe\u0ab2\u0abf\u0aaf\u0abe"
@@ -91,7 +85,10 @@
     "name:mar_x_preferred":[
         "\u0928\u094d\u0935\u0947\u0935\u093e \u0907\u091f\u093e\u0932\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:nld_x_preferred":[
         "Nueva Italia"
     ],
     "name:nob_x_preferred":[
@@ -139,6 +136,9 @@
     "name:vie_x_preferred":[
         "Nueva Italia"
     ],
+    "name:zho_x_preferred":[
+        "\u65b0\u610f\u5927\u5229"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":1108692597,
-    "wof:lastmodified":1555037585,
+    "wof:lastmodified":1561830052,
     "wof:name":"Nueva Italia",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

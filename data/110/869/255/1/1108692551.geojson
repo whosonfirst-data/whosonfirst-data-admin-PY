@@ -37,14 +37,11 @@
     "name:ben_x_preferred":[
         "\u09a1\u0995\u09cd\u099f\u09b0 \u099c\u09c1\u09af\u09bc\u09be\u09a8 \u09b2\u09bf\u0993 \u09ae\u09be\u09b2\u09cd\u09b2\u09b0\u0995\u09c1\u0987\u09a8 \u09a1\u09bf\u09b8\u099f\u09cd\u09b0\u09bf\u0995\u09cd\u099f"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5b89\u840a\u6602\u99ac\u7565\u723e\u91d1"
-    ],
     "name:dan_x_preferred":[
         "Doctor Juan Le\u00f3n Mallorqu\u00edn"
     ],
-    "name:dut_x_preferred":[
-        "Doctor Juan Le\u00f3n Mallorqu\u00edn District"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03ba\u03c4\u03bf\u03c1 \u03a7\u03bf\u03c5\u03ac\u03bd \u039b\u03b5\u03cc\u03bd \u039c\u03b1\u03bb\u03bf\u03c1\u03ba\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Doctor Juan Le\u00f3n Mallorqu\u00edn"
@@ -52,11 +49,8 @@
     "name:fin_x_preferred":[
         "Doctor Juan Le\u00f3n Mallorqu\u00edn kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Doctor Juan Le\u00f3n Mallorqu\u00edn District"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03cc\u03ba\u03c4\u03bf\u03c1 \u03a7\u03bf\u03c5\u03ac\u03bd \u039b\u03b5\u03cc\u03bd \u039c\u03b1\u03bb\u03bf\u03c1\u03ba\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0a95\u0acd\u0a9f\u0ab0 \u0a9c\u0ac1\u0a86\u0aa8 \u0ab2\u0abf\u0aaf\u0acb\u0aa8 \u0aae\u0ac7\u0ab2\u0acd\u0ab2\u0acb\u0ab0\u0a95\u0acd\u0ab5\u0abf\u0aa8 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -88,8 +82,11 @@
     "name:mar_x_preferred":[
         "\u0921\u0949\u0915\u094d\u091f\u0930 \u091c\u0941\u0906\u0928 \u0932\u093f\u0913\u0928 \u092e\u0945\u0932\u094d\u0930\u0915\u094d\u0935\u093f\u0928 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Doctor Juan Leon Mallorquin District"
+    ],
+    "name:nld_x_preferred":[
+        "Doctor Juan Le\u00f3n Mallorqu\u00edn District"
     ],
     "name:nob_x_preferred":[
         "Doktor Juan Leon"
@@ -133,6 +130,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Doctor Juan Leon Mallorquin"
     ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5b89\u840a\u6602\u99ac\u7565\u723e\u91d1"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":1108692551,
-    "wof:lastmodified":1553718195,
+    "wof:lastmodified":1561830082,
     "wof:name":"Dr. Juan Leon Mallorquin",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

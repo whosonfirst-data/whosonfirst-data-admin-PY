@@ -31,26 +31,23 @@
     "mps:longitude":-56.700843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576 \u053d\u0578\u057d\u0565 \u0564\u0565 \u056c\u0578\u057d \u0531\u057c\u0578\u0575\u0578\u057d"
-    ],
-    "name:chi_x_preferred":[
-        "\u8056\u4f55\u585e\u5fb7\u6d1b\u65af\u963f\u7f85\u7d04\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "San Jos\u00e9 de los Arroyos"
-    ],
     "name:eng_x_preferred":[
         "San Jos\u00e9 de los Arroyos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Jos\u00e9 de los Arroyos"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053d\u0578\u057d\u0565 \u0564\u0565 \u056c\u0578\u057d \u0531\u057c\u0578\u0575\u0578\u057d"
     ],
     "name:ita_x_preferred":[
         "San Jos\u00e9 de los Arroyos"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30db\u30bb\u30fb\u30c7\u30fb\u30ed\u30b9\u30fb\u30a2\u30ed\u30e8\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9 de los Arroyos"
     ],
     "name:por_x_preferred":[
         "San Jos\u00e9 de los Arroyos"
@@ -60,6 +57,9 @@
     ],
     "name:spa_x_preferred":[
         "San Jos\u00e9 de los Arroyos"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u6d1b\u65af\u963f\u7f85\u7d04\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108692641,
-    "wof:lastmodified":1553718203,
+    "wof:lastmodified":1561830078,
     "wof:name":"San Jose De Los Arroyos",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

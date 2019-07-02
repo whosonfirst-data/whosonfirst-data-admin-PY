@@ -31,16 +31,10 @@
     "mps:longitude":-54.925124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8056\u7f85\u85a9\u5fb7\u723e\u8499\u4ee3"
-    ],
-    "name:dut_x_preferred":[
-        "Santa Rosa del Monday"
-    ],
     "name:eng_x_preferred":[
         "Santa Rosa del Monday"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Rosa del Monday"
     ],
     "name:ita_x_preferred":[
@@ -49,11 +43,17 @@
     "name:lit_x_preferred":[
         "Santa Rosa del Mondajus"
     ],
+    "name:nld_x_preferred":[
+        "Santa Rosa del Monday"
+    ],
     "name:por_x_preferred":[
         "Santa Rosa del Monday"
     ],
     "name:spa_x_preferred":[
         "Santa Rosa del Monday"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7f85\u85a9\u5fb7\u723e\u8499\u4ee3"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108692569,
-    "wof:lastmodified":1553718197,
+    "wof:lastmodified":1561830058,
     "wof:name":"Santa Rosa Del Monday",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

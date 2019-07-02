@@ -37,14 +37,11 @@
     "name:ben_x_preferred":[
         "\u099c\u09c1\u09b2\u09bf\u09af\u09bc\u09be\u09a8 \u0985\u0997\u09be\u09b8\u09cd\u099f\u09cb \u09b8\u09cd\u09af\u09be\u09b2\u09cd\u09a1\u09bf\u09ad\u09be\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5229\u5b89\u5967\u53e4\u65af\u6258\u85a9\u723e\u8fea\u74e6"
-    ],
     "name:dan_x_preferred":[
         "Julian Augusto Saldivar"
     ],
-    "name:dut_x_preferred":[
-        "Juli\u00e1n Augusto Sald\u00edvar"
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03bb\u03b9\u03ac\u03bd \u039f\u03b3\u03ba\u03bf\u03cd\u03c3\u03c4\u03bf \u03a3\u03b1\u03bb\u03bd\u03c4\u03af\u03b2\u03b1\u03c1"
     ],
     "name:eng_x_preferred":[
         "Juan Augusto Sald\u00edvar"
@@ -52,11 +49,8 @@
     "name:fin_x_preferred":[
         "Juli\u00e1n Augusto Sald\u00edvar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Juan Augusto Sald\u00edvar"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03bb\u03b9\u03ac\u03bd \u039f\u03b3\u03ba\u03bf\u03cd\u03c3\u03c4\u03bf \u03a3\u03b1\u03bb\u03bd\u03c4\u03af\u03b2\u03b1\u03c1"
     ],
     "name:grn_x_preferred":[
         "Juli\u00e1n Augusto Sald\u00edvar"
@@ -91,8 +85,11 @@
     "name:mar_x_preferred":[
         "\u091c\u0941\u0932\u093f\u092f\u093e\u0928 \u0911\u0917\u0938\u094d\u091f\u094b \u0938\u0932\u094d\u0926\u0940\u0935\u093e\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Julian Augusto Saldivar"
+    ],
+    "name:nld_x_preferred":[
+        "Juli\u00e1n Augusto Sald\u00edvar"
     ],
     "name:nob_x_preferred":[
         "Julian Augusto"
@@ -103,7 +100,7 @@
     "name:por_x_preferred":[
         "Juli\u00e1n Augusto Sald\u00edvar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Juli\u00e1n Augusto Sald\u00edvar"
     ],
     "name:rus_x_preferred":[
@@ -138,6 +135,9 @@
     ],
     "name:vie_x_preferred":[
         "Julian Augusto Saldivar"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5229\u5b89\u5967\u53e4\u65af\u6258\u85a9\u723e\u8fea\u74e6"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":1108692799,
-    "wof:lastmodified":1553718219,
+    "wof:lastmodified":1561830066,
     "wof:name":"J Augusto Saldivar",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

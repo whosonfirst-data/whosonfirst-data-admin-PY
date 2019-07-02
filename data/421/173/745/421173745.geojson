@@ -35,17 +35,11 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u063a\u0648\u0627\u0631\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u0580\u0561\u0563\u0578\u0582\u0561\u0580\u056b"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u0997\u09cb\u09af\u09bc\u09be\u09b0\u09bf"
     ],
     "name:cat_x_preferred":[
         "Paraguar\u00ed"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62c9\u74dc\u91cc"
     ],
     "name:dan_x_preferred":[
         "Paraguar\u00ed"
@@ -53,8 +47,8 @@
     "name:deu_x_preferred":[
         "Paraguar\u00ed"
     ],
-    "name:dut_x_preferred":[
-        "Paraguar\u00ed"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03b1\u03b3\u03bf\u03c5\u03b1\u03c1\u03af"
     ],
     "name:eng_x_preferred":[
         "Paraguar\u00ed"
@@ -68,20 +62,8 @@
     "name:fra_x_preferred":[
         "Paraguar\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "Paraguar\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Paraguar\u00ed"
-    ],
     "name:glg_x_preferred":[
         "Paraguar\u00ed"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c1\u03b1\u03b3\u03bf\u03c5\u03b1\u03c1\u03af"
     ],
     "name:grn_x_preferred":[
         "Paraguari"
@@ -91,6 +73,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092a\u0948\u0930\u093e\u0917\u0941\u0906\u0930\u093f"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0580\u0561\u0563\u0578\u0582\u0561\u0580\u056b"
     ],
     "name:ind_x_preferred":[
         "Paraguar\u00ed"
@@ -119,7 +104,10 @@
     "name:mar_x_preferred":[
         "\u092a\u0930\u093e\u0917\u0941\u0906\u0930\u093f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Paraguar\u00ed"
+    ],
+    "name:nld_x_preferred":[
         "Paraguar\u00ed"
     ],
     "name:nob_x_preferred":[
@@ -166,6 +154,9 @@
     ],
     "name:war_x_preferred":[
         "Paraguar\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u74dc\u91cc"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -227,7 +218,7 @@
         }
     ],
     "wof:id":421173745,
-    "wof:lastmodified":1553717353,
+    "wof:lastmodified":1561830088,
     "wof:name":"Paraguari",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

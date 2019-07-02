@@ -31,16 +31,10 @@
     "mps:longitude":-55.933382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5e15\u7d22\u7d04\u74e6\u4f0a"
-    ],
-    "name:dut_x_preferred":[
-        "Paso Yobai"
-    ],
     "name:eng_x_preferred":[
         "Paso Yobai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Paso Yobai"
     ],
     "name:ita_x_preferred":[
@@ -49,11 +43,17 @@
     "name:lit_x_preferred":[
         "Paso Jobajus"
     ],
+    "name:nld_x_preferred":[
+        "Paso Yobai"
+    ],
     "name:por_x_preferred":[
         "Paso Yobai"
     ],
     "name:spa_x_preferred":[
         "Paso Yob\u00e1i"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7d22\u7d04\u74e6\u4f0a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108692617,
-    "wof:lastmodified":1553718205,
+    "wof:lastmodified":1561830053,
     "wof:name":"Paso Yobai",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

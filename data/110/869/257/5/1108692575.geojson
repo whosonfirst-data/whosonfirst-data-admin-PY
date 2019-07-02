@@ -37,14 +37,11 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u0986\u09b2\u09ac\u09be\u09b0\u09cd\u099f\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u963f\u723e\u97cb\u6258"
-    ],
     "name:dan_x_preferred":[
         "San Alberto"
     ],
-    "name:dut_x_preferred":[
-        "San Alberto"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u0391\u03bb\u03bc\u03c0\u03ad\u03c1\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "San Alberto"
@@ -52,11 +49,8 @@
     "name:fin_x_preferred":[
         "San Alberto"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Alberto"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u0391\u03bb\u03bc\u03c0\u03ad\u03c1\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0a86\u0ab2\u0acd\u0aac\u0ab0\u0acd\u0a9f\u0acb"
@@ -88,7 +82,10 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0905\u0932\u094d\u092c\u0930\u094d\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "San Alberto"
+    ],
+    "name:nld_x_preferred":[
         "San Alberto"
     ],
     "name:nob_x_preferred":[
@@ -133,6 +130,9 @@
     "name:vie_x_preferred":[
         "San Alberto"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u963f\u723e\u97cb\u6258"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":1108692575,
-    "wof:lastmodified":1553718198,
+    "wof:lastmodified":1561830048,
     "wof:name":"San Alberto",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

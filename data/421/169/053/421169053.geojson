@@ -14,16 +14,10 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u4f0a\u52a0\u8482\u7c73\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Ygatim\u00ed"
-    ],
     "name:eng_x_preferred":[
         "Ygatim\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Villa Ygatim\u00ed"
     ],
     "name:ita_x_preferred":[
@@ -32,10 +26,13 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30b8\u30e3\u30fb\u30a4\u30ac\u30c6\u30a3\u30df"
     ],
+    "name:nld_x_preferred":[
+        "Ygatim\u00ed"
+    ],
     "name:por_x_preferred":[
         "Villa Ygatim\u00ed"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ygatim\u00ed"
     ],
     "name:spa_x_preferred":[
@@ -190,7 +187,7 @@
         }
     ],
     "wof:id":421169053,
-    "wof:lastmodified":1527716167,
+    "wof:lastmodified":1561830087,
     "wof:name":"Ygatim\u00ed",
     "wof:parent_id":1108692455,
     "wof:placetype":"locality",

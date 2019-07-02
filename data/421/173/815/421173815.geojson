@@ -22,16 +22,10 @@
     "name:cat_x_preferred":[
         "Pilar"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u62c9\u723e"
-    ],
     "name:dan_x_preferred":[
         "Pilar"
     ],
     "name:deu_x_preferred":[
-        "Pilar"
-    ],
-    "name:dut_x_preferred":[
         "Pilar"
     ],
     "name:eng_x_preferred":[
@@ -47,15 +41,6 @@
         "Pilar"
     ],
     "name:fra_x_preferred":[
-        "Pilar"
-    ],
-    "name:fre_x_preferred":[
-        "Pilar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10da\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Pilar"
     ],
     "name:glg_x_preferred":[
@@ -88,9 +73,6 @@
     "name:oci_x_preferred":[
         "Pilar"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u0644\u0627\u0631"
-    ],
     "name:pol_x_preferred":[
         "Pilar"
     ],
@@ -98,9 +80,6 @@
         "Pilar"
     ],
     "name:ron_x_preferred":[
-        "Pilar"
-    ],
-    "name:rum_x_preferred":[
         "Pilar"
     ],
     "name:rus_x_preferred":[
@@ -273,7 +252,7 @@
         }
     ],
     "wof:id":421173815,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1561830088,
     "wof:name":"Pilar",
     "wof:parent_id":421170007,
     "wof:placetype":"locality",

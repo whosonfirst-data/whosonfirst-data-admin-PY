@@ -38,14 +38,11 @@
     "name:ben_x_preferred":[
         "\u0987\u09aa\u09be\u0995\u09be\u09b0\u09be\u09af\u09bc"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5e15\u5361\u8cf4"
-    ],
     "name:dan_x_preferred":[
         "Ypacara\u00ed"
     ],
-    "name:dut_x_preferred":[
-        "Ypacara\u00ed"
+    "name:ell_x_preferred":[
+        "\u0399\u03c0\u03b1\u03ba\u03b1\u03c1\u03b1\u0390"
     ],
     "name:eng_x_preferred":[
         "Ypacara\u00ed"
@@ -53,11 +50,8 @@
     "name:fin_x_preferred":[
         "Ypacara\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ypacara\u00ed"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c0\u03b1\u03ba\u03b1\u03c1\u03b1\u0390"
     ],
     "name:grn_x_preferred":[
         "Ypakarai"
@@ -92,7 +86,10 @@
     "name:mar_x_preferred":[
         "\u092f\u092a\u093e\u0915\u0930\u093e\u092f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ypacara\u00ed"
+    ],
+    "name:nld_x_preferred":[
         "Ypacara\u00ed"
     ],
     "name:nob_x_preferred":[
@@ -139,6 +136,9 @@
     ],
     "name:vie_x_preferred":[
         "Ypacarai"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5e15\u5361\u8cf4"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -200,7 +200,7 @@
         }
     ],
     "wof:id":421170009,
-    "wof:lastmodified":1553717307,
+    "wof:lastmodified":1561830094,
     "wof:name":"Ypacarai",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

@@ -34,20 +34,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0644\u0648\u0631\u064a\u0646\u0632\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576 \u053c\u0578\u0580\u0565\u0576\u0581\u0578"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09b2\u09b0\u09c7\u099e\u09cd\u099c\u09c1"
-    ],
-    "name:chi_x_preferred":[
-        "\u8056\u6d1b\u502b\u7d22"
     ],
     "name:dan_x_preferred":[
         "San Lorenzo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Lorenzo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039b\u03bf\u03c1\u03ad\u03bd\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "San Lorenzo"
@@ -55,20 +52,14 @@
     "name:epo_x_preferred":[
         "San Lorenzo"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0644\u0648\u0631\u0646\u0632\u0648\u060c \u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
+    ],
     "name:fin_x_preferred":[
         "San Lorenzo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Lorenzo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10da\u10dd\u10e0\u10d4\u10dc\u10e1\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "San Lorenzo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u039b\u03bf\u03c1\u03ad\u03bd\u03c3\u03bf"
     ],
     "name:grn_x_preferred":[
         "San Lorenzo"
@@ -88,6 +79,9 @@
     "name:hun_x_preferred":[
         "San Lorenzo"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053c\u0578\u0580\u0565\u0576\u0581\u0578"
+    ],
     "name:ind_x_preferred":[
         "San Lorenzo"
     ],
@@ -100,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0cb2\u0cca\u0cb0\u0cc6\u0c82\u0c9c\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10da\u10dd\u10e0\u10d4\u10dc\u10e1\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0 \ub85c\ub80c\uc870"
     ],
@@ -109,20 +106,20 @@
     "name:lit_x_preferred":[
         "San Lorensas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043d \u041b\u043e\u0440\u0435\u043d\u0437\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0932\u0949\u0930\u0947\u0902\u091d\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d \u041b\u043e\u0440\u0435\u043d\u0437\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:nld_x_preferred":[
         "San Lorenzo"
     ],
     "name:nob_x_preferred":[
         "San Lorenzo"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0646 \u0644\u0648\u0631\u0646\u0632\u0648\u060c \u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
     ],
     "name:pol_x_preferred":[
         "San Lorenzo"
@@ -130,7 +127,7 @@
     "name:por_x_preferred":[
         "San Lorenzo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "San Lorenzo"
     ],
     "name:rus_x_preferred":[
@@ -181,6 +178,9 @@
     "name:war_x_preferred":[
         "San Lorenzo"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":1108692627,
-    "wof:lastmodified":1553718202,
+    "wof:lastmodified":1561830076,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

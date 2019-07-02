@@ -13,20 +13,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kolonie Neuland"
     ],
     "name:eng_x_preferred":[
         "Neuland Colony"
-    ],
-    "name:ger_x_preferred":[
-        "Kolonie Neuland"
     ],
     "name:grn_x_preferred":[
         "Neuland"
     ],
     "name:lit_x_preferred":[
         "Noilandas"
+    ],
+    "name:nld_x_preferred":[
+        "Kolonie Neuland"
     ],
     "name:pdc_x_preferred":[
         "Neuland Colony"
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":421201853,
-    "wof:lastmodified":1514498741,
+    "wof:lastmodified":1561830092,
     "wof:name":"Colonia Neuland",
     "wof:parent_id":421171777,
     "wof:placetype":"locality",

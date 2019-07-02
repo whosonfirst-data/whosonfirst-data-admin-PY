@@ -31,20 +31,14 @@
     "mps:longitude":-54.734913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u80e1\u5229\u5967\u8fea\u5967\u5c3c\u897f\u5967\u5967\u5854\u5c3c\u5967\u5e02\u9577\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Mayor Ota\u00f1o"
+    "name:deu_x_preferred":[
+        "Mayor Julio D. Ota\u00f1o"
     ],
     "name:eng_x_preferred":[
         "Mayor Julio D. Ota\u00f1o"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mayor Ota\u00f1o"
-    ],
-    "name:ger_x_preferred":[
-        "Mayor Julio D. Ota\u00f1o"
     ],
     "name:grn_x_preferred":[
         "Mayor Julio D. Ota\u00f1o"
@@ -52,11 +46,17 @@
     "name:ita_x_preferred":[
         "Mayor Julio Dionisio Ota\u00f1o"
     ],
+    "name:nld_x_preferred":[
+        "Mayor Ota\u00f1o"
+    ],
     "name:por_x_preferred":[
         "Mayor Julio D. Ota\u00f1o"
     ],
     "name:spa_x_preferred":[
         "Mayor Ota\u00f1o"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5229\u5967\u8fea\u5967\u5c3c\u897f\u5967\u5967\u5854\u5c3c\u5967\u5e02\u9577\u93ae"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1108692671,
-    "wof:lastmodified":1553718205,
+    "wof:lastmodified":1561830056,
     "wof:name":"Mayor Ota\u00d1o",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

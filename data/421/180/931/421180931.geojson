@@ -41,13 +41,7 @@
     "name:ceb_x_preferred":[
         "San Juan Bautista"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u80e1\u5b89\u5305\u8482\u65af\u5854\u5716\u65af\u7279\u4f69\u514b"
-    ],
     "name:deu_x_preferred":[
-        "San Juan Bautista"
-    ],
-    "name:dut_x_preferred":[
         "San Juan Bautista"
     ],
     "name:eng_x_preferred":[
@@ -63,15 +57,6 @@
         "San Juan Bautista"
     ],
     "name:fra_x_preferred":[
-        "San Juan Bautista"
-    ],
-    "name:fre_x_preferred":[
-        "San Juan Bautista"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10d1\u10d0\u10e3\u10e2\u10d8\u10e1\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "San Juan Bautista"
     ],
     "name:grn_x_preferred":[
@@ -110,7 +95,7 @@
     "name:por_x_preferred":[
         "San Juan Bautista"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "San Juan Bautista"
     ],
     "name:sco_x_preferred":[
@@ -124,6 +109,9 @@
     ],
     "name:war_x_preferred":[
         "San Juan Bautista"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5b89\u5305\u8482\u65af\u5854\u5716\u65af\u7279\u4f69\u514b"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -185,7 +173,7 @@
         }
     ],
     "wof:id":421180931,
-    "wof:lastmodified":1555037129,
+    "wof:lastmodified":1561830088,
     "wof:name":"San Juan Bautista",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

@@ -34,16 +34,10 @@
     "name:bel_x_preferred":[
         "\u0425\u0443\u0430\u043d-\u042d\u045e\u043b\u043e\u0445\u0456\u0430-\u042d\u0441\u0442\u044b\u0433\u0430\u0440\u044b\u0431\u0456\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5b89\u6b50\u6d1b\u5e0c\u5967\u57c3\u65af\u8482\u52a0\u91cc\u7dad\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Juan Eulogio Estigarribia"
-    ],
     "name:eng_x_preferred":[
         "Doctor J. Eulogio Estigarribia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Juan Eulogio Estigarribia"
     ],
     "name:grn_x_preferred":[
@@ -55,11 +49,17 @@
     "name:ita_x_preferred":[
         "Doctor J. Eulogio Estigarribia"
     ],
+    "name:nld_x_preferred":[
+        "Juan Eulogio Estigarribia"
+    ],
     "name:por_x_preferred":[
         "Doctor J. Eulogio Estigarribia"
     ],
     "name:spa_x_preferred":[
         "Doctor Juan Eulogio Estigarribia"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5b89\u6b50\u6d1b\u5e0c\u5967\u57c3\u65af\u8482\u52a0\u91cc\u7dad\u4e9e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108692645,
-    "wof:lastmodified":1553718204,
+    "wof:lastmodified":1561830079,
     "wof:name":"J Eulogio Estigarribia",
     "wof:parent_id":85676709,
     "wof:placetype":"county",
