@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Maciel"
     ],
+    "name:eus_x_preferred":[
+        "Maciel"
+    ],
     "name:fra_x_preferred":[
         "Maciel"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0633\u06cc\u0644\u060c \u067e\u06cc\u0631\u0627\u06af\u0648\u0627\u0626\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u06cc\u0633\u06cc\u0644"
     ],
     "name:zho_x_preferred":[
         "\u7c73\u897f\u57c3\u723e"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692849,
-    "wof:lastmodified":1561830061,
+    "wof:lastmodified":1563280688,
     "wof:name":"Maciel",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

@@ -38,10 +38,16 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u099c\u09c1\u09af\u09bc\u09be\u09a8 \u0995\u09cd\u09af\u09be\u09ac\u09be\u09b2\u09cd\u09b2\u09c7\u09b0\u09cb"
     ],
+    "name:bre_x_preferred":[
+        "Pedro Juan Caballero"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0434\u0440\u043e \u0425\u0443\u0430\u043d \u041a\u0430\u0431\u0430\u043b\u0435\u0440\u043e"
     ],
     "name:cat_x_preferred":[
+        "Pedro Juan Caballero"
+    ],
+    "name:ceb_x_preferred":[
         "Pedro Juan Caballero"
     ],
     "name:dan_x_preferred":[
@@ -57,6 +63,9 @@
         "Pedro Juan Caballero"
     ],
     "name:epo_x_preferred":[
+        "Pedro Juan Caballero"
+    ],
+    "name:eus_x_preferred":[
         "Pedro Juan Caballero"
     ],
     "name:fas_x_preferred":[
@@ -88,6 +97,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30da\u30c9\u30ed\u30fb\u30d5\u30a2\u30f3\u30fb\u30ab\u30d0\u30ea\u30a7\u30ed"
+    ],
+    "name:jpn_x_variant":[
+        "\u30da\u30c9\u30ed\u30fb\u30d5\u30a2\u30f3\u30fb\u30ab\u30d0\u30ea\u30a7\u30ed\u5e02"
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0cc6\u0ca1\u0ccd\u0cb0\u0cca \u0c9c\u0cc1\u0cb5\u0cbe\u0ca8\u0ccd \u0c95\u0ccd\u0caf\u0cbe\u0cac\u0cb2\u0cc6\u0cb0\u0cca"
@@ -146,6 +158,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1e\u0e42\u0e14\u0e23 \u0e08\u0e27\u0e19 \u0e04\u0e32\u0e1a\u0e32\u0e25\u0e40\u0e25\u0e42\u0e23"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1b\u0e42\u0e14\u0e23 \u0e06\u0e27\u0e19 \u0e01\u0e32\u0e1a\u0e32\u0e40\u0e22\u0e42\u0e23"
+    ],
     "name:tur_x_preferred":[
         "Pedro Juan Caballero"
     ],
@@ -154,6 +169,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u062f\u0631\u0648 \u062e\u0648\u0627\u0646 \u06a9\u0627\u0628\u0627\u0644\u06cc\u0631\u0648\u060c \u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u06cc\u062f\u0631\u0648 \u062e\u0648\u0627\u0646 \u06a9\u0627\u0628\u0627\u0644\u06cc\u0631\u0648"
     ],
     "name:vep_x_preferred":[
         "Pedro Huan Kabal'jero"
@@ -230,7 +248,7 @@
         }
     ],
     "wof:id":421170059,
-    "wof:lastmodified":1561830095,
+    "wof:lastmodified":1563280874,
     "wof:name":"Pedro Juan Caballero",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

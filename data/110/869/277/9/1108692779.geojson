@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Bah\u00eda Negra"
     ],
+    "name:eus_x_preferred":[
+        "Bah\u00eda Negra"
+    ],
     "name:fra_x_preferred":[
         "Bah\u00eda Negra"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692779,
-    "wof:lastmodified":1561830064,
+    "wof:lastmodified":1563280697,
     "wof:name":"Bahia Negra",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

@@ -19,8 +19,14 @@
     "name:ita_x_preferred":[
         "San Jos\u00e9 de los Arroyos"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30db\u30bb\u30fb\u30c7\u30fb\u30ed\u30b9\u30fb\u30a2\u30ed\u30e8\u30b9"
+    ],
     "name:por_x_preferred":[
         "San Jos\u00e9 de los Arroyos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435-\u0434\u0435-\u043b\u043e\u0441-\u0410\u0440\u0440\u043e\u0439\u043e\u0441"
     ],
     "name:spa_x_preferred":[
         "San Jos\u00e9 de los Arroyos"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421168389,
-    "wof:lastmodified":1505340590,
+    "wof:lastmodified":1563280801,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":1108692641,
     "wof:placetype":"locality",

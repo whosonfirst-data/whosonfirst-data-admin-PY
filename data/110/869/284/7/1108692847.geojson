@@ -31,10 +31,16 @@
     "mps:longitude":-56.063875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "General Higinio Mor\u00ednigo"
+    ],
     "name:deu_x_preferred":[
         "General Higinio Mor\u00ednigo"
     ],
     "name:eng_x_preferred":[
+        "General Higinio Mor\u00ednigo"
+    ],
+    "name:eus_x_preferred":[
         "General Higinio Mor\u00ednigo"
     ],
     "name:fra_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108692847,
-    "wof:lastmodified":1561830061,
+    "wof:lastmodified":1563280689,
     "wof:name":"General Higinio Morinigo",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

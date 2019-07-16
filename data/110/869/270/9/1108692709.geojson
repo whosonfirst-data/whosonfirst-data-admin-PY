@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "General Bernardino Caballero"
     ],
+    "name:eus_x_preferred":[
+        "General Bernardino Caballero"
+    ],
     "name:fra_x_preferred":[
         "General Bernardino Caballero"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692709,
-    "wof:lastmodified":1561830060,
+    "wof:lastmodified":1563280682,
     "wof:name":"General Bernardino Caballero",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

@@ -34,7 +34,13 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u0441\u043c\u043e\u0447\u0430\u0434\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Desmochado"
+    ],
     "name:eng_x_preferred":[
+        "Desmochados"
+    ],
+    "name:eus_x_preferred":[
         "Desmochados"
     ],
     "name:fra_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692803,
-    "wof:lastmodified":1561830039,
+    "wof:lastmodified":1563280619,
     "wof:name":"Desmochados",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

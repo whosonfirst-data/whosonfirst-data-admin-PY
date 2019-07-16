@@ -49,8 +49,14 @@
     "name:eng_x_preferred":[
         "Cordillera"
     ],
+    "name:eng_x_variant":[
+        "Cordillera Department"
+    ],
     "name:epo_x_preferred":[
         "departemento Cordillera"
+    ],
+    "name:eus_x_preferred":[
+        "Cordillerako departamendua"
     ],
     "name:fin_x_preferred":[
         "Cordilleran maakunta"
@@ -93,6 +99,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\ub974\ub514\uc608\ub77c \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Cordillera"
     ],
     "name:lav_x_preferred":[
         "Kordiljera"
@@ -147,6 +156,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e2d\u0e23\u0e4c\u0e14\u0e34\u0e25\u0e40\u0e25\u0e23\u0e48\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e2d\u0e23\u0e4c\u0e14\u0e34\u0e40\u0e22\u0e23\u0e32"
     ],
     "name:tur_x_preferred":[
         "Cordillera"
@@ -297,7 +309,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830029,
+    "wof:lastmodified":1563280490,
     "wof:name":"Cordillera",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

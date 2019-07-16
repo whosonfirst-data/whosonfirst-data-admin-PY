@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Santa Rosa del Aguaray"
     ],
+    "name:eus_x_preferred":[
+        "Santa Rosa del Aguaray"
+    ],
     "name:fra_x_preferred":[
         "Santa Rosa del Aguaray"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108692493,
-    "wof:lastmodified":1561830069,
+    "wof:lastmodified":1563280714,
     "wof:name":"Santa Rosa Del Aguaray",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

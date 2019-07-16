@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Yatytay"
     ],
+    "name:eus_x_preferred":[
+        "Yatytay"
+    ],
     "name:fra_x_preferred":[
         "Yatytay"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692685,
-    "wof:lastmodified":1561830050,
+    "wof:lastmodified":1563280653,
     "wof:name":"Yatytay",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

@@ -20,10 +20,19 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0989\u09a6\u09be\u09a6 \u09a6\u09c7\u09b2 \u098f\u09b8\u09cd\u09a4\u09c7"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09bf\u0989\u09a6\u09be\u09a6 \u09a6\u09c7\u09b2 \u098f\u09b8\u09cd\u09a4\u09c7"
+    ],
+    "name:bre_x_preferred":[
+        "Ciudad del Este"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0438\u0443\u0434\u0430\u0434 \u0434\u0435\u043b \u0415\u0441\u0442\u0435"
     ],
     "name:cat_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:ceb_x_preferred":[
         "Ciudad del Este"
     ],
     "name:ces_x_preferred":[
@@ -72,6 +81,9 @@
         "\u0938\u094d\u092f\u0942\u0926\u093e\u0926 \u0921\u0947\u0932 \u090f\u0938\u094d\u091f\u0947"
     ],
     "name:hrv_x_preferred":[
+        "Ciudad del Este"
+    ],
+    "name:hun_x_preferred":[
         "Ciudad del Este"
     ],
     "name:hye_x_preferred":[
@@ -181,6 +193,9 @@
     ],
     "name:vep_x_preferred":[
         "Sjudad Del Este"
+    ],
+    "name:vep_x_variant":[
+        "Sjudad Del' Este"
     ],
     "name:vie_x_preferred":[
         "Ciudad del Este"
@@ -343,7 +358,7 @@
         }
     ],
     "wof:id":421187353,
-    "wof:lastmodified":1561830088,
+    "wof:lastmodified":1563280835,
     "wof:name":"Ciudad del Este",
     "wof:parent_id":421169437,
     "wof:placetype":"locality",

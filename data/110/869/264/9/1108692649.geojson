@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Ra\u00fal Arsenio Oviedo"
     ],
+    "name:eus_x_preferred":[
+        "Ra\u00fal Arsenio Oviedo"
+    ],
     "name:fra_x_preferred":[
         "Ra\u00fal Arsenio Oviedo"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108692649,
-    "wof:lastmodified":1561830077,
+    "wof:lastmodified":1563280735,
     "wof:name":"Raul Arsenio Oviedo",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

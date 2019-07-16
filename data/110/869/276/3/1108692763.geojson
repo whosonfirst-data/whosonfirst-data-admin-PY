@@ -37,6 +37,12 @@
     "name:eng_x_preferred":[
         "Antequera"
     ],
+    "name:eng_x_variant":[
+        "Antequera District"
+    ],
+    "name:eus_x_preferred":[
+        "Antequera"
+    ],
     "name:fra_x_preferred":[
         "Antequera"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692763,
-    "wof:lastmodified":1561830070,
+    "wof:lastmodified":1563280716,
     "wof:name":"Antequera",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

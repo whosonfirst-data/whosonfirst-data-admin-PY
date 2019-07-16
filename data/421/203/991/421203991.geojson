@@ -14,7 +14,22 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:eus_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:fra_x_preferred":[
+        "Bel\u00e9n"
+    ],
     "name:ita_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:nld_x_preferred":[
         "Bel\u00e9n"
     ],
     "name:pol_x_preferred":[
@@ -169,7 +184,7 @@
         }
     ],
     "wof:id":421203991,
-    "wof:lastmodified":1527716189,
+    "wof:lastmodified":1563280823,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":421166801,
     "wof:placetype":"locality",

@@ -41,6 +41,12 @@
     "name:cat_x_preferred":[
         "Coronel Oviedo"
     ],
+    "name:ceb_x_preferred":[
+        "Coronel Oviedo"
+    ],
+    "name:ces_x_preferred":[
+        "Coronel Oviedo"
+    ],
     "name:dan_x_preferred":[
         "Coronel Oviedo"
     ],
@@ -54,6 +60,9 @@
         "Coronel Oviedo"
     ],
     "name:epo_x_preferred":[
+        "Coronel Oviedo"
+    ],
+    "name:eus_x_preferred":[
         "Coronel Oviedo"
     ],
     "name:fas_x_preferred":[
@@ -131,6 +140,9 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dd9\u0dbd\u0dca \u0d94\u0dc0\u0dda\u0daf\u0ddd"
     ],
+    "name:slk_x_preferred":[
+        "Coronel Oviedo"
+    ],
     "name:spa_x_preferred":[
         "Coronel Oviedo"
     ],
@@ -145,6 +157,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e04\u0e42\u0e23\u0e40\u0e19\u0e25 \u0e42\u0e2d\u0e27\u0e35\u0e42\u0e14"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e01\u0e42\u0e23\u0e40\u0e19\u0e25\u0e42\u0e2d\u0e1a\u0e34\u0e40\u0e2d\u0e42\u0e14"
     ],
     "name:tur_x_preferred":[
         "Coronel Oviedo"
@@ -226,7 +241,7 @@
         }
     ],
     "wof:id":421184207,
-    "wof:lastmodified":1561830092,
+    "wof:lastmodified":1563280866,
     "wof:name":"Coronel Oviedo",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

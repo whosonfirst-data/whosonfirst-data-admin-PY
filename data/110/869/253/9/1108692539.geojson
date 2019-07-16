@@ -31,10 +31,16 @@
     "mps:longitude":-56.170099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Independencia"
+    ],
     "name:deu_x_preferred":[
         "Independencia"
     ],
     "name:eng_x_preferred":[
+        "Colonia Independencia"
+    ],
+    "name:eus_x_preferred":[
         "Colonia Independencia"
     ],
     "name:fra_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108692539,
-    "wof:lastmodified":1561830074,
+    "wof:lastmodified":1563280725,
     "wof:name":"Colonia Independencia",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

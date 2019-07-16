@@ -40,13 +40,22 @@
     "name:cat_x_preferred":[
         "Mariano Roque Alonso"
     ],
+    "name:ceb_x_preferred":[
+        "Colonia Mariano Roque Alonso"
+    ],
     "name:dan_x_preferred":[
+        "Mariano Roque Alonso"
+    ],
+    "name:deu_x_preferred":[
         "Mariano Roque Alonso"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c1\u03b9\u03ac\u03bd\u03bf \u03a1\u03cc\u03ba\u03b5 \u0391\u03bb\u03cc\u03bd\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
+        "Mariano Roque Alonso"
+    ],
+    "name:eus_x_preferred":[
         "Mariano Roque Alonso"
     ],
     "name:fas_x_preferred":[
@@ -196,7 +205,7 @@
         }
     ],
     "wof:id":1108692595,
-    "wof:lastmodified":1561830053,
+    "wof:lastmodified":1563280662,
     "wof:name":"Mariano Roque Alonso",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

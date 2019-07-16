@@ -38,13 +38,22 @@
     "name:ben_x_preferred":[
         "\u0987\u09aa\u09be\u0995\u09be\u09b0\u09be\u09af\u09bc"
     ],
+    "name:ceb_x_preferred":[
+        "Ypacarai"
+    ],
     "name:dan_x_preferred":[
+        "Ypacara\u00ed"
+    ],
+    "name:deu_x_preferred":[
         "Ypacara\u00ed"
     ],
     "name:ell_x_preferred":[
         "\u0399\u03c0\u03b1\u03ba\u03b1\u03c1\u03b1\u0390"
     ],
     "name:eng_x_preferred":[
+        "Ypacara\u00ed"
+    ],
+    "name:eus_x_preferred":[
         "Ypacara\u00ed"
     ],
     "name:fin_x_preferred":[
@@ -200,7 +209,7 @@
         }
     ],
     "wof:id":421170009,
-    "wof:lastmodified":1561830094,
+    "wof:lastmodified":1563280871,
     "wof:name":"Ypacarai",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

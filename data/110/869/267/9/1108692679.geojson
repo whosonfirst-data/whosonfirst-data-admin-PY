@@ -34,7 +34,13 @@
     "name:bul_x_preferred":[
         "\u0415\u0434\u0435\u043b\u0438\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Edelira"
+    ],
     "name:eng_x_preferred":[
+        "Edelira"
+    ],
+    "name:eus_x_preferred":[
         "Edelira"
     ],
     "name:fra_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692679,
-    "wof:lastmodified":1561830055,
+    "wof:lastmodified":1563280669,
     "wof:name":"Edelira",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

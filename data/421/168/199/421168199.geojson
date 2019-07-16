@@ -13,26 +13,122 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0631\u0627\u0645\u0628\u0627\u0631\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09c1\u09af\u09bc\u09be\u09b0\u09be\u09ae\u09cd\u09ac\u09be\u09b0\u09c7"
+    ],
+    "name:ceb_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:dan_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03b1\u03c1\u03b1\u03bc\u03c0\u03b1\u03c1\u03ad"
+    ],
+    "name:eng_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:eus_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:fin_x_preferred":[
+        "Guarambar\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Guarambar\u00e9"
     ],
     "name:grn_x_preferred":[
         "Guarambare"
     ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0ac1\u0a86\u0ab0\u0abe\u0aae\u0acd\u0aac\u0ab0\u0ac7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0941\u0906\u0930\u093e\u092e\u092c\u093e\u0930\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "Guarambar\u00e9"
+    ],
     "name:ita_x_preferred":[
         "Guarambar\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30e9\u30f3\u30d0\u30ec"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cc1\u0cb0\u0c82\u0cac\u0cbe\u0cb0\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uad6c\uc544\ub78c\ubc14\ub808"
+    ],
+    "name:lav_x_preferred":[
+        "Guarambare"
     ],
     "name:lit_x_preferred":[
         "Gvarambar\u0117"
     ],
+    "name:lit_x_variant":[
+        "Guarambar\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u0942\u0930\u0902\u092c\u0947\u0930\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Guarambare"
+    ],
+    "name:nld_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:nob_x_preferred":[
+        "Guarambare"
+    ],
+    "name:pol_x_preferred":[
+        "Guarambar\u00e9"
+    ],
     "name:por_x_preferred":[
         "Guarambar\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u0440\u0430\u043c\u0431\u0430\u0440\u0435"
     ],
     "name:sco_x_preferred":[
         "Guarambar\u00e9"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dd4\u0dc0\u0dcf\u0dbb\u0db8\u0dca\u0db6\u0dbb\u0dda"
+    ],
     "name:spa_x_preferred":[
         "Guarambar\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0bb0\u0bc6\u0bae\u0bcd\u0baa\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c3e\u0c30\u0c3e\u0c02\u0c2c\u0c3e\u0c30\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e31\u0e27\u0e23\u0e31\u0e21\u0e41\u0e1a\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Guarambare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0430\u0440\u0430\u043c\u0431\u0430\u0440\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0627\u0631\u0627\u0645\u0628\u0627\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Guarambare"
     ],
     "name:zho_x_preferred":[
         "\u74dc\u862d\u5df4\u96f7"
@@ -85,7 +181,7 @@
         }
     ],
     "wof:id":421168199,
-    "wof:lastmodified":1527716096,
+    "wof:lastmodified":1563280800,
     "wof:name":"Guarambar\u00e9",
     "wof:parent_id":1108692589,
     "wof:placetype":"locality",

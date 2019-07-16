@@ -49,8 +49,14 @@
     "name:eng_x_preferred":[
         "\u00d1eembuc\u00fa"
     ],
+    "name:eng_x_variant":[
+        "\u00d1eembuc\u00fa Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento \u00d1eembuc\u00fa"
+    ],
+    "name:epo_x_variant":[
+        "departemento \u00d1eembuc\u00fa"
     ],
     "name:eus_x_preferred":[
         "\u00d1eembucu"
@@ -102,6 +108,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub16c\ubd80\ucfe0 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "\u00d1eembuc\u00fa"
     ],
     "name:lav_x_preferred":[
         "Njeembuku"
@@ -160,6 +169,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e35\u0e21\u0e1a\u0e39\u0e04\u0e39"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0d\u0e40\u0e2d\u0e21\u0e1a\u0e39\u0e01\u0e39"
     ],
     "name:tur_x_preferred":[
         "Neembucu"
@@ -310,7 +322,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830031,
+    "wof:lastmodified":1563280496,
     "wof:name":"\u00d1eembuc\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

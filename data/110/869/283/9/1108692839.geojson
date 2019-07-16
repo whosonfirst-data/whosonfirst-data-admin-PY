@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0632\u0627\u0628\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Caazap\u00e1"
+    ],
     "name:cat_x_preferred":[
         "Caazap\u00e1"
     ],
@@ -44,6 +47,9 @@
         "Caazap\u00e1"
     ],
     "name:epo_x_preferred":[
+        "Caazap\u00e1"
+    ],
+    "name:eus_x_preferred":[
         "Caazap\u00e1"
     ],
     "name:fin_x_preferred":[
@@ -73,6 +79,9 @@
     "name:kor_x_preferred":[
         "\uce74\uc0ac\ud30c"
     ],
+    "name:lad_x_preferred":[
+        "Caazap\u00e1"
+    ],
     "name:lit_x_preferred":[
         "Kaasapa"
     ],
@@ -93,6 +102,9 @@
     ],
     "name:spa_x_preferred":[
         "Caazap\u00e1"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e32\u0e2d\u0e32\u0e0b\u0e32\u0e1b\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0430\u0437\u0430\u043f\u0430"
@@ -142,7 +154,7 @@
         }
     ],
     "wof:id":1108692839,
-    "wof:lastmodified":1561830064,
+    "wof:lastmodified":1563280696,
     "wof:name":"Caazapa",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

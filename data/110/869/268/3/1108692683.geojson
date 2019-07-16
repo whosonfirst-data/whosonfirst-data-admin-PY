@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "La Paz"
     ],
+    "name:eus_x_preferred":[
+        "La Paz"
+    ],
     "name:fra_x_preferred":[
         "La Paz"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692683,
-    "wof:lastmodified":1561830050,
+    "wof:lastmodified":1563280652,
     "wof:name":"La Paz",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

@@ -31,7 +31,13 @@
     "mps:longitude":-57.390899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Caapuc\u00fa"
+    ],
     "name:eng_x_preferred":[
+        "Caapuc\u00fa"
+    ],
+    "name:eus_x_preferred":[
         "Caapuc\u00fa"
     ],
     "name:fra_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692707,
-    "wof:lastmodified":1561830060,
+    "wof:lastmodified":1563280682,
     "wof:name":"Caapucu",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

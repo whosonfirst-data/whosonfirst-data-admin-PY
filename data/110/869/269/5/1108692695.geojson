@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "San Patricio"
     ],
+    "name:eus_x_preferred":[
+        "San Patricio"
+    ],
     "name:fra_x_preferred":[
         "San Patricio"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692695,
-    "wof:lastmodified":1561830060,
+    "wof:lastmodified":1563280681,
     "wof:name":"San Patricio",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

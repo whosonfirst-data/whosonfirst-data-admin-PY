@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Paraguar\u00ed"
     ],
+    "name:ceb_x_preferred":[
+        "Paraguar\u00ed"
+    ],
     "name:dan_x_preferred":[
         "Paraguar\u00ed"
     ],
@@ -54,6 +57,9 @@
         "Paraguar\u00ed"
     ],
     "name:epo_x_preferred":[
+        "Paraguar\u00ed"
+    ],
+    "name:eus_x_preferred":[
         "Paraguar\u00ed"
     ],
     "name:fin_x_preferred":[
@@ -73,6 +79,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092a\u0948\u0930\u093e\u0917\u0941\u0906\u0930\u093f"
+    ],
+    "name:hun_x_preferred":[
+        "Paraguar\u00ed"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0561\u0580\u0561\u0563\u0578\u0582\u0561\u0580\u056b"
@@ -94,6 +103,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud30c\ub77c\uacfc\ub9ac"
+    ],
+    "name:lad_x_preferred":[
+        "Paraguar\u00ed"
     ],
     "name:lav_x_preferred":[
         "Paragvari"
@@ -218,7 +230,7 @@
         }
     ],
     "wof:id":421173745,
-    "wof:lastmodified":1561830088,
+    "wof:lastmodified":1563280841,
     "wof:name":"Paraguari",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

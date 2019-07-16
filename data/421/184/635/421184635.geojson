@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Alto Ver\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Alto Ver\u00e1"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0644\u062a\u0648 \u0648\u0631\u0627"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421184635,
-    "wof:lastmodified":1561830092,
+    "wof:lastmodified":1563280864,
     "wof:name":"Alto Vera",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

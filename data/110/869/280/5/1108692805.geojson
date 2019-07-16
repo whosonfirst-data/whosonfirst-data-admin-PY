@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Guaz\u00fa Cu\u00e1"
     ],
+    "name:eng_x_variant":[
+        "Guazu-Cua"
+    ],
+    "name:eus_x_preferred":[
+        "Guaz\u00fa Cu\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Guazu-Cua"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692805,
-    "wof:lastmodified":1561830039,
+    "wof:lastmodified":1563280620,
     "wof:name":"Guazu Cua",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

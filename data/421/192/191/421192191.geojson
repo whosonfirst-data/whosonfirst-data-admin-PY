@@ -13,8 +13,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09cd\u09b2\u09c7\u09a4\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Villeta"
+    ],
+    "name:dan_x_preferred":[
+        "Villeta"
+    ],
+    "name:deu_x_preferred":[
+        "Villeta"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03bb\u03bb\u03ad\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Villeta"
+    ],
+    "name:eus_x_preferred":[
+        "Villeta"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0644\u06cc\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Villeta"
     ],
     "name:fra_x_preferred":[
         "Villeta"
@@ -22,19 +49,85 @@
     "name:grn_x_preferred":[
         "Villeta"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abf\u0ab2\u0acd\u0ab2\u0ac7\u0a9f\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0932\u0947\u0924\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Villeta"
+    ],
     "name:ita_x_preferred":[
         "Villeta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30a7\u30fc\u30bf"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6\u0c9f"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10da\u10d8\u10d4\u10e2\u10d0"
     ],
+    "name:kor_x_preferred":[
+        "\ube44\uc608\ud0c0"
+    ],
+    "name:lav_x_preferred":[
+        "Viljeta"
+    ],
     "name:lit_x_preferred":[
         "Viljeta"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093f\u0932\u094d\u0932\u0947\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Villeta"
+    ],
+    "name:nld_x_preferred":[
+        "Villeta"
+    ],
+    "name:nob_x_preferred":[
+        "Villeta"
+    ],
+    "name:pol_x_preferred":[
+        "Villeta"
     ],
     "name:por_x_preferred":[
         "Villeta"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u043b\u0435\u0442\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0dbd\u0dca\u0dbd\u0dd9\u0da7\u0dcf"
+    ],
     "name:spa_x_preferred":[
+        "Villeta"
+    ],
+    "name:swe_x_preferred":[
+        "Villeta"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc6\u0b9f\u0bcd\u0b9f\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3f\u0c32\u0c4d\u0c32\u0c47\u0c1f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e35\u0e40\u0e22\u0e15\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Villeta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u0435\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0644\u06cc\u062a\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Villeta"
     ],
     "name:zho_x_preferred":[
@@ -86,7 +179,7 @@
         }
     ],
     "wof:id":421192191,
-    "wof:lastmodified":1500019232,
+    "wof:lastmodified":1563280803,
     "wof:name":"Villeta",
     "wof:parent_id":421195021,
     "wof:placetype":"locality",

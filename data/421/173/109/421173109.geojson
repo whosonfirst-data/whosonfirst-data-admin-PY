@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Encarnaci\u00f3n"
     ],
+    "name:ceb_x_preferred":[
+        "Encarnaci\u00f3n"
+    ],
     "name:ces_x_preferred":[
         "Encarnaci\u00f3n"
     ],
@@ -128,6 +131,9 @@
     "name:por_x_preferred":[
         "Encarna\u00e7\u00e3o"
     ],
+    "name:por_x_variant":[
+        "Encarnaci\u00f3n"
+    ],
     "name:ron_x_preferred":[
         "Encarnaci\u00f3n"
     ],
@@ -155,6 +161,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e4c\u0e19\u0e32\u0e0b\u0e35\u0e2d\u0e2d\u0e07"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e4c\u0e19\u0e32\u0e0b\u0e34\u0e2d\u0e2d\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Encarnacion"
     ],
@@ -163,6 +172,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u06a9\u0627\u0631\u0646\u0633\u06cc\u0648\u0646\u060c \u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0646\u06a9\u0627\u0631\u0646\u0633\u06cc\u0648\u0646"
     ],
     "name:vie_x_preferred":[
         "Encarnacion"
@@ -316,7 +328,7 @@
         }
     ],
     "wof:id":421173109,
-    "wof:lastmodified":1561830088,
+    "wof:lastmodified":1563280840,
     "wof:name":"Encarnaci\u00f3n",
     "wof:parent_id":1108692861,
     "wof:placetype":"locality",

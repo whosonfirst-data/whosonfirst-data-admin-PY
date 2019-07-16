@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Chor\u00e9"
     ],
+    "name:eng_x_variant":[
+        "Chor\u00e9 District"
+    ],
+    "name:eus_x_preferred":[
+        "Chor\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Chor\u00e9"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692767,
-    "wof:lastmodified":1561830070,
+    "wof:lastmodified":1563280715,
     "wof:name":"Chore",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

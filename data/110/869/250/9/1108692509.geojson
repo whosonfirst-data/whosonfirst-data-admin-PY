@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Isla Puc\u00fa"
     ],
+    "name:eus_x_preferred":[
+        "Isla Puc\u00fa"
+    ],
     "name:fra_x_preferred":[
         "Isla Puc\u00fa"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692509,
-    "wof:lastmodified":1561830050,
+    "wof:lastmodified":1563280653,
     "wof:name":"Isla Pucu",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Capiibary"
     ],
+    "name:eng_x_variant":[
+        "Capi\u00edbary"
+    ],
+    "name:eus_x_preferred":[
+        "Capiibary"
+    ],
     "name:fra_x_preferred":[
         "Capi\u00edbary"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692491,
-    "wof:lastmodified":1561830069,
+    "wof:lastmodified":1563280713,
     "wof:name":"Capiibary",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

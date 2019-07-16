@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Doctor Mois\u00e9s S. Bertoni"
     ],
+    "name:eng_x_variant":[
+        "Doctor Mois\u00e9s Bertoni"
+    ],
+    "name:eus_x_preferred":[
+        "Doctor Mois\u00e9s Santiago Bertoni"
+    ],
     "name:fra_x_preferred":[
         "Doctor Mois\u00e9s S. Bertoni"
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692845,
-    "wof:lastmodified":1561830063,
+    "wof:lastmodified":1563280692,
     "wof:name":"Moises Bertoni",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

@@ -37,6 +37,12 @@
     "name:cat_x_preferred":[
         "Departament d'Alto Paran\u00e1"
     ],
+    "name:cat_x_variant":[
+        "departament d'Alto Paran\u00e1"
+    ],
+    "name:ceb_x_preferred":[
+        "Departamento del Alto Paran\u00e1"
+    ],
     "name:cos_x_preferred":[
         "Alto Paran\u00e1"
     ],
@@ -52,8 +58,17 @@
     "name:eng_x_preferred":[
         "Alto Paran\u00e1"
     ],
+    "name:eng_x_variant":[
+        "Alto Paran\u00e1 Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Alto Paran\u00e1"
+    ],
+    "name:epo_x_variant":[
+        "departemento Alto Paran\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "Paran\u00e1 Garaiko departamendua"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0622\u0644\u062a\u0648 \u067e\u0627\u0631\u0627\u0646\u0627"
@@ -105,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc54c\ud1a0\ud30c\ub77c\ub098 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Alto Paran\u00e1"
     ],
     "name:lav_x_preferred":[
         "Alto Parana"
@@ -163,6 +181,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25\u0e42\u0e15 \u0e1e\u0e32\u0e23\u0e32\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e25\u0e42\u0e15\u0e1b\u0e32\u0e23\u0e32\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "Alto Parana"
@@ -313,7 +334,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830020,
+    "wof:lastmodified":1563280470,
     "wof:name":"Alto Paran\u00e1",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

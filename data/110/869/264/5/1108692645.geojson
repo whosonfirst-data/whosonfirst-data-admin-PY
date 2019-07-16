@@ -34,8 +34,17 @@
     "name:bel_x_preferred":[
         "\u0425\u0443\u0430\u043d-\u042d\u045e\u043b\u043e\u0445\u0456\u0430-\u042d\u0441\u0442\u044b\u0433\u0430\u0440\u044b\u0431\u0456\u044f"
     ],
+    "name:deu_x_preferred":[
+        "Doctor Juan Eulogio Estigarribia"
+    ],
     "name:eng_x_preferred":[
         "Doctor J. Eulogio Estigarribia"
+    ],
+    "name:eng_x_variant":[
+        "Doctor Juan Eulogio Estigarribia"
+    ],
+    "name:eus_x_preferred":[
+        "Doctor Juan Eulogio Estigarribia"
     ],
     "name:fra_x_preferred":[
         "Juan Eulogio Estigarribia"
@@ -48,6 +57,9 @@
     ],
     "name:ita_x_preferred":[
         "Doctor J. Eulogio Estigarribia"
+    ],
+    "name:lit_x_preferred":[
+        "Doktor Chuan Eulochio Estigaribija"
     ],
     "name:nld_x_preferred":[
         "Juan Eulogio Estigarribia"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":1108692645,
-    "wof:lastmodified":1561830079,
+    "wof:lastmodified":1563280737,
     "wof:name":"J Eulogio Estigarribia",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

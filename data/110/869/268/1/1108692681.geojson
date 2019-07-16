@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Tom\u00e1s Romero Pereira"
     ],
+    "name:eus_x_preferred":[
+        "Tom\u00e1s Romero Pereira"
+    ],
     "name:fra_x_preferred":[
         "Tom\u00e1s Romero Pereira"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108692681,
-    "wof:lastmodified":1561830049,
+    "wof:lastmodified":1563280649,
     "wof:name":"Tomas Romero Pereira",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

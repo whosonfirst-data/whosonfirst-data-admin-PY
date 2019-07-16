@@ -13,6 +13,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Naranjal District"
+    ],
+    "name:eus_x_preferred":[
+        "Naranjal"
+    ],
+    "name:fra_x_preferred":[
+        "Naranjal District"
+    ],
+    "name:ita_x_preferred":[
+        "Naranjal"
+    ],
+    "name:lit_x_preferred":[
+        "Naranchalis"
+    ],
+    "name:nld_x_preferred":[
+        "Naranjal District"
+    ],
+    "name:por_x_preferred":[
+        "Naranjal"
+    ],
+    "name:spa_x_preferred":[
+        "Naranjal"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u862d\u54c8\u723e"
+    ],
     "qs:gn_country":"PY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3437689,
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":421194503,
-    "wof:lastmodified":1505340741,
+    "wof:lastmodified":1563280807,
     "wof:name":"Naranjal",
     "wof:parent_id":1108692565,
     "wof:placetype":"locality",

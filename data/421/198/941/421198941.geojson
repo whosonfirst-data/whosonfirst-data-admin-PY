@@ -13,7 +13,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Doctor Botrell"
+    ],
+    "name:eng_x_preferred":[
+        "Doctor Botrell"
+    ],
+    "name:eus_x_preferred":[
+        "Doctor Botrell"
+    ],
+    "name:fra_x_preferred":[
+        "Doctor Botrell"
+    ],
     "name:ita_x_preferred":[
+        "Doctor Botrell"
+    ],
+    "name:nld_x_preferred":[
         "Doctor Botrell"
     ],
     "name:por_x_preferred":[
@@ -76,7 +91,7 @@
         }
     ],
     "wof:id":421198941,
-    "wof:lastmodified":1527716352,
+    "wof:lastmodified":1563280853,
     "wof:name":"Doctor Botrell",
     "wof:parent_id":1108692615,
     "wof:placetype":"locality",

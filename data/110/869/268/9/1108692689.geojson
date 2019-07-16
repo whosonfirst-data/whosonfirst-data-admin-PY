@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Pirap\u00f3"
     ],
+    "name:eus_x_preferred":[
+        "Pirap\u00f3"
+    ],
     "name:fra_x_preferred":[
         "Pirap\u00f3"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692689,
-    "wof:lastmodified":1561830049,
+    "wof:lastmodified":1563280648,
     "wof:name":"Pirapo",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

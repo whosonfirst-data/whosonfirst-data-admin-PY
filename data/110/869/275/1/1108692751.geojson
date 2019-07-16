@@ -31,8 +31,14 @@
     "mps:longitude":-57.292905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "San Carlos"
+    ],
     "name:eng_x_preferred":[
         "San Carlos"
+    ],
+    "name:eus_x_preferred":[
+        "San Carlos del Apa"
     ],
     "name:fra_x_preferred":[
         "San Carlos del Apa"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108692751,
-    "wof:lastmodified":1561830046,
+    "wof:lastmodified":1563280642,
     "wof:name":"San Carlos",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

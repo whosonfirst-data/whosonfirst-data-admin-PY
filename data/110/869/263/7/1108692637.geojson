@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "San Joaqu\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
     "name:fra_x_preferred":[
         "San Joaqu\u00edn"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108692637,
-    "wof:lastmodified":1561830079,
+    "wof:lastmodified":1563280738,
     "wof:name":"San Joaquin",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

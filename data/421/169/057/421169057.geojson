@@ -14,11 +14,35 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09bf\u09ab\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "It\u00e1"
+    ],
+    "name:dan_x_preferred":[
+        "It\u00e1"
+    ],
     "name:deu_x_preferred":[
+        "It\u00e1"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "It\u00e1"
+    ],
+    "name:eus_x_preferred":[
         "It\u00e1"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "It\u00e1"
     ],
     "name:fra_x_preferred":[
         "It\u00e1"
@@ -26,23 +50,92 @@
     "name:grn_x_preferred":[
         "Ita"
     ],
+    "name:guj_x_preferred":[
+        "\u0a87\u0a9f\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u091f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "It\u00e1"
+    ],
     "name:ita_x_preferred":[
         "It\u00e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30bf"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c87\u0c9f\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10e2\u10d0"
     ],
+    "name:kor_x_preferred":[
+        "\uc774\ud0c0"
+    ],
+    "name:lav_x_preferred":[
+        "Ita"
+    ],
     "name:lit_x_preferred":[
         "Ita"
+    ],
+    "name:mar_x_preferred":[
+        "\u0907\u091f\u0945"
+    ],
+    "name:msa_x_preferred":[
+        "Itako"
     ],
     "name:nld_x_preferred":[
         "It\u00e1"
     ],
+    "name:nob_x_preferred":[
+        "Ita"
+    ],
     "name:pol_x_preferred":[
         "It\u00e1"
     ],
+    "name:por_x_preferred":[
+        "It\u00e1"
+    ],
+    "name:ron_x_preferred":[
+        "It\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0442\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d89\u0da7\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "It\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "It\u00e1"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0b9f\u0bcd\u0b9f"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c10\u0c1f\u0c40\u0c0f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e34\u0e15\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Itako"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0637\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "It\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5854"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Paraguay",
@@ -184,7 +277,7 @@
         }
     ],
     "wof:id":421169057,
-    "wof:lastmodified":1527716174,
+    "wof:lastmodified":1563280815,
     "wof:name":"It\u00e1",
     "wof:parent_id":1108692591,
     "wof:placetype":"locality",

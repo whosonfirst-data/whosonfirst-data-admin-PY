@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Colonia Neuland"
+    ],
     "name:deu_x_preferred":[
         "Kolonie Neuland"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421201853,
-    "wof:lastmodified":1561830092,
+    "wof:lastmodified":1563280863,
     "wof:name":"Colonia Neuland",
     "wof:parent_id":421171777,
     "wof:placetype":"locality",

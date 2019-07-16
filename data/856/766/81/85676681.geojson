@@ -40,6 +40,12 @@
     "name:cat_x_preferred":[
         "Departament Central"
     ],
+    "name:cat_x_variant":[
+        "departament Central"
+    ],
+    "name:ceb_x_preferred":[
+        "Departamento Central"
+    ],
     "name:dan_x_preferred":[
         "Central Department"
     ],
@@ -55,8 +61,17 @@
     "name:eng_x_preferred":[
         "Central"
     ],
+    "name:eng_x_variant":[
+        "Central Department"
+    ],
     "name:epo_x_preferred":[
         "Centra Departemento"
+    ],
+    "name:eus_x_preferred":[
+        "Erdialdeko departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc"
     ],
     "name:fin_x_preferred":[
         "Centralin departmentti"
@@ -91,6 +106,9 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30e9\u30eb"
     ],
+    "name:jpn_x_variant":[
+        "\u30bb\u30f3\u30c8\u30e9\u30eb\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
@@ -99,6 +117,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc13c\ud2b8\ub7f4"
+    ],
+    "name:kor_x_variant":[
+        "\uc13c\ud2b8\ub784 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Central"
     ],
     "name:lav_x_preferred":[
         "Centr\u0101lais departaments"
@@ -142,6 +166,9 @@
     "name:spa_x_preferred":[
         "Central"
     ],
+    "name:spa_x_variant":[
+        "Departamento Central"
+    ],
     "name:swe_x_preferred":[
         "Central"
     ],
@@ -153,6 +180,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e47\u0e19\u0e17\u0e23\u0e31\u0e25 \u0e14\u0e35\u0e1e\u0e32\u0e23\u0e4c\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0b\u0e19\u0e15\u0e23\u0e31\u0e25"
     ],
     "name:tur_x_preferred":[
         "Central Departmant"
@@ -306,7 +336,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830031,
+    "wof:lastmodified":1563280495,
     "wof:name":"Central",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

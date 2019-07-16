@@ -37,13 +37,22 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09af\u09bc\u09be\u09b0\u09be\u09ae\u09cd\u09ac\u09be\u09b0\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Guarambar\u00e9"
+    ],
     "name:dan_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:deu_x_preferred":[
         "Guarambar\u00e9"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03bf\u03c5\u03b1\u03c1\u03b1\u03bc\u03c0\u03b1\u03c1\u03ad"
     ],
     "name:eng_x_preferred":[
+        "Guarambar\u00e9"
+    ],
+    "name:eus_x_preferred":[
         "Guarambar\u00e9"
     ],
     "name:fin_x_preferred":[
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":1108692589,
-    "wof:lastmodified":1561830056,
+    "wof:lastmodified":1563280673,
     "wof:name":"Guarambare",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

@@ -46,6 +46,9 @@
     "name:eng_x_preferred":[
         "Mbaracay\u00fa"
     ],
+    "name:eus_x_preferred":[
+        "Mbaracay\u00fa"
+    ],
     "name:fin_x_preferred":[
         "Mbaracay\u00fa"
     ],
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":1108692573,
-    "wof:lastmodified":1561830048,
+    "wof:lastmodified":1563280647,
     "wof:name":"Mbaracayu",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

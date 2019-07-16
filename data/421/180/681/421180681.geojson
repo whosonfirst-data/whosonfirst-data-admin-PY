@@ -16,14 +16,29 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0644\u0648\u0633 \u0623\u0646\u0637\u0648\u0646\u064a\u0648 \u0644\u0648\u0628\u064a\u0632"
     ],
+    "name:ast_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:aym_x_preferred":[
+        "Carlos L\u00f3pez"
+    ],
     "name:aze_x_preferred":[
         "Karlos Antonio Lopes"
     ],
     "name:cat_x_preferred":[
         "Carlos Antonio L\u00f3pez"
     ],
+    "name:dan_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
     "name:deu_x_preferred":[
         "Carlos Antonio L\u00f3pez"
+    ],
+    "name:eng_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0644\u0648\u0633 \u0622\u0646\u062a\u0648\u0646\u06cc\u0648 \u0644\u0648\u067e\u0632"
     ],
     "name:fin_x_preferred":[
         "Carlos Antonio L\u00f3pez"
@@ -37,11 +52,65 @@
     "name:grn_x_preferred":[
         "Carlos Antonio L\u00f3pez"
     ],
+    "name:hun_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0580\u056c\u0578\u057d \u0531\u0576\u057f\u0578\u0576\u056b\u0578 \u053c\u0578\u057a\u0565\u057d"
     ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u0580\u056c\u0578 \u0531\u0576\u057f\u0578\u0576\u056b\u0578 \u053c\u0578\u057a\u0565\u057d"
+    ],
+    "name:ido_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:ita_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30ed\u30b9\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30ed\u30da\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:nno_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:nob_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:oci_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:pol_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:por_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:que_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0441 \u0410\u043d\u0442\u043e\u043d\u0438\u043e \u041b\u043e\u043f\u0435\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "Carlos Antonio L\u00f3pez Ynsfr\u00e1n"
+    ],
     "name:spa_x_preferred":[
         "Carlos Antonio L\u00f3pez"
+    ],
+    "name:swe_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0441 \u0410\u043d\u0442\u043e\u043d\u0456\u043e \u041b\u043e\u043f\u0435\u0441"
+    ],
+    "name:yor_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6d1b\u65af\u00b7\u5b89\u4e1c\u5c3c\u5965\u00b7\u6d1b\u4f69\u65af"
     ],
     "qs:gn_country":"PY",
     "qs:gn_fcode":"PPL",
@@ -90,7 +159,7 @@
         }
     ],
     "wof:id":421180681,
-    "wof:lastmodified":1527716234,
+    "wof:lastmodified":1563280831,
     "wof:name":"Carlos Antonio L\u00f3pez",
     "wof:parent_id":1108692475,
     "wof:placetype":"locality",

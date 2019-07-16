@@ -35,7 +35,13 @@
     "name:cat_x_preferred":[
         "Caacup\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "Caacup\u00e9"
+    ],
     "name:ces_x_preferred":[
+        "Caacup\u00e9"
+    ],
+    "name:dan_x_preferred":[
         "Caacup\u00e9"
     ],
     "name:deu_x_preferred":[
@@ -45,6 +51,9 @@
         "Caacup\u00e9"
     ],
     "name:epo_x_preferred":[
+        "Caacup\u00e9"
+    ],
+    "name:eus_x_preferred":[
         "Caacup\u00e9"
     ],
     "name:fas_x_preferred":[
@@ -97,6 +106,12 @@
     ],
     "name:swe_x_preferred":[
         "Caacup\u00e9"
+    ],
+    "name:szl_x_preferred":[
+        "Caacup\u00e9"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e32\u0e2d\u0e32\u0e01\u0e39\u0e40\u0e1b"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0430\u043a\u0443\u043f\u0435"
@@ -173,7 +188,7 @@
         }
     ],
     "wof:id":421172673,
-    "wof:lastmodified":1561830090,
+    "wof:lastmodified":1563280845,
     "wof:name":"Caacupe",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Santiago"
     ],
+    "name:eus_x_preferred":[
+        "Santiago"
+    ],
     "name:fra_x_preferred":[
         "Santiago"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692701,
-    "wof:lastmodified":1561830060,
+    "wof:lastmodified":1563280687,
     "wof:name":"Santiago",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

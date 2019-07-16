@@ -31,7 +31,19 @@
     "mps:longitude":-56.827595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:ceb_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:deu_x_preferred":[
+        "Caraguatay"
+    ],
     "name:eng_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:eus_x_preferred":[
         "Caraguatay"
     ],
     "name:fra_x_preferred":[
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1108692503,
-    "wof:lastmodified":1561830051,
+    "wof:lastmodified":1563280655,
     "wof:name":"Caraguatay",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

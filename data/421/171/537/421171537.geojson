@@ -32,7 +32,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Presidente Franco"
+    ],
+    "name:deu_x_preferred":[
+        "Presidente Franco"
+    ],
     "name:eng_x_preferred":[
+        "Presidente Franco"
+    ],
+    "name:eng_x_variant":[
+        "Presidente Franco District"
+    ],
+    "name:eus_x_preferred":[
         "Presidente Franco"
     ],
     "name:fas_x_preferred":[
@@ -134,7 +146,7 @@
         }
     ],
     "wof:id":421171537,
-    "wof:lastmodified":1561830099,
+    "wof:lastmodified":1563280891,
     "wof:name":"Presidente Franco",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

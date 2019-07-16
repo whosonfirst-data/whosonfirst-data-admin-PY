@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Carlos Antonio L\u00f3pez"
     ],
+    "name:eus_x_preferred":[
+        "Carlos Antonio L\u00f3pez"
+    ],
     "name:fra_x_preferred":[
         "Carlos Antonio L\u00f3pez"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108692475,
-    "wof:lastmodified":1561830069,
+    "wof:lastmodified":1563280712,
     "wof:name":"Carlos Antonio Lopez",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

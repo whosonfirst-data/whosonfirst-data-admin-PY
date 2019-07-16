@@ -34,7 +34,13 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0643\u0648\u0646\u062f\u0627\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "\u00d1acunday"
+    ],
     "name:eng_x_preferred":[
+        "\u00d1acunday"
+    ],
+    "name:eus_x_preferred":[
         "\u00d1acunday"
     ],
     "name:fra_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692557,
-    "wof:lastmodified":1561830082,
+    "wof:lastmodified":1563280743,
     "wof:name":"\u00d1acunday",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

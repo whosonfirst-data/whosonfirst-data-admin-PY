@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Mariscal Francisco Solano L\u00f3pez"
     ],
+    "name:eus_x_preferred":[
+        "Mariscal Francisco Solano L\u00f3pez"
+    ],
     "name:fra_x_preferred":[
         "Mariscal Francisco Solano L\u00f3pez"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108692653,
-    "wof:lastmodified":1561830077,
+    "wof:lastmodified":1563280733,
     "wof:name":"Mariscal Francisco Solano Lope",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

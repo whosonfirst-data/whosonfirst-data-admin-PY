@@ -49,8 +49,14 @@
     "name:eng_x_preferred":[
         "Misiones"
     ],
+    "name:eng_x_variant":[
+        "Misiones Department"
+    ],
     "name:epo_x_preferred":[
         "Departamento de Misiones"
+    ],
+    "name:eus_x_preferred":[
+        "Misionesko departamendua"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0645\u06cc\u0633\u06cc\u0648\u0646\u0633"
@@ -96,6 +102,12 @@
     ],
     "name:kor_x_preferred":[
         "\ubbf8\uc2dc\uc624\ub124\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubbf8\uc2dc\uc624\ub124\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Misiones"
     ],
     "name:lav_x_preferred":[
         "Misjonesa"
@@ -153,6 +165,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e35\u0e40\u0e0b\u0e35\u0e22\u0e27\u0e40\u0e19\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e34\u0e0b\u0e34\u0e42\u0e2d\u0e40\u0e19\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Misiones"
@@ -303,7 +318,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830030,
+    "wof:lastmodified":1563280492,
     "wof:name":"Misiones",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

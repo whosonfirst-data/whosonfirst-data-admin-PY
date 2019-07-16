@@ -31,7 +31,13 @@
     "mps:longitude":-57.668073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tacuaras"
+    ],
     "name:eng_x_preferred":[
+        "Tacuaras"
+    ],
+    "name:eus_x_preferred":[
         "Tacuaras"
     ],
     "name:fra_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692787,
-    "wof:lastmodified":1561830068,
+    "wof:lastmodified":1563280709,
     "wof:name":"Tacuaras",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

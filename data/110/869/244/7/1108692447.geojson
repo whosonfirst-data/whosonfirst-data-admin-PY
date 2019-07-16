@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Zanja Pyt\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Zanja Pyt\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Zanja Pyt\u00e1"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108692447,
-    "wof:lastmodified":1561830043,
+    "wof:lastmodified":1563280632,
     "wof:name":"Zanja Pyta",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

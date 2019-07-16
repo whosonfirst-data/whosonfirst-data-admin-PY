@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Lima"
     ],
+    "name:eus_x_preferred":[
+        "Lima"
+    ],
     "name:fra_x_preferred":[
         "Lima"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692773,
-    "wof:lastmodified":1561830066,
+    "wof:lastmodified":1563280702,
     "wof:name":"Lima",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

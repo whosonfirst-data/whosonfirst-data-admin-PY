@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Yabebyry"
     ],
+    "name:eus_x_preferred":[
+        "Yabebyry"
+    ],
     "name:fra_x_preferred":[
         "Yabebyry"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692703,
-    "wof:lastmodified":1561830061,
+    "wof:lastmodified":1563280687,
     "wof:name":"Yabebyry",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

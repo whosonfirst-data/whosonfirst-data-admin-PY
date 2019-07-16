@@ -35,10 +35,16 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u0440\u0438\u0431\u0435\u0431\u0443\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Piribebuy"
+    ],
     "name:deu_x_preferred":[
         "Piribebuy"
     ],
     "name:eng_x_preferred":[
+        "Piribebuy"
+    ],
+    "name:eus_x_preferred":[
         "Piribebuy"
     ],
     "name:fra_x_preferred":[
@@ -56,6 +62,9 @@
     "name:kat_x_preferred":[
         "\u10de\u10d8\u10e0\u10d8\u10d1\u10d4\u10d1\u10e3\u10d8"
     ],
+    "name:lit_x_preferred":[
+        "Piribebujus"
+    ],
     "name:nld_x_preferred":[
         "Piribebuy"
     ],
@@ -67,6 +76,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u0431\u0435\u0431\u0443\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0438\u0440\u0438\u0431\u0435\u0431\u0443\u0439"
     ],
     "name:spa_x_preferred":[
         "Piribebuy"
@@ -134,7 +146,7 @@
         }
     ],
     "wof:id":421184641,
-    "wof:lastmodified":1561830092,
+    "wof:lastmodified":1563280865,
     "wof:name":"Piribebuy",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Fuerte Olimpo"
     ],
+    "name:ceb_x_preferred":[
+        "Fuerte Olimpo"
+    ],
     "name:dan_x_preferred":[
         "Fuerte Olimpo"
     ],
@@ -54,6 +57,9 @@
         "Fuerte Olimpo"
     ],
     "name:epo_x_preferred":[
+        "Fuerte Olimpo"
+    ],
+    "name:eus_x_preferred":[
         "Fuerte Olimpo"
     ],
     "name:fin_x_preferred":[
@@ -140,6 +146,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1f\u0e2d\u0e40\u0e15\u0e49 \u0e42\u0e2d\u0e25\u0e34\u0e21\u0e42\u0e1b"
     ],
+    "name:tha_x_variant":[
+        "\u0e1f\u0e39\u0e40\u0e2d\u0e23\u0e4c\u0e40\u0e15\u0e42\u0e2d\u0e25\u0e34\u0e21\u0e42\u0e1b"
+    ],
     "name:tur_x_preferred":[
         "Fuete Olimpo"
     ],
@@ -218,7 +227,7 @@
         }
     ],
     "wof:id":421184639,
-    "wof:lastmodified":1561830093,
+    "wof:lastmodified":1563280867,
     "wof:name":"Fuerte Olimpo",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

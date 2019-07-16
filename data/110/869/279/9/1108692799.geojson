@@ -46,6 +46,12 @@
     "name:eng_x_preferred":[
         "Juan Augusto Sald\u00edvar"
     ],
+    "name:eng_x_variant":[
+        "Juli\u00e1n Augusto Sald\u00edvar"
+    ],
+    "name:eus_x_preferred":[
+        "Juli\u00e1n Augusto Sald\u00edvar"
+    ],
     "name:fin_x_preferred":[
         "Juli\u00e1n Augusto Sald\u00edvar"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0939\u0941\u0932\u093f\u092f\u093e\u0928 \u0905\u0917\u0938\u094d\u0924\u094b \u0938\u0932\u0921\u093f\u0935\u093e\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Juli\u00e1n Augusto Sald\u00edvar"
     ],
     "name:ind_x_preferred":[
         "Juli\u00e1n Augusto Sald\u00edvar"
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":1108692799,
-    "wof:lastmodified":1561830066,
+    "wof:lastmodified":1563280704,
     "wof:name":"J Augusto Saldivar",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Guayaib\u00ed"
     ],
+    "name:eng_x_variant":[
+        "Guajayvi."
+    ],
+    "name:eus_x_preferred":[
+        "Guayaib\u00ed"
+    ],
     "name:fra_x_preferred":[
         "Guayaib\u00ed"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692489,
-    "wof:lastmodified":1561830063,
+    "wof:lastmodified":1563280692,
     "wof:name":"Guajayvi",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

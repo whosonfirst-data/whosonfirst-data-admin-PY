@@ -37,6 +37,12 @@
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u09af\u09bc\u09c7\u09ad\u09be \u0987\u09a4\u09be\u09b2\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09c1\u09af\u09bc\u09c7\u09ac\u09be \u0987\u09a4\u09be\u09b2\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Nueva Italia"
+    ],
     "name:dan_x_preferred":[
         "Nueva Italia"
     ],
@@ -44,6 +50,9 @@
         "\u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u0399\u03c4\u03ac\u03bb\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:eus_x_preferred":[
         "Nueva Italia"
     ],
     "name:fin_x_preferred":[
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":1108692597,
-    "wof:lastmodified":1561830052,
+    "wof:lastmodified":1563280660,
     "wof:name":"Nueva Italia",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

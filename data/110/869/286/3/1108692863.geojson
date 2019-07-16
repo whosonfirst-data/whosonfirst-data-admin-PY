@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Bella Vista"
     ],
+    "name:eus_x_preferred":[
+        "Bella Vista"
+    ],
     "name:fra_x_preferred":[
         "Bella Vista"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692863,
-    "wof:lastmodified":1561830045,
+    "wof:lastmodified":1563280638,
     "wof:name":"Bella Vista",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

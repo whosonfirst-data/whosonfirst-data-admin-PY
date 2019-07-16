@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Escobar"
     ],
+    "name:eng_x_variant":[
+        "Escobar District"
+    ],
+    "name:eus_x_preferred":[
+        "Escobar"
+    ],
     "name:fra_x_preferred":[
         "Escobar"
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692713,
-    "wof:lastmodified":1561830074,
+    "wof:lastmodified":1563280724,
     "wof:name":"Escobar",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

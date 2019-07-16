@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "General Eugenio A. Garay"
     ],
+    "name:eus_x_preferred":[
+        "General Eugenio Alejandrino Garay"
+    ],
     "name:fra_x_preferred":[
         "General Eugenio A. Garay"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:lit_x_preferred":[
         "Cheneral Euchenio A. Garajus"
+    ],
+    "name:lit_x_variant":[
+        "Cheneral Euchenijo A. Garajus"
     ],
     "name:lmo_x_preferred":[
         "General Eugenio A. Garay"
@@ -61,6 +67,9 @@
     ],
     "name:spa_x_preferred":[
         "General Eugenio Alejandrino Garay"
+    ],
+    "name:spa_x_variant":[
+        "General Eugenio A. Garay"
     ],
     "name:zho_x_preferred":[
         "\u6b50\u4ea8\u5c3c\u5967\u52a0\u8cf4\u5c07\u8ecd\u93ae"
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":421172933,
-    "wof:lastmodified":1561830090,
+    "wof:lastmodified":1563280846,
     "wof:name":"General Eugenio A. Garay",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

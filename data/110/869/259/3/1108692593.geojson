@@ -40,13 +40,22 @@
     "name:bul_x_preferred":[
         "\u0418\u0442\u0430\u0443\u0433\u0443\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Itaugu\u00e1"
+    ],
     "name:dan_x_preferred":[
+        "Itaugu\u00e1"
+    ],
+    "name:deu_x_preferred":[
         "Itaugu\u00e1"
     ],
     "name:ell_x_preferred":[
         "\u0399\u03c4\u03bf\u03b3\u03ba\u03bf\u03c5\u03ac"
     ],
     "name:eng_x_preferred":[
+        "Itaugu\u00e1"
+    ],
+    "name:eus_x_preferred":[
         "Itaugu\u00e1"
     ],
     "name:fas_x_preferred":[
@@ -93,6 +102,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0907\u091f\u093e\u0917\u0941\u0906"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0418\u0442\u0430\u0443\u0433\u0432\u0430"
     ],
     "name:msa_x_preferred":[
         "Itaugua"
@@ -190,7 +202,7 @@
         }
     ],
     "wof:id":1108692593,
-    "wof:lastmodified":1561830053,
+    "wof:lastmodified":1563280662,
     "wof:name":"Itaugua",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

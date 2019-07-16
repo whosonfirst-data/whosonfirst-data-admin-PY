@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Yataity del Guair\u00e1"
     ],
+    "name:eng_x_variant":[
+        "Yataity"
+    ],
     "name:fra_x_preferred":[
         "Yataity"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692613,
-    "wof:lastmodified":1561830054,
+    "wof:lastmodified":1563280666,
     "wof:name":"Yataity",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

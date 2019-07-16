@@ -46,6 +46,9 @@
     "name:eng_x_preferred":[
         "Puerto Pinasco"
     ],
+    "name:eus_x_preferred":[
+        "Puerto Pinasco"
+    ],
     "name:fin_x_preferred":[
         "Puerto Pinasco"
     ],
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1108692741,
-    "wof:lastmodified":1561830039,
+    "wof:lastmodified":1563280621,
     "wof:name":"Puerto Pinasco",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

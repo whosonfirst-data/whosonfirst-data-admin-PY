@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Corpus Christi"
     ],
+    "name:eus_x_preferred":[
+        "Corpus Christi"
+    ],
     "name:fra_x_preferred":[
         "Corpus Christi"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692451,
-    "wof:lastmodified":1561830042,
+    "wof:lastmodified":1563280629,
     "wof:name":"Corpus Christi",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

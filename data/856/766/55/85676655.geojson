@@ -49,6 +49,9 @@
     "name:eng_x_preferred":[
         "Alto Paraguay"
     ],
+    "name:eng_x_variant":[
+        "Alto Paraguay Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Alto Paraguay"
     ],
@@ -100,6 +103,9 @@
     "name:kor_x_preferred":[
         "\uc54c\ud1a0\ud30c\ub77c\uacfc\uc774 \uc8fc"
     ],
+    "name:lad_x_preferred":[
+        "Alto Paraguay"
+    ],
     "name:lav_x_preferred":[
         "Altoparagvajas departaments"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:msa_x_preferred":[
         "Alto Paraguai"
+    ],
+    "name:nan_x_preferred":[
+        "Alto Paraguay Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Alto Paraguay"
@@ -153,6 +162,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25\u0e42\u0e15\u0e1b\u0e32\u0e23\u0e32\u0e01\u0e27\u0e31\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e25\u0e42\u0e15\u0e1b\u0e32\u0e23\u0e32\u0e01\u0e27\u0e22"
     ],
     "name:tur_x_preferred":[
         "Alta Paraguai"
@@ -301,7 +313,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830033,
+    "wof:lastmodified":1563280501,
     "wof:name":"Alto Paraguay",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

@@ -55,6 +55,9 @@
     "name:epo_x_preferred":[
         "Departemento Itap\u00faa"
     ],
+    "name:epo_x_variant":[
+        "departemento Itap\u00faa"
+    ],
     "name:eus_x_preferred":[
         "Itap\u00faako departamendua"
     ],
@@ -108,6 +111,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\ud0c0\ud478\uc544 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Itap\u00faa"
     ],
     "name:lav_x_preferred":[
         "Itapva"
@@ -166,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e35\u0e15\u0e32\u0e1b\u0e39\u0e2d\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e34\u0e15\u0e32\u0e1b\u0e39\u0e2d\u0e32"
     ],
     "name:tur_x_preferred":[
         "Itapua"
@@ -316,7 +325,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830026,
+    "wof:lastmodified":1563280481,
     "wof:name":"Itap\u00faa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

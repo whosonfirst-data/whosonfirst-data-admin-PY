@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "San Pablo"
     ],
+    "name:eng_x_variant":[
+        "San Pablo District"
+    ],
+    "name:eus_x_preferred":[
+        "San Pablo"
+    ],
     "name:fra_x_preferred":[
         "San Pablo"
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692823,
-    "wof:lastmodified":1561830071,
+    "wof:lastmodified":1563280718,
     "wof:name":"San Pablo",
     "wof:parent_id":85676675,
     "wof:placetype":"county",
