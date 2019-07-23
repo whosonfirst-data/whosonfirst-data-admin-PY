@@ -13,20 +13,119 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u064a\u0641\u0627 \u0627\u064a\u0637\u0627\u0644\u064a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09c1\u09af\u09bc\u09c7\u09ac\u09be \u0987\u09a4\u09be\u09b2\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:dan_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u0399\u03c4\u03ac\u03bb\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:eus_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:fin_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:fra_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0ac1\u0a8f\u0ab5\u0abe \u0a87\u0a9f\u0abe\u0ab2\u0abf\u0aaf\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d4 \u05d0\u05d9\u05d8\u05dc\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0941\u092f\u0947\u0935\u093e \u0907\u091f\u093e\u0932\u093f\u092f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Nueva Italia"
+    ],
     "name:ita_x_preferred":[
         "Nueva Italia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a8\u30d0\u30fb\u30a4\u30bf\u30ea\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cc1\u0cb5\u0cbe \u0c87\u0c9f\u0cbe\u0cb2\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ub204\uc5d0\ubc14 \uc774\ud0c8\ub9ac\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Nueva Italija"
     ],
     "name:lit_x_preferred":[
         "Nueva Italija"
     ],
+    "name:mar_x_preferred":[
+        "\u0928\u094d\u0935\u0947\u0935\u093e \u0907\u091f\u093e\u0932\u093f\u092f\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:nld_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:nob_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:pol_x_preferred":[
+        "Nueva Italia"
+    ],
     "name:por_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u0430-\u0418\u0442\u0430\u043b\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dd4\u0dba\u0dd9\u0dc0\u0dcf \u0d89\u0da7\u0dbd\u0dd2\u0dba\u0dcf"
+    ],
+    "name:slv_x_preferred":[
         "Nueva Italia"
     ],
     "name:spa_x_preferred":[
         "Nueva Italia"
     ],
+    "name:swe_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc1\u0b90\u0bb5 \u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c4d\u0c2f\u0c42\u0c35\u0c3e \u0c07\u0c1f\u0c3e\u0c32\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e39\u0e27\u0e32 \u0e2d\u0e34\u0e15\u0e32\u0e40\u0e25\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0435\u0432\u0430-\u0406\u0442\u0430\u043b\u0456\u044f"
+    ],
     "name:unk_x_variant":[
         "Colonia Nueva Italia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06cc\u0648\u0627 \u0627\u0637\u0627\u0644\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Nueva Italia"
     ],
     "name:zho_x_preferred":[
         "\u65b0\u610f\u5927\u5229"
@@ -79,7 +178,7 @@
         }
     ],
     "wof:id":421176147,
-    "wof:lastmodified":1527726480,
+    "wof:lastmodified":1563280886,
     "wof:name":"Nueva Italia",
     "wof:parent_id":1108692597,
     "wof:placetype":"locality",

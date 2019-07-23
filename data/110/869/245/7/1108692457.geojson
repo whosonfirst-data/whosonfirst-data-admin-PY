@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Itanar\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Itanar\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Itanar\u00e1"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692457,
-    "wof:lastmodified":1561830042,
+    "wof:lastmodified":1563280628,
     "wof:name":"Itanara",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

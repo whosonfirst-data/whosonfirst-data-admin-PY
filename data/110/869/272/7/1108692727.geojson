@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Tebicuarym\u00ed"
     ],
+    "name:eng_x_variant":[
+        "Tebicuary-m\u00ed"
+    ],
+    "name:eus_x_preferred":[
+        "Tebicuary-m\u00ed"
+    ],
     "name:fra_x_preferred":[
         "Tebicuary-m\u00ed"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692727,
-    "wof:lastmodified":1561830045,
+    "wof:lastmodified":1563280639,
     "wof:name":"Tebicuary-mi",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

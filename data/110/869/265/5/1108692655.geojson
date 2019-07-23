@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "La Pastora"
     ],
+    "name:eus_x_preferred":[
+        "La Pastora"
+    ],
     "name:fra_x_preferred":[
         "La Pastora"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692655,
-    "wof:lastmodified":1561830077,
+    "wof:lastmodified":1563280734,
     "wof:name":"La Pastora",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

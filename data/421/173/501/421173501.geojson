@@ -13,10 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Elena"
+    ],
     "name:deu_x_preferred":[
         "Santa Elena"
     ],
     "name:eng_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:eus_x_preferred":[
         "Santa Elena"
     ],
     "name:fra_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421173501,
-    "wof:lastmodified":1561830088,
+    "wof:lastmodified":1563280839,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108692525,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
     "name:kor_x_preferred":[
         "\uce74\uacfc\uc218 \uc8fc"
     ],
+    "name:lad_x_preferred":[
+        "Caaguaz\u00fa"
+    ],
     "name:lav_x_preferred":[
         "Kaagvasu"
     ],
@@ -158,11 +161,17 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0b95\u0bc1\u0b85\u0bb8\u0bc1"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0430\u0433\u0443\u0430\u0441\u0443"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c17\u0c41\u0c35\u0c3e\u0c1c\u0c41"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e23\u0e4c\u0e01\u0e31\u0e27\u0e0b\u0e39"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e2d\u0e32\u0e01\u0e31\u0e27\u0e0b\u0e39"
     ],
     "name:tur_x_preferred":[
         "Caagazu"
@@ -316,7 +325,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830023,
+    "wof:lastmodified":1563280475,
     "wof:name":"Caaguaz\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

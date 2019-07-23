@@ -13,11 +13,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Leandro Oviedo"
+    ],
     "name:deu_x_preferred":[
+        "Jos\u00e9 Leandro Oviedo"
+    ],
+    "name:eng_x_preferred":[
+        "Leandro Oviedo"
+    ],
+    "name:eus_x_preferred":[
+        "Jos\u00e9 Leandro Oviedo"
+    ],
+    "name:fra_x_preferred":[
         "Jos\u00e9 Leandro Oviedo"
     ],
     "name:ita_x_preferred":[
         "Jos\u00e9 Leandro Oviedo"
+    ],
+    "name:nld_x_preferred":[
+        "Leandro Oviedo"
     ],
     "name:por_x_preferred":[
         "Jos\u00e9 Leandro Oviedo"
@@ -76,7 +91,7 @@
         }
     ],
     "wof:id":421205005,
-    "wof:lastmodified":1527716221,
+    "wof:lastmodified":1563280828,
     "wof:name":"Leandro Oviedo",
     "wof:parent_id":1108692667,
     "wof:placetype":"locality",

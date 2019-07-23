@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Villa del Rosario"
     ],
+    "name:eus_x_preferred":[
+        "Villa del Rosario"
+    ],
     "name:fra_x_preferred":[
         "Villa del Rosario"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108692831,
-    "wof:lastmodified":1561830064,
+    "wof:lastmodified":1563280696,
     "wof:name":"Villa Del Rosario",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

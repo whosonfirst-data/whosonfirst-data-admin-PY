@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09b2\u09b0\u09c7\u099e\u09cd\u099c\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:dan_x_preferred":[
         "San Lorenzo"
     ],
@@ -52,8 +55,14 @@
     "name:epo_x_preferred":[
         "San Lorenzo"
     ],
+    "name:eus_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646 \u0644\u0648\u0631\u0646\u0632\u0648\u060c \u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646 \u0644\u0648\u0631\u0646\u0632\u0648"
     ],
     "name:fin_x_preferred":[
         "San Lorenzo"
@@ -111,6 +120,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043d \u041b\u043e\u0440\u0435\u043d\u0437\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0430\u043d \u041b\u043e\u0440\u0435\u043d\u0441\u043e"
     ],
     "name:msa_x_preferred":[
         "San Lorenzo"
@@ -217,7 +229,7 @@
         }
     ],
     "wof:id":1108692627,
-    "wof:lastmodified":1561830076,
+    "wof:lastmodified":1563280731,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

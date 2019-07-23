@@ -37,6 +37,12 @@
     "name:eng_x_preferred":[
         "Bella Vista"
     ],
+    "name:eng_x_variant":[
+        "Bella Vista Norte"
+    ],
+    "name:eus_x_preferred":[
+        "Bella Vista Norte"
+    ],
     "name:fra_x_preferred":[
         "Bella Vista Norte"
     ],
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108692443,
-    "wof:lastmodified":1561830043,
+    "wof:lastmodified":1563280633,
     "wof:name":"Bella Vista",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

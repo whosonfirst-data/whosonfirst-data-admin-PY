@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Caraya\u00f3"
     ],
+    "name:eus_x_preferred":[
+        "Caraya\u00f3"
+    ],
     "name:fra_x_preferred":[
         "Caraya\u00f3"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692623,
-    "wof:lastmodified":1561830076,
+    "wof:lastmodified":1563280732,
     "wof:name":"Carayao",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

@@ -32,10 +32,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Cosme y Dami\u00e1n"
+    ],
     "name:deu_x_preferred":[
         "San Cosme y Dami\u00e1n"
     ],
     "name:eng_x_preferred":[
+        "San Cosme y Dami\u00e1n"
+    ],
+    "name:eus_x_preferred":[
         "San Cosme y Dami\u00e1n"
     ],
     "name:fra_x_preferred":[
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421171423,
-    "wof:lastmodified":1561830097,
+    "wof:lastmodified":1563280887,
     "wof:name":"San Cosme Y Damian",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

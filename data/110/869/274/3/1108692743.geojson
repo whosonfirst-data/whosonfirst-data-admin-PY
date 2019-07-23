@@ -31,7 +31,13 @@
     "mps:longitude":-56.560962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "General Delgado"
+    ],
     "name:eng_x_preferred":[
+        "General Delgado"
+    ],
+    "name:eus_x_preferred":[
         "General Delgado"
     ],
     "name:fra_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108692743,
-    "wof:lastmodified":1561830040,
+    "wof:lastmodified":1563280623,
     "wof:name":"General Delgado",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Sim\u00f3n Bol\u00edvar"
     ],
+    "name:eus_x_preferred":[
+        "Sim\u00f3n Bol\u00edvar"
+    ],
     "name:fra_x_preferred":[
         "Sim\u00f3n Bol\u00edvar"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108692661,
-    "wof:lastmodified":1561830051,
+    "wof:lastmodified":1563280657,
     "wof:name":"Simon Bolivar",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

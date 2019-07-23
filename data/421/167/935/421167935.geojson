@@ -13,6 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Presidente Franco"
+    ],
+    "name:deu_x_preferred":[
+        "Presidente Franco"
+    ],
+    "name:eng_x_preferred":[
+        "Presidente Franco District"
+    ],
+    "name:eus_x_preferred":[
+        "Presidente Franco"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0632\u06cc\u062f\u0646\u062a\u0647 \u0641\u0631\u0627\u0646\u06a9\u0648"
     ],
@@ -21,6 +33,9 @@
     ],
     "name:grn_x_preferred":[
         "Presidente Franco"
+    ],
+    "name:hun_x_preferred":[
+        "Presidente Franco j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Presidente Franco"
@@ -39,6 +54,9 @@
     ],
     "name:por_x_preferred":[
         "Presidente Franco"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0438\u0434\u0435\u043d\u0442\u0435-\u0424\u0440\u0430\u043d\u043a\u043e"
     ],
     "name:spa_x_preferred":[
         "Presidente Franco"
@@ -97,7 +115,7 @@
         }
     ],
     "wof:id":421167935,
-    "wof:lastmodified":1527716158,
+    "wof:lastmodified":1563280812,
     "wof:name":"Presidente Franco",
     "wof:parent_id":421169437,
     "wof:placetype":"locality",

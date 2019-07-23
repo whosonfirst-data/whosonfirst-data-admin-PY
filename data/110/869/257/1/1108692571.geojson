@@ -46,6 +46,12 @@
     "name:eng_x_preferred":[
         "Minga Por\u00e1"
     ],
+    "name:eng_x_variant":[
+        "Minga Por\u00e1 District"
+    ],
+    "name:eus_x_preferred":[
+        "Minga Por\u00e1"
+    ],
     "name:fin_x_preferred":[
         "Minga Por\u00e1n kaupunginosa"
     ],
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1108692571,
-    "wof:lastmodified":1561830048,
+    "wof:lastmodified":1563280646,
     "wof:name":"Minga Pora",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

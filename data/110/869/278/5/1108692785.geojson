@@ -31,8 +31,14 @@
     "mps:longitude":-57.833287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Juan Neembuc\u00fa"
+    ],
     "name:eng_x_preferred":[
         "San Juan Bautista de \u00d1eembuc\u00fa"
+    ],
+    "name:eus_x_preferred":[
+        "San Juan Bautista del \u00d1eembuc\u00fa"
     ],
     "name:fra_x_preferred":[
         "San Juan Bautista de \u00d1eembuc\u00fa"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692785,
-    "wof:lastmodified":1561830068,
+    "wof:lastmodified":1563280709,
     "wof:name":"San Juan Bautista De \u00d1eembucu",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

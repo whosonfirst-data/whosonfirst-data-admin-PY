@@ -35,6 +35,12 @@
     "name:eng_x_preferred":[
         "Sapucai"
     ],
+    "name:eng_x_variant":[
+        "Sapuca\u00ed"
+    ],
+    "name:eus_x_preferred":[
+        "Sapucai"
+    ],
     "name:fra_x_preferred":[
         "Sapuca\u00ed"
     ],
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421191497,
-    "wof:lastmodified":1561830091,
+    "wof:lastmodified":1563280855,
     "wof:name":"Sapucai",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

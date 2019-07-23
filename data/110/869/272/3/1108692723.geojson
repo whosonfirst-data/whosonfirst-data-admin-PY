@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Quyquyh\u00f3"
     ],
+    "name:eus_x_preferred":[
+        "Quyquyh\u00f3"
+    ],
     "name:fra_x_preferred":[
         "Quyquyh\u00f3"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1108692723,
-    "wof:lastmodified":1561830046,
+    "wof:lastmodified":1563280640,
     "wof:name":"Quyquyho",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

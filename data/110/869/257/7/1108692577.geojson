@@ -31,11 +31,17 @@
     "mps:longitude":-55.061286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Iru\u00f1a"
+    ],
     "name:eng_x_preferred":[
         "Iru\u00f1a"
     ],
     "name:eng_x_variant":[
         "Iru\u00d1a"
+    ],
+    "name:eus_x_preferred":[
+        "Iru\u00f1a"
     ],
     "name:fra_x_preferred":[
         "Iru\u00f1a"
@@ -52,7 +58,13 @@
     "name:por_x_preferred":[
         "Iru\u00f1a"
     ],
+    "name:sco_x_preferred":[
+        "Iru\u00f1a"
+    ],
     "name:spa_x_preferred":[
+        "Iru\u00f1a"
+    ],
+    "name:swe_x_preferred":[
         "Iru\u00f1a"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":1108692577,
-    "wof:lastmodified":1561830048,
+    "wof:lastmodified":1563280645,
     "wof:name":"Iru\u00f1a",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

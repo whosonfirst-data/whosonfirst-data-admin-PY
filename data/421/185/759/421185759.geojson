@@ -16,7 +16,19 @@
     "name:deu_x_preferred":[
         "Tom\u00e1s Romero Pereira"
     ],
+    "name:eng_x_preferred":[
+        "Tom\u00e1s Romero Pereira"
+    ],
+    "name:eus_x_preferred":[
+        "Tom\u00e1s Romero Pereira"
+    ],
+    "name:fra_x_preferred":[
+        "Tom\u00e1s Romero Pereira"
+    ],
     "name:ita_x_preferred":[
+        "Tom\u00e1s Romero Pereira"
+    ],
+    "name:nld_x_preferred":[
         "Tom\u00e1s Romero Pereira"
     ],
     "name:spa_x_preferred":[
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":421185759,
-    "wof:lastmodified":1527726508,
+    "wof:lastmodified":1563280903,
     "wof:name":"Arquitecto Tom\u00e1s Romero Pereira",
     "wof:parent_id":1108692681,
     "wof:placetype":"locality",

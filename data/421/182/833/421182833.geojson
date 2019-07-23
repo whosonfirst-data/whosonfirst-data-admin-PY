@@ -35,6 +35,12 @@
     "name:eng_x_preferred":[
         "Los Cedrales"
     ],
+    "name:eng_x_variant":[
+        "Los Cedrales District"
+    ],
+    "name:eus_x_preferred":[
+        "Los Cedrales"
+    ],
     "name:fra_x_preferred":[
         "Los Cedrales District"
     ],
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421182833,
-    "wof:lastmodified":1561830097,
+    "wof:lastmodified":1563280881,
     "wof:name":"Los Cedrales",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

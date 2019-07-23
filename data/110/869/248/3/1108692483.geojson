@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "San Miguel"
     ],
+    "name:eus_x_preferred":[
+        "San Miguel"
+    ],
     "name:fra_x_preferred":[
         "San Miguel"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692483,
-    "wof:lastmodified":1561830063,
+    "wof:lastmodified":1563280694,
     "wof:name":"San Miguel",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

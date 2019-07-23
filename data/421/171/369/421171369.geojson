@@ -32,10 +32,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Trinidad"
+    ],
     "name:deu_x_preferred":[
         "Trinidad"
     ],
     "name:eng_x_preferred":[
+        "Trinidad"
+    ],
+    "name:eus_x_preferred":[
         "Trinidad"
     ],
     "name:fra_x_preferred":[
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421171369,
-    "wof:lastmodified":1561830099,
+    "wof:lastmodified":1563280893,
     "wof:name":"Trinidad",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

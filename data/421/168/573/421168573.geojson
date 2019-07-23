@@ -13,10 +13,34 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:ceb_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:deu_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:eng_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:eus_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:fra_x_preferred":[
+        "Caraguatay"
+    ],
     "name:grn_x_preferred":[
         "Karaguatay"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u0561\u0563\u0578\u0582\u0561\u057f\u0561\u0575"
+    ],
     "name:ita_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:nld_x_preferred":[
         "Caraguatay"
     ],
     "name:por_x_preferred":[
@@ -24,6 +48,9 @@
     ],
     "name:ron_x_preferred":[
         "Caraguatay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0443\u0430\u0442\u0430\u0439"
     ],
     "name:spa_x_preferred":[
         "Caraguatay"
@@ -79,7 +106,7 @@
         }
     ],
     "wof:id":421168573,
-    "wof:lastmodified":1527716095,
+    "wof:lastmodified":1563280798,
     "wof:name":"Caraguatay",
     "wof:parent_id":1108692503,
     "wof:placetype":"locality",

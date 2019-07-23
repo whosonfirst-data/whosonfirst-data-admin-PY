@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09ae\u09be \u09aa\u09cd\u09b2\u09be\u099f\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09b2\u09cb\u09ae\u09be \u09aa\u09cd\u09b2\u09be\u09a4\u09be"
+    ],
     "name:dan_x_preferred":[
         "Loma Plata"
     ],
@@ -41,6 +44,9 @@
         "\u039b\u03cc\u03bc\u03b1 \u03a0\u03bb\u03ac\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Loma Plata"
+    ],
+    "name:eus_x_preferred":[
         "Loma Plata"
     ],
     "name:fin_x_preferred":[
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1108692881,
-    "wof:lastmodified":1561830043,
+    "wof:lastmodified":1563280631,
     "wof:name":"Loma Plata",
     "wof:parent_id":85676659,
     "wof:placetype":"county",

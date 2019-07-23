@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Ypejh\u00fa"
     ],
+    "name:eng_x_variant":[
+        "Ypeh\u00fa"
+    ],
+    "name:eus_x_preferred":[
+        "Ypejh\u00fa"
+    ],
     "name:fra_x_preferred":[
         "Ypejh\u00fa"
     ],
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108692461,
-    "wof:lastmodified":1561830067,
+    "wof:lastmodified":1563280707,
     "wof:name":"Ype Jhu",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

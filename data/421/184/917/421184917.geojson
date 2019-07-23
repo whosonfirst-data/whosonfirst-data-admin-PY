@@ -32,11 +32,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mbocayaty"
+    ],
     "name:deu_x_preferred":[
         "Mbocayaty del Guair\u00e1"
     ],
     "name:eng_x_preferred":[
         "Mbocayaty del Guair\u00e1"
+    ],
+    "name:eng_x_variant":[
+        "Mbocayaty"
     ],
     "name:fra_x_preferred":[
         "Mbocayaty del Guair\u00e1"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421184917,
-    "wof:lastmodified":1561830094,
+    "wof:lastmodified":1563280869,
     "wof:name":"Mbocayaty",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

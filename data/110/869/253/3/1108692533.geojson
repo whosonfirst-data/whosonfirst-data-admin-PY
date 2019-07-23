@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Capit\u00e1n Mauricio Jos\u00e9 Troche"
     ],
+    "name:eus_x_preferred":[
+        "Capit\u00e1n Mauricio Jos\u00e9 Troche"
+    ],
     "name:fra_x_preferred":[
         "Capit\u00e1n Mauricio Jos\u00e9 Troche"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692533,
-    "wof:lastmodified":1561830074,
+    "wof:lastmodified":1563280726,
     "wof:name":"Mauricio Jose Troche",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

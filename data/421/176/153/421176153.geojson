@@ -13,11 +13,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0643\u0648\u0646\u062f\u0627\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00d1acunday"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d1acunday"
+    ],
+    "name:eus_x_preferred":[
+        "\u00d1acunday"
+    ],
+    "name:fra_x_preferred":[
+        "\u00d1acunday"
+    ],
     "name:ita_x_preferred":[
         "\u00d1acunday"
     ],
     "name:lit_x_preferred":[
         "Njakundajus"
+    ],
+    "name:nld_x_preferred":[
+        "\u00d1acunday"
     ],
     "name:por_x_preferred":[
         "\u00d1acunday"
@@ -79,7 +97,7 @@
         }
     ],
     "wof:id":421176153,
-    "wof:lastmodified":1527726473,
+    "wof:lastmodified":1563280885,
     "wof:name":"\u00d1acunday",
     "wof:parent_id":1108692557,
     "wof:placetype":"locality",

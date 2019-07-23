@@ -17,8 +17,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0644\u0648\u0631\u064a\u0646\u0632\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09b2\u09b0\u09c7\u099e\u09cd\u099c\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:dan_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:deu_x_preferred":[
         "San Lorenzo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039b\u03bf\u03c1\u03ad\u03bd\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "San Lorenzo"
@@ -26,8 +38,14 @@
     "name:epo_x_preferred":[
         "San Lorenzo"
     ],
+    "name:eus_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646 \u0644\u0648\u0631\u0646\u0632\u0648\u060c \u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646 \u0644\u0648\u0631\u0646\u0632\u0648"
     ],
     "name:fin_x_preferred":[
         "San Lorenzo"
@@ -38,25 +56,67 @@
     "name:grn_x_preferred":[
         "San Lorenzo"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8 \u0ab2\u0acb\u0ab0\u0ac7\u0aa8\u0acd\u0a9d\u0acb"
+    ],
     "name:hbs_x_preferred":[
         "San Lorenzo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05dc\u05d5\u05e8\u05e0\u05e1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0932\u094b\u0930\u0947\u0902\u091c\u093c\u094b"
+    ],
     "name:hrv_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:hun_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053c\u0578\u0580\u0565\u0576\u0581\u0578"
+    ],
+    "name:ind_x_preferred":[
         "San Lorenzo"
     ],
     "name:ita_x_preferred":[
         "San Lorenzo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30ed\u30ec\u30f3\u30c4\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0cb2\u0cca\u0cb0\u0cc6\u0c82\u0c9c\u0cca"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10da\u10dd\u10e0\u10d4\u10dc\u10e1\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \ub85c\ub80c\uc870"
+    ],
+    "name:lav_x_preferred":[
+        "Sanlorenso"
     ],
     "name:lit_x_preferred":[
         "San Lorensas"
     ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u0932\u0949\u0930\u0947\u0902\u091d\u094b"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043d \u041b\u043e\u0440\u0435\u043d\u0437\u043e"
     ],
+    "name:mkd_x_variant":[
+        "\u0421\u0430\u043d \u041b\u043e\u0440\u0435\u043d\u0441\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:nld_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:nob_x_preferred":[
         "San Lorenzo"
     ],
     "name:pol_x_preferred":[
@@ -65,17 +125,47 @@
     "name:por_x_preferred":[
         "San Lorenzo"
     ],
+    "name:ron_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
     ],
     "name:sco_x_preferred":[
         "San Lorenzo"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0dbd\u0ddc\u0dbb\u0dd9\u0db1\u0dca\u0dc3\u0ddd"
+    ],
+    "name:slv_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:spa_x_preferred":[
         "San Lorenzo"
     ],
+    "name:swe_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:tam_x_preferred":[
+        "San \u0bb2\u0bcb\u0bb0\u0ba9\u0bcd\u0b9a\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c28\u0c4d \u0c32\u0c4b\u0c30\u0c46\u0c02\u0c1c\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19 \u0e25\u0e2d\u0e40\u0e23\u0e19\u0e42\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
+    ],
     "name:unk_x_variant":[
         "San Lorenzo del Campo Grande"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0646 \u0644\u0648\u0631\u06cc\u0646\u0632\u0648"
     ],
     "name:vep_x_preferred":[
         "San Lorenso"
@@ -232,7 +322,7 @@
         }
     ],
     "wof:id":421169055,
-    "wof:lastmodified":1527716168,
+    "wof:lastmodified":1563280815,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1108692627,
     "wof:placetype":"locality",

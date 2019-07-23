@@ -31,10 +31,16 @@
     "mps:longitude":-56.612385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Coronel Mart\u00ednez"
+    ],
     "name:deu_x_preferred":[
         "Coronel Mart\u00ednez"
     ],
     "name:eng_x_preferred":[
+        "Coronel Mart\u00ednez"
+    ],
+    "name:eus_x_preferred":[
         "Coronel Mart\u00ednez"
     ],
     "name:fra_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692535,
-    "wof:lastmodified":1561830075,
+    "wof:lastmodified":1563280727,
     "wof:name":"Coronel Martinez",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

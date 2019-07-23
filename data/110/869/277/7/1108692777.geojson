@@ -49,6 +49,12 @@
     "name:eng_x_preferred":[
         "La Victoria"
     ],
+    "name:eng_x_variant":[
+        "Puerto Casado"
+    ],
+    "name:eus_x_preferred":[
+        "Puerto Casado"
+    ],
     "name:fin_x_preferred":[
         "Puerto Casado"
     ],
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":1108692777,
-    "wof:lastmodified":1561830065,
+    "wof:lastmodified":1563280698,
     "wof:name":"Puerto Casado",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

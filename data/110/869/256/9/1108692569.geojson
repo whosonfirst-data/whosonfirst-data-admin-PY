@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Santa Rosa del Monday"
     ],
+    "name:eus_x_preferred":[
+        "Santa Rosa del Monday"
+    ],
     "name:fra_x_preferred":[
         "Santa Rosa del Monday"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692569,
-    "wof:lastmodified":1561830058,
+    "wof:lastmodified":1563280676,
     "wof:name":"Santa Rosa Del Monday",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

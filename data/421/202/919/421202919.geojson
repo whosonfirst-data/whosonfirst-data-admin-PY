@@ -13,10 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tobat\u00ed"
+    ],
     "name:deu_x_preferred":[
         "Tobat\u00ed"
     ],
     "name:eng_x_preferred":[
+        "Tobat\u00ed"
+    ],
+    "name:eus_x_preferred":[
         "Tobat\u00ed"
     ],
     "name:fra_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421202919,
-    "wof:lastmodified":1561830087,
+    "wof:lastmodified":1563280826,
     "wof:name":"Tobat\u00ed",
     "wof:parent_id":421173299,
     "wof:placetype":"locality",

@@ -13,7 +13,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Obligado"
+    ],
+    "name:deu_x_preferred":[
+        "Obligado"
+    ],
+    "name:eng_x_preferred":[
+        "Obligado"
+    ],
+    "name:eus_x_preferred":[
+        "Obligado"
+    ],
+    "name:fra_x_preferred":[
+        "Obligado"
+    ],
     "name:ita_x_preferred":[
+        "Obligado"
+    ],
+    "name:nld_x_preferred":[
         "Obligado"
     ],
     "name:por_x_preferred":[
@@ -79,7 +97,7 @@
         }
     ],
     "wof:id":421177335,
-    "wof:lastmodified":1527716482,
+    "wof:lastmodified":1563280876,
     "wof:name":"Obligado",
     "wof:parent_id":1108692669,
     "wof:placetype":"locality",

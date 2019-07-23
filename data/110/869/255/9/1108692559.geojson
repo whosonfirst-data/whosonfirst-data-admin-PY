@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Minga Guaz\u00fa"
     ],
+    "name:crh_x_preferred":[
+        "Minga Guasu"
+    ],
     "name:deu_x_preferred":[
         "Minga Guaz\u00fa"
     ],
@@ -47,6 +50,9 @@
         "\u039c\u03af\u03bd\u03b3\u03ba\u03b1 \u0393\u03ba\u03bf\u03c5\u03b1\u03b6\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
+        "Minga Guaz\u00fa"
+    ],
+    "name:eus_x_preferred":[
         "Minga Guaz\u00fa"
     ],
     "name:fas_x_preferred":[
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1108692559,
-    "wof:lastmodified":1561830081,
+    "wof:lastmodified":1563280742,
     "wof:name":"Minga Guazu",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

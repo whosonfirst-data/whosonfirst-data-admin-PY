@@ -31,7 +31,16 @@
     "mps:longitude":-55.810716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Doctor Juan Manuel Frutos"
+    ],
     "name:eng_x_preferred":[
+        "Doctor Juan Manuel Frutos"
+    ],
+    "name:eng_x_variant":[
+        "Dr. Juan Manuel Frutos"
+    ],
+    "name:eus_x_preferred":[
         "Doctor Juan Manuel Frutos"
     ],
     "name:fra_x_preferred":[
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1108692631,
-    "wof:lastmodified":1561830079,
+    "wof:lastmodified":1563280738,
     "wof:name":"Dr. Juan Manuel Frutos",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

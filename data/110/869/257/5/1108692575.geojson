@@ -34,8 +34,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0627\u0644\u0628\u0631\u062a\u0648\u060c \u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0646 \u0627\u0644\u0628\u0631\u062a\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u0986\u09b2\u09ac\u09be\u09b0\u09cd\u099f\u09cb"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u0986\u09b2\u09ac\u09c7\u09b0\u09cd\u09a4\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "San Alberto"
     ],
     "name:dan_x_preferred":[
         "San Alberto"
@@ -44,6 +53,9 @@
         "\u03a3\u03b1\u03bd \u0391\u03bb\u03bc\u03c0\u03ad\u03c1\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
+        "San Alberto"
+    ],
+    "name:eus_x_preferred":[
         "San Alberto"
     ],
     "name:fin_x_preferred":[
@@ -169,7 +181,7 @@
         }
     ],
     "wof:id":1108692575,
-    "wof:lastmodified":1561830048,
+    "wof:lastmodified":1563280648,
     "wof:name":"San Alberto",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

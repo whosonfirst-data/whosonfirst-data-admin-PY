@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Loreto"
     ],
+    "name:eus_x_preferred":[
+        "Loreto"
+    ],
     "name:fra_x_preferred":[
         "Loreto"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:por_x_preferred":[
         "Loreto"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0435\u0442\u043e"
     ],
     "name:spa_x_preferred":[
         "Loreto"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108692749,
-    "wof:lastmodified":1561830039,
+    "wof:lastmodified":1563280621,
     "wof:name":"Loreto",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

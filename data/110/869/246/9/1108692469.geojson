@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Nueva Esperanza"
     ],
+    "name:eus_x_preferred":[
+        "Nueva Esperanza"
+    ],
     "name:fra_x_preferred":[
         "Nueva Esperanza"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692469,
-    "wof:lastmodified":1561830067,
+    "wof:lastmodified":1563280706,
     "wof:name":"Nueva Esperanza",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

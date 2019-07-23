@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Tava\u00ed"
     ],
+    "name:eus_x_preferred":[
+        "Tava\u00ed"
+    ],
     "name:fra_x_preferred":[
         "Tava\u00ed"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692853,
-    "wof:lastmodified":1561830073,
+    "wof:lastmodified":1563280722,
     "wof:name":"Tavai",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

@@ -31,7 +31,16 @@
     "mps:longitude":-57.200405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Loma Grande"
+    ],
     "name:eng_x_preferred":[
+        "Loma Grande"
+    ],
+    "name:eng_x_variant":[
+        "Loma Grande District"
+    ],
+    "name:eus_x_preferred":[
         "Loma Grande"
     ],
     "name:fra_x_preferred":[
@@ -57,6 +66,9 @@
     ],
     "name:por_x_preferred":[
         "Loma Grande"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043c\u0430-\u0413\u0440\u0430\u043d\u0434\u0435"
     ],
     "name:spa_x_preferred":[
         "Loma Grande"
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1108692517,
-    "wof:lastmodified":1561830057,
+    "wof:lastmodified":1563280674,
     "wof:name":"Loma Grande",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Katuete"
     ],
+    "name:eng_x_variant":[
+        "Katuet\u00e9"
+    ],
+    "name:eus_x_preferred":[
+        "Katuet\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Katuet\u00e9"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692465,
-    "wof:lastmodified":1561830068,
+    "wof:lastmodified":1563280708,
     "wof:name":"Katuete",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

@@ -31,7 +31,13 @@
     "mps:longitude":-55.217792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Iru\u00f1a"
+    ],
     "name:eng_x_preferred":[
+        "Iru\u00f1a"
+    ],
+    "name:eus_x_preferred":[
         "Iru\u00f1a"
     ],
     "name:fra_x_preferred":[
@@ -49,8 +55,17 @@
     "name:por_x_preferred":[
         "Iru\u00f1a"
     ],
+    "name:sco_x_preferred":[
+        "Iru\u00f1a"
+    ],
     "name:spa_x_preferred":[
         "Iru\u00f1a"
+    ],
+    "name:swe_x_preferred":[
+        "Iru\u00f1a"
+    ],
+    "name:war_x_preferred":[
+        "Santa Rita"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u9b6f\u5c3c\u4e9e"
@@ -91,7 +106,7 @@
         }
     ],
     "wof:id":1108692565,
-    "wof:lastmodified":1561830059,
+    "wof:lastmodified":1563280678,
     "wof:name":"Naranjal",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

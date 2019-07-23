@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "\u00d1um\u00ed"
     ],
+    "name:eus_x_preferred":[
+        "\u00d1um\u00ed"
+    ],
     "name:fra_x_preferred":[
         "\u00d1um\u00ed"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692609,
-    "wof:lastmodified":1561830054,
+    "wof:lastmodified":1563280667,
     "wof:name":"\u00d1umi",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

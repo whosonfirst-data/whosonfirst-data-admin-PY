@@ -16,8 +16,17 @@
     "name:deu_x_preferred":[
         "San Estanislao"
     ],
+    "name:eng_x_preferred":[
+        "San Estanislao"
+    ],
+    "name:eus_x_preferred":[
+        "San Estanislao"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646 \u0627\u0633\u062a\u0627\u0646\u06cc\u0633\u0644\u0627\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "San Estanislao"
     ],
     "name:grn_x_preferred":[
         "San Estanislao"
@@ -25,8 +34,17 @@
     "name:ita_x_preferred":[
         "San Estanislao"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a8\u30b9\u30bf\u30cb\u30b9\u30e9\u30aa"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10d4\u10e1\u10e2\u10d0\u10dc\u10d8\u10e1\u10da\u10d0\u10dd"
+    ],
+    "name:lit_x_preferred":[
+        "San Estanislao"
+    ],
+    "name:nld_x_preferred":[
+        "San Estanislao"
     ],
     "name:pol_x_preferred":[
         "San Estanislao"
@@ -36,6 +54,9 @@
     ],
     "name:ron_x_preferred":[
         "San Estanislao"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u042d\u0441\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u043e"
     ],
     "name:spa_x_preferred":[
         "San Estanislao"
@@ -89,7 +110,7 @@
         }
     ],
     "wof:id":421195367,
-    "wof:lastmodified":1500019220,
+    "wof:lastmodified":1563280805,
     "wof:name":"San Estanislao",
     "wof:parent_id":421189517,
     "wof:placetype":"locality",

@@ -31,7 +31,16 @@
     "mps:longitude":-57.272858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nueva Colombia"
+    ],
     "name:eng_x_preferred":[
+        "Nueva Colombia"
+    ],
+    "name:eng_x_variant":[
+        "Nueva Colombia District"
+    ],
+    "name:eus_x_preferred":[
         "Nueva Colombia"
     ],
     "name:fra_x_preferred":[
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1108692521,
-    "wof:lastmodified":1561830083,
+    "wof:lastmodified":1563280746,
     "wof:name":"Nueva Colombia",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

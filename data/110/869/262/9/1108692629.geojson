@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Santa Rosa del Mbutuy"
     ],
+    "name:eus_x_preferred":[
+        "Santa Rosa del Mbutuy"
+    ],
     "name:fra_x_preferred":[
         "Santa Rosa del Mbutuy"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108692629,
-    "wof:lastmodified":1561830076,
+    "wof:lastmodified":1563280730,
     "wof:name":"Santa Rosa Del Mbutuy",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Departament del Presidente Hayes"
     ],
+    "name:cat_x_variant":[
+        "departament del Presidente Hayes"
+    ],
     "name:dan_x_preferred":[
         "Presidente Hayes"
     ],
@@ -49,8 +52,14 @@
     "name:eng_x_preferred":[
         "Presidente Hayes"
     ],
+    "name:eng_x_variant":[
+        "Presidente Hayes Department"
+    ],
     "name:epo_x_preferred":[
         "departemento Presidente Hayes"
+    ],
+    "name:eus_x_preferred":[
+        "Hayes presidentea departamendua"
     ],
     "name:fin_x_preferred":[
         "Presidente Hayesin maakunta"
@@ -93,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud504\ub808\uc2dc\ub374\ud14c\uc544\uc608\uc2a4 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Presidente Hayes"
     ],
     "name:lav_x_preferred":[
         "Presidente Ajes"
@@ -153,6 +165,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1e\u0e23\u0e0b\u0e34\u0e40\u0e14\u0e19\u0e40\u0e15\u0e49 \u0e2e\u0e32\u0e40\u0e22\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e1b\u0e23\u0e0b\u0e34\u0e40\u0e14\u0e19\u0e40\u0e15\u0e2d\u0e32\u0e40\u0e22\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Presidente Hayes"
@@ -303,7 +318,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830034,
+    "wof:lastmodified":1563280504,
     "wof:name":"Presidente Hayes",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

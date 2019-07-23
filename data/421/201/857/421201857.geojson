@@ -22,10 +22,19 @@
     "name:dan_x_preferred":[
         "Caaguazu"
     ],
+    "name:deu_x_preferred":[
+        "Caaguaz\u00fa"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03b1\u03b3\u03bf\u03c5\u03b1\u03c3\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
+        "Caaguaz\u00fa"
+    ],
+    "name:eng_x_variant":[
+        "Caaguaz\u00fa District"
+    ],
+    "name:eus_x_preferred":[
         "Caaguaz\u00fa"
     ],
     "name:fas_x_preferred":[
@@ -45,6 +54,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0917\u0941\u0906\u091c\u093c\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Caaguaz\u00fa"
     ],
     "name:ind_x_preferred":[
         "Caaguaz\u00fa"
@@ -174,7 +186,7 @@
         }
     ],
     "wof:id":421201857,
-    "wof:lastmodified":1561830091,
+    "wof:lastmodified":1563280860,
     "wof:name":"Caaguaz\u00fa",
     "wof:parent_id":421183417,
     "wof:placetype":"locality",

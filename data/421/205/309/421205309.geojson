@@ -13,7 +13,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Yataity del Norte"
+    ],
+    "name:eng_x_preferred":[
+        "Yataity del Norte"
+    ],
+    "name:eus_x_preferred":[
+        "Yataity del Norte"
+    ],
+    "name:fra_x_preferred":[
+        "Yataity del Norte"
+    ],
     "name:ita_x_preferred":[
+        "Yataity del Norte"
+    ],
+    "name:nld_x_preferred":[
         "Yataity del Norte"
     ],
     "name:por_x_preferred":[
@@ -75,7 +90,7 @@
         }
     ],
     "wof:id":421205309,
-    "wof:lastmodified":1527716214,
+    "wof:lastmodified":1563280826,
     "wof:name":"Yataity del Norte",
     "wof:parent_id":1108692487,
     "wof:placetype":"locality",

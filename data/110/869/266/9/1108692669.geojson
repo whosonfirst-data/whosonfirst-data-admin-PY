@@ -31,7 +31,16 @@
     "mps:longitude":-55.696788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Obligado"
+    ],
+    "name:deu_x_preferred":[
+        "Obligado"
+    ],
     "name:eng_x_preferred":[
+        "Obligado"
+    ],
+    "name:eus_x_preferred":[
         "Obligado"
     ],
     "name:fra_x_preferred":[
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1108692669,
-    "wof:lastmodified":1561830051,
+    "wof:lastmodified":1563280656,
     "wof:name":"Obligado",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

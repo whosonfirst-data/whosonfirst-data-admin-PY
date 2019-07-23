@@ -31,7 +31,16 @@
     "mps:longitude":-56.567196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nueva Londres"
+    ],
+    "name:deu_x_preferred":[
+        "Nueva Londres"
+    ],
     "name:eng_x_preferred":[
+        "Nueva Londres"
+    ],
+    "name:eus_x_preferred":[
         "Nueva Londres"
     ],
     "name:fra_x_preferred":[
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1108692635,
-    "wof:lastmodified":1561830081,
+    "wof:lastmodified":1563280742,
     "wof:name":"Nueva Londres",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

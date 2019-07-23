@@ -13,14 +13,44 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0645\u0628\u064a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0993"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043c\u043f\u0438\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Limpio"
+    ],
+    "name:ceb_x_preferred":[
+        "Limpio"
+    ],
+    "name:dan_x_preferred":[
+        "Limpio"
+    ],
     "name:deu_x_preferred":[
+        "Limpio"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bc\u03c0\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
         "Limpio"
     ],
     "name:epo_x_preferred":[
         "Limpio"
     ],
+    "name:eus_x_preferred":[
+        "Limpio"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0645\u067e\u06cc\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Limpio"
     ],
     "name:fra_x_preferred":[
         "Limpio"
@@ -28,22 +58,61 @@
     "name:grn_x_preferred":[
         "Limpio"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abf\u0aae\u0acd\u0aaa\u0abf\u0aaf\u0acb"
+    ],
     "name:hbs_x_preferred":[
+        "Limpio"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u092e\u092a\u093f\u092f\u094b"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0574\u057a\u056b\u0578"
+    ],
+    "name:ind_x_preferred":[
         "Limpio"
     ],
     "name:ita_x_preferred":[
         "Limpio"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30d4\u30aa"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbf\u0c82\u0caa\u0cbf\u0caf\u0ccb"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10db\u10de\u10d8\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9bc\ud53c\uc624"
+    ],
+    "name:lav_x_preferred":[
+        "Limpio"
     ],
     "name:lit_x_preferred":[
         "Limpijus"
     ],
+    "name:lit_x_variant":[
+        "Limpijas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093f\u092e\u094d\u092a\u093f\u0913"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u0438\u043c\u043f\u0438\u043e"
     ],
+    "name:msa_x_preferred":[
+        "Limpio"
+    ],
     "name:nld_x_preferred":[
+        "Limpio"
+    ],
+    "name:nob_x_preferred":[
+        "Limpio"
+    ],
+    "name:oci_x_preferred":[
         "Limpio"
     ],
     "name:pol_x_preferred":[
@@ -52,10 +121,40 @@
     "name:por_x_preferred":[
         "Limpio"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043c\u043f\u0438\u043e"
+    ],
     "name:sco_x_preferred":[
         "Limpio"
     ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd2\u0db8\u0dca\u0db4\u0dd2\u0dba\u0ddd"
+    ],
     "name:spa_x_preferred":[
+        "Limpio"
+    ],
+    "name:swe_x_preferred":[
+        "Limpio"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbf\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c2f\u0c42\u0c32\u0c4b\u0c32\u0c3e\u0c02\u0c21\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e34\u0e21\u0e40\u0e1b\u0e35\u0e22\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Limpia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043c\u043f\u0456\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0645\u067e\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Limpio"
     ],
     "name:vol_x_preferred":[
@@ -111,7 +210,7 @@
         }
     ],
     "wof:id":421168605,
-    "wof:lastmodified":1505340591,
+    "wof:lastmodified":1563280797,
     "wof:name":"Limpio",
     "wof:parent_id":421170013,
     "wof:placetype":"locality",

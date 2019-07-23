@@ -14,8 +14,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ygatim\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Ygatim\u00ed"
+    ],
+    "name:eus_x_preferred":[
+        "Villa Ygatim\u00ed"
     ],
     "name:fra_x_preferred":[
         "Villa Ygatim\u00ed"
@@ -187,7 +193,7 @@
         }
     ],
     "wof:id":421169053,
-    "wof:lastmodified":1561830087,
+    "wof:lastmodified":1563280814,
     "wof:name":"Ygatim\u00ed",
     "wof:parent_id":1108692455,
     "wof:placetype":"locality",

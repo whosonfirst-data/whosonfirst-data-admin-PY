@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Departament de Boquer\u00f3n"
     ],
+    "name:ces_x_preferred":[
+        "Boquer\u00f3n"
+    ],
     "name:dan_x_preferred":[
         "XVI Boquer\u00f3n"
     ],
@@ -49,8 +52,14 @@
     "name:eng_x_preferred":[
         "Boquer\u00f3n"
     ],
+    "name:eng_x_variant":[
+        "Boquer\u00f3n Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Boquer\u00f3n"
+    ],
+    "name:epo_x_variant":[
+        "departemento Boquer\u00f3n"
     ],
     "name:eus_x_preferred":[
         "Boquer\u00f3ngo departamendua"
@@ -102,6 +111,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubcf4\ucf00\ub860 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Boquer\u00f3n"
     ],
     "name:lav_x_preferred":[
         "Bokeronas departaments"
@@ -160,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e47\u0e01\u0e0b\u0e4c\u0e27\u0e35\u0e44\u0e2d \u0e42\u0e1a\u0e04\u0e34\u0e27\u0e23\u0e2d\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e1a\u0e40\u0e01\u0e23\u0e2d\u0e19"
     ],
     "name:tur_x_preferred":[
         "XVI Boqueron"
@@ -310,7 +325,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830029,
+    "wof:lastmodified":1563280487,
     "wof:name":"Boquer\u00f3n",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

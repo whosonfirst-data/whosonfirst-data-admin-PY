@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Jos\u00e9 Domingo Ocampos"
     ],
+    "name:eus_x_preferred":[
+        "Jos\u00e9 Domingo Ocampos"
+    ],
     "name:fra_x_preferred":[
         "Jos\u00e9 Domingo Ocampos"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692651,
-    "wof:lastmodified":1561830077,
+    "wof:lastmodified":1563280733,
     "wof:name":"Jose Domingo Ocampos",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

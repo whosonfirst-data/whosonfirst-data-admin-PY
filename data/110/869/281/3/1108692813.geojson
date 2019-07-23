@@ -31,7 +31,13 @@
     "mps:longitude":-58.230719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Jos\u00e9 Falc\u00f3n"
+    ],
     "name:eng_x_preferred":[
+        "Jos\u00e9 Falc\u00f3n"
+    ],
+    "name:eus_x_preferred":[
         "Jos\u00e9 Falc\u00f3n"
     ],
     "name:fra_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692813,
-    "wof:lastmodified":1561830047,
+    "wof:lastmodified":1563280644,
     "wof:name":"Jose Falcon",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

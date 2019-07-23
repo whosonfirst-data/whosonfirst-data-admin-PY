@@ -31,8 +31,17 @@
     "mps:longitude":-56.623252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Yegros"
+    ],
     "name:eng_x_preferred":[
         "Fulgencio Yegros"
+    ],
+    "name:eng_x_variant":[
+        "Yegros"
+    ],
+    "name:eus_x_preferred":[
+        "Yegros"
     ],
     "name:fra_x_preferred":[
         "Yegros"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1108692857,
-    "wof:lastmodified":1561830072,
+    "wof:lastmodified":1563280720,
     "wof:name":"Fulgencio Yegros",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

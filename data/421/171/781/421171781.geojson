@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Villa Florida"
     ],
+    "name:eus_x_preferred":[
+        "Villa Florida"
+    ],
     "name:fra_x_preferred":[
         "Villa Florida"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421171781,
-    "wof:lastmodified":1561830102,
+    "wof:lastmodified":1563280900,
     "wof:name":"Villa Florida",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

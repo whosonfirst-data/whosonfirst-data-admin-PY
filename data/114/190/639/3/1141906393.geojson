@@ -14,26 +14,71 @@
     "lbl:longitude":-57.529987,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0627 \u0647\u0627\u064a\u0632"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09cd\u09b2\u09be \u09b9\u09be\u09af\u09bc\u09c7\u09b8"
+    ],
     "name:ces_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:dan_x_preferred":[
         "Villa Hayes"
     ],
     "name:deu_x_preferred":[
         "Villa Hayes"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03bb\u03b1 \u0386\u03b3\u03b9\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Hayes"
+    ],
     "name:epo_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:epo_x_variant":[
+        "Villa Hayes\u200e"
+    ],
+    "name:eus_x_preferred":[
         "Villa Hayes"
     ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0627 \u0647\u0627\u06cc\u0633"
     ],
+    "name:fin_x_preferred":[
+        "Villa Hayes"
+    ],
     "name:fra_x_preferred":[
         "Villa Hayes"
+    ],
+    "name:fra_x_variant":[
+        "villa Hayes"
     ],
     "name:grn_x_preferred":[
         "Villa Hayes"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abf\u0ab2\u0abe \u0ab9\u0ac7\u0aaf\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0940\u092f\u093e \u0939\u0947\u0938"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561 \u0537\u0575\u0565\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Villa Hayes"
+    ],
     "name:ita_x_preferred":[
         "Villa Hayes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30fc\u30b8\u30e3\u30fb\u30a2\u30a4\u30a7\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2\u0cbe \u0cb9\u0cc7\u0caf\u0ccd\u0cb8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10da\u10d8\u10d0-\u10f0\u10d4\u10d8\u10e1\u10d8"
@@ -41,10 +86,25 @@
     "name:kor_x_preferred":[
         "\ube44\uc57c\uc544\uc608\uc2a4"
     ],
+    "name:lav_x_preferred":[
+        "Viljaajesa"
+    ],
     "name:lit_x_preferred":[
         "Vilja Hajesas"
     ],
+    "name:mar_x_preferred":[
+        "\u0935\u094d\u0939\u093f\u0932\u093e \u0939\u0947\u0938"
+    ],
+    "name:msa_x_preferred":[
+        "Villa Hayes"
+    ],
     "name:nld_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:nob_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:pol_x_preferred":[
         "Villa Hayes"
     ],
     "name:por_x_preferred":[
@@ -53,14 +113,44 @@
     "name:ron_x_preferred":[
         "Villa Hayes"
     ],
+    "name:rup_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u042d\u0439\u0435\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0dbd\u0dcf \u0dc4\u0dda\u0dc3\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Villa Hayes"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe \u0bb9\u0bc7\u0baf\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3f\u0c32\u0c4d\u0c32\u0c3e \u0c39\u0c47\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e34\u0e22\u0e32\u0e2d\u0e32\u0e40\u0e22\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Villa Hayes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0410\u0454\u0441"
     ],
     "name:unk_x_variant":[
         "Nueva Burdeos"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0627 \u062e\u06cc\u0626\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Villa Hayes"
     ],
     "name:war_x_preferred":[
         "Villa Hayes"
@@ -191,7 +281,7 @@
         }
     ],
     "wof:id":1141906393,
-    "wof:lastmodified":1534379450,
+    "wof:lastmodified":1563281005,
     "wof:name":"Villa Hayes",
     "wof:parent_id":421171367,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "General Isidoro Resqu\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "General Isidoro Resqu\u00edn"
+    ],
     "name:fra_x_preferred":[
         "General Isidoro Resqu\u00edn"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692485,
-    "wof:lastmodified":1561830063,
+    "wof:lastmodified":1563280695,
     "wof:name":"General Resquin",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

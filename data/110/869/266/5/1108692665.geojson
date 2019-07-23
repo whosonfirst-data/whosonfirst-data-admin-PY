@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Hohenau"
     ],
+    "name:eus_x_preferred":[
+        "Hohenau"
+    ],
     "name:fra_x_preferred":[
         "Hohenau"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108692665,
-    "wof:lastmodified":1561830052,
+    "wof:lastmodified":1563280659,
     "wof:name":"Hohenau",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

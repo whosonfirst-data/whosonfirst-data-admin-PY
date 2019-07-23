@@ -31,8 +31,14 @@
     "mps:longitude":-56.765138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ybytym\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Ybytim\u00ed"
+    ],
+    "name:eus_x_preferred":[
+        "Ybytym\u00ed"
     ],
     "name:fra_x_preferred":[
         "Ybytym\u00ed"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108692735,
-    "wof:lastmodified":1561830041,
+    "wof:lastmodified":1563280625,
     "wof:name":"Yvytimi",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

@@ -55,6 +55,12 @@
     "name:epo_x_preferred":[
         "Departemento Caazap\u00e1"
     ],
+    "name:epo_x_variant":[
+        "departemento Caazap\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "Caazap\u00e1ko departamendua"
+    ],
     "name:fin_x_preferred":[
         "Caazap\u00e1n maakunta"
     ],
@@ -99,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\uc0ac\ud30c \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Caazap\u00e1"
     ],
     "name:lav_x_preferred":[
         "Kaasapa"
@@ -154,6 +163,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e01\u0e32\u0e2d\u0e32\u0e0b\u0e32\u0e1b\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e2d\u0e32\u0e0b\u0e32\u0e1b\u0e32"
     ],
     "name:tur_x_preferred":[
         "Caazapa"
@@ -304,7 +316,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830027,
+    "wof:lastmodified":1563280484,
     "wof:name":"Caazap\u00e1",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

@@ -16,10 +16,25 @@
     "name:deu_x_preferred":[
         "Carapegu\u00e1"
     ],
+    "name:eng_x_preferred":[
+        "Carapegu\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "Carapegu\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Carapegu\u00e1"
+    ],
     "name:grn_x_preferred":[
         "Karapegua"
     ],
     "name:ita_x_preferred":[
+        "Carapegu\u00e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e9\u30da\u30b0\u30a2"
+    ],
+    "name:nld_x_preferred":[
         "Carapegu\u00e1"
     ],
     "name:pol_x_preferred":[
@@ -84,7 +99,7 @@
         }
     ],
     "wof:id":421168571,
-    "wof:lastmodified":1505340591,
+    "wof:lastmodified":1563280801,
     "wof:name":"Carapegu\u00e1",
     "wof:parent_id":421170015,
     "wof:placetype":"locality",

@@ -19,10 +19,22 @@
     "name:ceb_x_preferred":[
         "Pirap\u00f3"
     ],
+    "name:deu_x_preferred":[
+        "Pirap\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Pirap\u00f3"
+    ],
     "name:epo_x_preferred":[
         "Pirap\u00f3"
     ],
+    "name:eus_x_preferred":[
+        "Pirap\u00f3"
+    ],
     "name:fra_x_preferred":[
+        "Pirap\u00f3"
+    ],
+    "name:hun_x_preferred":[
         "Pirap\u00f3"
     ],
     "name:ita_x_preferred":[
@@ -34,17 +46,50 @@
     "name:mlg_x_preferred":[
         "Pirap\u00f3"
     ],
+    "name:nan_x_preferred":[
+        "Pirap\u00f3"
+    ],
     "name:nld_x_preferred":[
+        "Pirap\u00f3"
+    ],
+    "name:nob_x_preferred":[
         "Pirap\u00f3"
     ],
     "name:nor_x_preferred":[
         "Pirap\u00f3"
     ],
+    "name:pol_x_preferred":[
+        "Pirap\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "Pirap\u00f3"
+    ],
+    "name:ron_x_preferred":[
+        "Pirap\u00f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0430\u043f\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Pirap\u00f3"
+    ],
+    "name:swe_x_preferred":[
         "Pirap\u00f3"
     ],
     "name:unk_x_variant":[
         "Puerto Pirap\u00f3"
+    ],
+    "name:vie_x_preferred":[
+        "Pirap\u00f3"
+    ],
+    "name:vol_x_preferred":[
+        "Pirap\u00f3"
+    ],
+    "name:war_x_preferred":[
+        "Pirap\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u62c9\u6ce2"
     ],
     "qs:gn_country":"PY",
     "qs:gn_fcode":"PPL",
@@ -93,7 +138,7 @@
         }
     ],
     "wof:id":421167745,
-    "wof:lastmodified":1527716163,
+    "wof:lastmodified":1563280812,
     "wof:name":"Pirapo",
     "wof:parent_id":1108692689,
     "wof:placetype":"locality",

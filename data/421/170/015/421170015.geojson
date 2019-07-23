@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Carapegu\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Carapegu\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Carapegu\u00e1"
     ],
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421170015,
-    "wof:lastmodified":1561830094,
+    "wof:lastmodified":1563280869,
     "wof:name":"Carapegua",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

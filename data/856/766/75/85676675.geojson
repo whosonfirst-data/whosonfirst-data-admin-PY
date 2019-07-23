@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09aa\u09c7\u09a1\u09cd\u09b0\u09cb"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09aa\u09c7\u09a6\u09cd\u09b0\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u041f\u0435\u0434\u0440\u043e"
     ],
@@ -49,8 +52,14 @@
     "name:eng_x_preferred":[
         "San Pedro"
     ],
+    "name:eng_x_variant":[
+        "San Pedro Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento San Pedro"
+    ],
+    "name:eus_x_preferred":[
+        "San Pedroko departamendua"
     ],
     "name:fin_x_preferred":[
         "San Pedron maakunta"
@@ -93,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud398\ub4dc\ub85c \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "San Pedro"
     ],
     "name:lav_x_preferred":[
         "Sanpedro"
@@ -151,6 +163,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19 \u0e40\u0e1e\u0e42\u0e14\u0e23"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e40\u0e1b\u0e42\u0e14\u0e23"
     ],
     "name:tur_x_preferred":[
         "San Pedro"
@@ -301,7 +316,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830030,
+    "wof:lastmodified":1563280493,
     "wof:name":"San Pedro",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

@@ -49,8 +49,14 @@
     "name:eng_x_preferred":[
         "Guair\u00e1"
     ],
+    "name:eng_x_variant":[
+        "Guair\u00e1 Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Guair\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "Guair\u00e1ko departamendua"
     ],
     "name:fin_x_preferred":[
         "Guair\u00e1n maakunta"
@@ -102,6 +108,9 @@
     ],
     "name:kor_x_preferred":[
         "\uacfc\uc774\ub77c \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Guair\u00e1"
     ],
     "name:lav_x_preferred":[
         "Gvaira"
@@ -160,6 +169,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e01\u0e23\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e27\u0e22\u0e23\u0e32"
     ],
     "name:tur_x_preferred":[
         "Guaira"
@@ -310,7 +322,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1561830033,
+    "wof:lastmodified":1563280502,
     "wof:name":"Guair\u00e1",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

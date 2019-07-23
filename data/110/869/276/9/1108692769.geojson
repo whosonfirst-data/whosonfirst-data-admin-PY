@@ -31,7 +31,13 @@
     "mps:longitude":-56.762722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "General Elizardo Aquino"
+    ],
     "name:eng_x_preferred":[
+        "General Elizardo Aquino"
+    ],
+    "name:eus_x_preferred":[
         "General Elizardo Aquino"
     ],
     "name:fra_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108692769,
-    "wof:lastmodified":1561830070,
+    "wof:lastmodified":1563280714,
     "wof:name":"General Elizardo Aquino",
     "wof:parent_id":85676675,
     "wof:placetype":"county",
