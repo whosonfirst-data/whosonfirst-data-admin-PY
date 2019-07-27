@@ -26,6 +26,18 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Doktor Pedro P. Penija"
+    ],
+    "name:por_x_preferred":[
+        "Doctor Pedro P. Pe\u00f1a"
+    ],
+    "name:ron_x_preferred":[
+        "Doctor Pedro P. Pe\u00f1a"
+    ],
+    "name:spa_x_preferred":[
+        "Doctor Pedro P. Pe\u00f1a"
+    ],
     "name:und_x_variant":[
         "Doctor Pedro P. Pe\u00f1a"
     ],
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209062171,
-    "wof:lastmodified":1537683236,
+    "wof:lastmodified":1564225912,
     "wof:name":"Doctor Pedro P. Pena",
     "wof:parent_id":85632355,
     "wof:placetype":"locality",

@@ -27,6 +27,18 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Sartorio"
+    ],
+    "name:deu_x_preferred":[
+        "Sartorio"
+    ],
+    "name:fra_x_preferred":[
+        "Sartorio"
+    ],
+    "name:ita_x_preferred":[
+        "Sartorio"
+    ],
     "name:und_x_variant":[
         "Sactorio",
         "Sartorio"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276502757,
-    "wof:lastmodified":1537683197,
+    "wof:lastmodified":1564225891,
     "wof:name":"Sartorio",
     "wof:parent_id":1108692777,
     "wof:placetype":"locality",

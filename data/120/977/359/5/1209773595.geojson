@@ -25,6 +25,18 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alianza"
+    ],
+    "name:por_x_preferred":[
+        "Alianza"
+    ],
+    "name:spa_x_preferred":[
+        "Alianza"
+    ],
+    "name:swe_x_preferred":[
+        "Alianza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209773595,
-    "wof:lastmodified":1536381254,
+    "wof:lastmodified":1564225919,
     "wof:name":"Alianza",
     "wof:parent_id":1108718261,
     "wof:placetype":"locality",

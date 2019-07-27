@@ -27,10 +27,52 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Comuna Tunari"
+    ],
+    "name:epo_x_preferred":[
+        "Tunari"
+    ],
+    "name:fra_x_preferred":[
+        "Tunari"
+    ],
+    "name:ita_x_preferred":[
+        "Tunari"
+    ],
+    "name:msa_x_preferred":[
+        "Tunari"
+    ],
+    "name:nld_x_preferred":[
+        "Tunari"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Tunari"
+    ],
+    "name:por_x_preferred":[
+        "Tunari"
+    ],
+    "name:ron_x_preferred":[
+        "Tunari"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0443\u043d\u0430\u0440\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043d\u0430\u0440\u0456"
+    ],
     "name:und_x_variant":[
         "Tunani",
         "Fortin Tunari",
         "Tunari"
+    ],
+    "name:vie_x_preferred":[
+        "Tunari"
+    ],
+    "name:vol_x_preferred":[
+        "Tunari"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u7d0d\u91cc\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +97,7 @@
         }
     ],
     "wof:id":1209783973,
-    "wof:lastmodified":1537683233,
+    "wof:lastmodified":1564225923,
     "wof:name":"Tunari",
     "wof:parent_id":1108692879,
     "wof:placetype":"locality",

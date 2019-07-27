@@ -27,6 +27,57 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:ceb_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:deu_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:est_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:fra_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:ita_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e9\u30dc\u30fc"
+    ],
+    "name:nds_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:nld_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:pms_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:pol_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:por_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u0431\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:spa_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:swe_x_preferred":[
+        "Mirabeau"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440\u0430\u0431\u043e"
+    ],
     "name:und_x_variant":[
         "Miraveau",
         "Mirabeau"
@@ -54,7 +105,7 @@
         }
     ],
     "wof:id":1242769603,
-    "wof:lastmodified":1537683207,
+    "wof:lastmodified":1564226087,
     "wof:name":"Mirabeau",
     "wof:parent_id":1108692751,
     "wof:placetype":"locality",

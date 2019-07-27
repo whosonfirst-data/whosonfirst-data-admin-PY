@@ -27,6 +27,12 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "San Jorge"
+    ],
+    "name:spa_x_preferred":[
+        "San Jorge"
+    ],
     "name:und_x_variant":[
         "San Jorje",
         "San Jorge"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1310470537,
-    "wof:lastmodified":1537683198,
+    "wof:lastmodified":1564225988,
     "wof:name":"San Jorge",
     "wof:parent_id":421184639,
     "wof:placetype":"locality",

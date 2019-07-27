@@ -13,6 +13,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Alto Ver\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "Alto Ver\u00e1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u062a\u0648 \u0648\u0631\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Alto Ver\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Alto Ver\u00e1"
+    ],
+    "name:sco_x_preferred":[
+        "Alto Ver\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Alto Ver\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u97cb\u62c9"
+    ],
     "qs:gn_country":"PY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3439437,
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":421171107,
-    "wof:lastmodified":1505340608,
+    "wof:lastmodified":1564226053,
     "wof:name":"Alto Ver\u00e1",
     "wof:parent_id":1108692691,
     "wof:placetype":"locality",

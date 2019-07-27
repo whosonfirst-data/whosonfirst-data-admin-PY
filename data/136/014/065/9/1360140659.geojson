@@ -25,6 +25,21 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Matollar"
+    ],
+    "name:fra_x_preferred":[
+        "Matorral"
+    ],
+    "name:hun_x_preferred":[
+        "Matorral"
+    ],
+    "name:ita_x_preferred":[
+        "Matorral"
+    ],
+    "name:oci_x_preferred":[
+        "Matorral"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1360140659,
-    "wof:lastmodified":1536864270,
+    "wof:lastmodified":1564226016,
     "wof:name":"Matorral",
     "wof:parent_id":1108718261,
     "wof:placetype":"locality",

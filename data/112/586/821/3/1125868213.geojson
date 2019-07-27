@@ -22,6 +22,9 @@
     "name:unk_x_variant":[
         "Colonia Alfonso Tranquera"
     ],
+    "name:zho_x_preferred":[
+        "\u4e09\u6708\u4e00\u65e5\u93ae"
+    ],
     "qs_pg:aaroncc":"PY",
     "qs_pg:gn_country":"PY",
     "qs_pg:gn_fcode":"PPL",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125868213,
-    "wof:lastmodified":1509397137,
+    "wof:lastmodified":1564226058,
     "wof:name":"Primero de Marzo",
     "wof:parent_id":1108692527,
     "wof:placetype":"locality",
