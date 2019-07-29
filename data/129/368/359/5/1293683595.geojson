@@ -27,11 +27,98 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0628\u0648\u0644\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Cebolla"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0628\u06cc\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Cebolla"
+    ],
+    "name:ceb_x_preferred":[
+        "Cebolla"
+    ],
+    "name:deu_x_preferred":[
+        "Cebolla"
+    ],
+    "name:epo_x_preferred":[
+        "Cebolla"
+    ],
+    "name:eus_x_preferred":[
+        "Cebolla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0628\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Cebolla"
+    ],
+    "name:hun_x_preferred":[
+        "Cebolla"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0562\u0578\u056c\u0575\u0561"
+    ],
+    "name:ina_x_preferred":[
+        "Cebolla"
+    ],
+    "name:ita_x_preferred":[
+        "Cebolla"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u0431\u043e\u043b\u044c\u044f"
+    ],
+    "name:msa_x_preferred":[
+        "Cebolla"
+    ],
+    "name:nld_x_preferred":[
+        "Cebolla"
+    ],
+    "name:oci_x_preferred":[
+        "Cebolla"
+    ],
+    "name:pol_x_preferred":[
+        "Cebolla"
+    ],
+    "name:por_x_preferred":[
+        "Cebolla"
+    ],
+    "name:ron_x_preferred":[
+        "Cebolla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0431\u043e\u043b\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Cebolla"
+    ],
+    "name:sqi_x_preferred":[
+        "Cebolla"
+    ],
+    "name:swe_x_preferred":[
+        "Cebolla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0431\u043e\u043b\u044c\u044f"
+    ],
     "name:und_x_variant":[
         "Potrero Zebolla",
         "Zebolla",
         "Zebollo",
         "Cebolla"
+    ],
+    "name:vie_x_preferred":[
+        "Cebolla"
+    ],
+    "name:war_x_preferred":[
+        "Cebolla"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u6c83\u5229\u4e9a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +143,7 @@
         }
     ],
     "wof:id":1293683595,
-    "wof:lastmodified":1537683230,
+    "wof:lastmodified":1564225858,
     "wof:name":"Cebolla",
     "wof:parent_id":421201641,
     "wof:placetype":"locality",

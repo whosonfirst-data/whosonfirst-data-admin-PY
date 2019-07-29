@@ -26,6 +26,45 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Say"
+    ],
+    "name:ceb_x_preferred":[
+        "Say"
+    ],
+    "name:deu_x_preferred":[
+        "Say"
+    ],
+    "name:fin_x_preferred":[
+        "Say"
+    ],
+    "name:fra_x_preferred":[
+        "Say"
+    ],
+    "name:lat_x_preferred":[
+        "Say"
+    ],
+    "name:nld_x_preferred":[
+        "Say"
+    ],
+    "name:pol_x_preferred":[
+        "Say"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044d\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Say"
+    ],
+    "name:swe_x_preferred":[
+        "Say"
+    ],
+    "name:tur_x_preferred":[
+        "Say"
+    ],
+    "name:vie_x_preferred":[
+        "S\u1eady"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1226318909,
-    "wof:lastmodified":1536827312,
+    "wof:lastmodified":1564226163,
     "wof:name":"Say",
     "wof:parent_id":1108692485,
     "wof:placetype":"locality",

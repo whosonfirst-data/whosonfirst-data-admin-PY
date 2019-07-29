@@ -26,6 +26,9 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Charara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1260150889,
-    "wof:lastmodified":1536892351,
+    "wof:lastmodified":1564225955,
     "wof:name":"Charara",
     "wof:parent_id":1108692707,
     "wof:placetype":"locality",

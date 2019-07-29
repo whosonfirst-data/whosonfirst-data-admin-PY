@@ -34,6 +34,15 @@
     "name:eng_x_preferred":[
         "Carmelo Peralta"
     ],
+    "name:eus_x_preferred":[
+        "Capit\u00e1n Carmelo Peralta"
+    ],
+    "name:por_x_preferred":[
+        "Carmelo Peralta"
+    ],
+    "name:spa_x_preferred":[
+        "Capit\u00e1n Carmelo Peralta"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1108692781,
-    "wof:lastmodified":1555047530,
+    "wof:lastmodified":1564225980,
     "wof:name":"Carmelo Peralta",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

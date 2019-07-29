@@ -27,6 +27,36 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Deolinda"
+    ],
+    "name:deu_x_preferred":[
+        "Deolinda"
+    ],
+    "name:ext_x_preferred":[
+        "Deolinda"
+    ],
+    "name:fra_x_preferred":[
+        "Deolinda"
+    ],
+    "name:glg_x_preferred":[
+        "Deolinda"
+    ],
+    "name:ita_x_preferred":[
+        "Deolinda"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\uc62c\ub9b0\ub2e4"
+    ],
+    "name:por_x_preferred":[
+        "Deolinda"
+    ],
+    "name:spa_x_preferred":[
+        "Deolinda"
+    ],
+    "name:swe_x_preferred":[
+        "Deolinda"
+    ],
     "name:und_x_variant":[
         "Estancia Deolinda",
         "Deolinda"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1310075275,
-    "wof:lastmodified":1537683223,
+    "wof:lastmodified":1564225991,
     "wof:name":"Deolinda",
     "wof:parent_id":421171367,
     "wof:placetype":"locality",

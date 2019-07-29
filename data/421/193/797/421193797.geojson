@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa Elisa"
+    ],
     "name:deu_x_preferred":[
         "Villa Elisa"
     ],
@@ -29,6 +32,9 @@
         "Villa Elisa"
     ],
     "name:spa_x_preferred":[
+        "Villa Elisa"
+    ],
+    "name:swe_x_preferred":[
         "Villa Elisa"
     ],
     "name:unk_x_variant":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421193797,
-    "wof:lastmodified":1527716138,
+    "wof:lastmodified":1564226040,
     "wof:name":"Villa Elisa",
     "wof:parent_id":1108692793,
     "wof:placetype":"locality",

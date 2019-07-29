@@ -26,6 +26,18 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:glg_x_preferred":[
+        "Alborada"
+    ],
+    "name:pol_x_preferred":[
+        "Alborada"
+    ],
+    "name:spa_x_preferred":[
+        "Alborada"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0431\u043e\u0440\u0430\u0434\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1193234215,
-    "wof:lastmodified":1536363784,
+    "wof:lastmodified":1564225947,
     "wof:name":"Alborada",
     "wof:parent_id":421171777,
     "wof:placetype":"locality",

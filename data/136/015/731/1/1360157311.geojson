@@ -26,6 +26,9 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yatay"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1360157311,
-    "wof:lastmodified":1536840534,
+    "wof:lastmodified":1564226015,
     "wof:name":"Yatay",
     "wof:parent_id":1108692815,
     "wof:placetype":"locality",

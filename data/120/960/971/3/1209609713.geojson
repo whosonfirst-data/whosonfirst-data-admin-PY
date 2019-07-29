@@ -26,6 +26,15 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Paso Barreto"
+    ],
+    "name:por_x_preferred":[
+        "Paso Barreto"
+    ],
+    "name:spa_x_preferred":[
+        "Paso Barreto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632355
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209609713,
-    "wof:lastmodified":1536281888,
+    "wof:lastmodified":1564225932,
     "wof:name":"Paso Barreto",
     "wof:parent_id":85632355,
     "wof:placetype":"locality",

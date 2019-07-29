@@ -26,6 +26,12 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbocayaty"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u535a\u5361\u4e9e\u8482\u5fb7\u723e\u74dc\u4f0a\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1343948759,
-    "wof:lastmodified":1537035395,
+    "wof:lastmodified":1564225828,
     "wof:name":"Mbocayaty",
     "wof:parent_id":1108692519,
     "wof:placetype":"locality",

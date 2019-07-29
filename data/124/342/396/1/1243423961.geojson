@@ -27,9 +27,27 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Jos\u00e9 Falc\u00f3n"
+    ],
+    "name:grn_x_preferred":[
+        "Jos\u00e9 Falc\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Jos\u00e9 Falc\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Jos\u00e9 Falc\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Jos\u00e9 Falc\u00f3n"
+    ],
     "name:und_x_variant":[
         "Colonia Jose Palc\u00f3n",
         "Colonia Falc\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f55\u585e\u6cd5\u723e\u5b54"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243423961,
-    "wof:lastmodified":1537683228,
+    "wof:lastmodified":1564226093,
     "wof:name":"Colonia Falcon",
     "wof:parent_id":1108692813,
     "wof:placetype":"locality",

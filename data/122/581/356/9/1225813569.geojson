@@ -26,6 +26,9 @@
     "iso:country":"PY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tres Pozos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1225813569,
-    "wof:lastmodified":1537057670,
+    "wof:lastmodified":1564226142,
     "wof:name":"Tres Pozos",
     "wof:parent_id":421171777,
     "wof:placetype":"locality",

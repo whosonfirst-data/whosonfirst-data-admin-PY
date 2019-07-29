@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Corpus Christi"
     ],
+    "name:ceb_x_preferred":[
+        "Corpus Christi"
+    ],
     "name:ces_x_preferred":[
         "Corpus Christi"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421168209,
-    "wof:lastmodified":1527716098,
+    "wof:lastmodified":1564226039,
     "wof:name":"Corpus Christi",
     "wof:parent_id":1108692451,
     "wof:placetype":"locality",
