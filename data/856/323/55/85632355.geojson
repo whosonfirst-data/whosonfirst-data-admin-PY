@@ -14,6 +14,9 @@
     "itu:country_code":[
         "595"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PY"
+    ],
     "lbl:latitude":-21.686079,
     "lbl:longitude":-60.13994,
     "mps:latitude":-21.686079,
@@ -1009,7 +1012,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280468,
+    "wof:lastmodified":1565733756,
     "wof:name":"Paraguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

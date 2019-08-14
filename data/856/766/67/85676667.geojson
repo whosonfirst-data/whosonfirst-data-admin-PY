@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CR"
+    ],
     "lbl:latitude":-25.25421,
     "lbl:longitude":-56.954963,
     "mps:latitude":-25.237897,
@@ -298,9 +301,6 @@
         }
     ],
     "wof:id":85676667,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -309,7 +309,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280490,
+    "wof:lastmodified":1565733766,
     "wof:name":"Cordillera",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

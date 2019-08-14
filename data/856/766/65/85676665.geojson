@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CN"
+    ],
     "lbl:latitude":-22.799672,
     "lbl:longitude":-57.220846,
     "mps:latitude":-22.845673,
@@ -262,9 +265,6 @@
         }
     ],
     "wof:id":85676665,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -273,7 +273,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280498,
+    "wof:lastmodified":1565733768,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PH"
+    ],
     "lbl:latitude":-23.558181,
     "lbl:longitude":-58.709753,
     "mps:latitude":-23.475628,
@@ -307,9 +310,6 @@
         }
     ],
     "wof:id":85676671,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -318,7 +318,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280504,
+    "wof:lastmodified":1565733771,
     "wof:name":"Presidente Hayes",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

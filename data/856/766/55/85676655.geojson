@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AG"
+    ],
     "lbl:latitude":-20.552027,
     "lbl:longitude":-59.011693,
     "mps:latitude":-20.366115,
@@ -302,9 +305,6 @@
         }
     ],
     "wof:id":85676655,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -313,7 +313,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280501,
+    "wof:lastmodified":1565733769,
     "wof:name":"Alto Paraguay",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

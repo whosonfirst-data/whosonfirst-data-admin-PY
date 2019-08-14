@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PG"
+    ],
     "lbl:latitude":-26.028277,
     "lbl:longitude":-57.089935,
     "mps:latitude":-26.032562,
@@ -257,9 +260,6 @@
         }
     ],
     "wof:id":85676699,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -268,7 +268,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280499,
+    "wof:lastmodified":1565733769,
     "wof:name":"Paraguar\u00ed",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

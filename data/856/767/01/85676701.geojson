@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AM"
+    ],
     "lbl:latitude":-22.752375,
     "lbl:longitude":-55.941224,
     "mps:latitude":-22.76856,
@@ -304,9 +307,6 @@
         }
     ],
     "wof:id":85676701,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -315,7 +315,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280478,
+    "wof:lastmodified":1565733761,
     "wof:name":"Amambay",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

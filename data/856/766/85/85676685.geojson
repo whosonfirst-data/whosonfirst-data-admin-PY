@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GU"
+    ],
     "lbl:latitude":-25.778403,
     "lbl:longitude":-56.309143,
     "mps:latitude":-25.786916,
@@ -311,9 +314,6 @@
         }
     ],
     "wof:id":85676685,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -322,7 +322,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280502,
+    "wof:lastmodified":1565733770,
     "wof:name":"Guair\u00e1",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

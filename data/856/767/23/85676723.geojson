@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IT"
+    ],
     "lbl:latitude":-26.81098,
     "lbl:longitude":-55.743075,
     "mps:latitude":-26.796252,
@@ -314,9 +317,6 @@
         }
     ],
     "wof:id":85676723,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -325,7 +325,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280481,
+    "wof:lastmodified":1565733762,
     "wof:name":"Itap\u00faa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

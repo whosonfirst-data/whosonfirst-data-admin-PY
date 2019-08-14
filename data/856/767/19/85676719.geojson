@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CY"
+    ],
     "lbl:latitude":-24.260285,
     "lbl:longitude":-54.900885,
     "mps:latitude":-24.237901,
@@ -317,9 +320,6 @@
         }
     ],
     "wof:id":85676719,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -328,7 +328,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280473,
+    "wof:lastmodified":1565733759,
     "wof:name":"Canindey\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

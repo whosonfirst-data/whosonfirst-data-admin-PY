@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CZ"
+    ],
     "lbl:latitude":-26.310387,
     "lbl:longitude":-56.189417,
     "mps:latitude":-26.36153,
@@ -305,9 +308,6 @@
         }
     ],
     "wof:id":85676713,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -316,7 +316,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280484,
+    "wof:lastmodified":1565733764,
     "wof:name":"Caazap\u00e1",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

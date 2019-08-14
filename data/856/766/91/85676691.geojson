@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NE"
+    ],
     "lbl:latitude":-26.912383,
     "lbl:longitude":-57.948086,
     "mps:latitude":-26.932011,
@@ -311,9 +314,6 @@
         }
     ],
     "wof:id":85676691,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -322,7 +322,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280496,
+    "wof:lastmodified":1565733768,
     "wof:name":"\u00d1eembuc\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

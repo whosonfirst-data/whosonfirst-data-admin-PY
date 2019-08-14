@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CE"
+    ],
     "lbl:latitude":-25.508469,
     "lbl:longitude":-57.444108,
     "mps:latitude":-25.453984,
@@ -325,9 +328,6 @@
         }
     ],
     "wof:id":85676681,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -336,7 +336,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280495,
+    "wof:lastmodified":1565733767,
     "wof:name":"Central",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

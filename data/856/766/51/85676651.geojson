@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "capital district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AS"
+    ],
     "lbl:latitude":-25.283963,
     "lbl:longitude":-57.585571,
     "mps:latitude":-25.310335,
@@ -586,9 +589,6 @@
         }
     ],
     "wof:id":85676651,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "grn",
         "spa"
@@ -597,7 +597,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1563280489,
+    "wof:lastmodified":1565733765,
     "wof:name":"Asunci\u00f3n",
     "wof:parent_id":85632355,
     "wof:placetype":"region",
