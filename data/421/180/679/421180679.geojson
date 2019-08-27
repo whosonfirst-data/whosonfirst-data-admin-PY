@@ -10,8 +10,12 @@
     "geom:latitude":-25.56667,
     "geom:longitude":-56.28333,
     "iso:country":"PY",
+    "lbl:bbox":"-56.30333,-25.58667,-56.26333,-25.54667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Capit\u00e1n Mauricio Jos\u00e9 Troche"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Capit\u00e1n Mauricio Jos\u00e9 Troche"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cosme"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3438991,
         "gp:id":377545,
-        "qs:id":1207080,
+        "qs_pg:id":1207080,
         "wd:id":"Q2412155",
         "wk:page":"Capit\u00e1n Mauricio Jos\u00e9 Troche"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421180679,
-    "wof:lastmodified":1563280833,
+    "wof:lastmodified":1566609562,
     "wof:name":"Colonia Mauricio Jos\u00e9 Troche",
     "wof:parent_id":421183417,
     "wof:placetype":"locality",

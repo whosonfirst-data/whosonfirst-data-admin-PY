@@ -25,8 +25,12 @@
     "gn:population":2000,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-54.81989,-26.51324,-54.77989,-26.47324",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -37,7 +41,7 @@
         "gn:id":11524096
     },
     "wof:country":"PY",
-    "wof:geomhash":"22f629ca075d7f8810f1682635c37c12",
+    "wof:geomhash":"393d3c450e5b5930ee45c8b4a5f305d3",
     "wof:hierarchy":[
         {
             "country_id":85632355,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209496381,
-    "wof:lastmodified":1536285322,
+    "wof:lastmodified":1566609362,
     "wof:name":"Colonia San Lorenzo",
     "wof:parent_id":85632355,
     "wof:placetype":"locality",
@@ -58,9 +62,9 @@
 },
   "bbox": [
     -54.79989000000001,
-    -26.493240000000004,
+    -26.49324,
     -54.79989000000001,
-    -26.493240000000004
+    -26.49324
 ],
   "geometry": {"coordinates":[-54.79989000000001,-26.49324],"type":"Point"}
 }

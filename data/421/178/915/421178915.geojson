@@ -10,8 +10,12 @@
     "geom:latitude":-27.16667,
     "geom:longitude":-56.51667,
     "iso:country":"PY",
+    "lbl:bbox":"-56.53667,-27.18667,-56.49667,-27.14667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "General Delgado"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "General Delgado"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia General Delgado"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3438076,
         "gp:id":378382,
-        "qs:id":288815,
+        "qs_pg:id":288815,
         "wd:id":"Q1985386",
         "wk:page":"General Delgado"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421178915,
-    "wof:lastmodified":1563280880,
+    "wof:lastmodified":1566609592,
     "wof:name":"General Delgado",
     "wof:parent_id":1108692743,
     "wof:placetype":"locality",

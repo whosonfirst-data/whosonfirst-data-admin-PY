@@ -10,8 +10,12 @@
     "geom:latitude":-25.96667,
     "geom:longitude":-57.26667,
     "iso:country":"PY",
+    "lbl:bbox":"-57.28667,-25.98667,-57.24667,-25.94667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Quiindy"
@@ -43,7 +47,7 @@
     "name:spa_x_preferred":[
         "Quiindy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quyyndy"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3437215,
         "gp:id":379190,
-        "qs:id":1044663,
+        "qs_pg:id":1044663,
         "wd:id":"Q2410952",
         "wk:page":"Qui\u00edndy"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421168395,
-    "wof:lastmodified":1563280798,
+    "wof:lastmodified":1566609549,
     "wof:name":"Quiindy",
     "wof:parent_id":1108692721,
     "wof:placetype":"locality",

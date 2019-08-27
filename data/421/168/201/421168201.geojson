@@ -10,8 +10,12 @@
     "geom:latitude":-24.43333,
     "geom:longitude":-56.7,
     "iso:country":"PY",
+    "lbl:bbox":"-56.72,-24.45333,-56.68,-24.41333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "General Elizardo Aquino"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "General Elizardo Aquino"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia General Acuino"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3438070,
         "gp:id":378383,
-        "qs:id":1044682,
+        "qs_pg:id":1044682,
         "wd:id":"Q1989449",
         "wk:page":"General Elizardo Aquino"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421168201,
-    "wof:lastmodified":1563280801,
+    "wof:lastmodified":1566609550,
     "wof:name":"General Elizardo Aquino",
     "wof:parent_id":1108692769,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-61.17,-19.47,-61.13,-19.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pasto",
         "Pastos"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260038193,
-    "wof:lastmodified":1537683235,
+    "wof:lastmodified":1566609387,
     "wof:name":"Pastos",
     "wof:parent_id":1092009601,
     "wof:placetype":"locality",

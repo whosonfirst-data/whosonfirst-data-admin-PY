@@ -10,8 +10,12 @@
     "geom:latitude":-25.26703,
     "geom:longitude":-57.49107,
     "iso:country":"PY",
+    "lbl:bbox":"-57.51107,-25.28703,-57.47107,-25.24703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u0648\u0643\u064a"
@@ -166,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luqua"
     ],
     "name:urd_x_preferred":[
@@ -216,7 +220,7 @@
     "wof:concordances":{
         "gn:id":3437809,
         "gp:id":379186,
-        "qs:id":489650,
+        "qs_pg:id":489650,
         "wd:id":"Q946497",
         "wk:page":"Luque"
     },
@@ -233,7 +237,7 @@
         }
     ],
     "wof:id":421179805,
-    "wof:lastmodified":1563280879,
+    "wof:lastmodified":1566609592,
     "wof:name":"Luque",
     "wof:parent_id":421189267,
     "wof:placetype":"locality",

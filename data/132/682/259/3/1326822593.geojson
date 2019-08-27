@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.80333,-25.77,-57.76333,-25.73",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puerto Lobata",
         "Puerto Lobato"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326822593,
-    "wof:lastmodified":1537683203,
+    "wof:lastmodified":1566609251,
     "wof:name":"Puerto Lobato",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

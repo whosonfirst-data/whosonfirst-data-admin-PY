@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.30997,-25.90083,-57.26997,-25.86083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Roque Gonz\u00e1lez Santacruz",
         "Tabapy",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343235221,
-    "wof:lastmodified":1537683199,
+    "wof:lastmodified":1566609267,
     "wof:name":"Roque Gonzalez de Santa Cruz",
     "wof:parent_id":1108692725,
     "wof:placetype":"locality",

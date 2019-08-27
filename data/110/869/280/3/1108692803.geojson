@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-27.079612,
     "lbl:longitude":-58.109206,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"\u00d1eembucu",
     "meso:gadm_adm2":"Desmochados",
     "meso:gaul_adm2":"Desmochados",
@@ -31,6 +33,7 @@
     "mps:longitude":-58.109206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0414\u0435\u0441\u043c\u043e\u0447\u0430\u0434\u043e"
     ],
@@ -65,9 +68,9 @@
         "\u5fb7\u65af\u83ab\u67e5\u591a\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108692803,
-    "wof:lastmodified":1563280619,
+    "wof:lastmodified":1566609390,
     "wof:name":"Desmochados",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

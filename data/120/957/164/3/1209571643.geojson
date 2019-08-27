@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-58.00333,-20.88667,-57.96333,-20.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632355
@@ -35,7 +39,7 @@
         "gn:id":3437368
     },
     "wof:country":"PY",
-    "wof:geomhash":"e619eb8f49143aed24c3c89d33f7fb69",
+    "wof:geomhash":"f6ac3e9e7a2ef36bb15954c8ea974a6a",
     "wof:hierarchy":[
         {
             "country_id":85632355,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209571643,
-    "wof:lastmodified":1536283065,
+    "wof:lastmodified":1566609363,
     "wof:name":"Puerto Mihanovich",
     "wof:parent_id":85632355,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -57.98333,
-    -20.866670000000006,
+    -20.86667000000001,
     -57.98333,
-    -20.866670000000006
+    -20.86667000000001
 ],
   "geometry": {"coordinates":[-57.98333,-20.86667000000001],"type":"Point"}
 }

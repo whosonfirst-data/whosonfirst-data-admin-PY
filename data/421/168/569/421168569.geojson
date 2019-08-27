@@ -10,8 +10,12 @@
     "geom:latitude":-26.2,
     "geom:longitude":-56.75,
     "iso:country":"PY",
+    "lbl:bbox":"-56.77,-26.22,-56.73,-26.18",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mbuyapey"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3437744,
         "gp:id":379209,
-        "qs:id":1044674,
+        "qs_pg:id":1044674,
         "wd:id":"Q2410379",
         "wk:page":"Mbuyapey"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421168569,
-    "wof:lastmodified":1563280794,
+    "wof:lastmodified":1566609548,
     "wof:name":"Mbuyapey",
     "wof:parent_id":1108692717,
     "wof:placetype":"locality",

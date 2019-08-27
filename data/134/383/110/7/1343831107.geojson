@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.27,-26.48667,-57.23,-26.44667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mora-cu\u00e9",
         "Moras-cu\u00e9"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343831107,
-    "wof:lastmodified":1537683206,
+    "wof:lastmodified":1566609265,
     "wof:name":"Moras-cue",
     "wof:parent_id":1108692707,
     "wof:placetype":"locality",

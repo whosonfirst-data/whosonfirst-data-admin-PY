@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.685632,
     "lbl:longitude":-54.749046,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Alto Parana",
     "meso:gadm_adm2":"Los Cedrales",
     "meso:gaul_adm2":"Los Cedrales",
@@ -31,6 +33,7 @@
     "mps:longitude":-54.749046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Los Cedrales"
@@ -84,9 +87,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gp:id":26810783,
         "hasc:id":"PY.AA.LC",
-        "qs:id":772926,
+        "qs_pg:id":772926,
         "wd:id":"Q2445810"
     },
     "wof:country":"PY",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421182833,
-    "wof:lastmodified":1563280881,
+    "wof:lastmodified":1566609593,
     "wof:name":"Los Cedrales",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

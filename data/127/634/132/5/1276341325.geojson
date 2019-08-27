@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-56.22868,-25.47018,-56.18868,-25.43018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Colonia Doctor Domingo Montanaro"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276341325,
-    "wof:lastmodified":1537683228,
+    "wof:lastmodified":1566609336,
     "wof:name":"Colonia Doctor Domingo Montanaro",
     "wof:parent_id":421184207,
     "wof:placetype":"locality",

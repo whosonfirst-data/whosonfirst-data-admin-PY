@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.82,-22.50333,-57.78,-22.46333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fonciere",
         "Puerto Fonciere"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310301723,
-    "wof:lastmodified":1537683204,
+    "wof:lastmodified":1566609526,
     "wof:name":"Puerto Fonciere",
     "wof:parent_id":421201641,
     "wof:placetype":"locality",

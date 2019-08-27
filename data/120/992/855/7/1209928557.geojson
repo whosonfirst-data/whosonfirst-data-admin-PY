@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-54.62359,-25.59858,-54.58359,-25.55858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Tres Fronteras"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209928557,
-    "wof:lastmodified":1564225929,
+    "wof:lastmodified":1566609364,
     "wof:name":"Tres Fronteras",
     "wof:parent_id":421171537,
     "wof:placetype":"locality",

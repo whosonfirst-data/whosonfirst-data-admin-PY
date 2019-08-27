@@ -10,8 +10,12 @@
     "geom:latitude":-25.95,
     "geom:longitude":-56.31667,
     "iso:country":"PY",
+    "lbl:bbox":"-56.33667,-25.97,-56.29667,-25.93",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "\u00d1um\u00ed"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3437647,
         "gp:id":378577,
-        "qs:id":1207101,
+        "qs_pg:id":1207101,
         "wd:id":"Q2410962"
     },
     "wof:country":"PY",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421196593,
-    "wof:lastmodified":1563280854,
+    "wof:lastmodified":1566609573,
     "wof:name":"\u00d1um\u00ed",
     "wof:parent_id":1108692609,
     "wof:placetype":"locality",

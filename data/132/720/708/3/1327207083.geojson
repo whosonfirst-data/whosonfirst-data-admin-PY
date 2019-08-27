@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.19204,-25.6058,-57.15204,-25.5658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327207083,
-    "wof:lastmodified":1537005547,
+    "wof:lastmodified":1566609258,
     "wof:name":"Compania Costa Segunda",
     "wof:parent_id":421173745,
     "wof:placetype":"locality",

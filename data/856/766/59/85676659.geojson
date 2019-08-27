@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-21.816762,
     "lbl:longitude":-61.209021,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-21.835017,
     "mps:longitude":-61.205685,
     "mz:hierarchy_label":1,
@@ -168,7 +169,7 @@
         "Boquer\u00f3n"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0b95\u0bcd\u0bb5\u0bbf  \u0baa\u0bbe\u0baf\u0bc2\u0bb0\u0bcb\u0ba9\u0bcd"
+        "\u0bb8\u0bcd\u0b95\u0bcd\u0bb5\u0bbf \u0baa\u0bbe\u0baf\u0bc2\u0bb0\u0bcb\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "XVI \u0c2c\u0c4b\u0c15\u0c4d\u0c35\u0c46\u0c30\u0c3e\u0c28\u0c4d"
@@ -185,7 +186,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043a\u0435\u0440\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Decimosexto Departamento"
     ],
     "name:urd_x_preferred":[
@@ -275,9 +276,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"91,669",
     "statoids:area_mi":"35,394",
     "statoids:as_of_date":"2002-08-28",
@@ -302,7 +303,7 @@
         "gp:id":2346450,
         "hasc:id":"PY.BQ",
         "iso:id":"PY-19",
-        "qs:id":894943,
+        "qs_pg:id":894943,
         "unlc:id":"PY-19",
         "wd:id":"Q741017",
         "wk:page":"Boquer\u00f3n department"
@@ -325,11 +326,10 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1565733765,
+    "wof:lastmodified":1566609296,
     "wof:name":"Boquer\u00f3n",
     "wof:parent_id":85632355,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":41106,
     "wof:population_rank":7,

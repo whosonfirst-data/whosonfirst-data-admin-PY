@@ -10,8 +10,12 @@
     "geom:latitude":-25.18333,
     "geom:longitude":-57.35,
     "iso:country":"PY",
+    "lbl:bbox":"-57.37,-25.20333,-57.33,-25.16333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nueva Colombia"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Nueva Colombia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Nueva Colombia"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3437654,
         "gp:id":378572,
-        "qs:id":243262,
+        "qs_pg:id":243262,
         "wd:id":"Q2410393",
         "wk:page":"Nueva Colombia District"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421204667,
-    "wof:lastmodified":1563280821,
+    "wof:lastmodified":1566609558,
     "wof:name":"Nueva Colombia",
     "wof:parent_id":1108692505,
     "wof:placetype":"locality",

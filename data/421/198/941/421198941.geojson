@@ -10,8 +10,12 @@
     "geom:latitude":-25.58333,
     "geom:longitude":-56.31667,
     "iso:country":"PY",
+    "lbl:bbox":"-56.33667,-25.60333,-56.29667,-25.56333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Doctor Botrell"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Doctor Botrell"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Doctor Bottrel"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3438756,
         "gp:id":377698,
-        "qs:id":1207088,
+        "qs_pg:id":1207088,
         "wd:id":"Q3712443",
         "wk:page":"Doctor Botrell"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421198941,
-    "wof:lastmodified":1563280853,
+    "wof:lastmodified":1566609573,
     "wof:name":"Doctor Botrell",
     "wof:parent_id":1108692615,
     "wof:placetype":"locality",

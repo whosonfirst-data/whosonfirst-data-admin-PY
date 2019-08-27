@@ -10,8 +10,12 @@
     "geom:latitude":-27.0,
     "geom:longitude":-58.3,
     "iso:country":"PY",
+    "lbl:bbox":"-58.32,-27.02,-58.28,-26.98",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Isla Umb\u00fa"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Isla Umb\u00fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Umb\u00fa"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3437957,
         "gp:id":378422,
-        "qs:id":1207094,
+        "qs_pg:id":1207094,
         "wd:id":"Q2411034",
         "wk:page":"Isla Umb\u00fa"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421198943,
-    "wof:lastmodified":1563280854,
+    "wof:lastmodified":1566609573,
     "wof:name":"Isla Umb\u00fa",
     "wof:parent_id":1108692481,
     "wof:placetype":"locality",

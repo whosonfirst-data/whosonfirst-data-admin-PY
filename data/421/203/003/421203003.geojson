@@ -10,8 +10,12 @@
     "geom:latitude":-27.35,
     "geom:longitude":-55.78333,
     "iso:country":"PY",
+    "lbl:bbox":"-55.80333,-27.37,-55.76333,-27.33",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Cambyret\u00e1"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3439256,
         "gp:id":377369,
-        "qs:id":53781,
+        "qs_pg:id":53781,
         "wd:id":"Q3651213"
     },
     "wof:country":"PY",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421203003,
-    "wof:lastmodified":1563280824,
+    "wof:lastmodified":1566609559,
     "wof:name":"Cambyret\u00e1",
     "wof:parent_id":1108692865,
     "wof:placetype":"locality",

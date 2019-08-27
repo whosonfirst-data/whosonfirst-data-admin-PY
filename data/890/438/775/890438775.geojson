@@ -11,10 +11,14 @@
     "geom:longitude":-56.08333,
     "gn:country":"PY",
     "gn:fcode":"PPL",
-    "gn:pop":1580,
+    "gn:population":1580,
     "iso:country":"PY",
+    "lbl:bbox":"-56.10333,-26.20333,-56.06333,-26.16333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646\u0627 \u0641\u064a\u0633\u062a\u0627"
     ],
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3439325,
         "gp:id":377350,
-        "qs:id":1044708,
+        "qs_pg:id":1044708,
         "wk:page":"Buena Vista"
     },
     "wof:country":"PY",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890438775,
-    "wof:lastmodified":1564226057,
+    "wof:lastmodified":1566609608,
     "wof:name":"Buena Vista",
     "wof:parent_id":1108692843,
     "wof:placetype":"locality",

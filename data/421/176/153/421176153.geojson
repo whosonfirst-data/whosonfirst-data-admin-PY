@@ -10,8 +10,12 @@
     "geom:latitude":-26.01667,
     "geom:longitude":-54.76667,
     "iso:country":"PY",
+    "lbl:bbox":"-54.78667,-26.03667,-54.74667,-25.99667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0627\u0643\u0648\u0646\u062f\u0627\u064a"
@@ -43,7 +47,7 @@
     "name:spa_x_preferred":[
         "\u00d1acunday"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto \u00d1acunday"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3437701,
         "gp:id":378559,
-        "qs:id":1044673,
+        "qs_pg:id":1044673,
         "wd:id":"Q2445774",
         "wk:page":"\u00d1acunday"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421176153,
-    "wof:lastmodified":1563280885,
+    "wof:lastmodified":1566609594,
     "wof:name":"\u00d1acunday",
     "wof:parent_id":1108692557,
     "wof:placetype":"locality",

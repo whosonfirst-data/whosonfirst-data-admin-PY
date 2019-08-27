@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-19.953598,
     "lbl:longitude":-60.198768,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Alto Paraguay",
     "meso:gadm_adm2":"Mayor Pablo Lagerenza",
     "meso:gaul_adm2":"Mayor Pablo La Gerenza",
@@ -31,6 +33,7 @@
     "mps:longitude":-60.198768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Bah\u00eda Negra"
     ],
@@ -71,7 +74,7 @@
         "\u4e0b\u5167\u683c\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632355,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692779,
-    "wof:lastmodified":1563280697,
+    "wof:lastmodified":1566609468,
     "wof:name":"Bahia Negra",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

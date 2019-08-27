@@ -10,8 +10,12 @@
     "geom:latitude":-24.7,
     "geom:longitude":-56.55,
     "iso:country":"PY",
+    "lbl:bbox":"-56.57,-24.72,-56.53,-24.68",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0646\u062a\u06cc\u06a9\u06cc\u0646\u06a9\u0648 \u062f\u0648 \u062f\u06cc\u06a9\u06cc\u0645\u0628\u0631"
@@ -28,7 +32,7 @@
     "name:spa_x_preferred":[
         "25 de Diciembre"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Veinticinco de Diciembre"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3436744,
         "gp:id":379130,
-        "qs:id":886546,
+        "qs_pg:id":886546,
         "wd:id":"Q2475435",
         "wk:page":"Veinticinco de Diciembre"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421200557,
-    "wof:lastmodified":1527716421,
+    "wof:lastmodified":1566609575,
     "wof:name":"Veinticinco de Diciembre",
     "wof:parent_id":421189517,
     "wof:placetype":"locality",

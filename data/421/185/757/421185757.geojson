@@ -10,8 +10,12 @@
     "geom:latitude":-25.18333,
     "geom:longitude":-56.4,
     "iso:country":"PY",
+    "lbl:bbox":"-56.42,-25.20333,-56.38,-25.16333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Caraya\u00f3"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3439163,
         "gp:id":379230,
-        "qs:id":1044699,
+        "qs_pg:id":1044699,
         "wd:id":"Q1751129",
         "wk:page":"Caraya\u00f3"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421185757,
-    "wof:lastmodified":1563280903,
+    "wof:lastmodified":1566609607,
     "wof:name":"Caraya\u00f3",
     "wof:parent_id":1108692623,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.638513,
     "lbl:longitude":-55.731908,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Itapua",
     "meso:gadm_adm2":"Alto Ver\u00e1",
     "meso:gaul_adm2":"Alto Vera",
@@ -31,6 +33,7 @@
     "mps:longitude":-55.731908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Alto Ver\u00e1"
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":26810770,
         "hasc:id":"PY.IT.AV",
-        "qs:id":1002650,
+        "qs_pg:id":1002650,
         "wd:id":"Q1987240"
     },
     "wof:country":"PY",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421184635,
-    "wof:lastmodified":1563280864,
+    "wof:lastmodified":1566609578,
     "wof:name":"Alto Vera",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

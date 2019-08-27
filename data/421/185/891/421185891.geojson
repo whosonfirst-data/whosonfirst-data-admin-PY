@@ -10,8 +10,12 @@
     "geom:latitude":-26.75,
     "geom:longitude":-55.26667,
     "iso:country":"PY",
+    "lbl:bbox":"-55.28667,-26.77,-55.24667,-26.73",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0415\u0434\u0435\u043b\u0438\u0440\u0430"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3438743,
         "gp:id":377709,
-        "qs:id":1054200,
+        "qs_pg:id":1054200,
         "wd:id":"Q1985377",
         "wk:page":"Edelira"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421185891,
-    "wof:lastmodified":1563280904,
+    "wof:lastmodified":1566609607,
     "wof:name":"Edelira",
     "wof:parent_id":1108692679,
     "wof:placetype":"locality",

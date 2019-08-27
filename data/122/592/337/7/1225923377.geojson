@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.67068,-25.93705,-57.63068,-25.89705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Ybyr\u00e1 Morot\u00ed"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225923377,
-    "wof:lastmodified":1537683195,
+    "wof:lastmodified":1566609645,
     "wof:name":"Ybyra Moroti",
     "wof:parent_id":1108692791,
     "wof:placetype":"locality",

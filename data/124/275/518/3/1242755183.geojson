@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-56.87748,-27.39227,-56.83748,-27.35227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Estancia Santa Clara"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242755183,
-    "wof:lastmodified":1537683212,
+    "wof:lastmodified":1566609614,
     "wof:name":"Estancia Santa Clara",
     "wof:parent_id":421204309,
     "wof:placetype":"locality",

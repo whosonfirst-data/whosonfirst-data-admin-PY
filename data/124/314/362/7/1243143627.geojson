@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-56.4703,-24.08394,-56.4303,-24.04394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "General Isidoro Resqu\u00edn"
     ],
@@ -46,9 +50,6 @@
     ],
     "name:spa_x_variant":[
         "General Francisco I. Resqu\u00edn",
-        "General Isidoro Resqu\u00edn"
-    ],
-    "name:und_x_variant":[
         "General Isidoro Resqu\u00edn"
     ],
     "src:geom":"geonames",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1243143627,
-    "wof:lastmodified":1564226077,
+    "wof:lastmodified":1566609620,
     "wof:name":"General Francisco Isidoro Resquin",
     "wof:parent_id":1108692485,
     "wof:placetype":"locality",

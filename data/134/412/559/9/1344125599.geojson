@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-58.63667,-19.75333,-58.59667,-19.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guayra Toro",
         "Guyr\u00e1 Toro"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344125599,
-    "wof:lastmodified":1537683209,
+    "wof:lastmodified":1566609263,
     "wof:name":"Guyra Toro",
     "wof:parent_id":1108692779,
     "wof:placetype":"locality",

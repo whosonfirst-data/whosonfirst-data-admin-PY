@@ -10,8 +10,12 @@
     "geom:latitude":-24.96667,
     "geom:longitude":-54.9,
     "iso:country":"PY",
+    "lbl:bbox":"-54.92,-24.98667,-54.88,-24.94667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0627\u0644\u0628\u0631\u062a\u0648"
@@ -98,7 +102,7 @@
         "San Alberto"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0b86\u0bb3\u0bcd\u0baa\u0bc7\u0bb0\u0bcd\u0b9f\u0bc1"
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0b86\u0bb3\u0bcd\u0baa\u0bc7\u0bb0\u0bcd\u0b9f\u0bc1"
     ],
     "name:tel_x_preferred":[
         "\u0c36\u0c3e\u0c28\u0c4d \u0c05\u0c32\u0c4d\u0c2c\u0c46\u0c30\u0c4d\u0c1f\u0c4b"
@@ -152,7 +156,7 @@
     "wof:concordances":{
         "gn:id":3437136,
         "gp:id":378943,
-        "qs:id":1063763,
+        "qs_pg:id":1063763,
         "wd:id":"Q2445785",
         "wk:page":"San Alberto, Paraguay"
     },
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":421186325,
-    "wof:lastmodified":1563280849,
+    "wof:lastmodified":1566609571,
     "wof:name":"San Alberto",
     "wof:parent_id":1108692575,
     "wof:placetype":"locality",

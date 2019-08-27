@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.35333,-23.43667,-57.31333,-23.39667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326900145,
-    "wof:lastmodified":1536951282,
+    "wof:lastmodified":1566609254,
     "wof:name":"Puerto Rio Negro",
     "wof:parent_id":421201641,
     "wof:placetype":"locality",

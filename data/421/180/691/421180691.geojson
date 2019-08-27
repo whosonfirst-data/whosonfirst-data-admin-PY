@@ -10,8 +10,12 @@
     "geom:latitude":-26.5,
     "geom:longitude":-57.05,
     "iso:country":"PY",
+    "lbl:bbox":"-57.07,-26.52,-57.03,-26.48",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "San Miguel"
@@ -140,7 +144,7 @@
     "wof:concordances":{
         "gn:id":3437042,
         "gp:id":379266,
-        "qs:id":1207137
+        "qs_pg:id":1207137
     },
     "wof:country":"PY",
     "wof:created":1459009267,
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":421180691,
-    "wof:lastmodified":1564226044,
+    "wof:lastmodified":1566609563,
     "wof:name":"San Miguel",
     "wof:parent_id":421171781,
     "wof:placetype":"locality",

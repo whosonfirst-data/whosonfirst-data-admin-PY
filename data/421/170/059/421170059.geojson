@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-22.718101,
     "lbl:longitude":-56.055043,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Amambay",
     "meso:gadm_adm2":"Pedro Juan Caballero",
     "meso:gaul_adm2":"Pedro Juan Caballero",
@@ -31,6 +33,7 @@
     "mps:longitude":-56.055043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062f\u0631\u0648 \u062e\u0648\u0627\u0646 \u0643\u0627\u0628\u0627\u0644\u064a\u0631\u0648"
@@ -150,7 +153,7 @@
         "Pedro Juan Caballero"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc6\u0b9f\u0bcd\u0bb1\u0bcb \u0b9c\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd  \u0b95\u0baa\u0bbe\u0bb2\u0bcd\u0bb2\u0bc7\u0bb0\u0bcb"
+        "\u0baa\u0bc6\u0b9f\u0bcd\u0bb1\u0bcb \u0b9c\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd \u0b95\u0baa\u0bbe\u0bb2\u0bcd\u0bb2\u0bc7\u0bb0\u0bcb"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c46\u0c21\u0c4d\u0c30\u0c4b \u0c1c\u0c41\u0c35\u0c3e\u0c28\u0c4d \u0c15\u0c3e\u0c2c\u0c32\u0c4d\u0c32\u0c46\u0c30\u0c4b"
@@ -210,9 +213,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -233,7 +236,7 @@
     "wof:concordances":{
         "gp:id":26810748,
         "hasc:id":"PY.AM.PC",
-        "qs:id":1264257,
+        "qs_pg:id":1264257,
         "wd:id":"Q849292"
     },
     "wof:country":"PY",
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":421170059,
-    "wof:lastmodified":1563280874,
+    "wof:lastmodified":1566609587,
     "wof:name":"Pedro Juan Caballero",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

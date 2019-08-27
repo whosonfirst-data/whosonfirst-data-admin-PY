@@ -10,8 +10,12 @@
     "geom:latitude":-25.88333,
     "geom:longitude":-56.81667,
     "iso:country":"PY",
+    "lbl:bbox":"-56.83667,-25.90333,-56.79667,-25.86333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Colmena"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "La Colmena"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia La Colmena"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3437868,
         "gp:id":379251,
-        "qs:id":243269,
+        "qs_pg:id":243269,
         "wd:id":"Q376227",
         "wk:page":"La Colmena, Paraguay"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421204673,
-    "wof:lastmodified":1563280820,
+    "wof:lastmodified":1566609558,
     "wof:name":"La Colmena",
     "wof:parent_id":1108692715,
     "wof:placetype":"locality",

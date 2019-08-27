@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-55.90333,-23.20333,-55.86333,-23.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226654927,
-    "wof:lastmodified":1536845039,
+    "wof:lastmodified":1566609663,
     "wof:name":"Guami Tapere",
     "wof:parent_id":421170059,
     "wof:placetype":"locality",

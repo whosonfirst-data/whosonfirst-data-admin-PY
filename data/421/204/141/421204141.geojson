@@ -10,6 +10,9 @@
     "geom:latitude":-24.0625,
     "geom:longitude":-54.30694,
     "iso:country":"PY",
+    "lbl:bbox":"-54.32694,-24.0825,-54.28694,-24.0425",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0442\u043e-\u0434\u0435\u043b\u044c-\u0490\u0443\u0430\u0439\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saltos de Guair\u00e1"
     ],
     "name:urd_x_preferred":[
@@ -190,7 +193,7 @@
     "wof:concordances":{
         "gn:id":3437148,
         "gp:id":456210,
-        "qs:id":238539,
+        "qs_pg:id":238539,
         "wd:id":"Q135983",
         "wk:page":"Salto del Guair\u00e1"
     },
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421204141,
-    "wof:lastmodified":1563280822,
+    "wof:lastmodified":1566609559,
     "wof:name":"Gua\u00edra",
     "wof:parent_id":1108692449,
     "wof:placetype":"locality",

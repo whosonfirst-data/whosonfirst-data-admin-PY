@@ -11,10 +11,14 @@
     "geom:longitude":-56.449642,
     "gn:country":"PY",
     "gn:fcode":"PPLA",
-    "gn:pop":41157,
+    "gn:population":41157,
     "iso:country":"PY",
+    "lbl:bbox":"-56.469642,-25.804469,-56.429642,-25.764469",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u043b\u044c\u044f\u0440\u044b\u043a\u0430"
@@ -97,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f\u0440\u0440\u0456\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villarrica del Esp\u00edritu Santo"
     ],
     "name:urd_x_preferred":[
@@ -140,11 +144,11 @@
     "wof:concordances":{
         "gn:id":3436714,
         "gp:id":379194,
-        "qs:id":1054183,
+        "qs_pg:id":1054183,
         "wk:page":"Villarrica"
     },
     "wof:concordances_alt":{
-        "qs:id":1044646
+        "qs_pg:id":1044646
     },
     "wof:country":"PY",
     "wof:created":1459009457,
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":421185887,
-    "wof:lastmodified":1564226056,
+    "wof:lastmodified":1566609607,
     "wof:name":"Villarrica",
     "wof:parent_id":421173301,
     "wof:placetype":"locality",

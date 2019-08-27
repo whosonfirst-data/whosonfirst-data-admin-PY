@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-22.257453,
     "lbl:longitude":-57.730293,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Concepcion",
     "meso:gadm_adm2":"San L\u00e1zaro",
     "meso:gaul_adm2":"San Lazaro",
@@ -31,6 +33,7 @@
     "mps:longitude":-57.730293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "San L\u00e1zaro"
     ],
@@ -62,9 +65,9 @@
         "\u8056\u62c9\u85a9\u7f85"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108692753,
-    "wof:lastmodified":1563280643,
+    "wof:lastmodified":1566609414,
     "wof:name":"San Lazaro",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

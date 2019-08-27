@@ -10,8 +10,12 @@
     "geom:latitude":-27.3,
     "geom:longitude":-55.96667,
     "iso:country":"PY",
+    "lbl:bbox":"-55.98667,-27.32,-55.94667,-27.28",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Juan del Paran\u00e1"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3437062,
         "gp:id":378984,
-        "qs:id":147808,
+        "qs_pg:id":147808,
         "wd:id":"Q1984960",
         "wk:page":"San Juan del Paran\u00e1"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421179049,
-    "wof:lastmodified":1563280878,
+    "wof:lastmodified":1566609592,
     "wof:name":"San Juan del Paran\u00e1",
     "wof:parent_id":1108692687,
     "wof:placetype":"locality",

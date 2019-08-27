@@ -10,8 +10,12 @@
     "geom:latitude":-24.91667,
     "geom:longitude":-56.73333,
     "iso:country":"PY",
+    "lbl:bbox":"-56.75333,-24.93667,-56.71333,-24.89667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:grn_x_preferred":[
         "Juan de Mena"
@@ -28,7 +32,7 @@
     "name:spa_x_preferred":[
         "Juan de Mena"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Capilla San Rafael"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3437881,
         "gp:id":378453,
-        "qs:id":288825,
+        "qs_pg:id":288825,
         "wd:id":"Q2410295",
         "wk:page":"Juan de Mena, Paraguay"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421198007,
-    "wof:lastmodified":1563280852,
+    "wof:lastmodified":1566609573,
     "wof:name":"Juan de Mena",
     "wof:parent_id":1108692515,
     "wof:placetype":"locality",

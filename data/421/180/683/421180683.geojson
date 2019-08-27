@@ -10,8 +10,12 @@
     "geom:latitude":-27.16667,
     "geom:longitude":-58.41667,
     "iso:country":"PY",
+    "lbl:bbox":"-58.43667,-27.18667,-58.39667,-27.14667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "General Jos\u00e9 Eduvigis D\u00edaz"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "General Jos\u00e9 Eduvigis D\u00edaz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "General Diaz"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3438064,
         "gp:id":378388,
-        "qs:id":1207084,
+        "qs_pg:id":1207084,
         "wd:id":"Q2778877"
     },
     "wof:country":"PY",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421180683,
-    "wof:lastmodified":1563280834,
+    "wof:lastmodified":1566609562,
     "wof:name":"General Jos\u00e9 Eduvigis D\u00edaz",
     "wof:parent_id":421189017,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-25.65,
     "geom:longitude":-54.58333,
     "iso:country":"PY",
+    "lbl:bbox":"-54.60333,-25.67,-54.56333,-25.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0633\u064a\u0633 \u0628\u0631\u062a\u0648\u0646\u064a"
@@ -34,7 +38,7 @@
     "name:spa_x_preferred":[
         "Mois\u00e9s Santiago Bertoni"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bertoni"
     ],
     "qs:gn_country":"PY",
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":3437418,
         "gp:id":378676,
-        "qs:id":1033528
+        "qs_pg:id":1033528
     },
     "wof:country":"PY",
     "wof:created":1459009081,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421175843,
-    "wof:lastmodified":1501266414,
+    "wof:lastmodified":1566609572,
     "wof:name":"Puerto Bertoni",
     "wof:parent_id":421198471,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-25.63333,
     "geom:longitude":-56.3,
     "iso:country":"PY",
+    "lbl:bbox":"-56.32,-25.65333,-56.28,-25.61333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Natalicio Talavera"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Natalicio Talavera"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Natalicio Talavera"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3437682,
         "gp:id":378566,
-        "qs:id":1044671,
+        "qs_pg:id":1044671,
         "wd:id":"Q1752721",
         "wk:page":"Natalicio Talavera"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421176149,
-    "wof:lastmodified":1563280886,
+    "wof:lastmodified":1566609595,
     "wof:name":"Natalicio Talavera",
     "wof:parent_id":1108692533,
     "wof:placetype":"locality",

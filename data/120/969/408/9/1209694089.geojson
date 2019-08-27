@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-56.64299,-27.07003,-56.60299,-27.03003",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Estancia Yacu\u00e1 \u00d1\u00fa"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209694089,
-    "wof:lastmodified":1537683210,
+    "wof:lastmodified":1566609367,
     "wof:name":"Estancia Yacua Nu",
     "wof:parent_id":85632355,
     "wof:placetype":"locality",

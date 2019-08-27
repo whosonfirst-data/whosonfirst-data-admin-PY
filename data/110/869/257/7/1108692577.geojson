@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.139002,
     "lbl:longitude":-55.061286,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Alto Parana",
     "meso:gadm_adm2":"\u00d1acunday",
     "meso:gaul_adm2":"Nacunday",
@@ -31,6 +33,7 @@
     "mps:longitude":-55.061286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Iru\u00f1a"
     ],
@@ -71,7 +74,7 @@
         "\u4f0a\u9b6f\u5c3c\u4e9e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632355,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692577,
-    "wof:lastmodified":1563280645,
+    "wof:lastmodified":1566609418,
     "wof:name":"Iru\u00f1a",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

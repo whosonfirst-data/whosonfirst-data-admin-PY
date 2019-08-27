@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-56.83737,-26.81204,-56.79737,-26.77204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Estancia Cabral-Cu\u00e9"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1292981065,
-    "wof:lastmodified":1537683221,
+    "wof:lastmodified":1566609323,
     "wof:name":"Estancia Cabral-Cue",
     "wof:parent_id":1108692699,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.577841,
     "lbl:longitude":-56.623252,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Caazapa",
     "meso:gadm_adm2":"Fulgencio Yegros",
     "meso:gaul_adm2":"Fulgencio Yegros",
@@ -31,6 +33,7 @@
     "mps:longitude":-56.623252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yegros"
     ],
@@ -65,9 +68,9 @@
         "\u8036\u683c\u7f85\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108692857,
-    "wof:lastmodified":1563280720,
+    "wof:lastmodified":1566609492,
     "wof:name":"Fulgencio Yegros",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

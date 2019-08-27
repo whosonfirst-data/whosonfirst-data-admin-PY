@@ -10,8 +10,12 @@
     "geom:latitude":-25.96667,
     "geom:longitude":-55.18333,
     "iso:country":"PY",
+    "lbl:bbox":"-55.20333,-25.98667,-55.16333,-25.94667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Naranjal District"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3437689,
         "gp:id":378562,
-        "qs:id":1207096,
+        "qs_pg:id":1207096,
         "wd:id":"Q748292",
         "wk:page":"Naranjal District"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421194503,
-    "wof:lastmodified":1563280807,
+    "wof:lastmodified":1566609554,
     "wof:name":"Naranjal",
     "wof:parent_id":1108692565,
     "wof:placetype":"locality",

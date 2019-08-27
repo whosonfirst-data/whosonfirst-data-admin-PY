@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.3411,
     "lbl:longitude":-54.761014,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Alto Parana",
     "meso:gadm_adm2":"Hernandarias",
     "meso:gaul_adm2":"Hernandarias",
@@ -31,6 +33,7 @@
     "mps:longitude":-54.761014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0647\u0631\u0646\u0627\u0646\u062f\u0627\u0631\u06cc\u0627\u0633"
@@ -180,9 +183,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -203,7 +206,7 @@
     "wof:concordances":{
         "gp:id":26810781,
         "hasc:id":"PY.AA.HE",
-        "qs:id":15374,
+        "qs_pg:id":15374,
         "wd:id":"Q2271787"
     },
     "wof:country":"PY",
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":421193629,
-    "wof:lastmodified":1563280809,
+    "wof:lastmodified":1566609554,
     "wof:name":"Hernandarias",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

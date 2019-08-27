@@ -10,8 +10,12 @@
     "geom:latitude":-25.3676,
     "geom:longitude":-57.59274,
     "iso:country":"PY",
+    "lbl:bbox":"-57.61274,-25.3876,-57.57274,-25.3476",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa Elisa"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Villa Elisa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Eliza"
     ],
     "qs:gn_country":"PY",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3436728,
         "gp:id":379135,
-        "qs:id":147802
+        "qs_pg:id":147802
     },
     "wof:country":"PY",
     "wof:created":1459009783,
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421193797,
-    "wof:lastmodified":1564226040,
+    "wof:lastmodified":1566609554,
     "wof:name":"Villa Elisa",
     "wof:parent_id":1108692793,
     "wof:placetype":"locality",

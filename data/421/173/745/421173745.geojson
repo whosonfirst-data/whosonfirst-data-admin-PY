@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.710423,
     "lbl:longitude":-57.165131,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Paraguari",
     "meso:gadm_adm2":"Paraguar\u00ed",
     "meso:gaul_adm2":"Paraguari",
@@ -31,6 +33,7 @@
     "mps:longitude":-57.165131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u063a\u0648\u0627\u0631\u064a"
@@ -192,9 +195,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -215,7 +218,7 @@
     "wof:concordances":{
         "gp:id":26810779,
         "hasc:id":"PY.PG.PA",
-        "qs:id":467350,
+        "qs_pg:id":467350,
         "wd:id":"Q917103"
     },
     "wof:country":"PY",
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":421173745,
-    "wof:lastmodified":1563280841,
+    "wof:lastmodified":1566609565,
     "wof:name":"Paraguari",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

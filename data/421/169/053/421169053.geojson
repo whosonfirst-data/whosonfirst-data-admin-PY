@@ -10,6 +10,9 @@
     "geom:latitude":-24.08333,
     "geom:longitude":-55.5,
     "iso:country":"PY",
+    "lbl:bbox":"-55.52,-24.10333,-55.48,-24.06333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -44,7 +47,7 @@
     "name:spa_x_preferred":[
         "Villa Ygatim\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Igatim\u00ed"
     ],
     "name:urd_x_preferred":[
@@ -176,7 +179,7 @@
     "wof:concordances":{
         "gn:id":3436616,
         "gp:id":379275,
-        "qs:id":1207135,
+        "qs_pg:id":1207135,
         "wd:id":"Q1987369",
         "wk:page":"Ygatim\u00ed"
     },
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":421169053,
-    "wof:lastmodified":1563280814,
+    "wof:lastmodified":1566609557,
     "wof:name":"Ygatim\u00ed",
     "wof:parent_id":1108692455,
     "wof:placetype":"locality",

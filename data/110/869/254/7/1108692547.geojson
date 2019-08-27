@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-27.096711,
     "lbl:longitude":-58.457193,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"\u00d1eembucu",
     "meso:gadm_adm2":"Humait\u00e1",
     "meso:gaul_adm2":"Humaita",
@@ -31,6 +33,7 @@
     "mps:longitude":-58.457193,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0645\u0627\u064a\u062a\u0627"
     ],
@@ -86,9 +89,9 @@
         "\u70cf\u9081\u5854"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108692547,
-    "wof:lastmodified":1563280727,
+    "wof:lastmodified":1566609499,
     "wof:name":"Humaita",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

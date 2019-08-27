@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.537281,
     "lbl:longitude":-56.700843,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Caaguazu",
     "meso:gadm_adm2":"San Jos\u00e9 de los Arroyos",
     "meso:gaul_adm2":"San Jose De Los Arroyos",
@@ -31,6 +33,7 @@
     "mps:longitude":-56.700843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Jos\u00e9 de los Arroyos"
     ],
@@ -62,9 +65,9 @@
         "\u8056\u4f55\u585e\u5fb7\u6d1b\u65af\u963f\u7f85\u7d04\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108692641,
-    "wof:lastmodified":1561830078,
+    "wof:lastmodified":1566609508,
     "wof:name":"San Jose De Los Arroyos",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-25.53333,
     "geom:longitude":-56.73333,
     "iso:country":"PY",
+    "lbl:bbox":"-56.75333,-25.55333,-56.71333,-25.51333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "San Jos\u00e9 de los Arroyos"
@@ -29,9 +33,6 @@
         "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435-\u0434\u0435-\u043b\u043e\u0441-\u0410\u0440\u0440\u043e\u0439\u043e\u0441"
     ],
     "name:spa_x_preferred":[
-        "San Jos\u00e9 de los Arroyos"
-    ],
-    "name:unk_x_variant":[
         "San Jos\u00e9 de los Arroyos"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3437074,
         "gp:id":379218,
-        "qs:id":1044660,
+        "qs_pg:id":1044660,
         "wd:id":"Q2406025",
         "wk:page":"San Jos\u00e9 de los Arroyos"
     },
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":421168389,
-    "wof:lastmodified":1563280801,
+    "wof:lastmodified":1566609550,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":1108692641,
     "wof:placetype":"locality",

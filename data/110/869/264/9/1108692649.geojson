@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.158626,
     "lbl:longitude":-55.590718,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Caaguazu",
     "meso:gadm_adm2":"Ra\u00fal Arsenio Oviedo",
     "meso:gaul_adm2":"Raul  A. Oviedo",
@@ -31,6 +33,7 @@
     "mps:longitude":-55.590718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ra\u00fal Arsenio Oviedo"
     ],
@@ -56,9 +59,9 @@
         "\u52de\u723e\u963f\u723e\u585e\u5c3c\u5967\u5967\u7dad\u8036\u591a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692649,
-    "wof:lastmodified":1563280735,
+    "wof:lastmodified":1566609507,
     "wof:name":"Raul Arsenio Oviedo",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

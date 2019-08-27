@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.194794,
     "lbl:longitude":-56.474205,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Caazapa",
     "meso:gadm_adm2":"Maciel",
     "meso:gaul_adm2":"Maciel",
@@ -31,6 +33,7 @@
     "mps:longitude":-56.474205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Maciel"
     ],
@@ -62,9 +65,9 @@
         "\u7c73\u897f\u57c3\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108692849,
-    "wof:lastmodified":1563280688,
+    "wof:lastmodified":1566609458,
     "wof:name":"Maciel",
     "wof:parent_id":85676713,
     "wof:placetype":"county",
