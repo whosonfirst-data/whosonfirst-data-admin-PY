@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-56.30333,-22.77,-56.26333,-22.73",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243358149,
-    "wof:lastmodified":1536933667,
+    "wof:lastmodified":1566609622,
     "wof:name":"Colonia Agustin R. Pinedo",
     "wof:parent_id":1108692755,
     "wof:placetype":"locality",

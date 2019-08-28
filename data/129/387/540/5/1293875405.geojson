@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-56.70333,-22.98667,-56.66333,-22.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Establecimento Randacua",
         "Randacua",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293875405,
-    "wof:lastmodified":1537683223,
+    "wof:lastmodified":1566609328,
     "wof:name":"Establecimento Nanducua",
     "wof:parent_id":1108692755,
     "wof:placetype":"locality",

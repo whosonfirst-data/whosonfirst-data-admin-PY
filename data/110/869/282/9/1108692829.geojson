@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-24.779471,
     "lbl:longitude":-56.801566,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"San Pedro",
     "meso:gadm_adm2":"25 de Diciembre",
     "meso:gaul_adm2":"25 De Diciembre",
@@ -31,6 +33,7 @@
     "mps:longitude":-56.801566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "25 de Diciembre"
     ],
@@ -59,9 +62,9 @@
         "\u5341\u4e8c\u6708\u4e8c\u5341\u4e94\u65e5\u93ae"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692829,
-    "wof:lastmodified":1561830071,
+    "wof:lastmodified":1566609486,
     "wof:name":"25 De Diciembre",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

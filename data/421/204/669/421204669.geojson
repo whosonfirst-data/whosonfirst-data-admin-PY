@@ -10,8 +10,12 @@
     "geom:latitude":-22.16667,
     "geom:longitude":-57.91667,
     "iso:country":"PY",
+    "lbl:bbox":"-57.93667,-22.18667,-57.89667,-22.14667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "San L\u00e1zaro"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "San L\u00e1zaro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia San Lazaro"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3437058,
         "gp:id":378985,
-        "qs:id":243263,
+        "qs_pg:id":243263,
         "wd:id":"Q1990310",
         "wk:page":"San L\u00e1zaro"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421204669,
-    "wof:lastmodified":1563280820,
+    "wof:lastmodified":1566609558,
     "wof:name":"San L\u00e1zaro",
     "wof:parent_id":1108692753,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-25.61667,
     "geom:longitude":-57.5,
     "iso:country":"PY",
+    "lbl:bbox":"-57.52,-25.63667,-57.48,-25.59667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0648\u064a\u0641\u0627 \u0627\u064a\u0637\u0627\u0644\u064a\u0627"
@@ -118,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0443\u0435\u0432\u0430-\u0406\u0442\u0430\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Nueva Italia"
     ],
     "name:urd_x_preferred":[
@@ -161,7 +165,7 @@
     "wof:concordances":{
         "gn:id":3437652,
         "gp:id":378574,
-        "qs:id":1044670,
+        "qs_pg:id":1044670,
         "wd:id":"Q2453244",
         "wk:page":"Nueva Italia, Paraguay"
     },
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":421176147,
-    "wof:lastmodified":1563280886,
+    "wof:lastmodified":1566609595,
     "wof:name":"Nueva Italia",
     "wof:parent_id":1108692597,
     "wof:placetype":"locality",

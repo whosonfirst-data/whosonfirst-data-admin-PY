@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-59.55333,-20.15333,-59.51333,-20.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Campos"
     ],
@@ -73,8 +77,7 @@
         "Campos"
     ],
     "name:und_x_variant":[
-        "Fortin Campos",
-        "Campos"
+        "Fortin Campos"
     ],
     "name:zho_x_preferred":[
         "\u574e\u6ce2\u65af"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1344115123,
-    "wof:lastmodified":1564225831,
+    "wof:lastmodified":1566609272,
     "wof:name":"Campos",
     "wof:parent_id":1108692779,
     "wof:placetype":"locality",

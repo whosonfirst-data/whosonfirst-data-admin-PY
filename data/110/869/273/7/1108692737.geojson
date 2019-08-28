@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.853931,
     "lbl:longitude":-54.681091,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Alto Parana",
     "meso:gadm_adm2":"Domingo Mart\u00ednez de Irala",
     "meso:gaul_adm2":"D. M. Irala",
@@ -31,6 +33,7 @@
     "mps:longitude":-54.681091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Domingo Mart\u00ednez de Irala"
     ],
@@ -62,9 +65,9 @@
         "\u591a\u660e\u6208\u99ac\u4e01\u5167\u65af\u5fb7\u4f0a\u62c9\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108692737,
-    "wof:lastmodified":1561830041,
+    "wof:lastmodified":1566609395,
     "wof:name":"Domingo Martinez De Irala",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-24.984776,
     "lbl:longitude":-55.504489,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Caaguazu",
     "meso:gadm_adm2":"Mariscal Francisco Solano L\u00f3pez",
     "meso:gaul_adm2":"Mcal. Fco. Solano Lopez",
@@ -31,11 +33,12 @@
     "mps:longitude":-55.504489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nueva Toledo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632355,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108692835,
-    "wof:lastmodified":1555047531,
+    "wof:lastmodified":1566609467,
     "wof:name":"Nueva Toledo",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

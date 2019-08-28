@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-54.78343,-25.50369,-54.74343,-25.46369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Minga Guaz\u00fa"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243186661,
-    "wof:lastmodified":1537683225,
+    "wof:lastmodified":1566609627,
     "wof:name":"Minga Guazu",
     "wof:parent_id":1108692559,
     "wof:placetype":"locality",

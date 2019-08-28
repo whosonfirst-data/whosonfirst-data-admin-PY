@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-59.89214,-22.47696,-59.85214,-22.43696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gr\u00fcnfeld"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293156667,
-    "wof:lastmodified":1537683237,
+    "wof:lastmodified":1566609316,
     "wof:name":"Grunfeld",
     "wof:parent_id":1108692881,
     "wof:placetype":"locality",

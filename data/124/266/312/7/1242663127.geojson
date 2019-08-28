@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.08689,-25.32011,-57.04689,-25.28011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Colonia Veintiuno de Julio"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242663127,
-    "wof:lastmodified":1537683224,
+    "wof:lastmodified":1566609615,
     "wof:name":"Colonia Veintiuno de Julio",
     "wof:parent_id":421173299,
     "wof:placetype":"locality",

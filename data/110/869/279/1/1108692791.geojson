@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.038054,
     "lbl:longitude":-57.696899,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"\u00d1eembucu",
     "meso:gadm_adm2":"Villa Oliva",
     "meso:gaul_adm2":"Villa Oliva",
@@ -31,6 +33,7 @@
     "mps:longitude":-57.696899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Villa Oliva"
     ],
@@ -59,9 +62,9 @@
         "\u5967\u5229\u74e6\u93ae"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692791,
-    "wof:lastmodified":1563280704,
+    "wof:lastmodified":1566609473,
     "wof:name":"Villa Oliva",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

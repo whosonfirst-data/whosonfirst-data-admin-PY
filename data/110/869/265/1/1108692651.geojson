@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.44028,
     "lbl:longitude":-55.438603,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Caaguazu",
     "meso:gadm_adm2":"Jos\u00e9 Domingo Ocampos",
     "meso:gaul_adm2":"Jose D. Ocampos",
@@ -31,6 +33,7 @@
     "mps:longitude":-55.438603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Jos\u00e9 Domingo Ocampos"
     ],
@@ -59,9 +62,9 @@
         "\u4f55\u585e\u591a\u660e\u54e5\u5967\u574e\u6ce2\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692651,
-    "wof:lastmodified":1563280733,
+    "wof:lastmodified":1566609505,
     "wof:name":"Jose Domingo Ocampos",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

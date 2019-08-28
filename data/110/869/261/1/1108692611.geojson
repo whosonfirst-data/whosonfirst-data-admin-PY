@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.963666,
     "lbl:longitude":-56.418196,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Guaira",
     "meso:gadm_adm2":"San Salvador",
     "meso:gaul_adm2":"San Salvador",
@@ -31,6 +33,7 @@
     "mps:longitude":-56.418196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Salvador"
     ],
@@ -65,9 +68,9 @@
         "\u8056\u85a9\u723e\u74e6\u591a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108692611,
-    "wof:lastmodified":1563280665,
+    "wof:lastmodified":1566609438,
     "wof:name":"San Salvador",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

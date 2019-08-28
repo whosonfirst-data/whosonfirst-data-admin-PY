@@ -11,10 +11,14 @@
     "geom:longitude":-54.93333,
     "gn:country":"PY",
     "gn:fcode":"PPL",
-    "gn:pop":459,
+    "gn:population":459,
     "iso:country":"PY",
+    "lbl:bbox":"-54.95333,-26.67,-54.91333,-26.63",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Rafael del Parana"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3437011,
         "gp:id":379000,
-        "qs:id":95560,
+        "qs_pg:id":95560,
         "wd:id":"Q1985050",
         "wk:page":"San Rafael del Paran\u00e1"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890451493,
-    "wof:lastmodified":1563280910,
+    "wof:lastmodified":1566609610,
     "wof:name":"San Rafael del Parana",
     "wof:parent_id":1108692677,
     "wof:placetype":"locality",

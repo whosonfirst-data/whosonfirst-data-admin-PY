@@ -10,8 +10,12 @@
     "geom:latitude":-26.86667,
     "geom:longitude":-57.05,
     "iso:country":"PY",
+    "lbl:bbox":"-57.07,-26.88667,-57.03,-26.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PY",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3436929,
         "gp:id":379012,
-        "qs:id":228667
+        "qs_pg:id":228667
     },
     "wof:country":"PY",
     "wof:created":1459010134,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421202921,
-    "wof:lastmodified":1527716213,
+    "wof:lastmodified":1566609559,
     "wof:name":"San Ygnacio",
     "wof:parent_id":421170017,
     "wof:placetype":"locality",

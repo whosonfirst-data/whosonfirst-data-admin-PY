@@ -10,8 +10,12 @@
     "geom:latitude":-26.21667,
     "geom:longitude":-57.2,
     "iso:country":"PY",
+    "lbl:bbox":"-57.22,-26.23667,-57.18,-26.19667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Caapuc\u00fa"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3439304,
         "gp:id":379180,
-        "qs:id":1063789,
+        "qs_pg:id":1063789,
         "wd:id":"Q2410335",
         "wk:page":"Caapuc\u00fa"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421184311,
-    "wof:lastmodified":1563280868,
+    "wof:lastmodified":1566609583,
     "wof:name":"Caapuc\u00fa",
     "wof:parent_id":1108692707,
     "wof:placetype":"locality",

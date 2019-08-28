@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.476948,
     "lbl:longitude":-57.207868,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Paraguari",
     "meso:gadm_adm2":"Piray\u00fa",
     "meso:gaul_adm2":"Pirayu",
@@ -31,6 +33,7 @@
     "mps:longitude":-57.207868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:dan_x_preferred":[
         "Piray\u00fa"
     ],
@@ -68,9 +71,9 @@
         "\u76ae\u62c9\u5c24"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108692719,
-    "wof:lastmodified":1563280723,
+    "wof:lastmodified":1566609495,
     "wof:name":"Pirayu",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

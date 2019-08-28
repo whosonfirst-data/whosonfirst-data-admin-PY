@@ -10,8 +10,12 @@
     "geom:latitude":-24.8,
     "geom:longitude":-56.55,
     "iso:country":"PY",
+    "lbl:bbox":"-56.57,-24.82,-56.53,-24.78",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Uni\u00f3n"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3436763,
         "gp:id":379121,
-        "qs:id":288844,
+        "qs_pg:id":288844,
         "wd:id":"Q2449203",
         "wk:page":"Uni\u00f3n, Paraguay"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421173499,
-    "wof:lastmodified":1563280838,
+    "wof:lastmodified":1566609564,
     "wof:name":"Uni\u00f3n",
     "wof:parent_id":1108692827,
     "wof:placetype":"locality",

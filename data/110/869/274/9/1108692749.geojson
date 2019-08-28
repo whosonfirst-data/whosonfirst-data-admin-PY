@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-23.177305,
     "lbl:longitude":-57.154903,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Concepcion",
     "meso:gadm_adm2":"Loreto",
     "meso:gaul_adm2":"Loreto",
@@ -31,6 +33,7 @@
     "mps:longitude":-57.154903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Loreto"
     ],
@@ -65,9 +68,9 @@
         "\u6d1b\u96f7\u6258"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108692749,
-    "wof:lastmodified":1563280621,
+    "wof:lastmodified":1566609390,
     "wof:name":"Loreto",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

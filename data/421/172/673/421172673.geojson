@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.389142,
     "lbl:longitude":-57.125679,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Cordillera",
     "meso:gadm_adm2":"Caacup\u00e9",
     "meso:gaul_adm2":"Caacupe",
@@ -31,6 +33,7 @@
     "mps:longitude":-57.125679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Caacup\u00e9"
@@ -150,9 +153,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -173,7 +176,7 @@
     "wof:concordances":{
         "gp:id":26810807,
         "hasc:id":"PY.CR.CC",
-        "qs:id":1316118,
+        "qs_pg:id":1316118,
         "wd:id":"Q135959"
     },
     "wof:country":"PY",
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":421172673,
-    "wof:lastmodified":1563280845,
+    "wof:lastmodified":1566609569,
     "wof:name":"Caacupe",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

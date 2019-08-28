@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-59.02,-20.70333,-58.98,-20.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lata",
         "Estancia Puesto Lata"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226706321,
-    "wof:lastmodified":1537683214,
+    "wof:lastmodified":1566609662,
     "wof:name":"Estancia Puesto Lata",
     "wof:parent_id":421184639,
     "wof:placetype":"locality",

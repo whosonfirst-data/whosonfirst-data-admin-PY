@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.458854,
     "lbl:longitude":-57.122924,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Misiones",
     "meso:gadm_adm2":"Villa Florida",
     "meso:gaul_adm2":"Villa Florida",
@@ -31,6 +33,7 @@
     "mps:longitude":-57.122924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Villa Florida"
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gp:id":26810823,
         "hasc:id":"PY.MI.VF",
-        "qs:id":1264282,
+        "qs_pg:id":1264282,
         "wd:id":"Q615791"
     },
     "wof:country":"PY",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421171781,
-    "wof:lastmodified":1563280900,
+    "wof:lastmodified":1566609606,
     "wof:name":"Villa Florida",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

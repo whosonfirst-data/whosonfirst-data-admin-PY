@@ -10,8 +10,12 @@
     "geom:latitude":-26.58333,
     "geom:longitude":-55.63333,
     "iso:country":"PY",
+    "lbl:bbox":"-55.65333,-26.60333,-55.61333,-26.56333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Alto Ver\u00e1"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3439437,
         "gp:id":377291,
-        "qs:id":1207072
+        "qs_pg:id":1207072
     },
     "wof:country":"PY",
     "wof:created":1459008881,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421171107,
-    "wof:lastmodified":1564226053,
+    "wof:lastmodified":1566609600,
     "wof:name":"Alto Ver\u00e1",
     "wof:parent_id":1108692691,
     "wof:placetype":"locality",

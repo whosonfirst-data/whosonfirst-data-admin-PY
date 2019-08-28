@@ -10,8 +10,12 @@
     "geom:latitude":-25.65,
     "geom:longitude":-57.01667,
     "iso:country":"PY",
+    "lbl:bbox":"-57.03667,-25.67,-56.99667,-25.63",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Escobar"
@@ -22,7 +26,7 @@
     "name:nld_x_preferred":[
         "Escobar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estancia Scobar"
     ],
     "qs:gn_country":"PY",
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":3438730,
         "gp:id":377723,
-        "qs:id":50421,
+        "qs_pg:id":50421,
         "wd:id":"Q5397310",
         "wk:page":"Escobar District"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421178259,
-    "wof:lastmodified":1561830097,
+    "wof:lastmodified":1566609592,
     "wof:name":"Escobar",
     "wof:parent_id":1108692713,
     "wof:placetype":"locality",

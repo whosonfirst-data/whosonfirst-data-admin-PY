@@ -10,8 +10,12 @@
     "geom:latitude":-27.03333,
     "geom:longitude":-55.63333,
     "iso:country":"PY",
+    "lbl:bbox":"-55.65333,-27.05333,-55.61333,-27.01333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Obligado"
@@ -43,7 +47,7 @@
     "name:spa_x_preferred":[
         "Obligado"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Doctor Pastor Obligado"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3437637,
         "gp:id":378579,
-        "qs:id":1174645,
+        "qs_pg:id":1174645,
         "wd:id":"Q375095",
         "wk:page":"Obligado"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421177335,
-    "wof:lastmodified":1563280876,
+    "wof:lastmodified":1566609589,
     "wof:name":"Obligado",
     "wof:parent_id":1108692669,
     "wof:placetype":"locality",

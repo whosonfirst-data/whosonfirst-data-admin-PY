@@ -10,8 +10,12 @@
     "geom:latitude":-24.83333,
     "geom:longitude":-56.35,
     "iso:country":"PY",
+    "lbl:bbox":"-56.37,-24.85333,-56.33,-24.81333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Yataity del Norte"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3436655,
         "gp:id":379153,
-        "qs:id":260591,
+        "qs_pg:id":260591,
         "wd:id":"Q1988951"
     },
     "wof:country":"PY",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421205309,
-    "wof:lastmodified":1563280826,
+    "wof:lastmodified":1566609559,
     "wof:name":"Yataity del Norte",
     "wof:parent_id":1108692487,
     "wof:placetype":"locality",

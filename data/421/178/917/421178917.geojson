@@ -10,8 +10,12 @@
     "geom:latitude":-25.03333,
     "geom:longitude":-56.13333,
     "iso:country":"PY",
+    "lbl:bbox":"-56.15333,-25.05333,-56.11333,-25.01333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "R. I. Tres Corrales"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3437173,
         "gp:id":378908,
-        "qs:id":288835,
+        "qs_pg:id":288835,
         "wd:id":"Q1751700"
     },
     "wof:country":"PY",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421178917,
-    "wof:lastmodified":1563280881,
+    "wof:lastmodified":1566609593,
     "wof:name":"R. I. Tres Corrales",
     "wof:parent_id":1108692637,
     "wof:placetype":"locality",

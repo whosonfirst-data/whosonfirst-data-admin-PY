@@ -10,6 +10,9 @@
     "geom:latitude":-19.91667,
     "geom:longitude":-60.78333,
     "iso:country":"PY",
+    "lbl:bbox":"-60.80333,-19.93667,-60.76333,-19.89667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -39,9 +42,6 @@
         "Mayor Pablo Lagerenza"
     ],
     "name:spa_x_preferred":[
-        "Mayor Pablo Lagerenza"
-    ],
-    "name:unk_x_variant":[
         "Mayor Pablo Lagerenza"
     ],
     "ne:ADM0CAP":0.0,
@@ -167,7 +167,7 @@
     "wof:concordances":{
         "gn:id":3867427,
         "gp:id":377408,
-        "qs:id":1047059,
+        "qs_pg:id":1047059,
         "wd:id":"Q302441",
         "wk:page":"Mayor Pablo Lagerenza"
     },
@@ -184,7 +184,7 @@
         }
     ],
     "wof:id":421176567,
-    "wof:lastmodified":1563280882,
+    "wof:lastmodified":1566609594,
     "wof:name":"Capit\u00e1n Pablo Lagerenza",
     "wof:parent_id":1108692779,
     "wof:placetype":"locality",

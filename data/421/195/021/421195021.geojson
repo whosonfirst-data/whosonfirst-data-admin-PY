@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.750125,
     "lbl:longitude":-57.627475,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Central",
     "meso:gadm_adm2":"Villeta",
     "meso:gaul_adm2":"Villeta",
@@ -31,6 +33,7 @@
     "mps:longitude":-57.627475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u062a\u0627\u060c \u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a"
@@ -177,9 +180,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -200,7 +203,7 @@
     "wof:concordances":{
         "gp:id":26810835,
         "hasc:id":"PY.CE.VI",
-        "qs:id":116276,
+        "qs_pg:id":116276,
         "wd:id":"Q1093439"
     },
     "wof:country":"PY",
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":421195021,
-    "wof:lastmodified":1563280806,
+    "wof:lastmodified":1566609553,
     "wof:name":"Villeta",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

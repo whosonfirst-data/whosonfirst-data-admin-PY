@@ -10,8 +10,12 @@
     "geom:latitude":-25.2464,
     "geom:longitude":-57.64647,
     "iso:country":"PY",
+    "lbl:bbox":"-57.66647,-25.2664,-57.62647,-25.2264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PY",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3439120,
         "gp:id":377438,
-        "qs:id":1342290
+        "qs_pg:id":1342290
     },
     "wof:country":"PY",
     "wof:created":1459009151,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421177577,
-    "wof:lastmodified":1500019205,
+    "wof:lastmodified":1566609589,
     "wof:name":"Chaco-i",
     "wof:parent_id":421171367,
     "wof:placetype":"locality",

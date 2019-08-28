@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.668504,
     "lbl:longitude":-56.471043,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Guaira",
     "meso:gadm_adm2":"Yataity del Guair\u00e1",
     "meso:gaul_adm2":"Yataity",
@@ -31,6 +33,7 @@
     "mps:longitude":-56.471043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Yataity del Guair\u00e1"
     ],
@@ -62,9 +65,9 @@
         "\u4e9e\u6cf0\u8482\u5fb7\u723e\u74dc\u4f0a\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108692613,
-    "wof:lastmodified":1563280666,
+    "wof:lastmodified":1566609438,
     "wof:name":"Yataity",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

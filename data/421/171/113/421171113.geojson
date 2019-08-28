@@ -10,8 +10,12 @@
     "geom:latitude":-25.25,
     "geom:longitude":-56.86667,
     "iso:country":"PY",
+    "lbl:bbox":"-56.88667,-25.27,-56.84667,-25.23",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Jos\u00e9 Obrero"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3437068,
         "gp:id":378977,
-        "qs:id":1207107,
+        "qs_pg:id":1207107,
         "wd:id":"Q1750727",
         "wk:page":"San Jos\u00e9 Obrero"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421171113,
-    "wof:lastmodified":1563280900,
+    "wof:lastmodified":1566609607,
     "wof:name":"San Jos\u00e9 Obrero",
     "wof:parent_id":1108692503,
     "wof:placetype":"locality",

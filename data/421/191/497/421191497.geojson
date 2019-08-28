@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.687695,
     "lbl:longitude":-56.949203,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Paraguari",
     "meso:gadm_adm2":"Sapuca\u00ed",
     "meso:gaul_adm2":"Sapucai",
@@ -31,6 +33,7 @@
     "mps:longitude":-56.949203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sapucai"
@@ -93,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gp:id":26810897,
         "hasc:id":"PY.PG.SA",
-        "qs:id":1137370,
+        "qs_pg:id":1137370,
         "wd:id":"Q785504"
     },
     "wof:country":"PY",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421191497,
-    "wof:lastmodified":1563280855,
+    "wof:lastmodified":1566609574,
     "wof:name":"Sapucai",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

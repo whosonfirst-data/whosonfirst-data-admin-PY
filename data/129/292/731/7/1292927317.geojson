@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.43667,-23.25333,-57.39667,-23.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Toldo-cu\u00e9",
         "Toldo Cu\u00e9"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292927317,
-    "wof:lastmodified":1537683196,
+    "wof:lastmodified":1566609314,
     "wof:name":"Toldo Cue",
     "wof:parent_id":421201641,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-55.02017,-24.37522,-54.98017,-24.33522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Paso Ita"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343423497,
-    "wof:lastmodified":1537683205,
+    "wof:lastmodified":1566609274,
     "wof:name":"Paso Ita",
     "wof:parent_id":1108692739,
     "wof:placetype":"locality",

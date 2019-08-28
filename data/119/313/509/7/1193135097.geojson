@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.59217,-25.59087,-57.55217,-25.55087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Angostura"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1193135097,
-    "wof:lastmodified":1564225948,
+    "wof:lastmodified":1566609377,
     "wof:name":"Angostura",
     "wof:parent_id":421195021,
     "wof:placetype":"locality",

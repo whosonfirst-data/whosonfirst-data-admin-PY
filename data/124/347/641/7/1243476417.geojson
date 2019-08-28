@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.59883,-25.27692,-57.55883,-25.23692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Sant\u00edsima Trinidad"
     ],
     "name:und_x_variant":[
-        "Trinidad",
-        "Sant\u00edsima Trinidad"
+        "Trinidad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1243476417,
-    "wof:lastmodified":1564226077,
+    "wof:lastmodified":1566609620,
     "wof:name":"Santisima Trinidad",
     "wof:parent_id":421166713,
     "wof:placetype":"locality",

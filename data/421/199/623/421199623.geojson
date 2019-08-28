@@ -10,8 +10,12 @@
     "geom:latitude":-25.2634,
     "geom:longitude":-57.24916,
     "iso:country":"PY",
+    "lbl:bbox":"-57.26916,-25.2834,-57.22916,-25.2434",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Altos"
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3439439,
         "gp:id":377292,
-        "qs:id":194818,
+        "qs_pg:id":194818,
         "wd:id":"Q2388597",
         "wk:page":"Altos, Paraguay"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421199623,
-    "wof:lastmodified":1563280858,
+    "wof:lastmodified":1566609575,
     "wof:name":"Altos",
     "wof:parent_id":421175585,
     "wof:placetype":"locality",

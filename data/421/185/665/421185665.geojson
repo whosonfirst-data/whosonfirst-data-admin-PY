@@ -10,8 +10,12 @@
     "geom:latitude":-25.6,
     "geom:longitude":-57.3,
     "iso:country":"PY",
+    "lbl:bbox":"-57.32,-25.62,-57.28,-25.58",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Yaguar\u00f3n"
@@ -52,7 +56,7 @@
     "name:spa_x_preferred":[
         "Yaguar\u00f3n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yaquaron"
     ],
     "name:urd_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3436674,
         "gp:id":379273,
-        "qs:id":899669,
+        "qs_pg:id":899669,
         "wd:id":"Q2638696",
         "wk:page":"Yaguar\u00f3n"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421185665,
-    "wof:lastmodified":1563280904,
+    "wof:lastmodified":1566609607,
     "wof:name":"Yaguar\u00f3n",
     "wof:parent_id":1108692731,
     "wof:placetype":"locality",

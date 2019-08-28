@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-55.93524,-25.31822,-55.89524,-25.27822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Establecimiento Ganadero Torocay"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327231941,
-    "wof:lastmodified":1537683222,
+    "wof:lastmodified":1566609249,
     "wof:name":"Establecimiento Ganadero Torocay",
     "wof:parent_id":1108692631,
     "wof:placetype":"locality",

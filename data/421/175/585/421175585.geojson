@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.246384,
     "lbl:longitude":-57.228944,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Cordillera",
     "meso:gadm_adm2":"Altos",
     "meso:gaul_adm2":"Altos",
@@ -31,6 +33,7 @@
     "mps:longitude":-57.228944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Altos"
@@ -102,9 +105,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gp:id":26810878,
         "hasc:id":"PY.CR.AL",
-        "qs:id":1002652,
+        "qs_pg:id":1002652,
         "wd:id":"Q2388597"
     },
     "wof:country":"PY",
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421175585,
-    "wof:lastmodified":1563280851,
+    "wof:lastmodified":1566609572,
     "wof:name":"Altos",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

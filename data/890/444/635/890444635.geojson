@@ -11,8 +11,11 @@
     "geom:longitude":-57.14028,
     "gn:country":"PY",
     "gn:fcode":"PPLA",
-    "gn:pop":21696,
+    "gn:population":21696,
     "iso:country":"PY",
+    "lbl:bbox":"-57.16028,-25.40611,-57.12028,-25.36611",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":8.0,
@@ -223,12 +226,12 @@
     "wof:concordances":{
         "gn:id":3439320,
         "gp:id":379178,
-        "qs:id":1044701,
+        "qs_pg:id":1044701,
         "wd:id":"Q135959",
         "wk:page":"Caacup\u00e9"
     },
     "wof:concordances_alt":{
-        "qs:id":1075773
+        "qs_pg:id":1075773
     },
     "wof:country":"PY",
     "wof:created":1469052476,
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":890444635,
-    "wof:lastmodified":1563280908,
+    "wof:lastmodified":1566609609,
     "wof:name":"Caacup\u00e9",
     "wof:parent_id":421172673,
     "wof:placetype":"locality",

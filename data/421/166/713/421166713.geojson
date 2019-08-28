@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.283963,
     "lbl:longitude":-57.585571,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Asuncion",
     "meso:gadm_adm2":"Asunci\u00f3n",
     "meso:gaul_adm2":"Asuncion",
@@ -31,6 +33,7 @@
     "mps:longitude":-57.585571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Asunci\u00f3n"
@@ -57,9 +60,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gp:id":26810946,
         "hasc:id":"PY.AS.AS",
-        "qs:id":1264310
+        "qs_pg:id":1264310
     },
     "wof:coterminous":[
         1125905513
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421166713,
-    "wof:lastmodified":1553717299,
+    "wof:lastmodified":1566609550,
     "wof:name":"Asuncion",
     "wof:parent_id":85676651,
     "wof:placetype":"county",

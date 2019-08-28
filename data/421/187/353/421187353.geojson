@@ -10,6 +10,9 @@
     "geom:latitude":-25.50972,
     "geom:longitude":-54.61111,
     "iso:country":"PY",
+    "lbl:bbox":"-54.63111,-25.52972,-54.59111,-25.48972",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -185,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044c\u044e\u0434\u0430\u0434-\u0434\u0435\u043b\u044c-\u0415\u0441\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Presidente Stroessner"
     ],
     "name:urd_x_preferred":[
@@ -341,7 +344,7 @@
     "wof:concordances":{
         "gn:id":3439101,
         "gp:id":379181,
-        "qs:id":1082752,
+        "qs_pg:id":1082752,
         "wd:id":"Q192235",
         "wk:page":"Ciudad del Este"
     },
@@ -358,7 +361,7 @@
         }
     ],
     "wof:id":421187353,
-    "wof:lastmodified":1563280835,
+    "wof:lastmodified":1566609563,
     "wof:name":"Ciudad del Este",
     "wof:parent_id":421169437,
     "wof:placetype":"locality",

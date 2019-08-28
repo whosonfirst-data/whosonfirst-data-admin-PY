@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-56.68931,-26.07685,-56.64931,-26.03685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Colonia Agust\u00edn Molas"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276316877,
-    "wof:lastmodified":1537683226,
+    "wof:lastmodified":1566609350,
     "wof:name":"Colonia Agustin Molas",
     "wof:parent_id":1108692529,
     "wof:placetype":"locality",

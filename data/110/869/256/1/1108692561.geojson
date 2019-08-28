@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.772608,
     "lbl:longitude":-55.387409,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Alto Parana",
     "meso:gadm_adm2":"San Crist\u00f3bal",
     "meso:gaul_adm2":"San Cristobal",
@@ -31,6 +33,7 @@
     "mps:longitude":-55.387409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Crist\u00f3bal"
     ],
@@ -62,9 +65,9 @@
         "\u8056\u514b\u91cc\u65af\u6258\u74e6\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108692561,
-    "wof:lastmodified":1563280676,
+    "wof:lastmodified":1566609451,
     "wof:name":"San Cristobal",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

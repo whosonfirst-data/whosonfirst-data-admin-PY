@@ -11,8 +11,11 @@
     "geom:longitude":-57.44028,
     "gn:country":"PY",
     "gn:fcode":"PPLA",
-    "gn:pop":48123,
+    "gn:population":48123,
     "iso:country":"PY",
+    "lbl:bbox":"-57.46028,-23.42556,-57.42028,-23.38556",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -163,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Concepci\u00f3n"
     ],
     "name:urd_x_preferred":[
@@ -292,10 +295,12 @@
     "wof:concordances":{
         "gn:id":3438834,
         "gp:id":379182,
-        "qs:id":1044691,
-        "qs_pg:id":1075774,
+        "qs_pg:id":1044691,
         "wd:id":"Q840962",
         "wk:page":"Concepci\u00f3n"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1075774
     },
     "wof:country":"PY",
     "wof:created":1469052263,
@@ -310,7 +315,7 @@
         }
     ],
     "wof:id":890440117,
-    "wof:lastmodified":1563280905,
+    "wof:lastmodified":1566609608,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":421201641,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-24.260285,
     "lbl:longitude":-54.900885,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-24.237901,
     "mps:longitude":-55.608036,
     "mz:hierarchy_label":1,
@@ -188,7 +189,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0456\u043d\u0434\u0435\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Decimocuarto Departamento"
     ],
     "name:urd_x_preferred":[
@@ -278,9 +279,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"14,667",
     "statoids:area_mi":"5,663",
     "statoids:as_of_date":"2002-08-28",
@@ -305,7 +306,7 @@
         "gp:id":2346464,
         "hasc:id":"PY.CY",
         "iso:id":"PY-14",
-        "qs:id":1097059,
+        "qs_pg:id":1097059,
         "unlc:id":"PY-14",
         "wd:id":"Q279085",
         "wk:page":"Canindey\u00fa Department"
@@ -328,11 +329,10 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1565733759,
+    "wof:lastmodified":1566609282,
     "wof:name":"Canindey\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":140137,
     "wof:population_rank":9,

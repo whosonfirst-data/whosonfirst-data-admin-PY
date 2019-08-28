@@ -10,8 +10,12 @@
     "geom:latitude":-27.23333,
     "geom:longitude":-56.21667,
     "iso:country":"PY",
+    "lbl:bbox":"-56.23667,-27.25333,-56.19667,-27.21333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Carmen del Paran\u00e1"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Carmen del Paran\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carmen"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3439156,
         "gp:id":379231,
-        "qs:id":1044698,
+        "qs_pg:id":1044698,
         "wd:id":"Q1043738",
         "wk:page":"Carmen del Paran\u00e1"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421185755,
-    "wof:lastmodified":1563280901,
+    "wof:lastmodified":1566609607,
     "wof:name":"Carmen del Paran\u00e1",
     "wof:parent_id":1108692473,
     "wof:placetype":"locality",

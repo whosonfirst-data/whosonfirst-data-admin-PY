@@ -10,10 +10,14 @@
     "geom:latitude":-25.090007,
     "geom:longitude":-57.529987,
     "iso:country":"PY",
+    "lbl:bbox":"-57.5499874284,-25.1100073051,-57.5099874284,-25.0700073051",
     "lbl:latitude":-25.090007,
     "lbl:longitude":-57.529987,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627 \u0647\u0627\u064a\u0632"
     ],
@@ -143,7 +147,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u0410\u0454\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nueva Burdeos"
     ],
     "name:urd_x_preferred":[
@@ -264,7 +268,7 @@
     "wof:concordances":{
         "gn:id":3436725,
         "gp:id":379193,
-        "qs:id":1044655,
+        "qs_pg:id":1044655,
         "wd:id":"Q135953",
         "wk:page":"Villa Hayes"
     },
@@ -281,7 +285,7 @@
         }
     ],
     "wof:id":1141906393,
-    "wof:lastmodified":1563281005,
+    "wof:lastmodified":1566609669,
     "wof:name":"Villa Hayes",
     "wof:parent_id":421171367,
     "wof:placetype":"locality",

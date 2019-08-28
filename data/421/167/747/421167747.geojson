@@ -10,8 +10,12 @@
     "geom:latitude":-25.7,
     "geom:longitude":-56.4,
     "iso:country":"PY",
+    "lbl:bbox":"-56.42,-25.72,-56.38,-25.68",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mbocayaty"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3437763,
         "gp:id":379254,
-        "qs:id":147813,
+        "qs_pg:id":147813,
         "wd:id":"Q1006425",
         "wk:page":"Mbocayaty"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421167747,
-    "wof:lastmodified":1563280811,
+    "wof:lastmodified":1566609555,
     "wof:name":"Mbocayaty",
     "wof:parent_id":421184917,
     "wof:placetype":"locality",

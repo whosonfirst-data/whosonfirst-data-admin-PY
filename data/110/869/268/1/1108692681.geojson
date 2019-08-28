@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.501438,
     "lbl:longitude":-55.243538,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Itapua",
     "meso:gadm_adm2":"Tom\u00e1s Romero Pereira",
     "meso:gaul_adm2":"Tomas Romero P.",
@@ -31,6 +33,7 @@
     "mps:longitude":-55.243538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Tom\u00e1s Romero Pereira"
     ],
@@ -56,9 +59,9 @@
         "\u6258\u99ac\u65af\u7f85\u6885\u7f85\u4f69\u96f7\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692681,
-    "wof:lastmodified":1563280649,
+    "wof:lastmodified":1566609423,
     "wof:name":"Tomas Romero Pereira",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

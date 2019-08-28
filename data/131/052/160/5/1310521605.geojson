@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-57.03667,-25.52,-56.99667,-25.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colonia Comondante Pedro Caballero",
         "Pedro P. Caballero"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310521605,
-    "wof:lastmodified":1537683205,
+    "wof:lastmodified":1566609525,
     "wof:name":"Pedro P. Caballero",
     "wof:parent_id":421184641,
     "wof:placetype":"locality",

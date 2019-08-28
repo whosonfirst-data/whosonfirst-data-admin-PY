@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.031969,
     "lbl:longitude":-56.068935,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Caaguazu",
     "meso:gadm_adm2":"San Joaqu\u00edn",
     "meso:gaul_adm2":"San Joaquin",
@@ -31,6 +33,7 @@
     "mps:longitude":-56.068935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Joaqu\u00edn"
     ],
@@ -65,9 +68,9 @@
         "\u8056\u83ef\u91d1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108692637,
-    "wof:lastmodified":1563280738,
+    "wof:lastmodified":1566609510,
     "wof:name":"San Joaquin",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

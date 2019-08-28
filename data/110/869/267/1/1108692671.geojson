@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.305708,
     "lbl:longitude":-54.734913,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Itapua",
     "meso:gadm_adm2":"Mayor Julio D. Ota\u00f1o",
     "meso:gaul_adm2":"Mayor Otano",
@@ -31,6 +33,7 @@
     "mps:longitude":-54.734913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Mayor Julio D. Ota\u00f1o"
     ],
@@ -65,9 +68,9 @@
         "\u80e1\u5229\u5967\u8fea\u5967\u5c3c\u897f\u5967\u5967\u5854\u5c3c\u5967\u5e02\u9577\u93ae"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108692671,
-    "wof:lastmodified":1563280671,
+    "wof:lastmodified":1566609444,
     "wof:name":"Mayor Ota\u00d1o",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

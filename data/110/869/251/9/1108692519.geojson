@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.322323,
     "lbl:longitude":-56.692407,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Cordillera",
     "meso:gadm_adm2":"Mbocayaty del Yhaguy",
     "meso:gaul_adm2":"Mbacayaty Del Yhaguy",
@@ -31,6 +33,7 @@
     "mps:longitude":-56.692407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mbocayaty Del Yhaguy"
     ],
@@ -59,9 +62,9 @@
         "\u59c6\u535a\u5361\u4e9e\u8482\u5fb7\u723e\u4e9e\u5409"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108692519,
-    "wof:lastmodified":1563280674,
+    "wof:lastmodified":1566609449,
     "wof:name":"Mbocayaty Del Yhaguy",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

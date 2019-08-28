@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.500836,
     "lbl:longitude":-54.690855,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Alto Parana",
     "meso:gadm_adm2":"Ciudad del Este",
     "meso:gaul_adm2":"Ciudad  Del Este",
@@ -31,6 +33,7 @@
     "mps:longitude":-54.690855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u064a\u0648\u062f\u0627\u062f \u062f\u064a\u0644 \u0627\u0633\u062a\u064a"
@@ -246,9 +249,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-28",
+    "src:population_date":"2002-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-28",
     "statoids:capital":"",
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gp:id":26810732,
         "hasc:id":"PY.AA.CE",
-        "qs:id":1264254,
+        "qs_pg:id":1264254,
         "wd:id":"Q192235"
     },
     "wof:country":"PY",
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":421169437,
-    "wof:lastmodified":1563280814,
+    "wof:lastmodified":1566609556,
     "wof:name":"Ciudad Del Este",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

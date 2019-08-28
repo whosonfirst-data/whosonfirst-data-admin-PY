@@ -11,8 +11,11 @@
     "geom:longitude":-60.03333,
     "gn:country":"PY",
     "gn:fcode":"PPLA",
-    "gn:pop":8048,
+    "gn:population":8048,
     "iso:country":"PY",
+    "lbl:bbox":"-60.05333,-22.37,-60.01333,-22.33",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -139,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u043b\u0430\u0434\u0435\u043b\u044c\u0444\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Philadelphia"
     ],
     "name:urd_x_preferred":[
@@ -262,12 +265,12 @@
     "wof:concordances":{
         "gn:id":3867291,
         "gp:id":379201,
-        "qs:id":96668,
+        "qs_pg:id":96668,
         "wd:id":"Q733744",
         "wk:page":"Filadelfia"
     },
     "wof:concordances_alt":{
-        "qs:id":1057913
+        "qs_pg:id":1057913
     },
     "wof:country":"PY",
     "wof:created":1469051812,
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":890429383,
-    "wof:lastmodified":1563280909,
+    "wof:lastmodified":1566609609,
     "wof:name":"Filadelfia",
     "wof:parent_id":1108692879,
     "wof:placetype":"locality",

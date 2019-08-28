@@ -10,8 +10,12 @@
     "geom:latitude":-24.86667,
     "geom:longitude":-54.9,
     "iso:country":"PY",
+    "lbl:bbox":"-54.92,-24.88667,-54.88,-24.84667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u063a\u0627 \u0628\u0648\u0631\u0627"
@@ -148,7 +152,7 @@
     "wof:concordances":{
         "gn:id":3438977,
         "gp:id":377557,
-        "qs:id":1207078,
+        "qs_pg:id":1207078,
         "wd:id":"Q2445910",
         "wk:page":"Minga Por\u00e1 District"
     },
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":421180673,
-    "wof:lastmodified":1563280831,
+    "wof:lastmodified":1566609562,
     "wof:name":"Colonia Minga Por\u00e1",
     "wof:parent_id":1108692571,
     "wof:placetype":"locality",

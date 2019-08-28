@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-58.50333,-23.38667,-58.46333,-23.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209898277,
-    "wof:lastmodified":1536387608,
+    "wof:lastmodified":1566609371,
     "wof:name":"Estancia Laguna Sola",
     "wof:parent_id":421171367,
     "wof:placetype":"locality",

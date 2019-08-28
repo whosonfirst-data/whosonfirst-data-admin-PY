@@ -10,6 +10,9 @@
     "geom:latitude":-23.34278,
     "geom:longitude":-57.05972,
     "iso:country":"PY",
+    "lbl:bbox":"-57.07972,-23.36278,-57.03972,-23.32278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -182,7 +185,7 @@
     "wof:concordances":{
         "gn:id":3480780,
         "gp:id":379204,
-        "qs:id":214908,
+        "qs_pg:id":214908,
         "wd:id":"Q2639236",
         "wk:page":"Horqueta"
     },
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421201859,
-    "wof:lastmodified":1563280860,
+    "wof:lastmodified":1566609576,
     "wof:name":"Horqueta",
     "wof:parent_id":1108692745,
     "wof:placetype":"locality",

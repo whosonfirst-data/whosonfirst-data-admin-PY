@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Asuncion",
     "iso:country":"PY",
+    "lbl:bbox":"-61.85333,-23.15333,-61.81333,-23.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Collar Ahorcada",
         "Collar Ahorcado"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310470229,
-    "wof:lastmodified":1537683237,
+    "wof:lastmodified":1566609522,
     "wof:name":"Collar Ahorcado",
     "wof:parent_id":1108718261,
     "wof:placetype":"locality",

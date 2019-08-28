@@ -10,8 +10,12 @@
     "geom:latitude":-25.75,
     "geom:longitude":-56.61667,
     "iso:country":"PY",
+    "lbl:bbox":"-56.63667,-25.77,-56.59667,-25.73",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Coronel Mart\u00ednez"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Coronel Mart\u00ednez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Martinez"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3438822,
         "gp:id":379233,
-        "qs:id":1044693,
+        "qs_pg:id":1044693,
         "wd:id":"Q1005030",
         "wk:page":"Coronel Mart\u00ednez"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421185749,
-    "wof:lastmodified":1563280902,
+    "wof:lastmodified":1566609607,
     "wof:name":"Coronel Mart\u00ednez",
     "wof:parent_id":1108692535,
     "wof:placetype":"locality",
