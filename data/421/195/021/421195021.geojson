@@ -208,6 +208,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009829,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4bb02914aae4f494d89eee146b2a094c",
     "wof:hierarchy":[
         {
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":421195021,
-    "wof:lastmodified":1566609553,
+    "wof:lastmodified":1582360299,
     "wof:name":"Villeta",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

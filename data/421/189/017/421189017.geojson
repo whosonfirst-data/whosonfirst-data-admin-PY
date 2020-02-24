@@ -124,6 +124,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009602,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a2bc915ccedd712f3a522b2c9aaa9892",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421189017,
-    "wof:lastmodified":1566609569,
+    "wof:lastmodified":1582360303,
     "wof:name":"General Diaz",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

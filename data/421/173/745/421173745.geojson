@@ -223,6 +223,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009004,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c7db62937b03cd10336ffb1e252bc1ea",
     "wof:hierarchy":[
         {
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":421173745,
-    "wof:lastmodified":1566609565,
+    "wof:lastmodified":1582360302,
     "wof:name":"Paraguari",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

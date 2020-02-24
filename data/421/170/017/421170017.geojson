@@ -127,6 +127,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008833,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d8de3f4595b82a04638b80dc0f4fd1cf",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421170017,
-    "wof:lastmodified":1566609586,
+    "wof:lastmodified":1582360309,
     "wof:name":"San Ignacio",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

@@ -234,6 +234,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009403,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"60d8a3f1531e07e464411781e4f01699",
     "wof:hierarchy":[
         {
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":421184207,
-    "wof:lastmodified":1566609580,
+    "wof:lastmodified":1582360306,
     "wof:name":"Coronel Oviedo",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

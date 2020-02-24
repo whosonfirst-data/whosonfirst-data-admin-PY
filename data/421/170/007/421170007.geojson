@@ -150,6 +150,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008833,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b82526e9721ae65454b0f6ce409c18d",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":421170007,
-    "wof:lastmodified":1566609585,
+    "wof:lastmodified":1582360309,
     "wof:name":"Pilar",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

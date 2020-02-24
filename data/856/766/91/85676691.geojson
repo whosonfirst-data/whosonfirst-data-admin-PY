@@ -306,6 +306,9 @@
         "wk:page":"\u00d1eembuc\u00fa Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc5e5478180a0f396540088d588eb358",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609302,
+    "wof:lastmodified":1582360277,
     "wof:name":"\u00d1eembuc\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

@@ -309,6 +309,9 @@
         "wk:page":"Itap\u00faa Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4a3fc127ea979a9356030cc59c21f83b",
     "wof:hierarchy":[
         {
@@ -326,7 +329,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609289,
+    "wof:lastmodified":1582360270,
     "wof:name":"Itap\u00faa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

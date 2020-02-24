@@ -232,6 +232,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008833,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"031db9626ced81f03d0978f72cbeca90",
     "wof:hierarchy":[
         {
@@ -242,7 +245,7 @@
         }
     ],
     "wof:id":421170013,
-    "wof:lastmodified":1566609584,
+    "wof:lastmodified":1582360308,
     "wof:name":"Limpio",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

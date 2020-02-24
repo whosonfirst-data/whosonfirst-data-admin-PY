@@ -114,6 +114,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009348,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"90b32a34fe134c458f374d31612e6c88",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421182833,
-    "wof:lastmodified":1566609593,
+    "wof:lastmodified":1582360312,
     "wof:name":"Los Cedrales",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

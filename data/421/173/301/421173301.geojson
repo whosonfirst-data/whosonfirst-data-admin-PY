@@ -240,6 +240,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008977,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c7b653ba84e9135de5147c355ec580c2",
     "wof:hierarchy":[
         {
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":421173301,
-    "wof:lastmodified":1566609563,
+    "wof:lastmodified":1582360301,
     "wof:name":"Villarrica",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

@@ -309,6 +309,9 @@
         "wk:page":"Caaguaz\u00fa Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"63c57be5b3e3f898d6d2aba4bd98f014",
     "wof:hierarchy":[
         {
@@ -326,7 +329,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609284,
+    "wof:lastmodified":1582360266,
     "wof:name":"Caaguaz\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

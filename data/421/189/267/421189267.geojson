@@ -256,6 +256,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009615,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc0e4f3c479cd05424669c165f59abe5",
     "wof:hierarchy":[
         {
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":421189267,
-    "wof:lastmodified":1566609566,
+    "wof:lastmodified":1582360302,
     "wof:name":"Luque",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

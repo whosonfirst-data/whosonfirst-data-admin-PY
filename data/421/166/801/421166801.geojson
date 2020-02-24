@@ -115,6 +115,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008703,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e11e7a0af5e37c01f2333748b1247ce1",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421166801,
-    "wof:lastmodified":1566609550,
+    "wof:lastmodified":1582360298,
     "wof:name":"Belen",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

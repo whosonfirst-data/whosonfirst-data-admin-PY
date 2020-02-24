@@ -139,6 +139,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009417,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d62c53703a4fc0d8310ec62777d71f88",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421184641,
-    "wof:lastmodified":1566609579,
+    "wof:lastmodified":1582360306,
     "wof:name":"Piribebuy",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

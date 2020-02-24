@@ -304,6 +304,9 @@
     },
     "wof:country":"PY",
     "wof:created":1469052263,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2726cc3d13a9c122c8133458b61ba84a",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":890440117,
-    "wof:lastmodified":1566609608,
+    "wof:lastmodified":1582360318,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":421201641,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008893,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97c06517a05e0da8e5889f7851a1931a",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421171423,
-    "wof:lastmodified":1566609595,
+    "wof:lastmodified":1582360312,
     "wof:name":"San Cosme Y Damian",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

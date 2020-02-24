@@ -205,6 +205,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008906,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1dff838ba5ab3b0351a6b32cdbe1fe70",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":421171777,
-    "wof:lastmodified":1566609596,
+    "wof:lastmodified":1582360313,
     "wof:name":"Mariscal Estigarribia",
     "wof:parent_id":85676659,
     "wof:placetype":"county",

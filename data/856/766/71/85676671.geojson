@@ -302,6 +302,9 @@
         "wk:page":"Presidente Hayes Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a6f2cde350a8e17da05aba0bc4e44f7",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609308,
+    "wof:lastmodified":1582360281,
     "wof:name":"Presidente Hayes",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

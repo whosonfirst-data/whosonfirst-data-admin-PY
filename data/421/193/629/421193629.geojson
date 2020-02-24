@@ -211,6 +211,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009777,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"de08669f4d40305e5e89dcf1c377cb29",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":421193629,
-    "wof:lastmodified":1566609554,
+    "wof:lastmodified":1582360300,
     "wof:name":"Hernandarias",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

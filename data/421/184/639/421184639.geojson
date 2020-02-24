@@ -220,6 +220,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009417,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e9b275886bc40c8d13f1f41ddf685345",
     "wof:hierarchy":[
         {
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":421184639,
-    "wof:lastmodified":1566609581,
+    "wof:lastmodified":1582360307,
     "wof:name":"Fuerte Olimpo",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

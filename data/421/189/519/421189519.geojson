@@ -115,6 +115,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009627,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec7ce6083ce9d612ab03a42ad17bf2c8",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421189519,
-    "wof:lastmodified":1566609568,
+    "wof:lastmodified":1582360303,
     "wof:name":"Carmen Del Parana",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

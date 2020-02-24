@@ -252,6 +252,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009803,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"9649baddb9d9969fed9d30de16f19cde",
     "wof:hierarchy":[
         {
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":421194353,
-    "wof:lastmodified":1566609554,
+    "wof:lastmodified":1582360299,
     "wof:name":"Mariscal Jos\u00e9 F. Estigarribia",
     "wof:parent_id":421171777,
     "wof:placetype":"locality",

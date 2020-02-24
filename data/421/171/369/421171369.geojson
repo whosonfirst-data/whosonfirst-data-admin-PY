@@ -118,6 +118,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008891,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"188ca08a0962517078f65e00d0022bf4",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421171369,
-    "wof:lastmodified":1566609600,
+    "wof:lastmodified":1582360314,
     "wof:name":"Trinidad",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

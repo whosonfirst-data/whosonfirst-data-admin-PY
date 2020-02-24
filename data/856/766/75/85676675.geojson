@@ -300,6 +300,9 @@
         "wk:page":"San Pedro Department, Paraguay"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"63e1d75bf2da851d4a512967c9be4da2",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609299,
+    "wof:lastmodified":1582360276,
     "wof:name":"San Pedro",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

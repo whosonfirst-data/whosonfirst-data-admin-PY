@@ -127,6 +127,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008977,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"87fbad3f40d7f8dac655096751ca3133",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421173299,
-    "wof:lastmodified":1566609565,
+    "wof:lastmodified":1582360301,
     "wof:name":"Tobati",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -181,6 +181,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008950,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7fa5aab815965820103b9e17ef23f35a",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":421172673,
-    "wof:lastmodified":1566609569,
+    "wof:lastmodified":1582360303,
     "wof:name":"Caacupe",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

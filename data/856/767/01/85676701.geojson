@@ -299,6 +299,9 @@
         "wk:page":"Amambay Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0b8963ea4c48d9bd7702fb2e0eec95d1",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609286,
+    "wof:lastmodified":1582360268,
     "wof:name":"Amambay",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

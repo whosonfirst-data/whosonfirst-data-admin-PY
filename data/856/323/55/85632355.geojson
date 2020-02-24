@@ -939,7 +939,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -993,6 +994,11 @@
     },
     "wof:country":"PY",
     "wof:country_alpha3":"PRY",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"a38e9993364eee48993ecc6e3d87f157",
     "wof:hierarchy":[
         {
@@ -1009,7 +1015,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609276,
+    "wof:lastmodified":1582360262,
     "wof:name":"Paraguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

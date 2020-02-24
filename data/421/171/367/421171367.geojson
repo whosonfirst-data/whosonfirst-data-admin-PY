@@ -226,6 +226,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008891,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fac14c3656ce196b0ceb28db14a06da6",
     "wof:hierarchy":[
         {
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421171367,
-    "wof:lastmodified":1566609601,
+    "wof:lastmodified":1582360315,
     "wof:name":"Villa Hayes",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

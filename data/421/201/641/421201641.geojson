@@ -244,6 +244,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459010079,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d0efb7864e4ff0d35269daa3e779845e",
     "wof:hierarchy":[
         {
@@ -254,7 +257,7 @@
         }
     ],
     "wof:id":421201641,
-    "wof:lastmodified":1566609577,
+    "wof:lastmodified":1582360305,
     "wof:name":"Concepcion",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

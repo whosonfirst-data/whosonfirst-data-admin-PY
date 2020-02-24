@@ -124,6 +124,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009694,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"018d785192787f07ed17b627b31132c0",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421191497,
-    "wof:lastmodified":1566609574,
+    "wof:lastmodified":1582360304,
     "wof:name":"Sapucai",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

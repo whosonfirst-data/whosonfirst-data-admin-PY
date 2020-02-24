@@ -118,6 +118,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009243,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6bfe690c61bb94e8eb0b8bf365983b6b",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421180053,
-    "wof:lastmodified":1566609562,
+    "wof:lastmodified":1582360301,
     "wof:name":"Capitan Miranda",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

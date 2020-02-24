@@ -123,6 +123,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009763,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2c073e15fa29957bf6875329355564b0",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421193197,
-    "wof:lastmodified":1566609555,
+    "wof:lastmodified":1582360300,
     "wof:name":"San Bernardino",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

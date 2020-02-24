@@ -320,6 +320,9 @@
         "wk:page":"Central Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53a8a2746b0991d6172063a0d76fee61",
     "wof:hierarchy":[
         {
@@ -337,7 +340,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609301,
+    "wof:lastmodified":1582360277,
     "wof:name":"Central",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

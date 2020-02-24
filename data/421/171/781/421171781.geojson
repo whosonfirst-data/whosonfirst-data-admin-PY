@@ -117,6 +117,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008906,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a0686075d52fe9e4e7e7ea7e93a5796b",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421171781,
-    "wof:lastmodified":1566609606,
+    "wof:lastmodified":1582360318,
     "wof:name":"Villa Florida",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

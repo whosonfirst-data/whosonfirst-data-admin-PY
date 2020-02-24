@@ -201,6 +201,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009694,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cfe0b6b90e49366bd1139f0c961bc3d8",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421191499,
-    "wof:lastmodified":1566609574,
+    "wof:lastmodified":1582360304,
     "wof:name":"Yguazu",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

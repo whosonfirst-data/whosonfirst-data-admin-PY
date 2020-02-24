@@ -112,6 +112,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008833,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f23c697b9115e98e274b1feb583034b5",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421170011,
-    "wof:lastmodified":1566609586,
+    "wof:lastmodified":1582360309,
     "wof:name":"Paso De Patria",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

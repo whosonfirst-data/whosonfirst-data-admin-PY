@@ -127,6 +127,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008959,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"449898bbaa4b154c22bad31c6c0172ec",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421172933,
-    "wof:lastmodified":1566609570,
+    "wof:lastmodified":1582360304,
     "wof:name":"General Eugenio A. Garay",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

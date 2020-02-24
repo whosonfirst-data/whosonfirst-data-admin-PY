@@ -114,6 +114,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009426,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"795e37d4adc4e452b000a829620046eb",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421184917,
-    "wof:lastmodified":1566609583,
+    "wof:lastmodified":1582360308,
     "wof:name":"Mbocayaty",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

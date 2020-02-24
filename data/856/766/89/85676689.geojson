@@ -302,6 +302,9 @@
         "wk:page":"Misiones Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cfef938f5edfad99e1a5675ae5a4281f",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609298,
+    "wof:lastmodified":1582360275,
     "wof:name":"Misiones",
     "wof:parent_id":85632355,
     "wof:placetype":"region",
