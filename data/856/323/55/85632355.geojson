@@ -939,8 +939,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso",
-        "naturalearth"
+        "meso"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1015,7 +1014,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1582360262,
+    "wof:lastmodified":1583241764,
     "wof:name":"Paraguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
