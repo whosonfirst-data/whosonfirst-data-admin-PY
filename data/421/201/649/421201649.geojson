@@ -150,6 +150,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459010079,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72065bfed263612b0dc062dbb3e80db4",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":421201649,
-    "wof:lastmodified":1566609576,
+    "wof:lastmodified":1582360304,
     "wof:name":"Valenzuela",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

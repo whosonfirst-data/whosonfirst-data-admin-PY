@@ -136,6 +136,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009627,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a73e64fb108cc83408698022ef743a6f",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421189517,
-    "wof:lastmodified":1566609567,
+    "wof:lastmodified":1582360303,
     "wof:name":"San Estanislao",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

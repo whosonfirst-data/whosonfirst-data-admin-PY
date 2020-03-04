@@ -241,6 +241,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009694,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"27d93a507e1e1bd62deb5a0904a06ad7",
     "wof:hierarchy":[
         {
@@ -251,7 +254,7 @@
         }
     ],
     "wof:id":421191491,
-    "wof:lastmodified":1566609575,
+    "wof:lastmodified":1582360304,
     "wof:name":"Lambare",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

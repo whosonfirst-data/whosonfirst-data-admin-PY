@@ -139,6 +139,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008897,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"da1f0c4c7ca5bc7283e9c14954737be8",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421171537,
-    "wof:lastmodified":1566609599,
+    "wof:lastmodified":1582360314,
     "wof:name":"Presidente Franco",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

@@ -318,6 +318,9 @@
         "wk:page":"Alto Paran\u00e1 Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0a1c0308c8e890a7fc08cd918629a4c5",
     "wof:hierarchy":[
         {
@@ -335,7 +338,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609278,
+    "wof:lastmodified":1582360263,
     "wof:name":"Alto Paran\u00e1",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

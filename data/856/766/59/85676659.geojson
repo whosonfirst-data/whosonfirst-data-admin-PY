@@ -309,6 +309,9 @@
         "wk:page":"Boquer\u00f3n department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec52fe5e9d5c23a14834a21658980728",
     "wof:hierarchy":[
         {
@@ -326,7 +329,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609296,
+    "wof:lastmodified":1582360274,
     "wof:name":"Boquer\u00f3n",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

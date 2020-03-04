@@ -118,6 +118,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008907,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"568750fd044f10a47c19e44f5187f631",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421171783,
-    "wof:lastmodified":1566609596,
+    "wof:lastmodified":1582360313,
     "wof:name":"Atyra",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

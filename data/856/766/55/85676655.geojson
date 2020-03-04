@@ -297,6 +297,9 @@
         "wk:page":"Alto Paraguay Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5710b0083a987b9ec39670c7b3081c04",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609306,
+    "wof:lastmodified":1582360280,
     "wof:name":"Alto Paraguay",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

@@ -121,6 +121,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009417,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"40587ce59111cbe7e21648780f8b7784",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421184635,
-    "wof:lastmodified":1566609578,
+    "wof:lastmodified":1582360305,
     "wof:name":"Alto Vera",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

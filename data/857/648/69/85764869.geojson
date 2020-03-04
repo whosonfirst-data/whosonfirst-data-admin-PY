@@ -80,6 +80,9 @@
         "qs:id":887606
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"67e0efee6817cab690589cb242d52835",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379451,
+    "wof:lastmodified":1582360260,
     "wof:name":"Banco San Miguel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

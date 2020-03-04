@@ -257,6 +257,9 @@
         "wk:page":"Concepci\u00f3n Department, Paraguay"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"436e180f51feb12f82d4cd0153511916",
     "wof:hierarchy":[
         {
@@ -274,7 +277,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609303,
+    "wof:lastmodified":1582360278,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

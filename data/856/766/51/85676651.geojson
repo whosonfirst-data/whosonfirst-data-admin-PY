@@ -581,6 +581,9 @@
         "wd:id":"Q2933"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5322a896d6b3977d5f5e73ea894fc487",
     "wof:hierarchy":[
         {
@@ -598,7 +601,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609297,
+    "wof:lastmodified":1582360275,
     "wof:name":"Asunci\u00f3n",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

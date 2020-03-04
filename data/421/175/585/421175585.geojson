@@ -133,6 +133,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009072,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f5f2392989aa664b18efc7356579080f",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421175585,
-    "wof:lastmodified":1566609572,
+    "wof:lastmodified":1582360304,
     "wof:name":"Altos",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

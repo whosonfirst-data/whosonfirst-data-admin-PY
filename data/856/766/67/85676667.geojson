@@ -293,6 +293,9 @@
         "wk:page":"Cordillera Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"16af8046d2ec7d595fc07416447242b2",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609297,
+    "wof:lastmodified":1582360275,
     "wof:name":"Cordillera",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

@@ -89,6 +89,9 @@
     ],
     "wof:country":"PY",
     "wof:created":1459008700,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5322a896d6b3977d5f5e73ea894fc487",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421166713,
-    "wof:lastmodified":1566609550,
+    "wof:lastmodified":1582360298,
     "wof:name":"Asuncion",
     "wof:parent_id":85676651,
     "wof:placetype":"county",

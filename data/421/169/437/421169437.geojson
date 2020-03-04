@@ -276,6 +276,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008810,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78a87827760444e03fb57afa6b407437",
     "wof:hierarchy":[
         {
@@ -286,7 +289,7 @@
         }
     ],
     "wof:id":421169437,
-    "wof:lastmodified":1566609556,
+    "wof:lastmodified":1582360300,
     "wof:name":"Ciudad Del Este",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

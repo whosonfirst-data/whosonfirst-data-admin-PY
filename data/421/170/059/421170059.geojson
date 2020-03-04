@@ -241,6 +241,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008835,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"90bbb4acff62efe6b49d3dadc5bea4c3",
     "wof:hierarchy":[
         {
@@ -251,7 +254,7 @@
         }
     ],
     "wof:id":421170059,
-    "wof:lastmodified":1566609587,
+    "wof:lastmodified":1582360310,
     "wof:name":"Pedro Juan Caballero",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

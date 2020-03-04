@@ -300,6 +300,9 @@
         "wk:page":"Caazap\u00e1 Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1138ab4bff258e8b33fd8a86519bc98b",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609292,
+    "wof:lastmodified":1582360272,
     "wof:name":"Caazap\u00e1",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

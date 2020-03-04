@@ -312,6 +312,9 @@
         "wk:page":"Canindey\u00fa Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc1a397b5b8f64308c119ccda295338c",
     "wof:hierarchy":[
         {
@@ -329,7 +332,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609282,
+    "wof:lastmodified":1582360265,
     "wof:name":"Canindey\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

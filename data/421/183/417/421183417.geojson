@@ -211,6 +211,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009368,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"760387e94fefa591674b896e5339f4ac",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":421183417,
-    "wof:lastmodified":1566609590,
+    "wof:lastmodified":1582360311,
     "wof:name":"Caaguazu",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

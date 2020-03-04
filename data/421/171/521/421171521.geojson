@@ -198,6 +198,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008896,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14e3a9afa38d2b941727a01b2bda3237",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":421171521,
-    "wof:lastmodified":1566609595,
+    "wof:lastmodified":1582360312,
     "wof:name":"Nanawa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

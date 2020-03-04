@@ -139,6 +139,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459010180,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"86ee956c253a98df1bfce5b25abdb924",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421204309,
-    "wof:lastmodified":1566609557,
+    "wof:lastmodified":1582360300,
     "wof:name":"Ayolas",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

@@ -124,6 +124,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008833,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea0c8f2c5c6d3fea62b8a0860476f112",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421170015,
-    "wof:lastmodified":1566609583,
+    "wof:lastmodified":1582360308,
     "wof:name":"Carapegua",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

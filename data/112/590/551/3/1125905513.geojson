@@ -482,6 +482,9 @@
     },
     "wof:country":"PY",
     "wof:created":1497295973,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
     "wof:geomhash":"5322a896d6b3977d5f5e73ea894fc487",
     "wof:hierarchy":[
         {
@@ -493,7 +496,7 @@
         }
     ],
     "wof:id":1125905513,
-    "wof:lastmodified":1566609611,
+    "wof:lastmodified":1582360318,
     "wof:name":"Asunci\u00f3n",
     "wof:parent_id":421166713,
     "wof:placetype":"locality",

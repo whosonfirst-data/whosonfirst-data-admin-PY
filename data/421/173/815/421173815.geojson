@@ -241,6 +241,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009006,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"4162252f598889db6e0813e9940f5efa",
     "wof:hierarchy":[
         {
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":421173815,
-    "wof:lastmodified":1561830088,
+    "wof:lastmodified":1582360301,
     "wof:name":"Pilar",
     "wof:parent_id":421170007,
     "wof:placetype":"locality",

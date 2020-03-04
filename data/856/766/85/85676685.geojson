@@ -306,6 +306,9 @@
         "wk:page":"Guair\u00e1 Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b471f462d1e85565999c8c72b7d5e232",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609306,
+    "wof:lastmodified":1582360280,
     "wof:name":"Guair\u00e1",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

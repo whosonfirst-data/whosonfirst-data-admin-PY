@@ -229,6 +229,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459008835,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d8984fce5beef1894a463c2833007810",
     "wof:hierarchy":[
         {
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":421170055,
-    "wof:lastmodified":1566609586,
+    "wof:lastmodified":1582360309,
     "wof:name":"Aregua",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

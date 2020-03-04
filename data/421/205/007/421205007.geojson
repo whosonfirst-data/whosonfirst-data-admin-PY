@@ -90,6 +90,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459010209,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1fbda67e1e5575c61f8b3795ea2ec558",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421205007,
-    "wof:lastmodified":1566609559,
+    "wof:lastmodified":1582360301,
     "wof:name":"Villa Oliva",
     "wof:parent_id":1108692791,
     "wof:placetype":"locality",

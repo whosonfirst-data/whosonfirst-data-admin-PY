@@ -121,6 +121,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009829,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ac7b4220fca3576241d80d8216ac63f",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421195025,
-    "wof:lastmodified":1566609551,
+    "wof:lastmodified":1582360298,
     "wof:name":"Yuty",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

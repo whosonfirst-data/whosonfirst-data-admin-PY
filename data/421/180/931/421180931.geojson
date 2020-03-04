@@ -181,6 +181,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459009276,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4443b9b76e525f18662c34a507a5f3a0",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":421180931,
-    "wof:lastmodified":1566609560,
+    "wof:lastmodified":1582360301,
     "wof:name":"San Juan Bautista",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

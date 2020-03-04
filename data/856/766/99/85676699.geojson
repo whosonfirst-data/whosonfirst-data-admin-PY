@@ -252,6 +252,9 @@
         "wk:page":"Paraguar\u00ed Department"
     },
     "wof:country":"PY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f651a881dea34c0b138467b68b2cfaf",
     "wof:hierarchy":[
         {
@@ -269,7 +272,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1566609304,
+    "wof:lastmodified":1582360279,
     "wof:name":"Paraguar\u00ed",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

@@ -111,6 +111,9 @@
     },
     "wof:country":"PY",
     "wof:created":1459010180,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c6d5e603bffee4bb8b67a1fa42c164e5",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421204307,
-    "wof:lastmodified":1566609557,
+    "wof:lastmodified":1582360300,
     "wof:name":"Jesus",
     "wof:parent_id":85676723,
     "wof:placetype":"county",
