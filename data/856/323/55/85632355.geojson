@@ -970,9 +970,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Paraguay",
-        "digitalenvoy:country_code":[
-            600
-        ],
+        "digitalenvoy:country_code":600,
         "fb:id":"en.paraguay",
         "fifa:id":"PAR",
         "fips:code":"PA",
@@ -1017,7 +1015,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1583529215,
+    "wof:lastmodified":1583797423,
     "wof:name":"Paraguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
