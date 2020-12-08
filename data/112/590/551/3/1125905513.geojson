@@ -481,7 +481,9 @@
         85676651
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632355,
+    "wof:capital_of":[
+        85632355
+    ],
     "wof:concordances":{
         "gn:id":3439389,
         "qs_pg:id":1054182
@@ -502,7 +504,7 @@
         }
     ],
     "wof:id":1125905513,
-    "wof:lastmodified":1587427368,
+    "wof:lastmodified":1607390880,
     "wof:name":"Asunci\u00f3n",
     "wof:parent_id":421166713,
     "wof:placetype":"locality",
