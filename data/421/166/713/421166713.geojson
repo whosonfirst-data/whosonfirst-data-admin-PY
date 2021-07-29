@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Asunci\u00f3n"
     ],
+    "name:fra_x_preferred":[
+        "Asuncion"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421166713,
-    "wof:lastmodified":1617131501,
+    "wof:lastmodified":1627522520,
     "wof:name":"Asuncion",
     "wof:parent_id":85676651,
     "wof:placetype":"county",
