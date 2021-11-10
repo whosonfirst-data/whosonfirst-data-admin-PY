@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b2\u09b0\u09c7\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u0440\u044a\u043b"
     ],
@@ -45,7 +48,16 @@
     "name:deu_x_preferred":[
         "Laurel"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03c1\u03b5\u03bb"
+    ],
     "name:fra_x_preferred":[
+        "Laurel"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0949\u0930\u0932"
+    ],
+    "name:ind_x_preferred":[
         "Laurel"
     ],
     "name:ita_x_preferred":[
@@ -99,7 +111,7 @@
         "gn:id":3437850
     },
     "wof:country":"PY",
-    "wof:geomhash":"ea9b2795409feadb95465a81a4e979bc",
+    "wof:geomhash":"c45efd7d6c04f07f96569b1e8a792b6a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":1326705475,
-    "wof:lastmodified":1566609253,
+    "wof:lastmodified":1636503090,
     "wof:name":"Laurel",
     "wof:parent_id":1108692469,
     "wof:placetype":"locality",
@@ -120,10 +132,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -54.95818000000001,
+    -54.95818,
     -24.56142,
-    -54.95818000000001,
+    -54.95818,
     -24.56142
 ],
-  "geometry": {"coordinates":[-54.95818000000001,-24.56142],"type":"Point"}
+  "geometry": {"coordinates":[-54.95818,-24.56142],"type":"Point"}
 }

@@ -56,6 +56,9 @@
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05d0\u05e8\u05d9\u05e7\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Villarrica"
+    ],
     "name:isl_x_preferred":[
         "Villarrica"
     ],
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421185887,
-    "wof:lastmodified":1566609607,
+    "wof:lastmodified":1636503117,
     "wof:name":"Villarrica",
     "wof:parent_id":421173301,
     "wof:placetype":"locality",

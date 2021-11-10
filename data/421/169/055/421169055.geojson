@@ -168,6 +168,9 @@
         "San Lorenzo del Campo Grande"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0632\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u0633\u0646 \u0644\u0648\u0631\u06cc\u0646\u0632\u0648"
     ],
     "name:vep_x_preferred":[
@@ -181,6 +184,12 @@
     ],
     "name:war_x_preferred":[
         "San Lorenzo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u6d1b\u4f26\u7d22"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22"
     ],
     "name:zho_x_preferred":[
         "\u8056\u6d1b\u502b\u7d22"
@@ -325,7 +334,7 @@
         }
     ],
     "wof:id":421169055,
-    "wof:lastmodified":1566609557,
+    "wof:lastmodified":1636503109,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1108692627,
     "wof:placetype":"locality",

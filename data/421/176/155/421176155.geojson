@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0631\u0648\u064a\u0648\u0633 \u0625\u064a \u0625\u0633\u062a\u0631\u0648\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u0985\u09cd\u09af\u09be\u09b0\u09cb\u0987\u09df\u09b8 \u0993\u09df\u09be\u0987 \u098f\u09b8\u09cd\u09a4\u09c7\u09b0\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Esteros"
     ],
@@ -29,11 +32,17 @@
     "name:deu_x_preferred":[
         "Arroyos y Esteros"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03cc\u03c7\u03bf\u03c2 \u03b9 \u0388\u03c3\u03c4\u03b5\u03c1\u03bf\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Arroyos y Esteros"
     ],
     "name:eus_x_preferred":[
         "Arroyos y Esteros"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0648\u06cc\u0648\u0633 \u0627\u0633\u062a\u0631\u0648\u0633"
     ],
     "name:fra_x_preferred":[
         "Arroyos y Esteros"
@@ -41,8 +50,26 @@
     "name:grn_x_preferred":[
         "Arroyos y Esteros"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d5\u05d9\u05d5\u05e1 \u05d0\u05d9 \u05d0\u05e1\u05d8\u05e8\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u094b\u092f\u094b\u0938 \u0935\u093e\u0908 \u090f\u0938\u094d\u091f\u0947\u0930\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Arroyos y Esteros"
+    ],
+    "name:ind_x_preferred":[
+        "Arroyos y Esteros"
+    ],
     "name:ita_x_preferred":[
         "Arroyos y Esteros"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ed\u30e8\u30b9\u30fb\u30a4\u30fb\u30a8\u30b9\u30c6\u30ed\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub85c\uc694\uc2a4 \uc774 \uc5d0\uc2a4\ud14c\ub85c\uc2a4"
     ],
     "name:nld_x_preferred":[
         "Arroyos y Esteros"
@@ -60,6 +87,21 @@
         "Arroyos y Esteros"
     ],
     "name:spa_x_preferred":[
+        "Arroyos y Esteros"
+    ],
+    "name:swe_x_preferred":[
+        "Arroyos y Esteros"
+    ],
+    "name:tur_x_preferred":[
+        "Arroyos y Esteros"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0440\u043e\u0439\u043e\u0441-\u0456-\u0415\u0441\u0442\u0435\u0440\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u0648\u06cc\u0648\u0633 \u0648\u0627\u0626\u06d2 \u0627\u06cc\u0633\u0679\u06cc\u0631\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
         "Arroyos y Esteros"
     ],
     "name:zho_x_preferred":[
@@ -205,7 +247,7 @@
         }
     ],
     "wof:id":421176155,
-    "wof:lastmodified":1566609594,
+    "wof:lastmodified":1636503115,
     "wof:name":"Arroyos y Esteros",
     "wof:parent_id":1108692501,
     "wof:placetype":"locality",

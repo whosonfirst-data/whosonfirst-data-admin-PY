@@ -61,8 +61,14 @@
     "name:guj_x_preferred":[
         "\u0aab\u0abf\u0ab2\u0abe\u0aa1\u0ac7\u0ab2\u0acd\u0aab\u0abf\u0aaf\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05dc\u05d3\u05dc\u05e4\u05d9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092b\u093f\u0932\u093e\u0921\u0947\u0932\u094d\u092b\u093f\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Filadelfia"
     ],
     "name:ind_x_preferred":[
         "Filadelfia"
@@ -285,7 +291,7 @@
         }
     ],
     "wof:id":890429383,
-    "wof:lastmodified":1566609609,
+    "wof:lastmodified":1636503118,
     "wof:name":"Filadelfia",
     "wof:parent_id":1108692879,
     "wof:placetype":"locality",

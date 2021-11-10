@@ -33,10 +33,28 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u0627\u063a\u0648\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09be\u09b0\u09be\u0997\u09c1\u09df\u09be"
+    ],
     "name:deu_x_preferred":[
         "Charagua"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03c1\u03ac\u03b3\u03bf\u03c5\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0631\u0627\u06af\u0648\u0626\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Charagua"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e8\u05d2\u05d5\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Charagua"
+    ],
+    "name:ind_x_preferred":[
         "Charagua"
     ],
     "name:ita_x_preferred":[
@@ -57,6 +75,18 @@
     "name:swe_x_preferred":[
         "Charagua"
     ],
+    "name:tur_x_preferred":[
+        "Charagua"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0440\u0430\u0433\u0443\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u0631\u0627\u06af\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Charagua"
+    ],
     "name:zho_x_preferred":[
         "\u67e5\u62c9\u74dc"
     ],
@@ -72,7 +102,7 @@
         "gn:id":3439115
     },
     "wof:country":"PY",
-    "wof:geomhash":"0d8caeb1cb2ce32e7cb4a912cbe8231c",
+    "wof:geomhash":"2df6ab2d1a95a133666de9812ea56660",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,7 +113,7 @@
         }
     ],
     "wof:id":1360298521,
-    "wof:lastmodified":1566609539,
+    "wof:lastmodified":1636503108,
     "wof:name":"Charagua",
     "wof:parent_id":1108692443,
     "wof:placetype":"locality",
@@ -93,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -56.36666999999999,
-    -22.61667000000001,
-    -56.36666999999999,
-    -22.61667000000001
+    -56.36667,
+    -22.61667,
+    -56.36667,
+    -22.61667
 ],
-  "geometry": {"coordinates":[-56.36666999999999,-22.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-56.36667,-22.61667],"type":"Point"}
 }

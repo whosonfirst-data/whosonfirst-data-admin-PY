@@ -49,6 +49,9 @@
         "Pilcomayo"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u041f\u0438\u043b\u044c\u043a\u043e\u043c\u0430\u0301\u0439\u043e"
+    ],
+    "name:rus_x_variant":[
         "\u041f\u0438\u043b\u044c\u043a\u043e\u043c\u0430\u0439\u043e"
     ],
     "name:slk_x_preferred":[
@@ -56,6 +59,24 @@
     ],
     "name:swe_x_preferred":[
         "Pilcomayo"
+    ],
+    "name:tur_x_preferred":[
+        "Pilcomayo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043b\u043a\u043e\u043c\u0430\u0439\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0644\u06a9\u0648\u0645\u0627\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Pilcomayo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u76ae\u79d1\u9a6c\u7ea6\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u76ae\u53ef\u99ac\u7d04\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +90,7 @@
         "gn:id":3867194
     },
     "wof:country":"PY",
-    "wof:geomhash":"7c62c9e4a4f137b52c25525d02b68bb1",
+    "wof:geomhash":"118c418bb38c247dac8ad4a9e48e6eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,7 +101,7 @@
         }
     ],
     "wof:id":1259948137,
-    "wof:lastmodified":1566609640,
+    "wof:lastmodified":1636503119,
     "wof:name":"Pilcomayo",
     "wof:parent_id":421171777,
     "wof:placetype":"locality",
@@ -90,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -60.46666999999999,
+    -60.46667,
     -23.53333,
-    -60.46666999999999,
+    -60.46667,
     -23.53333
 ],
-  "geometry": {"coordinates":[-60.46666999999999,-23.53333],"type":"Point"}
+  "geometry": {"coordinates":[-60.46667,-23.53333],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-55.7599921078,-22.5445812797,-55.7599921078,-22.5445812797",
+    "geom:bbox":"-55.759992,-22.544581,-55.759992,-22.544581",
     "geom:latitude":-22.544581,
     "geom:longitude":-55.759992,
     "iso:country":"PY",
@@ -74,6 +74,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092a\u0947\u0926\u094d\u0930\u094b \u0939\u0941\u0906\u0928 \u0915\u093e\u092c\u093e\u0932\u0947\u0930\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Pedro Juan Caballero"
     ],
     "name:ind_x_preferred":[
         "Pedro Juan Caballero"
@@ -279,7 +282,7 @@
     },
     "wof:country":"PY",
     "wof:created":1499130678,
-    "wof:geomhash":"8ad1734b0cf2f2bbba5af8877677f64c",
+    "wof:geomhash":"9a2d79c2b93d046d801cd973be896ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -290,7 +293,7 @@
         }
     ],
     "wof:id":1141907079,
-    "wof:lastmodified":1566609667,
+    "wof:lastmodified":1636503121,
     "wof:name":"Pedro Juan Caballero",
     "wof:parent_id":421170059,
     "wof:placetype":"locality",
@@ -300,10 +303,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -55.75999210775745,
-    -22.54458127969616,
-    -55.75999210775745,
-    -22.54458127969616
+    -55.759992,
+    -22.544581,
+    -55.759992,
+    -22.544581
 ],
-  "geometry": {"coordinates":[-55.75999210775745,-22.54458127969616],"type":"Point"}
+  "geometry": {"coordinates":[-55.759992,-22.544581],"type":"Point"}
 }

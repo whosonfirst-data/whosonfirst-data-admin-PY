@@ -93,6 +93,9 @@
         "Bela Vista"
     ],
     "name:vie_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:vie_x_variant":[
         "Bela Vista"
     ],
     "name:vol_x_preferred":[
@@ -247,7 +250,7 @@
         }
     ],
     "wof:id":421174623,
-    "wof:lastmodified":1566609560,
+    "wof:lastmodified":1636503109,
     "wof:name":"Bella Vista",
     "wof:parent_id":1108692443,
     "wof:placetype":"locality",

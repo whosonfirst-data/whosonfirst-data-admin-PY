@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-57.5299874284,-25.0900073051,-57.5299874284,-25.0900073051",
+    "geom:bbox":"-57.529987,-25.090007,-57.529987,-25.090007",
     "geom:latitude":-25.090007,
     "geom:longitude":-57.529987,
     "iso:country":"PY",
@@ -66,8 +66,14 @@
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0ab2\u0abe \u0ab9\u0ac7\u0aaf\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05dc\u05d4 \u05d4\u05d9\u05d9\u05d6"
+    ],
     "name:hin_x_preferred":[
         "\u0935\u0940\u092f\u093e \u0939\u0947\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Villa Hayes"
     ],
     "name:hye_x_preferred":[
         "\u054e\u056b\u056c\u0575\u0561 \u0537\u0575\u0565\u057d"
@@ -274,7 +280,7 @@
     },
     "wof:country":"PY",
     "wof:created":1499130582,
-    "wof:geomhash":"373fc891e0ebf2aa541fb3d3d56af4fa",
+    "wof:geomhash":"248de2c47eec7f66eba7823b75fa6d76",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -285,7 +291,7 @@
         }
     ],
     "wof:id":1141906393,
-    "wof:lastmodified":1566609669,
+    "wof:lastmodified":1636503123,
     "wof:name":"Villa Hayes",
     "wof:parent_id":421171367,
     "wof:placetype":"locality",
@@ -297,10 +303,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -57.52998742840259,
-    -25.090007305097,
-    -57.52998742840259,
-    -25.090007305097
+    -57.529987,
+    -25.090007,
+    -57.529987,
+    -25.090007
 ],
-  "geometry": {"coordinates":[-57.52998742840259,-25.090007305097],"type":"Point"}
+  "geometry": {"coordinates":[-57.529987,-25.090007],"type":"Point"}
 }
