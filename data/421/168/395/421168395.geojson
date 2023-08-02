@@ -41,6 +41,9 @@
     "name:nld_x_preferred":[
         "Qui\u00edndy"
     ],
+    "name:pol_x_preferred":[
+        "Qui\u00edndy"
+    ],
     "name:por_x_preferred":[
         "Quiindy"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421168395,
-    "wof:lastmodified":1566609549,
+    "wof:lastmodified":1690857024,
     "wof:name":"Quiindy",
     "wof:parent_id":1108692721,
     "wof:placetype":"locality",

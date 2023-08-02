@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Yabebyry"
     ],
+    "name:pol_x_preferred":[
+        "Yabebyry"
+    ],
     "name:por_x_preferred":[
         "Yabebyry"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421196349,
-    "wof:lastmodified":1566609574,
+    "wof:lastmodified":1690857047,
     "wof:name":"Yabebyry",
     "wof:parent_id":421204309,
     "wof:placetype":"locality",

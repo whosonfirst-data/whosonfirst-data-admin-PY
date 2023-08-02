@@ -32,8 +32,14 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0627\u0645\u0627\u0645\u0628\u0627\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u043c\u0430\u043c\u0431\u0430\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09be\u09ae\u09cd\u09ac\u09c7"
+    ],
+    "name:bre_x_preferred":[
+        "Departamant Amambay"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043c\u0430\u043c\u0431\u0430\u0439"
@@ -49,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Departamento Amambay"
+    ],
+    "name:deu_x_variant":[
+        "Amambay"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03b1\u03bc\u03c0\u03ac\u03b9"
@@ -72,6 +81,9 @@
         "Amambayn maakunta"
     ],
     "name:fra_x_preferred":[
+        "Amambay"
+    ],
+    "name:frr_x_preferred":[
         "Amambay"
     ],
     "name:glg_x_preferred":[
@@ -112,6 +124,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ub9d8\ubc14\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ub9d8\ubc14\uc774\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Amambay"
@@ -190,6 +205,9 @@
     ],
     "name:war_x_preferred":[
         "Amambay"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u66fc\u62dc\u7701"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10db\u10d0\u10db\u10d1\u10d0\u10d8\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
@@ -322,7 +340,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1636503091,
+    "wof:lastmodified":1690856972,
     "wof:name":"Amambay",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

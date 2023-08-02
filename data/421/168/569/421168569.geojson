@@ -41,6 +41,9 @@
     "name:nld_x_preferred":[
         "Mbuyapey"
     ],
+    "name:pol_x_preferred":[
+        "Mbuyapey"
+    ],
     "name:por_x_preferred":[
         "Mbuyapey"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421168569,
-    "wof:lastmodified":1566609548,
+    "wof:lastmodified":1690857022,
     "wof:name":"Mbuyapey",
     "wof:parent_id":1108692717,
     "wof:placetype":"locality",

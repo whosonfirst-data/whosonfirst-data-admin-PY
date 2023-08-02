@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Doctor Cecilio B\u00e1ez"
+    ],
     "name:ceb_x_preferred":[
         "Doctor Cecilio B\u00e1ez"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:por_x_preferred":[
         "Doctor Cecilio B\u00e1ez"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043a\u0442\u043e\u0440-\u0421\u0435\u0441\u0438\u043b\u0438\u043e-\u0411\u0430\u044d\u0441"
     ],
     "name:und_x_variant":[
         "Cecilio B\u00e1ez"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":421168207,
-    "wof:lastmodified":1566609550,
+    "wof:lastmodified":1690857025,
     "wof:name":"Doctor Cecilio B\u00e1ez",
     "wof:parent_id":1108692661,
     "wof:placetype":"locality",

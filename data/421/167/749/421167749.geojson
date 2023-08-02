@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0645\u0628\u0627\u0631\u064a\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0645\u0628\u0627\u0631\u064a\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09ae\u09cd\u09ac\u09be\u09b0"
     ],
@@ -140,6 +143,9 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bae\u0bcd\u0baa\u0bbe\u0bb0\u0bc7"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u043c\u0431\u0430\u0440\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c02\u0c2c\u0c3e\u0c30\u0c47"
     ],
@@ -217,7 +223,7 @@
         }
     ],
     "wof:id":421167749,
-    "wof:lastmodified":1566609556,
+    "wof:lastmodified":1690857031,
     "wof:name":"Lambar\u00e9",
     "wof:parent_id":421191491,
     "wof:placetype":"locality",

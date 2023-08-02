@@ -20,8 +20,14 @@
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09be \u09ad\u09bf\u09b8\u09cd\u099f\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Bela Vista"
+    ],
     "name:ceb_x_preferred":[
         "Bela Vista"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u043b\u0430-\u0412\u0438\u0441\u0442\u0430"
     ],
     "name:deu_x_preferred":[
         "Bella Vista Norte"
@@ -59,6 +65,9 @@
     "name:lit_x_preferred":[
         "Belja Vista"
     ],
+    "name:mlg_x_preferred":[
+        "Bela Vista"
+    ],
     "name:nan_x_preferred":[
         "Bela Vista"
     ],
@@ -90,6 +99,15 @@
         "Bella Vista Norte"
     ],
     "name:spa_x_variant":[
+        "Bela Vista"
+    ],
+    "name:swe_x_preferred":[
+        "Bela Vista"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u043b\u0430-\u0412\u0438\u0441\u0442\u0430"
+    ],
+    "name:tur_x_preferred":[
         "Bela Vista"
     ],
     "name:vie_x_preferred":[
@@ -250,7 +268,7 @@
         }
     ],
     "wof:id":421174623,
-    "wof:lastmodified":1636503109,
+    "wof:lastmodified":1690857037,
     "wof:name":"Bella Vista",
     "wof:parent_id":1108692443,
     "wof:placetype":"locality",

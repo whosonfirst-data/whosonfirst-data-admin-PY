@@ -26,11 +26,32 @@
     "name:eng_x_preferred":[
         "Capi\u00edbary"
     ],
+    "name:eus_x_preferred":[
+        "Capiibary"
+    ],
+    "name:fra_x_preferred":[
+        "Capi\u00edbary"
+    ],
+    "name:ita_x_preferred":[
+        "Capiibary"
+    ],
     "name:nld_x_preferred":[
         "Capi\u00edbary"
     ],
     "name:pol_x_preferred":[
         "Capi\u00edbary"
+    ],
+    "name:pol_x_variant":[
+        "Capiibary"
+    ],
+    "name:por_x_preferred":[
+        "Capiibary"
+    ],
+    "name:spa_x_preferred":[
+        "Capi'ibary"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u76ae\u4f0a\u74e6\u91cc"
     ],
     "qs:gn_country":"PY",
     "qs:gn_fcode":"PPL",
@@ -80,7 +101,7 @@
         }
     ],
     "wof:id":421198897,
-    "wof:lastmodified":1566609573,
+    "wof:lastmodified":1690857046,
     "wof:name":"Capi\u00edbary",
     "wof:parent_id":1108692491,
     "wof:placetype":"locality",

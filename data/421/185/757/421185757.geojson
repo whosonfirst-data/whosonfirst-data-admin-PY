@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Caraya\u00f3"
+    ],
     "name:eng_x_preferred":[
         "Caraya\u00f3"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421185757,
-    "wof:lastmodified":1566609607,
+    "wof:lastmodified":1690857068,
     "wof:name":"Caraya\u00f3",
     "wof:parent_id":1108692623,
     "wof:placetype":"locality",

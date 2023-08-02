@@ -83,6 +83,9 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30f3\u30d4\u30aa"
     ],
+    "name:jpn_x_variant":[
+        "\u30d1\u30e9\u30b0\u30a2\u30a4\u306e\u96c6\u843d"
+    ],
     "name:kan_x_preferred":[
         "\u0cb2\u0cbf\u0c82\u0caa\u0cbf\u0caf\u0ccb"
     ],
@@ -142,6 +145,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bbf\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u043c\u043f\u0438\u043e"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c2f\u0c42\u0c32\u0c4b\u0c32\u0c3e\u0c02\u0c21\u0c3f\u0c2f\u0c3e"
@@ -214,7 +220,7 @@
         }
     ],
     "wof:id":421168605,
-    "wof:lastmodified":1566609549,
+    "wof:lastmodified":1690857023,
     "wof:name":"Limpio",
     "wof:parent_id":421170013,
     "wof:placetype":"locality",

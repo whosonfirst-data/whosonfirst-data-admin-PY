@@ -45,11 +45,17 @@
     "name:amh_x_preferred":[
         "\u1353\u122b\u1313\u12ed"
     ],
+    "name:ami_x_preferred":[
+        "Paraguay"
+    ],
     "name:ang_x_preferred":[
         "Paraquaria"
     ],
     "name:ang_x_variant":[
         "Paraguay"
+    ],
+    "name:anp_x_preferred":[
+        "\u092a\u0948\u0930\u093e\u0917\u094d\u0935\u0947"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a"
@@ -71,6 +77,12 @@
     ],
     "name:ast_x_variant":[
         "Paragu\u00e1i"
+    ],
+    "name:avk_x_preferred":[
+        "Paraguaya"
+    ],
+    "name:awa_x_preferred":[
+        "\u092a\u0948\u0930\u093e\u0917\u094d\u0935\u0947"
     ],
     "name:aym_x_preferred":[
         "Parawayi"
@@ -151,6 +163,9 @@
     "name:chv_x_preferred":[
         "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439"
     ],
+    "name:chy_x_preferred":[
+        "Paraguay"
+    ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u0627\u06af\u0648\u0627\u06cc"
     ],
@@ -170,6 +185,9 @@
         "Paragw\u00e2i"
     ],
     "name:cym_x_variant":[
+        "Paraguay"
+    ],
+    "name:dag_x_preferred":[
         "Paraguay"
     ],
     "name:dan_x_preferred":[
@@ -306,6 +324,9 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf46\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf30\ud800\udf37\ud800\udf45\ud800\udf30"
+    ],
+    "name:gpe_x_preferred":[
+        "Paraguay"
     ],
     "name:grn_x_preferred":[
         "Paragu\u00e1i"
@@ -446,6 +467,9 @@
     "name:kor_x_preferred":[
         "\ud30c\ub77c\uacfc\uc774"
     ],
+    "name:krj_x_preferred":[
+        "Paragway"
+    ],
     "name:kur_x_preferred":[
         "Paraguay"
     ],
@@ -460,7 +484,8 @@
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e9b\u0eb2\u0ea3\u0eb2\u0e81\u0ea7\u0eb2\u0e8d"
     ],
     "name:lao_x_variant":[
-        "\u0e9b\u0eb2\u0ea5\u0eb2\u0e81\u0ea7\u0e8d"
+        "\u0e9b\u0eb2\u0ea5\u0eb2\u0e81\u0ea7\u0e8d",
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e9b\u0ea3\u0eb2\u0e81\u0ea7\u0eb2\u0e8d"
     ],
     "name:lat_x_preferred":[
         "Paraquaria"
@@ -489,6 +514,9 @@
     "name:lit_x_preferred":[
         "Paragvajus"
     ],
+    "name:lld_x_preferred":[
+        "Paraguay"
+    ],
     "name:lmo_x_preferred":[
         "Paraguay"
     ],
@@ -513,6 +541,9 @@
     "name:lzh_x_preferred":[
         "\u5df4\u62c9\u572d"
     ],
+    "name:mad_x_preferred":[
+        "Paraguay"
+    ],
     "name:mai_x_preferred":[
         "\u092a\u093e\u0930\u093e\u0917\u094d\u0935\u0947"
     ],
@@ -527,6 +558,9 @@
     ],
     "name:mar_x_variant":[
         "\u092a\u0930\u093e\u0917\u094d\u0935\u0947"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439"
     ],
     "name:mhr_x_preferred":[
         "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439"
@@ -543,6 +577,9 @@
     "name:mlt_x_preferred":[
         "Paragwaj"
     ],
+    "name:mni_x_preferred":[
+        "\uabc4\uabe5\uabd4\uabe5\uabd2\uabed\uabcb\uabe6"
+    ],
     "name:mon_x_preferred":[
         "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439"
     ],
@@ -554,6 +591,9 @@
     ],
     "name:msa_x_preferred":[
         "Paraguay"
+    ],
+    "name:mwl_x_preferred":[
+        "Paraguai"
     ],
     "name:mya_x_preferred":[
         "\u1015\u102b\u101b\u102c\u1002\u103d\u1031\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
@@ -571,6 +611,9 @@
         "Paraguay"
     ],
     "name:nap_x_preferred":[
+        "Paraguay"
+    ],
+    "name:nau_x_preferred":[
         "Paraguay"
     ],
     "name:nde_x_preferred":[
@@ -636,7 +679,13 @@
     "name:pap_x_variant":[
         "Paraguay"
     ],
+    "name:pcd_x_preferred":[
+        "Paraguay"
+    ],
     "name:pdc_x_preferred":[
+        "Paraguay"
+    ],
+    "name:pih_x_preferred":[
         "Paraguay"
     ],
     "name:pli_x_preferred":[
@@ -657,6 +706,9 @@
     "name:por_x_preferred":[
         "Paraguai"
     ],
+    "name:pus_x_preferred":[
+        "\u067e\u0627\u0631\u0627\u06ab\u0648\u06cc"
+    ],
     "name:que_x_preferred":[
         "Parawayi"
     ],
@@ -671,6 +723,9 @@
     ],
     "name:ron_x_preferred":[
         "Paraguay"
+    ],
+    "name:rue_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0491\u0432\u0430\u0439"
     ],
     "name:run_x_preferred":[
         "Paragwe"
@@ -690,6 +745,9 @@
     "name:san_x_preferred":[
         "\u092a\u0947\u0930\u0947\u0917\u094d\u0935\u093e\u092f"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c6e\u1c68\u1c5f\u1c5c\u1c69\u1c63\u1c5f\u1c6d"
+    ],
     "name:scn_x_preferred":[
         "Paraguai"
     ],
@@ -698,6 +756,9 @@
     ],
     "name:sgs_x_preferred":[
         "Paragvajos"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1015\u1083\u1087\u101b\u1083\u1087\u1075\u1030\u107a\u103a\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0dd0\u0dbb\u0d9c\u0dd4\u0dc0\u0dda"
@@ -711,8 +772,14 @@
     "name:sme_x_preferred":[
         "Paraguay"
     ],
+    "name:smn_x_preferred":[
+        "Paraguay"
+    ],
     "name:smo_x_preferred":[
         "Parakuei"
+    ],
+    "name:sms_x_preferred":[
+        "Paraguay"
     ],
     "name:sna_x_preferred":[
         "Paraguay"
@@ -777,6 +844,9 @@
     "name:tat_x_preferred":[
         "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439"
     ],
+    "name:tay_x_preferred":[
+        "Paraguay"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c46\u0c30\u0c17\u0c41\u0c35\u0c47"
     ],
@@ -801,14 +871,23 @@
     "name:tir_x_preferred":[
         "\u1353\u122b\u1313\u12ed"
     ],
+    "name:tok_x_preferred":[
+        "ma Palakawi"
+    ],
     "name:ton_x_preferred":[
         "Palakuei"
     ],
     "name:tpi_x_preferred":[
         "Paraguwai"
     ],
+    "name:trv_x_preferred":[
+        "Paraguay"
+    ],
     "name:tuk_x_preferred":[
         "Paragwa\u00fd"
+    ],
+    "name:tum_x_preferred":[
+        "Paraguay"
     ],
     "name:tur_x_preferred":[
         "Paraguay"
@@ -847,6 +926,9 @@
     "name:vie_x_variant":[
         "Pa-ra-goay",
         "Pa-ra-goay (Paraguay)"
+    ],
+    "name:vls_x_preferred":[
+        "Paraguay"
     ],
     "name:vol_x_preferred":[
         "Paragv\u00e4n"
@@ -1128,7 +1210,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1617827632,
+    "wof:lastmodified":1690856968,
     "wof:name":"Paraguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0647\u064a\u0646\u0627\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0647\u064a\u0646\u0627\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09cb\u09b9\u09c7\u09a8\u09be\u0989"
     ],
@@ -90,6 +93,9 @@
     ],
     "name:ron_x_preferred":[
         "Hohenau"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u044d\u043d\u0430\u0443"
     ],
     "name:spa_x_preferred":[
         "Hohenau"
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1108692665,
-    "wof:lastmodified":1636503102,
+    "wof:lastmodified":1690856996,
     "wof:name":"Hohenau",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

@@ -80,6 +80,9 @@
     "name:fra_x_variant":[
         "Canindey\u00fa"
     ],
+    "name:frr_x_preferred":[
+        "Canindey\u00fa"
+    ],
     "name:glg_x_preferred":[
         "Canindey\u00fa"
     ],
@@ -116,6 +119,9 @@
     "name:kor_x_preferred":[
         "\uce74\ub2cc\ub370\uc720 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ub2cc\ub370\uc720\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Canindey\u00fa"
     ],
@@ -148,6 +154,9 @@
     ],
     "name:que_x_preferred":[
         "Canindey\u00fa suyu"
+    ],
+    "name:ron_x_preferred":[
+        "Departamentul Canindey\u00fa"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0435\u043d\u0434\u0438\u044e"
@@ -200,6 +209,9 @@
     ],
     "name:war_x_preferred":[
         "Canindey\u00fa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u5b81\u5fb7\u5c24\u7701"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d0\u10dc\u10d8\u10dc\u10d3\u10d4\u10d8\u10e3\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
@@ -332,7 +344,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1617131356,
+    "wof:lastmodified":1690856970,
     "wof:name":"Canindey\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

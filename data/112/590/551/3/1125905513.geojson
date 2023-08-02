@@ -31,7 +31,16 @@
     "name:ara_x_preferred":[
         "\u0623\u0633\u0648\u0646\u0633\u064a\u0648\u0646"
     ],
+    "name:arg_x_preferred":[
+        "Asunci\u00f3n"
+    ],
+    "name:ary_x_preferred":[
+        "\u0623\u0633\u0648\u0646\u0633\u064a\u0648\u0646"
+    ],
     "name:ast_x_preferred":[
+        "Asunci\u00f3n"
+    ],
+    "name:avk_x_preferred":[
         "Asunci\u00f3n"
     ],
     "name:aym_x_preferred":[
@@ -43,6 +52,9 @@
     "name:aze_x_variant":[
         "Asunsyon"
     ],
+    "name:ban_x_preferred":[
+        "Asunci\u00f3n"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0441\u0443\u043d\u0441\u044c\u0451\u043d"
     ],
@@ -51,6 +63,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09b8\u09c1\u09a8\u09b8\u09bf\u0993\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u0986\u09b8\u09c1\u09a8\u09b8\u09bf\u0993\u09a8"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f0b\u0f66\u0f74\u0f53\u0f0b\u0f66\u0f72\u0f0b\u0f60\u0f53\u0f0d"
@@ -78,6 +93,9 @@
     ],
     "name:che_x_preferred":[
         "\u0410\u0441\u0443\u043d\u0441\u044c\u043e\u043d"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0627\u0633\u0648\u0646\u0633\u06cc\u06c6\u0646"
     ],
     "name:cym_x_preferred":[
         "Asunci\u00f3n"
@@ -124,6 +142,9 @@
     "name:fra_x_variant":[
         "Asuncion"
     ],
+    "name:frr_x_preferred":[
+        "Asunci\u00f3n"
+    ],
     "name:fry_x_preferred":[
         "Asunci\u00f3n"
     ],
@@ -141,6 +162,9 @@
     ],
     "name:grn_x_preferred":[
         "Paraguay"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab8\u0ac1\u0aa8\u0ab8\u0abf\u0aaf\u0acb\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Asunci\u00f3n"
@@ -262,11 +286,17 @@
     "name:mar_x_preferred":[
         "\u0906\u0938\u0941\u0928\u094d\u0938\u093f\u092f\u094b\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0410\u0441\u0443\u043d\u0441\u044c\u043e\u043d"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u0441\u0443\u043d\u0441\u0438\u043e\u043d"
     ],
     "name:mlg_x_preferred":[
         "Asunci\u00f3n"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u0441\u0443\u043d\u0441\u0438\u043e\u043d"
     ],
     "name:msa_x_preferred":[
         "Gunung Berapi Asuncion"
@@ -279,6 +309,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0622\u0633\u0648\u0646\u0633\u06cc\u0648\u0646"
+    ],
+    "name:nah_x_preferred":[
+        "Asunci\u00f3n"
+    ],
+    "name:nan_x_preferred":[
+        "Asunci\u00f3n"
     ],
     "name:nap_x_preferred":[
         "Asunci\u00f3n"
@@ -293,6 +329,9 @@
         "Asuncion"
     ],
     "name:nno_x_preferred":[
+        "Asunci\u00f3n"
+    ],
+    "name:nob_x_preferred":[
         "Asunci\u00f3n"
     ],
     "name:nor_x_preferred":[
@@ -343,11 +382,20 @@
     "name:ron_x_preferred":[
         "Asunci\u00f3n"
     ],
+    "name:rup_x_preferred":[
+        "Asunci\u00f3n"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0441\u0443\u043d\u0441\u044c\u043e\u043d"
     ],
     "name:sco_x_preferred":[
         "Asunci\u00f3n"
+    ],
+    "name:sgs_x_preferred":[
+        "Asunsjuons"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dc3\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0ddc\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
         "Asunci\u00f3n"
@@ -363,6 +411,12 @@
     ],
     "name:sqi_x_preferred":[
         "Asunsioni"
+    ],
+    "name:sqi_x_variant":[
+        "Asunci\u00f3n"
+    ],
+    "name:srd_x_preferred":[
+        "Asunci\u00f3n"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0441\u0443\u043d\u0441\u0438\u043e\u043d"
@@ -388,6 +442,9 @@
     "name:tat_x_preferred":[
         "\u0410\u0441\u0443\u043d\u0441\u044c\u043e\u043d"
     ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c38\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2f\u0c3e"
+    ],
     "name:tet_x_preferred":[
         "Asunsaun"
     ],
@@ -401,7 +458,11 @@
         "\u0e2d\u0e30\u0e0b\u0e38\u0e19\u0e0b\u0e34\u0e2d\u0e2d\u0e07"
     ],
     "name:tha_x_variant":[
-        "\u0e2d\u0e32\u0e0b\u0e38\u0e19\u0e0b\u0e35\u0e2d\u0e2d\u0e19"
+        "\u0e2d\u0e32\u0e0b\u0e38\u0e19\u0e0b\u0e35\u0e2d\u0e2d\u0e19",
+        "\u0e2d\u0e32\u0e0b\u0e38\u0e19\u0e0b\u0e34\u0e2d\u0e2d\u0e19"
+    ],
+    "name:tuk_x_preferred":[
+        "Asunson"
     ],
     "name:tur_x_preferred":[
         "Asuncion"
@@ -427,6 +488,9 @@
     "name:uzb_x_preferred":[
         "Asunson"
     ],
+    "name:uzb_x_variant":[
+        "Asunsyon"
+    ],
     "name:vec_x_preferred":[
         "Asunci\u00f3n"
     ],
@@ -437,6 +501,9 @@
         "Asunci\u00f3n"
     ],
     "name:vol_x_preferred":[
+        "Asunci\u00f3n"
+    ],
+    "name:vro_x_preferred":[
         "Asunci\u00f3n"
     ],
     "name:war_x_preferred":[
@@ -454,8 +521,14 @@
     "name:yor_x_preferred":[
         "Asunci\u00f3n"
     ],
+    "name:yue_x_preferred":[
+        "\u4e9e\u677e\u68ee"
+    ],
     "name:zho_x_preferred":[
         "\u4e9e\u677e\u68ee"
+    ],
+    "name:zho_x_variant":[
+        "\u4e9a\u677e\u68ee"
     ],
     "qs_pg:aaroncc":"PY",
     "qs_pg:gn_country":"PY",
@@ -510,7 +583,7 @@
         }
     ],
     "wof:id":1125905513,
-    "wof:lastmodified":1617129932,
+    "wof:lastmodified":1690857071,
     "wof:megacity":1,
     "wof:name":"Asunci\u00f3n",
     "wof:parent_id":421166713,

@@ -47,6 +47,9 @@
     "name:nld_x_preferred":[
         "Tobat\u00ed"
     ],
+    "name:pol_x_preferred":[
+        "Tobat\u00ed"
+    ],
     "name:por_x_preferred":[
         "Tobat\u00ed"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421202919,
-    "wof:lastmodified":1566609559,
+    "wof:lastmodified":1690857035,
     "wof:name":"Tobat\u00ed",
     "wof:parent_id":421173299,
     "wof:placetype":"locality",

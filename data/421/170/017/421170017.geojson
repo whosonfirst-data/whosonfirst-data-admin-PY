@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Ignacio"
+    ],
     "name:deu_x_preferred":[
         "San Ignacio"
     ],
@@ -74,8 +77,14 @@
     "name:nld_x_preferred":[
         "San Ignacio"
     ],
+    "name:pol_x_preferred":[
+        "San Ignacio"
+    ],
     "name:por_x_preferred":[
         "San Ignacio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0418\u0433\u043d\u0430\u0441\u0438\u043e"
     ],
     "name:spa_x_preferred":[
         "San Ignacio"
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":421170017,
-    "wof:lastmodified":1636503113,
+    "wof:lastmodified":1690857055,
     "wof:name":"San Ignacio",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

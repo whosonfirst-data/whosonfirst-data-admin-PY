@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Nueva Londres"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0582\u0587\u0561 \u053c\u0578\u0576\u0564\u0580\u0565\u057d"
+    ],
     "name:ita_x_preferred":[
         "Nueva Londres"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421170805,
-    "wof:lastmodified":1566609586,
+    "wof:lastmodified":1690857055,
     "wof:name":"Nueva Londres",
     "wof:parent_id":1108692635,
     "wof:placetype":"locality",

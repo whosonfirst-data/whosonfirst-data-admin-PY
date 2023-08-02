@@ -38,11 +38,17 @@
     "name:pdc_x_preferred":[
         "Neuland Colony"
     ],
+    "name:pol_x_preferred":[
+        "Neuland"
+    ],
     "name:por_x_preferred":[
         "Neuland"
     ],
     "name:spa_x_preferred":[
         "Neuland"
+    ],
+    "name:tur_x_preferred":[
+        "Neuland Colony"
     ],
     "qs:gn_country":"PY",
     "qs:gn_fcode":"PPL",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421201853,
-    "wof:lastmodified":1566609578,
+    "wof:lastmodified":1690857051,
     "wof:name":"Colonia Neuland",
     "wof:parent_id":421171777,
     "wof:placetype":"locality",

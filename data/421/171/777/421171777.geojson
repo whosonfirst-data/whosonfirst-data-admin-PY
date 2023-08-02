@@ -83,6 +83,9 @@
     "name:hun_x_preferred":[
         "Mariscal Estigarribia"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u056b\u057d\u056f\u0561\u056c \u0537\u057d\u057f\u056b\u0563\u0561\u0580\u056b\u0562\u056b\u0561"
+    ],
     "name:ind_x_preferred":[
         "Mariscal Estigarribia"
     ],
@@ -151,6 +154,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0456\u0441\u043a\u0430\u043b\u044c-\u0415\u0441\u0442\u0456\u0433\u0430\u0440\u0440\u0456\u0431\u0456\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u0440\u0438\u0441\u043a\u0430\u043b\u044c-\u0415\u0441\u0442\u0456\u0433\u0430\u0440\u0440\u0438\u0431\u0456\u044f"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u06cc\u0633\u06a9\u0627\u0644 \u06cc\u0633\u062a\u06cc\u062c\u0627\u0631\u06cc\u0628\u06cc\u0627"
@@ -224,7 +230,7 @@
         }
     ],
     "wof:id":421171777,
-    "wof:lastmodified":1636503115,
+    "wof:lastmodified":1690857063,
     "wof:name":"Mariscal Estigarribia",
     "wof:parent_id":85676659,
     "wof:placetype":"county",

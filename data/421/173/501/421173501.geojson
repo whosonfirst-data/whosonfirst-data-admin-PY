@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Santa Elena"
+    ],
     "name:ceb_x_preferred":[
         "Santa Elena"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421173501,
-    "wof:lastmodified":1636503110,
+    "wof:lastmodified":1690857040,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108692525,
     "wof:placetype":"locality",

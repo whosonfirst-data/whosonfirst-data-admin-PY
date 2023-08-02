@@ -134,6 +134,9 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0bc6\u0bae\u0bcd\u0baa\u0bc6"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u044c\u0435\u043c\u0431\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3f\u0c2f\u0c02\u0c2c\u0c3f"
     ],
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":421204663,
-    "wof:lastmodified":1566609558,
+    "wof:lastmodified":1690857034,
     "wof:name":"Nemby",
     "wof:parent_id":1108692599,
     "wof:placetype":"locality",

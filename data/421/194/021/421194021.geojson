@@ -56,6 +56,9 @@
     "name:kat_x_preferred":[
         "\u10d0\u10d8\u10dd\u10da\u10d0\u10e1\u10d8"
     ],
+    "name:lfn_x_preferred":[
+        "Ayolas"
+    ],
     "name:lit_x_preferred":[
         "Ajolasas"
     ],
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421194021,
-    "wof:lastmodified":1566609554,
+    "wof:lastmodified":1690857028,
     "wof:name":"Ayolas",
     "wof:parent_id":421204309,
     "wof:placetype":"locality",
