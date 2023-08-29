@@ -128,6 +128,9 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u0435\u0442\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0412\u0456\u043b\u044c\u0454\u0442\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0644\u06cc\u062a\u0627"
     ],
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":421192191,
-    "wof:lastmodified":1566609551,
+    "wof:lastmodified":1690857026,
     "wof:name":"Villeta",
     "wof:parent_id":421195021,
     "wof:placetype":"locality",

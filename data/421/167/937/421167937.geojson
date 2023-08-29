@@ -53,6 +53,9 @@
     "name:nld_x_preferred":[
         "Piribebuy"
     ],
+    "name:pol_x_preferred":[
+        "Piribebuy"
+    ],
     "name:por_x_preferred":[
         "Piribebuy"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421167937,
-    "wof:lastmodified":1566609555,
+    "wof:lastmodified":1690857030,
     "wof:name":"Piribebuy",
     "wof:parent_id":421184641,
     "wof:placetype":"locality",

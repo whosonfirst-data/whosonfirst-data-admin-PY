@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Sap\u00facai"
+    ],
     "name:eng_x_preferred":[
         "Sapuca\u00ed"
     ],
@@ -36,6 +39,9 @@
         "\u30b5\u30d7\u30ab\u30a4"
     ],
     "name:nld_x_preferred":[
+        "Sapuca\u00ed"
+    ],
+    "name:pol_x_preferred":[
         "Sapuca\u00ed"
     ],
     "name:por_x_preferred":[
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421192697,
-    "wof:lastmodified":1566609551,
+    "wof:lastmodified":1690857026,
     "wof:name":"Sapuca\u00ed",
     "wof:parent_id":421191497,
     "wof:placetype":"locality",

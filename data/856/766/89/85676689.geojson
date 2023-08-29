@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b6\u09a8\u09c7\u09b8"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Misiones"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u0441\u0438\u043e\u043d\u0435\u0441"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Departamento Misiones"
+    ],
+    "name:deu_x_variant":[
+        "Misiones"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b9\u03c3\u03b9\u03cc\u03bd\u03b5\u03c2"
@@ -69,6 +75,9 @@
         "Misionesin maakunta"
     ],
     "name:fra_x_preferred":[
+        "Misiones"
+    ],
+    "name:frr_x_preferred":[
         "Misiones"
     ],
     "name:glg_x_preferred":[
@@ -193,6 +202,9 @@
     ],
     "name:war_x_preferred":[
         "Misiones"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7c73\u897f\u5965\u5185\u65af\u7701"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d8\u10e1\u10d8\u10dd\u10dc\u10d4\u10e1\u10d8\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
@@ -325,7 +337,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1636503093,
+    "wof:lastmodified":1690856977,
     "wof:name":"Misiones",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

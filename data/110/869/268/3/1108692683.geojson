@@ -67,6 +67,9 @@
     "name:ita_x_preferred":[
         "La Paz"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d1\u30b9"
+    ],
     "name:kor_x_preferred":[
         "\ub77c\ud30c\uc2a4"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1108692683,
-    "wof:lastmodified":1642551791,
+    "wof:lastmodified":1690856993,
     "wof:name":"La Paz",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

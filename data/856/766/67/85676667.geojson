@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u062f\u064a\u0644\u064a\u0631\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Kordilyera"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09b0\u09cd\u09a1\u09bf\u09b2\u09cd\u09af\u09c7\u09b0\u09be"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Departamento Cordillera"
+    ],
+    "name:deu_x_variant":[
+        "Cordillera"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c1\u03b4\u03b9\u03b3\u03b9\u03ad\u03c1\u03b1"
@@ -62,10 +68,16 @@
     "name:eus_x_preferred":[
         "Cordillerako departamendua"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u06a9\u0648\u0631\u062f\u06cc\u0644\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Cordilleran maakunta"
     ],
     "name:fra_x_preferred":[
+        "Cordillera"
+    ],
+    "name:frr_x_preferred":[
         "Cordillera"
     ],
     "name:glg_x_preferred":[
@@ -106,6 +118,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\ub974\ub514\uc608\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucf54\ub974\ub514\uc608\ub77c\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Cordillera"
@@ -184,6 +199,9 @@
     ],
     "name:war_x_preferred":[
         "Cordillera"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u8fea\u52d2\u62c9\u7701"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10dd\u10e0\u10d3\u10d8\u10da\u10d8\u10d4\u10e0\u10d0\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
@@ -316,7 +334,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1636503092,
+    "wof:lastmodified":1690856976,
     "wof:name":"Cordillera",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

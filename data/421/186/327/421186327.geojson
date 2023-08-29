@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Nueva Germania"
     ],
+    "name:epo_x_preferred":[
+        "Nueva Germania"
+    ],
     "name:eus_x_preferred":[
         "Nueva Germania"
     ],
@@ -59,8 +62,14 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430\u044f \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u041d\u0443\u044d\u0432\u0430-\u0425\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+    ],
     "name:spa_x_preferred":[
         "Nueva Germania"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0435\u0432\u0430 \u0413\u0435\u0440\u043c\u0430\u043d\u0456\u044f"
     ],
     "name:und_x_variant":[
         "Colonia Nueva Germania"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":421186327,
-    "wof:lastmodified":1566609571,
+    "wof:lastmodified":1690857045,
     "wof:name":"Nueva Germania",
     "wof:parent_id":1108692773,
     "wof:placetype":"locality",

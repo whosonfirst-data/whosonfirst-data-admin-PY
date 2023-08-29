@@ -26,6 +26,9 @@
     "name:fra_x_preferred":[
         "Naranjal District"
     ],
+    "name:grn_x_preferred":[
+        "Nar\u00e3ndy"
+    ],
     "name:ita_x_preferred":[
         "Naranjal"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421194503,
-    "wof:lastmodified":1566609554,
+    "wof:lastmodified":1690857028,
     "wof:name":"Naranjal",
     "wof:parent_id":1108692565,
     "wof:placetype":"locality",

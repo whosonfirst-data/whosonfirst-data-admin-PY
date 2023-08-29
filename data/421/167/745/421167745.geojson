@@ -17,11 +17,20 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pirap\u00f3"
+    ],
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09be\u09aa\u0993"
     ],
+    "name:cat_x_preferred":[
+        "Pirap\u00f3"
+    ],
     "name:ceb_x_preferred":[
         "Pirap\u00f3"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0438\u0440\u0430\u043f\u043e"
     ],
     "name:deu_x_preferred":[
         "Pirap\u00f3"
@@ -78,6 +87,12 @@
         "Pirap\u00f3"
     ],
     "name:swe_x_preferred":[
+        "Pirap\u00f3"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0438\u0440\u0430\u043f\u043e"
+    ],
+    "name:tur_x_preferred":[
         "Pirap\u00f3"
     ],
     "name:und_x_variant":[
@@ -142,7 +157,7 @@
         }
     ],
     "wof:id":421167745,
-    "wof:lastmodified":1566609556,
+    "wof:lastmodified":1690857031,
     "wof:name":"Pirapo",
     "wof:parent_id":1108692689,
     "wof:placetype":"locality",

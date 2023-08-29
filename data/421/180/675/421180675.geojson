@@ -29,6 +29,9 @@
     "name:pdc_x_preferred":[
         "Menno Colony"
     ],
+    "name:pol_x_preferred":[
+        "Menno"
+    ],
     "qs:gn_country":"PY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3438981,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421180675,
-    "wof:lastmodified":1566609561,
+    "wof:lastmodified":1690857037,
     "wof:name":"Colonia Menno",
     "wof:parent_id":1108692881,
     "wof:placetype":"locality",

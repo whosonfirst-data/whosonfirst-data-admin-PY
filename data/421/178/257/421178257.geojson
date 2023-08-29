@@ -17,7 +17,13 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u0643\u0633 \u067e\u064a\u0631\u064a\u0632 \u0643\u0627\u0631\u062f\u0648\u0632\u0648"
+    ],
     "name:ast_x_preferred":[
+        "F\u00e9lix P\u00e9rez Cardozo"
+    ],
+    "name:cat_x_preferred":[
         "F\u00e9lix P\u00e9rez Cardozo"
     ],
     "name:dan_x_preferred":[
@@ -32,7 +38,13 @@
     "name:fra_x_preferred":[
         "F\u00e9lix P\u00e9rez Cardozo"
     ],
+    "name:gle_x_preferred":[
+        "F\u00e9lix P\u00e9rez Cardozo"
+    ],
     "name:grn_x_preferred":[
+        "F\u00e9lix P\u00e9rez Cardozo"
+    ],
+    "name:ita_x_preferred":[
         "F\u00e9lix P\u00e9rez Cardozo"
     ],
     "name:jpn_x_preferred":[
@@ -52,6 +64,9 @@
     ],
     "name:spa_x_preferred":[
         "F\u00e9lix P\u00e9rez Cardozo"
+    ],
+    "name:sqi_x_preferred":[
+        "Felix Perez Cardozo"
     ],
     "name:swe_x_preferred":[
         "F\u00e9lix P\u00e9rez Cardozo"
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":421178257,
-    "wof:lastmodified":1566609592,
+    "wof:lastmodified":1690857059,
     "wof:name":"F\u00e9lix P\u00e9rez Cardozo",
     "wof:parent_id":1108692537,
     "wof:placetype":"locality",

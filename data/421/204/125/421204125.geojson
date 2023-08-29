@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Paraguar\u00ed"
     ],
+    "name:gle_x_preferred":[
+        "Paraguar\u00ed"
+    ],
     "name:glg_x_preferred":[
         "Paraguar\u00ed"
     ],
@@ -155,6 +158,9 @@
     "name:war_x_preferred":[
         "Paraguar\u00ed"
     ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u62c9\u74dc\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u62c9\u74dc\u91cc"
     ],
@@ -208,7 +214,7 @@
         }
     ],
     "wof:id":421204125,
-    "wof:lastmodified":1566609559,
+    "wof:lastmodified":1690857035,
     "wof:name":"Paraguar\u00ed",
     "wof:parent_id":421173745,
     "wof:placetype":"locality",

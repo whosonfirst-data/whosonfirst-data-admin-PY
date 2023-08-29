@@ -85,6 +85,9 @@
     "name:nld_x_preferred":[
         "Coronel Bogado"
     ],
+    "name:pol_x_preferred":[
+        "Coronel Bogado"
+    ],
     "name:por_x_preferred":[
         "Coronel Bogado"
     ],
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108692473,
-    "wof:lastmodified":1636503105,
+    "wof:lastmodified":1690857010,
     "wof:name":"Coronel Bogado",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

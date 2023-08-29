@@ -179,6 +179,9 @@
     "name:war_x_preferred":[
         "Villa Hayes"
     ],
+    "name:wuu_x_preferred":[
+        "\u963f\u8036\u65af\u9547"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u8036\u65af\u9547"
     ],
@@ -245,7 +248,7 @@
         }
     ],
     "wof:id":421171367,
-    "wof:lastmodified":1636503116,
+    "wof:lastmodified":1690857065,
     "wof:name":"Villa Hayes",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

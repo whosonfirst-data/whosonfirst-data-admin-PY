@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09a8\u09be\u0993\u09af\u09bc\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Nanawa"
+    ],
     "name:dan_x_preferred":[
         "Nanawa"
     ],
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421176151,
-    "wof:lastmodified":1566609594,
+    "wof:lastmodified":1690857060,
     "wof:name":"Nanawa",
     "wof:parent_id":421171367,
     "wof:placetype":"locality",

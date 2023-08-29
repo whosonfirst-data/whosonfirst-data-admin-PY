@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Presidente Franco"
     ],
+    "name:ceb_x_preferred":[
+        "Presidente Franco"
+    ],
     "name:deu_x_preferred":[
         "Presidente Franco"
     ],
@@ -65,8 +68,14 @@
     "name:spa_x_preferred":[
         "Presidente Franco"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0435-\u0424\u0440\u0430\u043d\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Puerto Presidente Franco"
+    ],
+    "name:uzb_x_preferred":[
+        "Presidente Franco tumani"
     ],
     "name:zho_x_preferred":[
         "\u4f5b\u6717\u54e5\u603b\u7edf\u57ce"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421167935,
-    "wof:lastmodified":1566609556,
+    "wof:lastmodified":1690857031,
     "wof:name":"Presidente Franco",
     "wof:parent_id":421169437,
     "wof:placetype":"locality",

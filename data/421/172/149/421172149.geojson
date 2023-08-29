@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0442\u0430\u0443\u0433\u0443\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Itaugu\u00e1"
+    ],
     "name:ceb_x_preferred":[
         "Itaugu\u00e1"
     ],
@@ -128,6 +131,9 @@
     "name:tam_x_preferred":[
         "\u0b87\u0ba4\u0baf\u0b95\u0bc1\u0b86"
     ],
+    "name:tat_x_preferred":[
+        "\u0418\u0442\u0430\u0443\u0433\u0432\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c07\u0c1f\u0c2f\u0c41\u0c17\u0c4d\u0c35\u0c3e"
     ],
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":421172149,
-    "wof:lastmodified":1566609570,
+    "wof:lastmodified":1690857044,
     "wof:name":"Itaugu\u00e1",
     "wof:parent_id":1108692593,
     "wof:placetype":"locality",

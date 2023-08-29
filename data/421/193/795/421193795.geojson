@@ -17,6 +17,15 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Villa Florida"
+    ],
+    "name:ceb_x_preferred":[
+        "Villa Florida"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Florida"
+    ],
     "name:eng_x_preferred":[
         "Villa Florida"
     ],
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421193795,
-    "wof:lastmodified":1566609555,
+    "wof:lastmodified":1690857030,
     "wof:name":"Villa Florida",
     "wof:parent_id":1108692707,
     "wof:placetype":"locality",

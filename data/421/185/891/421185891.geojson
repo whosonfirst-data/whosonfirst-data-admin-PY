@@ -41,6 +41,9 @@
     "name:por_x_preferred":[
         "Edelira"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u0434\u0435\u043b\u0438\u0440\u0430"
+    ],
     "name:spa_x_preferred":[
         "Edelira"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421185891,
-    "wof:lastmodified":1566609607,
+    "wof:lastmodified":1690857068,
     "wof:name":"Edelira",
     "wof:parent_id":1108692679,
     "wof:placetype":"locality",

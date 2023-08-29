@@ -44,6 +44,9 @@
     "name:spa_x_preferred":[
         "Capit\u00e1n Miranda"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043f\u0456\u0442\u0430\u043d \u041c\u0456\u0440\u0430\u043d\u0434\u0430"
+    ],
     "name:und_x_variant":[
         "Colonia Capit\u00e1n Miranda"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421182563,
-    "wof:lastmodified":1566609593,
+    "wof:lastmodified":1690857060,
     "wof:name":"Capit\u00e1n Miranda",
     "wof:parent_id":421180053,
     "wof:placetype":"locality",

@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0644\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Pilar"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09b2\u09be\u09b0"
+    ],
+    "name:bre_x_preferred":[
+        "Pilar"
     ],
     "name:cat_x_preferred":[
         "Pilar"
@@ -143,6 +152,9 @@
     ],
     "name:war_x_preferred":[
         "Pilar"
+    ],
+    "name:wuu_x_preferred":[
+        "\u76ae\u62c9\u5c14"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u62c9\u723e"
@@ -271,7 +283,7 @@
         }
     ],
     "wof:id":1141907077,
-    "wof:lastmodified":1636503121,
+    "wof:lastmodified":1690857072,
     "wof:name":"Pilar",
     "wof:parent_id":421170007,
     "wof:placetype":"locality",

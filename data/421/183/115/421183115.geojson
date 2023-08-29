@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Tebicuary-m\u00ed"
     ],
+    "name:pol_x_preferred":[
+        "Tebicuarym\u00ed"
+    ],
     "name:por_x_preferred":[
         "Tebicuarym\u00ed"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421183115,
-    "wof:lastmodified":1566609591,
+    "wof:lastmodified":1690857058,
     "wof:name":"Tebicuary M\u00ed",
     "wof:parent_id":1108692727,
     "wof:placetype":"locality",

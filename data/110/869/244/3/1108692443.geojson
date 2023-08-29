@@ -109,6 +109,9 @@
     "name:tur_x_preferred":[
         "Bella Vista"
     ],
+    "name:tur_x_variant":[
+        "Bella Vista Norte"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u043b\u0430-\u0412\u0456\u0441\u0442\u0430"
     ],
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1108692443,
-    "wof:lastmodified":1636503101,
+    "wof:lastmodified":1690856987,
     "wof:name":"Bella Vista",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

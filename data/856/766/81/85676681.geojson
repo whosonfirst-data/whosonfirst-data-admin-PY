@@ -83,6 +83,9 @@
     "name:fra_x_preferred":[
         "d\u00e9partement Central"
     ],
+    "name:frr_x_preferred":[
+        "Central"
+    ],
     "name:glg_x_preferred":[
         "Departamento Central"
     ],
@@ -126,7 +129,8 @@
         "\uc13c\ud2b8\ub7f4"
     ],
     "name:kor_x_variant":[
-        "\uc13c\ud2b8\ub784 \uc8fc"
+        "\uc13c\ud2b8\ub784 \uc8fc",
+        "\uc13c\ud2b8\ub784\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Central"
@@ -208,6 +212,9 @@
     ],
     "name:war_x_preferred":[
         "Central"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e2d\u592e\u7701"
     ],
     "name:xmf_x_preferred":[
         "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
@@ -343,7 +350,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1636503094,
+    "wof:lastmodified":1690856978,
     "wof:name":"Central",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

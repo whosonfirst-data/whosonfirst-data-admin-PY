@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "San Juan Nepomuceno"
     ],
+    "name:pol_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
     "name:por_x_preferred":[
         "San Juan Nepomuceno"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421168387,
-    "wof:lastmodified":1566609550,
+    "wof:lastmodified":1690857025,
     "wof:name":"San Juan Nepomuceno",
     "wof:parent_id":1108692851,
     "wof:placetype":"locality",

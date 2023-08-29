@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "It\u00e1"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u09ab\u09be"
     ],
@@ -280,7 +286,7 @@
         }
     ],
     "wof:id":421169057,
-    "wof:lastmodified":1566609557,
+    "wof:lastmodified":1690857033,
     "wof:name":"It\u00e1",
     "wof:parent_id":1108692591,
     "wof:placetype":"locality",

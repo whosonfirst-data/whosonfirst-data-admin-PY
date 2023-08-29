@@ -35,6 +35,9 @@
     "name:por_x_preferred":[
         "Laureles"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0435\u043b\u0441"
+    ],
     "name:spa_x_preferred":[
         "Laureles"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421196213,
-    "wof:lastmodified":1566609574,
+    "wof:lastmodified":1690857047,
     "wof:name":"Laureles",
     "wof:parent_id":1108692875,
     "wof:placetype":"locality",

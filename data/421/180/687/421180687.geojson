@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Itacurub\u00ed del Rosario"
+    ],
     "name:ceb_x_preferred":[
         "Itacurub\u00ed del Rosario"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421180687,
-    "wof:lastmodified":1566609562,
+    "wof:lastmodified":1690857038,
     "wof:name":"Itacurub\u00ed del Rosario",
     "wof:parent_id":1108692771,
     "wof:placetype":"locality",
