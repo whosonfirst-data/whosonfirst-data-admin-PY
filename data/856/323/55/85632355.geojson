@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":35.277954,
-    "geom:area_square_m":400576241696.767029,
+    "geom:area_square_m":400576241696.764343,
     "geom:bbox":"-62.638051,-27.588334,-54.258562,-19.287659",
     "geom:latitude":-23.23457,
     "geom:longitude":-58.395033,
@@ -13,6 +13,9 @@
     "iso:country":"PY",
     "itu:country_code":[
         "595"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "PY"
@@ -1136,7 +1139,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"595",
     "statoids:ds":"PY",
     "statoids:fifa":"PAR",
@@ -1194,7 +1198,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"f26978a15bdd599738b04328c6a3abd4",
+    "wof:geomhash":"900798894478a8a8becd4c5ab8b4f838",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -1210,12 +1214,12 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856968,
+    "wof:lastmodified":1694492105,
     "wof:name":"Paraguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
-    "wof:population":6802295,
-    "wof:population_rank":13,
+    "wof:population":7044636,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-py",
     "wof:shortcode":"PY",
     "wof:superseded_by":[],
