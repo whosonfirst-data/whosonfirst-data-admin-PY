@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157721,
-    "geom:area_square_m":1804315100.66411,
+    "geom:area_square_m":1804315100.664174,
     "geom:bbox":"-59.9914740415,-22.6734292543,-59.336595188,-22.055499087",
     "geom:latitude":-22.30512,
     "geom:longitude":-59.690602,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Loma Plata District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.183046,
     "lbl:longitude":-59.613706,
     "lbl:max_zoom":10.0,
@@ -162,7 +168,7 @@
     },
     "wof:country":"PY",
     "wof:created":1474325782,
-    "wof:geomhash":"afbf9c987caf8a3d85cf9c9ce2cba03b",
+    "wof:geomhash":"05c755becfda2cc2a0d92afdbdc36cd6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":1108692881,
-    "wof:lastmodified":1566609403,
+    "wof:lastmodified":1694497833,
     "wof:name":"Loma Plata",
     "wof:parent_id":85676659,
     "wof:placetype":"county",

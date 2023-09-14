@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.244167,
-    "geom:area_square_m":14319501615.882647,
+    "geom:area_square_m":14319503915.143478,
     "geom:bbox":"-60.580217,-22.518525,-59.715013,-20.456691",
     "geom:latitude":-21.437396,
     "geom:longitude":-60.178667,
     "iso:country":"PY",
+    "label:eng_x_preferred_longname":[
+        "Filadelfia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.412964,
     "lbl:longitude":-60.213646,
     "lbl:max_zoom":10.0,
@@ -198,7 +204,7 @@
     },
     "wof:country":"PY",
     "wof:created":1474325781,
-    "wof:geomhash":"44aff4926c146f7abf2ff3fcdda6289d",
+    "wof:geomhash":"b68dd55fe15493803fc5506a290c081e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -208,7 +214,7 @@
         }
     ],
     "wof:id":1108692879,
-    "wof:lastmodified":1690856984,
+    "wof:lastmodified":1694498109,
     "wof:name":"Filadelfia",
     "wof:parent_id":85676659,
     "wof:placetype":"county",
