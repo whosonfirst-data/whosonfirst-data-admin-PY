@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123377,
-    "geom:area_square_m":1392491788.679404,
+    "geom:area_square_m":1392491953.202454,
     "geom:bbox":"-55.334034,-24.355635,-54.815856,-23.883514",
     "geom:latitude":-24.110466,
     "geom:longitude":-55.009925,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.CY.CC",
         "wd:id":"Q3694152"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325511,
-    "wof:geomhash":"9e773249e866b735d08e71c5a9ea5644",
+    "wof:geomhash":"dd6f8157190967e6dad83520c3d3af78",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692451,
-    "wof:lastmodified":1690856985,
+    "wof:lastmodified":1695886814,
     "wof:name":"Corpus Christi",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

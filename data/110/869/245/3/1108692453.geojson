@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.264597,
-    "geom:area_square_m":2981061890.939578,
+    "geom:area_square_m":2981061609.165499,
     "geom:bbox":"-56.172538,-24.72135,-55.310341,-24.02007",
     "geom:latitude":-24.336176,
     "geom:longitude":-55.774626,
@@ -106,9 +106,10 @@
         "hasc:id":"PY.CY.VC",
         "wd:id":"Q1093456"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325512,
-    "wof:geomhash":"9aaf6ac216407c5b2f9693b370be65d4",
+    "wof:geomhash":"8a601e85c4483755d406aea0e641a5d4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108692453,
-    "wof:lastmodified":1690856986,
+    "wof:lastmodified":1695886814,
     "wof:name":"Curuguaty",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

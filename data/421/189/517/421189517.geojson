@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106042,
-    "geom:area_square_m":1191781545.621789,
+    "geom:area_square_m":1191781545.622097,
     "geom:bbox":"-56.7162631518,-24.8943052674,-56.1024265003,-24.3447883808",
     "geom:latitude":-24.645818,
     "geom:longitude":-56.392447,
@@ -134,12 +134,13 @@
         "qs_pg:id":1113885,
         "wd:id":"Q1093463"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009627,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a73e64fb108cc83408698022ef743a6f",
+    "wof:geomhash":"2f92a04dfe4e7be2b13ef492f8d76374",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421189517,
-    "wof:lastmodified":1582360303,
+    "wof:lastmodified":1695886013,
     "wof:name":"San Estanislao",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

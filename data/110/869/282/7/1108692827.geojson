@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05344,
-    "geom:area_square_m":599509342.489453,
+    "geom:area_square_m":599509342.489573,
     "geom:bbox":"-56.6874316971,-25.0038861632,-56.3911877355,-24.7071133932",
     "geom:latitude":-24.869902,
     "geom:longitude":-56.530898,
@@ -94,9 +94,10 @@
         "hasc:id":"PY.SP.UN",
         "wd:id":"Q2449203"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325751,
-    "wof:geomhash":"36509871ed331b6d13499759d26839c8",
+    "wof:geomhash":"b7f987b50076c10fffbee11d08ac7984",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108692827,
-    "wof:lastmodified":1566609487,
+    "wof:lastmodified":1695886834,
     "wof:name":"Union",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

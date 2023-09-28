@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089078,
-    "geom:area_square_m":1000105701.991661,
+    "geom:area_square_m":1000105701.991626,
     "geom:bbox":"-57.0637538637,-24.9822090591,-56.5388678553,-24.6290182064",
     "geom:latitude":-24.772559,
     "geom:longitude":-56.801263,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.SP.VD",
         "wd:id":"Q2475435"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325753,
-    "wof:geomhash":"ab272fedb66d3bcf84bd5d81d17a784e",
+    "wof:geomhash":"ed0a78caaeff52bb1913bd0c3d832bbd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692829,
-    "wof:lastmodified":1566609486,
+    "wof:lastmodified":1695886833,
     "wof:name":"25 De Diciembre",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

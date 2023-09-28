@@ -91,6 +91,7 @@
         "hasc:id":"PY.CG.VA",
         "wd:id":"Q1751136"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325642,
     "wof:geomhash":"12696246c174251864f7999e9de5eae6",
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692663,
-    "wof:lastmodified":1694639681,
+    "wof:lastmodified":1695886820,
     "wof:name":"Vaquer\u00eda",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

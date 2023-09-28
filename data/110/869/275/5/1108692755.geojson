@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193058,
-    "geom:area_square_m":2197484684.917625,
+    "geom:area_square_m":2197484905.062201,
     "geom:bbox":"-56.722361,-23.273943,-56.125778,-22.686865",
     "geom:latitude":-22.99614,
     "geom:longitude":-56.381428,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CN.YY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325706,
-    "wof:geomhash":"c1e9ddbe4f55b52fb8fc0063e6751488",
+    "wof:geomhash":"3f372762f7e4a09210edc83cf1189fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108692755,
-    "wof:lastmodified":1627522524,
+    "wof:lastmodified":1695886172,
     "wof:name":"Yvy Ya\u00b4u",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

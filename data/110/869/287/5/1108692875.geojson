@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076283,
-    "geom:area_square_m":839119908.146032,
+    "geom:area_square_m":839119294.228492,
     "geom:bbox":"-58.018471,-27.281365,-57.218765,-27.018094",
     "geom:latitude":-27.176357,
     "geom:longitude":-57.582989,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.NE.LA",
         "wd:id":"Q12012219"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325779,
-    "wof:geomhash":"11bf2ddeeffa4f1821acf8e724815f1d",
+    "wof:geomhash":"0eaef90d7b4ae93f05e564813599229a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692875,
-    "wof:lastmodified":1690856985,
+    "wof:lastmodified":1695886814,
     "wof:name":"Los Laureles",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

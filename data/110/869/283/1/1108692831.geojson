@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175839,
-    "geom:area_square_m":1977528539.02819,
+    "geom:area_square_m":1977528539.028517,
     "geom:bbox":"-57.300132993,-25.0192518148,-56.8116179011,-24.167661736",
     "geom:latitude":-24.561086,
     "geom:longitude":-57.07704,
@@ -79,9 +79,10 @@
         "hasc:id":"PY.SP.VR",
         "wd:id":"Q4012700"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325754,
-    "wof:geomhash":"88d4738a7d1513d1a48f8a1d818fbc4b",
+    "wof:geomhash":"1b72a6717f1fa26cd48d001d622cb78b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108692831,
-    "wof:lastmodified":1566609466,
+    "wof:lastmodified":1695886829,
     "wof:name":"Villa Del Rosario",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

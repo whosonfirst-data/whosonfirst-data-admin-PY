@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100501,
-    "geom:area_square_m":1126143305.768544,
+    "geom:area_square_m":1126143305.76868,
     "geom:bbox":"-54.9678405839,-25.2533660057,-54.4231385615,-24.8569114978",
     "geom:latitude":-25.015292,
     "geom:longitude":-54.689146,
@@ -163,9 +163,10 @@
         "hasc:id":"PY.AA.MB",
         "wd:id":"Q2445799"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325585,
-    "wof:geomhash":"eb494023c581e906e1565a2ed43e7015",
+    "wof:geomhash":"1a62ffdec63b272a6497b71142b30726",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":1108692573,
-    "wof:lastmodified":1566609421,
+    "wof:lastmodified":1695886818,
     "wof:name":"Mbaracayu",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.314507,
-    "geom:area_square_m":72403941771.289062,
+    "geom:area_square_m":72403941539.128357,
     "geom:bbox":"-62.644617,-23.885785,-59.86904,-20.0892",
     "geom:latitude":-21.96421,
     "geom:longitude":-61.286816,
@@ -215,12 +215,13 @@
         "qs_pg:id":1264258,
         "wd:id":"Q1093167"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008906,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b77739a4cf836a5196bbd2b07cb99e6",
+    "wof:geomhash":"67f12443fcb6b7923a3df17f55c11bee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -230,7 +231,7 @@
         }
     ],
     "wof:id":421171777,
-    "wof:lastmodified":1690857063,
+    "wof:lastmodified":1695886107,
     "wof:name":"Mariscal Estigarribia",
     "wof:parent_id":85676659,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045396,
-    "geom:area_square_m":510771030.478104,
+    "geom:area_square_m":510771093.59714,
     "geom:bbox":"-56.298438,-24.627847,-55.98717,-24.379704",
     "geom:latitude":-24.504725,
     "geom:longitude":-56.137082,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"PY.SP.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325537,
-    "wof:geomhash":"b7519040fede02295683e6acba4e1528",
+    "wof:geomhash":"5f3ea7d69d3c30d972229015ad3c00e7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108692497,
-    "wof:lastmodified":1627522525,
+    "wof:lastmodified":1695886173,
     "wof:name":"Yryvu Cua",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

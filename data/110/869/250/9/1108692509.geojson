@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008173,
-    "geom:area_square_m":91367273.89423,
+    "geom:area_square_m":91367273.894278,
     "geom:bbox":"-56.9461003943,-25.367381286,-56.8314119239,-25.2193169316",
     "geom:latitude":-25.300835,
     "geom:longitude":-56.896097,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.CR.IS",
         "wd:id":"Q2410881"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325546,
-    "wof:geomhash":"6e651f77e9342fb1e6113b63000cc0dc",
+    "wof:geomhash":"4e7a4b0a46e691e0177eaa773a6dc0d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692509,
-    "wof:lastmodified":1566609427,
+    "wof:lastmodified":1695886819,
     "wof:name":"Isla Pucu",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078177,
-    "geom:area_square_m":870957642.397613,
+    "geom:area_square_m":870957704.126733,
     "geom:bbox":"-57.826763,-25.95255,-57.413046,-25.477461",
     "geom:latitude":-25.711554,
     "geom:longitude":-57.607137,
@@ -209,12 +209,13 @@
         "qs_pg:id":116276,
         "wd:id":"Q1093439"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009829,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"58dac1bda5615e855ee320f28328ac98",
+    "wof:geomhash":"0b4ae048f9845ab62277ba1a218154de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -224,7 +225,7 @@
         }
     ],
     "wof:id":421195021,
-    "wof:lastmodified":1690857027,
+    "wof:lastmodified":1695886009,
     "wof:name":"Villeta",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

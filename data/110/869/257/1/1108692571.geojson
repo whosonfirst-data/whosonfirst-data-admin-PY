@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078639,
-    "geom:area_square_m":882984012.178871,
+    "geom:area_square_m":882984012.179404,
     "geom:bbox":"-55.0290409532,-24.9438081493,-54.6424875536,-24.5643605096",
     "geom:latitude":-24.762167,
     "geom:longitude":-54.86545,
@@ -166,9 +166,10 @@
         "hasc:id":"PY.AA.MP",
         "wd:id":"Q2445910"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325584,
-    "wof:geomhash":"eb33f561c09bb96a68e50ace3cd1a589",
+    "wof:geomhash":"90b9860554275157723b0b04d3dab75e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":1108692571,
-    "wof:lastmodified":1566609419,
+    "wof:lastmodified":1695886817,
     "wof:name":"Minga Pora",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

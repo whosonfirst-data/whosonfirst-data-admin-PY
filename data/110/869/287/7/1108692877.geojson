@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037002,
-    "geom:area_square_m":407016567.639573,
+    "geom:area_square_m":407016709.581334,
     "geom:bbox":"-58.017551,-27.298794,-57.781868,-27.054641",
     "geom:latitude":-27.178591,
     "geom:longitude":-57.915109,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PY.NE.VI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325780,
-    "wof:geomhash":"efbc6ac64eb9275d34c5481332f85adb",
+    "wof:geomhash":"59794020aa6ef6dad390352004512cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108692877,
-    "wof:lastmodified":1627522524,
+    "wof:lastmodified":1695886173,
     "wof:name":"Villalbin",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

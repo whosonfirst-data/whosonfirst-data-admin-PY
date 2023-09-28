@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029281,
-    "geom:area_square_m":325889869.960576,
+    "geom:area_square_m":325889751.967058,
     "geom:bbox":"-56.536812,-25.919204,-56.275094,-25.722013",
     "geom:latitude":-25.830981,
     "geom:longitude":-56.408368,
@@ -256,12 +256,13 @@
         "qs_pg:id":286283,
         "wd:id":"Q288685"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008977,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ce4990584d039f3fcc554cb27e286102",
+    "wof:geomhash":"4e5fdd099cdb401db89ddde8b4f51206",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -271,7 +272,7 @@
         }
     ],
     "wof:id":421173301,
-    "wof:lastmodified":1690857040,
+    "wof:lastmodified":1695886514,
     "wof:name":"Villarrica",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

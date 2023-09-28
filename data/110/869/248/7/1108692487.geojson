@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030189,
-    "geom:area_square_m":338765186.813105,
+    "geom:area_square_m":338765186.813172,
     "geom:bbox":"-56.4377848838,-24.9412562417,-56.1971632595,-24.7280998273",
     "geom:latitude":-24.83738,
     "geom:longitude":-56.329043,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.SP.YN",
         "wd:id":"Q1988951"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325531,
-    "wof:geomhash":"cf1bbb9bfbf03380792803f0e58269dd",
+    "wof:geomhash":"c671d781e45bd223eccb80de0bdbe96b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692487,
-    "wof:lastmodified":1566609464,
+    "wof:lastmodified":1695886828,
     "wof:name":"Yataity Del Norte",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

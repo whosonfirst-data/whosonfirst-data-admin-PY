@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025959,
-    "geom:area_square_m":285781751.629127,
+    "geom:area_square_m":285781751.629164,
     "geom:bbox":"-58.2824105981,-27.1508050254,-57.9858486388,-27.0168251436",
     "geom:latitude":-27.087964,
     "geom:longitude":-58.124058,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.NE.DE",
         "wd:id":"Q2422822"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325734,
-    "wof:geomhash":"785e363e6a5d45d6d8b64c5de58162d6",
+    "wof:geomhash":"92240b4d66d55c9db2f8287ce1e7745a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692803,
-    "wof:lastmodified":1566609390,
+    "wof:lastmodified":1695886813,
     "wof:name":"Desmochados",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

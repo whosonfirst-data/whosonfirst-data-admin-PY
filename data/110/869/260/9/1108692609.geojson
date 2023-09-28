@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008129,
-    "geom:area_square_m":90409216.587181,
+    "geom:area_square_m":90409216.587132,
     "geom:bbox":"-56.3719851583,-25.9716713462,-56.2490852438,-25.8448225721",
     "geom:latitude":-25.916642,
     "geom:longitude":-56.314387,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.GU.NU",
         "wd:id":"Q2410962"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325608,
-    "wof:geomhash":"6d2e2d8c74ef5e458343e09000963ad1",
+    "wof:geomhash":"24851f8bcb6cf934f889227c124281b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692609,
-    "wof:lastmodified":1566609440,
+    "wof:lastmodified":1695886822,
     "wof:name":"\u00d1umi",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

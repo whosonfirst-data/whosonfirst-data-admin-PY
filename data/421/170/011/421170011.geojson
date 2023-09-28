@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02195,
-    "geom:area_square_m":241346724.98123,
+    "geom:area_square_m":241346724.981238,
     "geom:bbox":"-58.645827153,-27.3062192819,-58.4136981901,-27.1562372426",
     "geom:latitude":-27.227342,
     "geom:longitude":-58.514536,
@@ -110,12 +110,13 @@
         "qs_pg:id":772921,
         "wd:id":"Q1293157"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008833,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f23c697b9115e98e274b1feb583034b5",
+    "wof:geomhash":"3be9b63d05b91f51556f45e223d41fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":421170011,
-    "wof:lastmodified":1582360309,
+    "wof:lastmodified":1695886020,
     "wof:name":"Paso De Patria",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

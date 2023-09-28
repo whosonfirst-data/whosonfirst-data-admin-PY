@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080239,
-    "geom:area_square_m":908082880.647017,
+    "geom:area_square_m":908082880.646883,
     "geom:bbox":"-56.0272142152,-23.9041563601,-55.412261742,-23.5232921027",
     "geom:latitude":-23.75892,
     "geom:longitude":-55.657629,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.CY.IT",
         "wd:id":"Q1986095"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325515,
-    "wof:geomhash":"77b7b6f6c2f008259bbd2dcd33f2fba5",
+    "wof:geomhash":"f23377538181bbb562ec2fbe261567b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692457,
-    "wof:lastmodified":1566609399,
+    "wof:lastmodified":1695886814,
     "wof:name":"Itanara",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

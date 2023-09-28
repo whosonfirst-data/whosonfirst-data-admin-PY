@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008029,
-    "geom:area_square_m":89488114.826303,
+    "geom:area_square_m":89488114.826279,
     "geom:bbox":"-56.5505142188,-25.7310809888,-56.4229277979,-25.6210264125",
     "geom:latitude":-25.666246,
     "geom:longitude":-56.475346,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.GU.YG",
         "wd:id":"Q960280"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325611,
-    "wof:geomhash":"e6f73159049f8bcce6cf9e4421a183e6",
+    "wof:geomhash":"64f34c685d1a0bc6eb89fbb6b5a52bdf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692613,
-    "wof:lastmodified":1566609438,
+    "wof:lastmodified":1695886822,
     "wof:name":"Yataity",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002602,
-    "geom:area_square_m":29064245.281543,
+    "geom:area_square_m":29064239.152145,
     "geom:bbox":"-57.572458,-25.443768,-57.506093,-25.360923",
     "geom:latitude":-25.396964,
     "geom:longitude":-57.537739,
@@ -205,9 +205,10 @@
         "hasc:id":"PY.CE.NE",
         "wd:id":"Q47056"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325603,
-    "wof:geomhash":"b2afb7b0a5c352eba533c5e3909510ba",
+    "wof:geomhash":"8f56e14dd1824def8a89a26fff4eb4c7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -217,7 +218,7 @@
         }
     ],
     "wof:id":1108692599,
-    "wof:lastmodified":1690856996,
+    "wof:lastmodified":1695886821,
     "wof:name":"\u00d1emby",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

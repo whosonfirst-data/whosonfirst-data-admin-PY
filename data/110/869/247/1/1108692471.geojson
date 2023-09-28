@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067099,
-    "geom:area_square_m":754614795.046993,
+    "geom:area_square_m":754614799.4905,
     "geom:bbox":"-56.059117,-24.78397,-55.701991,-24.366191",
     "geom:latitude":-24.562547,
     "geom:longitude":-55.869795,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CY.VC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325522,
-    "wof:geomhash":"37e8c81a94cca39c3e9c9876826a29ab",
+    "wof:geomhash":"6e08adfcd72ef764324941550907bbbd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108692471,
-    "wof:lastmodified":1627522524,
+    "wof:lastmodified":1695886171,
     "wof:name":"Yasy Kany",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

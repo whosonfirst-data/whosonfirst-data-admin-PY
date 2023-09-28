@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056981,
-    "geom:area_square_m":643778956.720018,
+    "geom:area_square_m":643779082.071003,
     "geom:bbox":"-56.818933,-24.080125,-56.368227,-23.864542",
     "geom:latitude":-23.978333,
     "geom:longitude":-56.569352,
@@ -103,9 +103,10 @@
         "hasc:id":"PY.SP.LI",
         "wd:id":"Q590046"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325715,
-    "wof:geomhash":"8d58839abf202647492541c85ac0d04e",
+    "wof:geomhash":"596df17ff1b3bf600c7e39814293ec34",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108692773,
-    "wof:lastmodified":1636503105,
+    "wof:lastmodified":1695886099,
     "wof:name":"Lima",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042226,
-    "geom:area_square_m":464975768.936157,
+    "geom:area_square_m":464975768.936285,
     "geom:bbox":"-56.6470298771,-27.2331943238,-56.4367524995,-26.8881594091",
     "geom:latitude":-27.059518,
     "geom:longitude":-56.552196,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.IT.GD",
         "wd:id":"Q1985386"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325697,
-    "wof:geomhash":"a214eba684290679f481e9fea18daa71",
+    "wof:geomhash":"dee8fcd9028c1933da27ec28d1ba979e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692743,
-    "wof:lastmodified":1566609394,
+    "wof:lastmodified":1695886813,
     "wof:name":"General Delgado",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

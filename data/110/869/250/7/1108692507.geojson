@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02613,
-    "geom:area_square_m":291963451.490273,
+    "geom:area_square_m":291963553.264129,
     "geom:bbox":"-57.071367,-25.468299,-56.86357,-25.238744",
     "geom:latitude":-25.361194,
     "geom:longitude":-56.971451,
@@ -109,9 +109,10 @@
         "hasc:id":"PY.CR.EU",
         "wd:id":"Q2377309"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325545,
-    "wof:geomhash":"8d831600d784ffe4afda8f96686406b7",
+    "wof:geomhash":"82baf4cc83dd475f006f4d58604526d4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108692507,
-    "wof:lastmodified":1690856994,
+    "wof:lastmodified":1695886819,
     "wof:name":"Eusebio Ayala",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

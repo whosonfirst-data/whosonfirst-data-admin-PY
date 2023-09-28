@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020929,
-    "geom:area_square_m":230036997.018052,
+    "geom:area_square_m":230036997.018221,
     "geom:bbox":"-55.7458127164,-27.3701522891,-55.5768619802,-27.1420017493",
     "geom:latitude":-27.263434,
     "geom:longitude":-55.653227,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.IT.NA",
         "wd:id":"Q1754733"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325738,
-    "wof:geomhash":"6877c02e8815d9638ada84d268b65289",
+    "wof:geomhash":"08493f81556d74148991b0553cd19302",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692809,
-    "wof:lastmodified":1566609389,
+    "wof:lastmodified":1695886813,
     "wof:name":"Nueva Alborada",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

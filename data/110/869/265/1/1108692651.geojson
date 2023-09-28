@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013791,
-    "geom:area_square_m":153989652.922768,
+    "geom:area_square_m":153989652.922535,
     "geom:bbox":"-55.4810621253,-25.5575417577,-55.3784357075,-25.3551054391",
     "geom:latitude":-25.44037,
     "geom:longitude":-55.437636,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.CG.JO",
         "wd:id":"Q3810432"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325636,
-    "wof:geomhash":"87d64544a351efe25f0fa19d957fc2ad",
+    "wof:geomhash":"e9a07d52a25894038533fac26f5b41fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692651,
-    "wof:lastmodified":1566609505,
+    "wof:lastmodified":1695886838,
     "wof:name":"Jose Domingo Ocampos",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

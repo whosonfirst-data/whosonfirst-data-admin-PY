@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042498,
-    "geom:area_square_m":479729443.160023,
+    "geom:area_square_m":479729443.160062,
     "geom:bbox":"-57.2798455183,-24.2666589321,-57.0711243294,-23.9048832218",
     "geom:latitude":-24.090757,
     "geom:longitude":-57.169171,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.SP.AN",
         "wd:id":"Q2397118"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325710,
-    "wof:geomhash":"d19b596cbfa02a85c32c5e951759eb79",
+    "wof:geomhash":"c8b6de356209f3c053ab40bbe7d2f622",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692763,
-    "wof:lastmodified":1566609486,
+    "wof:lastmodified":1695886833,
     "wof:name":"Antequera",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

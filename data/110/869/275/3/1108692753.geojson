@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104103,
-    "geom:area_square_m":1191426115.966845,
+    "geom:area_square_m":1191426115.967407,
     "geom:bbox":"-57.9937844334,-22.4161789052,-57.4992309232,-22.0790876114",
     "geom:latitude":-22.247185,
     "geom:longitude":-57.735041,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.CN.SL",
         "wd:id":"Q1990310"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325705,
-    "wof:geomhash":"7ac72861a955835dec6e6c2b7a816fee",
+    "wof:geomhash":"434f1a8cdfcf1425926a9030f6c12e45",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692753,
-    "wof:lastmodified":1566609414,
+    "wof:lastmodified":1695886816,
     "wof:name":"San Lazaro",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

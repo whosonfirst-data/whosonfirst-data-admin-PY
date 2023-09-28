@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072754,
-    "geom:area_square_m":814075153.47104,
+    "geom:area_square_m":814074910.240735,
     "geom:bbox":"-54.874878,-25.342776,-54.417017,-25.067137",
     "geom:latitude":-25.189081,
     "geom:longitude":-54.628335,
@@ -48,10 +48,13 @@
         85676705
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"1020"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"PY",
     "wof:created":1474325589,
-    "wof:geomhash":"cf13483381365c0429e2a8754b051a2d",
+    "wof:geomhash":"94c5b57248d7749f2251d29917c32c8d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108692579,
-    "wof:lastmodified":1627522522,
+    "wof:lastmodified":1695886169,
     "wof:name":"Santa Fe Del Parana",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

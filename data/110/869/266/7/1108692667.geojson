@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011475,
-    "geom:area_square_m":126705971.283502,
+    "geom:area_square_m":126705971.283476,
     "geom:bbox":"-56.3140839738,-26.8069760458,-56.1394152937,-26.6939377512",
     "geom:latitude":-26.747756,
     "geom:longitude":-56.229119,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.IT.JO",
         "wd:id":"Q431581"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325646,
-    "wof:geomhash":"10427287c94ea24e39f15dfab6115a7f",
+    "wof:geomhash":"e1cc550df0090a5b4ce63f2af0d54b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692667,
-    "wof:lastmodified":1566609430,
+    "wof:lastmodified":1695886820,
     "wof:name":"Leandro Oviedo",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

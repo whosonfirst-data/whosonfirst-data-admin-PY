@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089872,
-    "geom:area_square_m":996841109.845073,
+    "geom:area_square_m":996841067.880598,
     "geom:bbox":"-56.113968,-26.448425,-55.697986,-26.07054",
     "geom:latitude":-26.231455,
     "geom:longitude":-55.900663,
@@ -94,9 +94,10 @@
         "hasc:id":"PY.CZ.SN",
         "wd:id":"Q2439360"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325765,
-    "wof:geomhash":"4e2ee7b00467550b62445c0eae5be18a",
+    "wof:geomhash":"f6fd747882eac305017f79c7eaf02318",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108692851,
-    "wof:lastmodified":1690857013,
+    "wof:lastmodified":1695886834,
     "wof:name":"San Juan Nepomuceno",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

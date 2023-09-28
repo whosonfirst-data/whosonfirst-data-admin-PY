@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012701,
-    "geom:area_square_m":139868912.365705,
+    "geom:area_square_m":139868966.288012,
     "geom:bbox":"-55.87917,-27.113781,-55.665728,-26.992066",
     "geom:latitude":-27.053637,
     "geom:longitude":-55.774181,
@@ -112,12 +112,13 @@
         "qs_pg:id":239113,
         "wd:id":"Q1688403"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459010180,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"579679df8f44b5e33a43c85532794ee1",
+    "wof:geomhash":"892ff4109795620b728b691402bfb742",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":421204307,
-    "wof:lastmodified":1690857033,
+    "wof:lastmodified":1695886010,
     "wof:name":"Jesus",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

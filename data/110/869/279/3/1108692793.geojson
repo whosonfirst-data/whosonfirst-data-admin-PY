@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001654,
-    "geom:area_square_m":18476137.338332,
+    "geom:area_square_m":18476162.186636,
     "geom:bbox":"-57.613791,-25.40176,-57.566761,-25.339359",
     "geom:latitude":-25.373756,
     "geom:longitude":-57.587438,
@@ -190,9 +190,10 @@
         "hasc:id":"PY.CE.VE",
         "wd:id":"Q952896"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325728,
-    "wof:geomhash":"a2de35f88870e866ae4b6796f203b700",
+    "wof:geomhash":"61ff93eac262faf8099676cfae17ecdd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":1108692793,
-    "wof:lastmodified":1690857008,
+    "wof:lastmodified":1695886831,
     "wof:name":"Villa Elisa",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

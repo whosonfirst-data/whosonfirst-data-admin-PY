@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007165,
-    "geom:area_square_m":80193221.753615,
+    "geom:area_square_m":80193221.7537,
     "geom:bbox":"-57.3241711221,-25.2314723086,-57.2224318267,-25.0832714629",
     "geom:latitude":-25.159426,
     "geom:longitude":-57.272077,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.CR.NC",
         "wd:id":"Q2410393"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325552,
-    "wof:geomhash":"6ee2e424bc49f60bc088f37d48e11807",
+    "wof:geomhash":"980e889dd3892f04d80129b65d67702e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692521,
-    "wof:lastmodified":1566609520,
+    "wof:lastmodified":1695886843,
     "wof:name":"Nueva Colombia",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

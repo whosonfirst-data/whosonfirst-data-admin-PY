@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039206,
-    "geom:area_square_m":437114858.895438,
+    "geom:area_square_m":437114709.516436,
     "geom:bbox":"-55.244114,-25.720778,-54.88236,-25.516707",
     "geom:latitude":-25.624522,
     "geom:longitude":-55.07143,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PY.AA.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325590,
-    "wof:geomhash":"059484ea3ce2ad0c109cbb8f01c65cd1",
+    "wof:geomhash":"36f26801b9ab51b95d59268d8b6dfa53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108692581,
-    "wof:lastmodified":1642551761,
+    "wof:lastmodified":1695886512,
     "wof:name":"Tavapy",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

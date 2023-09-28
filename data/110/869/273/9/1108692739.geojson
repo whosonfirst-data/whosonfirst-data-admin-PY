@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096984,
-    "geom:area_square_m":1092536513.142436,
+    "geom:area_square_m":1092536590.489305,
     "geom:bbox":"-55.373468,-24.551203,-54.921494,-24.112129",
     "geom:latitude":-24.350899,
     "geom:longitude":-55.116196,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CY.VC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325693,
-    "wof:geomhash":"3cba0e4bce8d2b5a68e5e106683f1119",
+    "wof:geomhash":"685b88b692940ca5b1bfa1ff0b180ac0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108692739,
-    "wof:lastmodified":1627522525,
+    "wof:lastmodified":1695886173,
     "wof:name":"Yvyrarobana",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

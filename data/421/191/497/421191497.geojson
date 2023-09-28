@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018232,
-    "geom:area_square_m":203109329.151527,
+    "geom:area_square_m":203109207.579056,
     "geom:bbox":"-57.076929,-25.85241,-56.89134,-25.572428",
     "geom:latitude":-25.715259,
     "geom:longitude":-56.973658,
@@ -128,12 +128,13 @@
         "qs_pg:id":1137370,
         "wd:id":"Q785504"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009694,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"75cd36d24486abda02bb2286241ed0ef",
+    "wof:geomhash":"0903f8ec6c6dfa4795a04d79fb63ac3b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":421191497,
-    "wof:lastmodified":1690857047,
+    "wof:lastmodified":1695886016,
     "wof:name":"Sapucai",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

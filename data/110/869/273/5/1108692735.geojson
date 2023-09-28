@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03533,
-    "geom:area_square_m":393378419.65445,
+    "geom:area_square_m":393378501.852679,
     "geom:bbox":"-56.917821,-25.914921,-56.666513,-25.646366",
     "geom:latitude":-25.78094,
     "geom:longitude":-56.767048,
@@ -97,9 +97,10 @@
         "hasc:id":"PY.PG.YT",
         "wd:id":"Q2410921"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325690,
-    "wof:geomhash":"c67f106e245b3f6c3fbf3415f7edccda",
+    "wof:geomhash":"5e0d4b514d00ac521eb14245369a45a7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692735,
-    "wof:lastmodified":1690856984,
+    "wof:lastmodified":1695886813,
     "wof:name":"Yvytimi",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

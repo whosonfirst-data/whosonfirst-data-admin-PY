@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022733,
-    "geom:area_square_m":253509481.187836,
+    "geom:area_square_m":253509501.178829,
     "geom:bbox":"-57.388168,-25.677206,-57.17825,-25.497725",
     "geom:latitude":-25.598694,
     "geom:longitude":-57.274764,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PY.PG.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325687,
-    "wof:geomhash":"993d009918fe092f8a80a7ac4741904a",
+    "wof:geomhash":"839f5f008b34c9caa48954bd30869bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108692731,
-    "wof:lastmodified":1642551768,
+    "wof:lastmodified":1695886514,
     "wof:name":"Yaguaron",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

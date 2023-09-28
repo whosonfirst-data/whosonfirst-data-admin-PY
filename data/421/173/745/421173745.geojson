@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035709,
-    "geom:area_square_m":397934590.392225,
+    "geom:area_square_m":397934523.383527,
     "geom:bbox":"-57.270393,-25.81888,-57.01619,-25.524966",
     "geom:latitude":-25.679938,
     "geom:longitude":-57.1421,
@@ -227,12 +227,13 @@
         "qs_pg:id":467350,
         "wd:id":"Q917103"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009004,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"00b000c4b5d71f5dd206e92dcda6f6f6",
+    "wof:geomhash":"f595fc580f44a8b5555885b15cfe067b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -242,7 +243,7 @@
         }
     ],
     "wof:id":421173745,
-    "wof:lastmodified":1690857042,
+    "wof:lastmodified":1695886012,
     "wof:name":"Paraguari",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

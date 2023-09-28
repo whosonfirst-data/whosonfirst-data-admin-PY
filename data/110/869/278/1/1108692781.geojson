@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.458894,
-    "geom:area_square_m":5273973048.696883,
+    "geom:area_square_m":5273972219.678908,
     "geom:bbox":"-58.776171,-22.043623,-57.852181,-21.278146",
     "geom:latitude":-21.649995,
     "geom:longitude":-58.280775,
@@ -60,9 +60,10 @@
     "wof:concordances":{
         "hasc:id":"PY.AG.LV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325722,
-    "wof:geomhash":"1bc0e215e5ecaa259a8ba016b5bd8911",
+    "wof:geomhash":"8a6662a26af6e867f40d4a6ccbd3e95f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1108692781,
-    "wof:lastmodified":1642551760,
+    "wof:lastmodified":1695886511,
     "wof:name":"Carmelo Peralta",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

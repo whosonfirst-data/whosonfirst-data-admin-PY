@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004709,
-    "geom:area_square_m":52573687.377963,
+    "geom:area_square_m":52573630.363386,
     "geom:bbox":"-57.567442,-25.497673,-57.459345,-25.422747",
     "geom:latitude":-25.460402,
     "geom:longitude":-57.509294,
@@ -181,9 +181,10 @@
         "hasc:id":"PY.CE.YN",
         "wd:id":"Q2717436"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325730,
-    "wof:geomhash":"8f0dbf9cca96be31cd4ceb29d6681d14",
+    "wof:geomhash":"a82bd9cf406fd8431f3faa10551955d0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":1108692795,
-    "wof:lastmodified":1690857008,
+    "wof:lastmodified":1695886831,
     "wof:name":"Ypane",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.290216,
-    "geom:area_square_m":3284094131.396558,
+    "geom:area_square_m":3284094805.256852,
     "geom:bbox":"-57.473517,-24.157767,-56.697388,-23.442021",
     "geom:latitude":-23.772186,
     "geom:longitude":-57.059513,
@@ -127,9 +127,10 @@
         "hasc:id":"PY.SP.SY",
         "wd:id":"Q135993"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325709,
-    "wof:geomhash":"9396f2925ad873dbba0fcc7ee68ef710",
+    "wof:geomhash":"c3536da8419c06bfef85abaeacebdfb7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108692761,
-    "wof:lastmodified":1690857011,
+    "wof:lastmodified":1695886833,
     "wof:name":"San Pedro Del Ykuamandiyu",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

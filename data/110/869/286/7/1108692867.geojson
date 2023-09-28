@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042165,
-    "geom:area_square_m":465260880.607859,
+    "geom:area_square_m":465260880.607885,
     "geom:bbox":"-55.4807561212,-26.9692152518,-55.1308778731,-26.6701547395",
     "geom:latitude":-26.828817,
     "geom:longitude":-55.290862,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.IT.CZ",
         "wd:id":"Q656452"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325775,
-    "wof:geomhash":"4a07632be21ded8735da72d8eb07b69a",
+    "wof:geomhash":"8feb7f6f03c532dff02ee58e8b595947",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692867,
-    "wof:lastmodified":1566609408,
+    "wof:lastmodified":1695886815,
     "wof:name":"Capitan Meza",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

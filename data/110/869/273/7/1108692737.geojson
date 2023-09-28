@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030577,
-    "geom:area_square_m":340229493.688508,
+    "geom:area_square_m":340229493.688521,
     "geom:bbox":"-54.8131475216,-25.9853644117,-54.5871246556,-25.7609180358",
     "geom:latitude":-25.858222,
     "geom:longitude":-54.690235,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.AA.DI",
         "wd:id":"Q1987175"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325692,
-    "wof:geomhash":"f93bf216698a6b87ca42a034d244c694",
+    "wof:geomhash":"9f5c30e969ed36874d696b312a9a673e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692737,
-    "wof:lastmodified":1566609395,
+    "wof:lastmodified":1695886813,
     "wof:name":"Domingo Martinez De Irala",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

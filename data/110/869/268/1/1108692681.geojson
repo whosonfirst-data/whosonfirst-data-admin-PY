@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055334,
-    "geom:area_square_m":612469732.971981,
+    "geom:area_square_m":612469732.97205,
     "geom:bbox":"-55.5131372636,-26.624956492,-55.0836882911,-26.3071007054",
     "geom:latitude":-26.473468,
     "geom:longitude":-55.282483,
@@ -82,9 +82,10 @@
         "hasc:id":"PY.IT.TP",
         "wd:id":"Q369121"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325655,
-    "wof:geomhash":"ee2eb2ef72c54ac9cd9ac1d828ab4774",
+    "wof:geomhash":"359266b3dfb17724489aea055184554b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108692681,
-    "wof:lastmodified":1566609423,
+    "wof:lastmodified":1695886818,
     "wof:name":"Tomas Romero Pereira",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

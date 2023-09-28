@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020756,
-    "geom:area_square_m":231806330.323265,
+    "geom:area_square_m":231806377.636643,
     "geom:bbox":"-56.652202,-25.544098,-56.501546,-25.303842",
     "geom:latitude":-25.419991,
     "geom:longitude":-56.566049,
@@ -94,9 +94,10 @@
         "hasc:id":"PY.CG.NL",
         "wd:id":"Q2407932"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325627,
-    "wof:geomhash":"89e65bb9b6d32cbeaed67af49dbb09ed",
+    "wof:geomhash":"a80aef942f51bb8a6629cc577a9ebab2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108692635,
-    "wof:lastmodified":1690857020,
+    "wof:lastmodified":1695886842,
     "wof:name":"Nueva Londres",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

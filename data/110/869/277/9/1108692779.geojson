@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.14989,
-    "geom:area_square_m":36624739612.898331,
+    "geom:area_square_m":36624737800.945366,
     "geom:bbox":"-61.9224,-20.632887,-57.996698,-19.2896",
     "geom:latitude":-19.893155,
     "geom:longitude":-59.965117,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.AG.ML",
         "wd:id":"Q3321191"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325721,
-    "wof:geomhash":"530ad8a9ae3709d08d003c8818ed4f1f",
+    "wof:geomhash":"d80a998c1555f71fac976c150e74a3e9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692779,
-    "wof:lastmodified":1690857006,
+    "wof:lastmodified":1695886830,
     "wof:name":"Bahia Negra",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

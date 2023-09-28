@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005833,
-    "geom:area_square_m":64271417.318174,
+    "geom:area_square_m":64271417.3182,
     "geom:bbox":"-56.8937154516,-27.0526427412,-56.7733728494,-26.9373997841",
     "geom:latitude":-26.995449,
     "geom:longitude":-56.829387,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.MI.SP",
         "wd:id":"Q1749429"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325665,
-    "wof:geomhash":"10d5c82ffdb54b3fd5907186c41adae0",
+    "wof:geomhash":"c02bc237f41b54d09306e5c87a66cc7f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692695,
-    "wof:lastmodified":1566609456,
+    "wof:lastmodified":1695886826,
     "wof:name":"San Patricio",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

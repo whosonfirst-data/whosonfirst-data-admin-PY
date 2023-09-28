@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039814,
-    "geom:area_square_m":442353514.49578,
+    "geom:area_square_m":442353514.495641,
     "geom:bbox":"-56.7476857553,-26.1973122173,-56.4645261849,-25.8933503418",
     "geom:latitude":-26.034332,
     "geom:longitude":-56.610266,
@@ -97,9 +97,10 @@
         "hasc:id":"PY.GU.BO",
         "wd:id":"Q2409437"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325559,
-    "wof:geomhash":"068a007e5fb737c3fe37171090b7b727",
+    "wof:geomhash":"e9bdb314d868a3ea28f1f7e14e60ad4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692529,
-    "wof:lastmodified":1566609519,
+    "wof:lastmodified":1695886843,
     "wof:name":"Borja",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

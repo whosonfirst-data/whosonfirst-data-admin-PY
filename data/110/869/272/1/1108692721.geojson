@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05957,
-    "geom:area_square_m":661968581.244154,
+    "geom:area_square_m":661968825.142815,
     "geom:bbox":"-57.499619,-26.128672,-57.105405,-25.904643",
     "geom:latitude":-26.013153,
     "geom:longitude":-57.314661,
@@ -97,9 +97,10 @@
         "hasc:id":"PY.PG.QI",
         "wd:id":"Q2410952"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325682,
-    "wof:geomhash":"e2224b19e48db3818bc97162339c82c2",
+    "wof:geomhash":"d0ae4e22a57af40f92b2538bc1847289",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692721,
-    "wof:lastmodified":1690856990,
+    "wof:lastmodified":1695886816,
     "wof:name":"Quiindy",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

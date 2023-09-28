@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047901,
-    "geom:area_square_m":536620651.568875,
+    "geom:area_square_m":536620292.943309,
     "geom:bbox":"-57.385737,-25.145304,-56.910611,-24.919144",
     "geom:latitude":-25.042776,
     "geom:longitude":-57.162466,
@@ -115,9 +115,10 @@
         "hasc:id":"PY.CR.AE",
         "wd:id":"Q2639218"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325541,
-    "wof:geomhash":"ae1ffd1b4cbfcb58623baac27569fb44",
+    "wof:geomhash":"923c69a683f7979548b9679e84776a36",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108692501,
-    "wof:lastmodified":1690856994,
+    "wof:lastmodified":1695886819,
     "wof:name":"Arroyos Y Esteros",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017076,
-    "geom:area_square_m":191158780.208183,
+    "geom:area_square_m":191158780.208043,
     "geom:bbox":"-57.4783165965,-25.2079748119,-57.2727138547,-25.0616158885",
     "geom:latitude":-25.128833,
     "geom:longitude":-57.362946,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.CR.EM",
         "wd:id":"Q2410997"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325544,
-    "wof:geomhash":"dcdd86dae9c97eae5062ddf96b8b150d",
+    "wof:geomhash":"e6b9f0b86b314326b56f6cd34a618a9f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692505,
-    "wof:lastmodified":1566609430,
+    "wof:lastmodified":1695886820,
     "wof:name":"Emboscada",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

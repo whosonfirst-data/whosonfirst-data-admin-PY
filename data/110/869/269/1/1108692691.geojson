@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042891,
-    "geom:area_square_m":474374018.250813,
+    "geom:area_square_m":474374018.250559,
     "geom:bbox":"-55.6559551993,-26.7206003183,-55.3895914864,-26.3556025819",
     "geom:latitude":-26.56135,
     "geom:longitude":-55.545264,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.IT.IP",
         "wd:id":"Q1675227"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325662,
-    "wof:geomhash":"90650b7839e11090eeb5c2420dfa783c",
+    "wof:geomhash":"68ac81d678d53afe0bd2abb499bfdc78",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692691,
-    "wof:lastmodified":1566609455,
+    "wof:lastmodified":1695886826,
     "wof:name":"Itapua Poty",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

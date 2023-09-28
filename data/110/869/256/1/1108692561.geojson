@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08239,
-    "geom:area_square_m":917342339.075787,
+    "geom:area_square_m":917342398.4757,
     "geom:bbox":"-55.55064,-26.035332,-55.213449,-25.52082",
     "geom:latitude":-25.783464,
     "geom:longitude":-55.384826,
@@ -97,9 +97,10 @@
         "hasc:id":"PY.AA.SC",
         "wd:id":"Q2445832"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325579,
-    "wof:geomhash":"ca01f6c2ea5d0fb68fbcb09915639458",
+    "wof:geomhash":"674252bb86fef3592d0bf3d6fb6d29af",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692561,
-    "wof:lastmodified":1636503103,
+    "wof:lastmodified":1695886095,
     "wof:name":"San Cristobal",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

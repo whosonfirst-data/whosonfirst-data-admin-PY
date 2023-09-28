@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009989,
-    "geom:area_square_m":110837709.213879,
+    "geom:area_square_m":110837709.213902,
     "geom:bbox":"-58.1593157463,-26.2504097946,-58.0003208514,-26.1256132801",
     "geom:latitude":-26.189921,
     "geom:longitude":-58.070904,
@@ -97,9 +97,10 @@
         "hasc:id":"PY.NE.AL",
         "wd:id":"Q2169955"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325739,
-    "wof:geomhash":"d62ff9e9b6df26a778e06fd8b651a49f",
+    "wof:geomhash":"41207bacb2b65de2354d094b93edf5c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692811,
-    "wof:lastmodified":1566609416,
+    "wof:lastmodified":1695886817,
     "wof:name":"Alberdi",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

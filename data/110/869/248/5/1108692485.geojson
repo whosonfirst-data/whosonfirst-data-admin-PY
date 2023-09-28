@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097033,
-    "geom:area_square_m":1096053920.235649,
+    "geom:area_square_m":1096053920.235881,
     "geom:bbox":"-56.4719120171,-24.1587803719,-55.9771072191,-23.8215148379",
     "geom:latitude":-24.005178,
     "geom:longitude":-56.20818,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.SP.GR",
         "wd:id":"Q2475348"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325530,
-    "wof:geomhash":"d69fcdcc563ab5eeac31cc53d45e42a6",
+    "wof:geomhash":"4af83873c9ef69cfd1cbde25ebc1b046",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692485,
-    "wof:lastmodified":1566609465,
+    "wof:lastmodified":1695886828,
     "wof:name":"General Resquin",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

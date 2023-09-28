@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031219,
-    "geom:area_square_m":349765254.646504,
+    "geom:area_square_m":349765254.646835,
     "geom:bbox":"-56.5644844768,-25.1417683676,-56.1419538719,-24.9444276385",
     "geom:latitude":-25.033191,
     "geom:longitude":-56.349587,
@@ -82,9 +82,10 @@
         "hasc:id":"PY.CG.SB",
         "wd:id":"Q3961343"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325641,
-    "wof:geomhash":"4bfd2eef164d17a67daaf3703746f9a9",
+    "wof:geomhash":"502575c30244b9560e198cdbc30001a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108692661,
-    "wof:lastmodified":1566609431,
+    "wof:lastmodified":1695886820,
     "wof:name":"Simon Bolivar",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

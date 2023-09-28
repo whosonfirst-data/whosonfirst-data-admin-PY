@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056463,
-    "geom:area_square_m":636849349.612145,
+    "geom:area_square_m":636849418.347964,
     "geom:bbox":"-54.706573,-24.401217,-54.412298,-23.962404",
     "geom:latitude":-24.193801,
     "geom:longitude":-54.561997,
@@ -127,9 +127,10 @@
         "hasc:id":"PY.CY.LP",
         "wd:id":"Q893080"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325520,
-    "wof:geomhash":"505cbcfb32be9fac2b84004eb344250c",
+    "wof:geomhash":"1840a88b6413eff423e4bd3b6a6686b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108692467,
-    "wof:lastmodified":1636503105,
+    "wof:lastmodified":1695886098,
     "wof:name":"La Paloma",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

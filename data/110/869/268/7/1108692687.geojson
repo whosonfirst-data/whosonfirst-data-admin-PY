@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009793,
-    "geom:area_square_m":107606625.000407,
+    "geom:area_square_m":107606625.00041,
     "geom:bbox":"-56.0465224397,-27.3488056183,-55.9015625858,-27.2130659679",
     "geom:latitude":-27.29834,
     "geom:longitude":-55.979977,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.IT.SJ",
         "wd:id":"Q1984960"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325660,
-    "wof:geomhash":"18efc2d7053770696ebfd4a0034855c4",
+    "wof:geomhash":"f9f5d51b508dc43518fe8c15f0fb7dda",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692687,
-    "wof:lastmodified":1566609423,
+    "wof:lastmodified":1695886819,
     "wof:name":"San Juan Del Parana",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

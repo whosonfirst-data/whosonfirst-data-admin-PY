@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021902,
-    "geom:area_square_m":243131081.517472,
+    "geom:area_square_m":243131009.262426,
     "geom:bbox":"-55.322911,-26.244793,-55.129551,-26.014542",
     "geom:latitude":-26.134947,
     "geom:longitude":-55.224891,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"PY.AA.NR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325591,
-    "wof:geomhash":"df25e2784055e72909c98cd67e5fe46d",
+    "wof:geomhash":"6b8640134b7bf6d2bc224a86163eaac2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108692583,
-    "wof:lastmodified":1627522521,
+    "wof:lastmodified":1695886166,
     "wof:name":"Dr. Raul Pena",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

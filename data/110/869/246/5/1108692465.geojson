@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052105,
-    "geom:area_square_m":587005440.621396,
+    "geom:area_square_m":587005440.621435,
     "geom:bbox":"-54.9619983976,-24.4663576556,-54.6627160278,-24.1513045763",
     "geom:latitude":-24.342898,
     "geom:longitude":-54.792416,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.CY.KA",
         "wd:id":"Q1986659"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325518,
-    "wof:geomhash":"f6da3187151112015065d201d8baf592",
+    "wof:geomhash":"8ceeda790458f67a7b7175b14e69f5b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692465,
-    "wof:lastmodified":1566609476,
+    "wof:lastmodified":1695886831,
     "wof:name":"Katuete",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

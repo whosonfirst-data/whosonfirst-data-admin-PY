@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034775,
-    "geom:area_square_m":384031246.06688,
+    "geom:area_square_m":384031246.066914,
     "geom:bbox":"-55.2491935048,-26.8789250552,-54.999268586,-26.5992038667",
     "geom:latitude":-26.734358,
     "geom:longitude":-55.139258,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.IT.NT",
         "wd:id":"Q1985044"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325527,
-    "wof:geomhash":"39af923a0baf99723bddbb336e3fad13",
+    "wof:geomhash":"3d209d8db708308bc834d3030b374e2e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692479,
-    "wof:lastmodified":1566609478,
+    "wof:lastmodified":1695886831,
     "wof:name":"Natalio",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

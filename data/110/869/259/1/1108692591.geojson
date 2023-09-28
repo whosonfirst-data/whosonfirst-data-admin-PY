@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016422,
-    "geom:area_square_m":183236934.94324,
+    "geom:area_square_m":183236947.246779,
     "geom:bbox":"-57.431337,-25.63998,-57.312051,-25.444545",
     "geom:latitude":-25.529735,
     "geom:longitude":-57.374392,
@@ -190,9 +190,10 @@
         "hasc:id":"PY.CE.IT",
         "wd:id":"Q1093448"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325596,
-    "wof:geomhash":"e2cbe27f21adab6873fc4f66d59d7549",
+    "wof:geomhash":"f1b5eab941003a9340d82b8716413bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":1108692591,
-    "wof:lastmodified":1690856996,
+    "wof:lastmodified":1695886821,
     "wof:name":"Ita",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

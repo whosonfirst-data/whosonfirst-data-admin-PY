@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029682,
-    "geom:area_square_m":326805359.04387,
+    "geom:area_square_m":326805359.043795,
     "geom:bbox":"-56.1296278939,-27.1911567081,-55.8850800897,-26.9733404586",
     "geom:latitude":-27.074132,
     "geom:longitude":-56.011832,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.IT.FR",
         "wd:id":"Q1440631"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325567,
-    "wof:geomhash":"5f5458128334ba49947c2c2ea4a05da0",
+    "wof:geomhash":"ee27127bd23ff630800ca06b9b7f2c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692543,
-    "wof:lastmodified":1566609500,
+    "wof:lastmodified":1695886837,
     "wof:name":"Fram",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

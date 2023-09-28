@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027727,
-    "geom:area_square_m":304768578.860486,
+    "geom:area_square_m":304768390.961325,
     "geom:bbox":"-56.020418,-27.426313,-55.789282,-27.134262",
     "geom:latitude":-27.262248,
     "geom:longitude":-55.895232,
@@ -250,9 +250,10 @@
         "hasc:id":"PY.IT.EN",
         "wd:id":"Q47138"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325771,
-    "wof:geomhash":"b63a0075662110726e411c1d89803878",
+    "wof:geomhash":"a1f6c4c9a69b6680fbb206922942ba6a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -262,7 +263,7 @@
         }
     ],
     "wof:id":1108692861,
-    "wof:lastmodified":1690856989,
+    "wof:lastmodified":1695886816,
     "wof:name":"Encarnacion",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

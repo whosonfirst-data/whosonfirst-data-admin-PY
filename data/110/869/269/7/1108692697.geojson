@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033693,
-    "geom:area_square_m":372073979.312927,
+    "geom:area_square_m":372073830.473449,
     "geom:bbox":"-57.001517,-26.848557,-56.763355,-26.60365",
     "geom:latitude":-26.739268,
     "geom:longitude":-56.88897,
@@ -109,9 +109,10 @@
         "hasc:id":"PY.MI.SM",
         "wd:id":"Q1749350"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325666,
-    "wof:geomhash":"6d930a6ab6e0b10d1788653810ede7fb",
+    "wof:geomhash":"abc32c6dcd71caf87d75dbc01faf15f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108692697,
-    "wof:lastmodified":1690857002,
+    "wof:lastmodified":1695886495,
     "wof:name":"Santa Maria",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

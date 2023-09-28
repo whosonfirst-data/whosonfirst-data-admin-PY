@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198056,
-    "geom:area_square_m":2262031987.359194,
+    "geom:area_square_m":2262032451.468139,
     "geom:bbox":"-57.277484,-22.786026,-56.609426,-22.237921",
     "geom:latitude":-22.532576,
     "geom:longitude":-56.94168,
@@ -48,10 +48,13 @@
         85676665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"0109"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"PY",
     "wof:created":1474325708,
-    "wof:geomhash":"9e9f7bef142dbe37c3404f1317fb38c6",
+    "wof:geomhash":"6a4033a0176f6e38540271734c06e0d4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108692759,
-    "wof:lastmodified":1627522522,
+    "wof:lastmodified":1695886169,
     "wof:name":"Sgto. Jose Felix Lopez",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

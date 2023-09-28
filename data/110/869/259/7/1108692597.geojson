@@ -175,9 +175,10 @@
         "hasc:id":"PY.CE.NI",
         "wd:id":"Q2453244"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325602,
-    "wof:geomhash":"68203cae8c0f54051ca9b2e12fe8c9e7",
+    "wof:geomhash":"0ef10baae9cae3972dcebf6512321aca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":1108692597,
-    "wof:lastmodified":1566609434,
+    "wof:lastmodified":1695886821,
     "wof:name":"Nueva Italia",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088416,
-    "geom:area_square_m":992884950.336738,
+    "geom:area_square_m":992885251.482409,
     "geom:bbox":"-56.176524,-24.938538,-55.701991,-24.530899",
     "geom:latitude":-24.745879,
     "geom:longitude":-55.991597,
@@ -94,9 +94,10 @@
         "hasc:id":"PY.SP.CA",
         "wd:id":"Q1989270"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325533,
-    "wof:geomhash":"aa9ecd38c4a25715140e002c9629aef1",
+    "wof:geomhash":"b8eb86a26649a1fc768ddc42eb46a668",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108692491,
-    "wof:lastmodified":1690857010,
+    "wof:lastmodified":1695886832,
     "wof:name":"Capiibary",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

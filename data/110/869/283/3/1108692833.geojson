@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041592,
-    "geom:area_square_m":465125083.71929,
+    "geom:area_square_m":465125066.59582,
     "geom:bbox":"-55.564704,-25.362907,-55.219968,-25.134097",
     "geom:latitude":-25.258781,
     "geom:longitude":-55.390494,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CG.RO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325755,
-    "wof:geomhash":"bd41d0f01821573079c551bc304d4f2d",
+    "wof:geomhash":"df3ba6d3e6ba7e0780db536969a48d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108692833,
-    "wof:lastmodified":1627522523,
+    "wof:lastmodified":1695886171,
     "wof:name":"Tembiapora",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

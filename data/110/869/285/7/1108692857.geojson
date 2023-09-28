@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085331,
-    "geom:area_square_m":943936116.381658,
+    "geom:area_square_m":943936116.381649,
     "geom:bbox":"-56.8491135732,-26.6815930863,-56.3251248443,-26.3652109777",
     "geom:latitude":-26.542052,
     "geom:longitude":-56.562008,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.CZ.FY",
         "wd:id":"Q1983624"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325768,
-    "wof:geomhash":"f782a7c23a6f7303a50e433b854d6e5b",
+    "wof:geomhash":"8e1f87f9a8c406427a8881cd4dfcafff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692857,
-    "wof:lastmodified":1566609492,
+    "wof:lastmodified":1695886834,
     "wof:name":"Fulgencio Yegros",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

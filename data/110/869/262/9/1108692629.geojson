@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027424,
-    "geom:area_square_m":307494254.267707,
+    "geom:area_square_m":307494254.267874,
     "geom:bbox":"-56.4277453074,-25.0173582473,-56.0930040799,-24.7661725677",
     "geom:latitude":-24.932607,
     "geom:longitude":-56.253577,
@@ -82,9 +82,10 @@
         "hasc:id":"PY.CG.SM",
         "wd:id":"Q1751124"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325622,
-    "wof:geomhash":"f5342c39c7165fd12a0d9d6e4c73d929",
+    "wof:geomhash":"d8c59c8111738205c3bc27d50fd76cd6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108692629,
-    "wof:lastmodified":1566609502,
+    "wof:lastmodified":1695886837,
     "wof:name":"Santa Rosa Del Mbutuy",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

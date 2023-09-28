@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120872,
-    "geom:area_square_m":1336293850.394632,
+    "geom:area_square_m":1336293850.394428,
     "geom:bbox":"-58.171297117,-26.8634133808,-57.5832568507,-26.3812235221",
     "geom:latitude":-26.610163,
     "geom:longitude":-57.857719,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.NE.SN",
         "wd:id":"Q2410909"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325723,
-    "wof:geomhash":"ef69db9daa941f30dc24a4333f22531e",
+    "wof:geomhash":"361a3be44a3a9375045ef21abb505ede",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692785,
-    "wof:lastmodified":1566609478,
+    "wof:lastmodified":1695886832,
     "wof:name":"San Juan Bautista De \u00d1eembucu",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

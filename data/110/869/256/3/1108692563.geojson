@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05395,
-    "geom:area_square_m":600733224.532525,
+    "geom:area_square_m":600733378.708338,
     "geom:bbox":"-55.287963,-25.917429,-54.97759,-25.653364",
     "geom:latitude":-25.774664,
     "geom:longitude":-55.136008,
@@ -142,9 +142,10 @@
         "hasc:id":"PY.AA.SR",
         "wd:id":"Q375265"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325580,
-    "wof:geomhash":"dfbd3b8f926889d7784892b41061af3a",
+    "wof:geomhash":"f562cd52cb2d221340bc7a4f36680451",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1108692563,
-    "wof:lastmodified":1642551803,
+    "wof:lastmodified":1695886526,
     "wof:name":"Santa Rita",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

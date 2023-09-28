@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009827,
-    "geom:area_square_m":109981262.546513,
+    "geom:area_square_m":109981206.075962,
     "geom:bbox":"-57.54323,-25.220958,-57.396415,-25.096463",
     "geom:latitude":-25.157466,
     "geom:longitude":-57.475046,
@@ -236,12 +236,13 @@
         "qs_pg:id":772935,
         "wd:id":"Q47058"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008833,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a755b54515edbde9fa0bab380823a9ff",
+    "wof:geomhash":"8edebad8aaa8fa1a7eff8ca60a9b17ff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -251,7 +252,7 @@
         }
     ],
     "wof:id":421170013,
-    "wof:lastmodified":1690857054,
+    "wof:lastmodified":1695886018,
     "wof:name":"Limpio",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

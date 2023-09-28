@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012531,
-    "geom:area_square_m":139905643.917095,
+    "geom:area_square_m":139905643.917116,
     "geom:bbox":"-56.9471432117,-25.5083765054,-56.7739736392,-25.3607964849",
     "geom:latitude":-25.452271,
     "geom:longitude":-56.864017,
@@ -82,9 +82,10 @@
         "hasc:id":"PY.CR.IC",
         "wd:id":"Q2410979"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325547,
-    "wof:geomhash":"88c3a7e5b9b9b54a41553c350cc438f7",
+    "wof:geomhash":"62719ed6a7cce9075f84d322942977f0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108692511,
-    "wof:lastmodified":1566609449,
+    "wof:lastmodified":1695886824,
     "wof:name":"Itacurubi De La Cordillera",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004861,
-    "geom:area_square_m":54320407.015687,
+    "geom:area_square_m":54320404.053769,
     "geom:bbox":"-57.570281,-25.402704,-57.463867,-25.295786",
     "geom:latitude":-25.350719,
     "geom:longitude":-57.510937,
@@ -247,9 +247,10 @@
         "hasc:id":"PY.CE.SL",
         "wd:id":"Q938739"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325621,
-    "wof:geomhash":"f8232f1a4e7d2c581aa0e952f796fa2f",
+    "wof:geomhash":"3769092abe079785f82cd478330d5b79",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -259,7 +260,7 @@
         }
     ],
     "wof:id":1108692627,
-    "wof:lastmodified":1690857016,
+    "wof:lastmodified":1695886527,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

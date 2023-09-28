@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.224771,
-    "geom:area_square_m":2490828608.335052,
+    "geom:area_square_m":2490828044.405487,
     "geom:bbox":"-57.749377,-26.619597,-57.075562,-26.072443",
     "geom:latitude":-26.337452,
     "geom:longitude":-57.384496,
@@ -97,9 +97,10 @@
         "hasc:id":"PY.PG.CP",
         "wd:id":"Q2410335"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325673,
-    "wof:geomhash":"2638d4604775816a57aaa54fb0c42c69",
+    "wof:geomhash":"ebfedcc101eb23f9bcc03534dd3113eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692707,
-    "wof:lastmodified":1690857003,
+    "wof:lastmodified":1695886826,
     "wof:name":"Caapucu",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

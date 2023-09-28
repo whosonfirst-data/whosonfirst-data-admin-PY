@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062596,
-    "geom:area_square_m":688505264.87314,
+    "geom:area_square_m":688505338.789184,
     "geom:bbox":"-56.482484,-27.411052,-56.098127,-27.039449",
     "geom:latitude":-27.186294,
     "geom:longitude":-56.279495,
@@ -139,9 +139,10 @@
         "hasc:id":"PY.IT.CB",
         "wd:id":"Q2443596"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325524,
-    "wof:geomhash":"02a4aad847d5c1cbb7e5d9a179da22fa",
+    "wof:geomhash":"893b60865e8fcfe725ae0710a8a96a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108692473,
-    "wof:lastmodified":1690857010,
+    "wof:lastmodified":1695886099,
     "wof:name":"Coronel Bogado",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

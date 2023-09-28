@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03625,
-    "geom:area_square_m":403947923.45541,
+    "geom:area_square_m":403947923.455624,
     "geom:bbox":"-54.8660840605,-25.7901376032,-54.6250820438,-25.5741921836",
     "geom:latitude":-25.686016,
     "geom:longitude":-54.751324,
@@ -112,12 +112,13 @@
         "qs_pg:id":772926,
         "wd:id":"Q2445810"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009348,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"90b32a34fe134c458f374d31612e6c88",
+    "wof:geomhash":"8dbef3fd0743c1f1eec5d6a8b1040caf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":421182833,
-    "wof:lastmodified":1582360312,
+    "wof:lastmodified":1695886022,
     "wof:name":"Los Cedrales",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

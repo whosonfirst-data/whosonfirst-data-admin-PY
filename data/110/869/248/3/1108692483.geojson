@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052898,
-    "geom:area_square_m":584958067.648534,
+    "geom:area_square_m":584957690.917104,
     "geom:bbox":"-57.119917,-26.711699,-56.802169,-26.419516",
     "geom:latitude":-26.580906,
     "geom:longitude":-56.967654,
@@ -118,9 +118,10 @@
         "hasc:id":"PY.MI.SG",
         "wd:id":"Q3947702"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325529,
-    "wof:geomhash":"38256ca7e6b123b5971083754a25fbf9",
+    "wof:geomhash":"752089697431b4703f76b8f319e60aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108692483,
-    "wof:lastmodified":1636503104,
+    "wof:lastmodified":1695886097,
     "wof:name":"San Miguel",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

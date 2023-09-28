@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057003,
-    "geom:area_square_m":633750489.482062,
+    "geom:area_square_m":633750489.482257,
     "geom:bbox":"-55.4098538589,-26.0959029507,-54.9884785017,-25.780720347",
     "geom:latitude":-25.956623,
     "geom:longitude":-55.203496,
@@ -97,9 +97,10 @@
         "hasc:id":"PY.AA.NR",
         "wd:id":"Q596950"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325582,
-    "wof:geomhash":"42edf4914142d379ee858c4ba551303e",
+    "wof:geomhash":"a6392f79e4299fe34a686760f51a6b6f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692565,
-    "wof:lastmodified":1566609453,
+    "wof:lastmodified":1695886825,
     "wof:name":"Naranjal",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002401,
-    "geom:area_square_m":26825122.429433,
+    "geom:area_square_m":26825181.926732,
     "geom:bbox":"-57.64208,-25.389412,-57.586135,-25.312522",
     "geom:latitude":-25.353615,
     "geom:longitude":-57.61576,
@@ -245,12 +245,13 @@
         "qs_pg:id":1137367,
         "wd:id":"Q47052"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009694,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3f795428532135a3b876fb51670d167c",
+    "wof:geomhash":"05e2ede0703b3faf317e83ee850352db",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -260,7 +261,7 @@
         }
     ],
     "wof:id":421191491,
-    "wof:lastmodified":1690857048,
+    "wof:lastmodified":1695886016,
     "wof:name":"Lambare",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

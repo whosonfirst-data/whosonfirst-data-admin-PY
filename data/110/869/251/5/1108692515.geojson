@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086862,
-    "geom:area_square_m":973467550.366943,
+    "geom:area_square_m":973467550.367166,
     "geom:bbox":"-57.0534177375,-25.1671113455,-56.5616795726,-24.8432789524",
     "geom:latitude":-24.994954,
     "geom:longitude":-56.772914,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.CR.JM",
         "wd:id":"Q2410295"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325549,
-    "wof:geomhash":"d5902be8b04d5318907c3c7641e26034",
+    "wof:geomhash":"11034e8cfcbb5592fec51116db8dee8b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692515,
-    "wof:lastmodified":1566609450,
+    "wof:lastmodified":1695886825,
     "wof:name":"Juan De Mena",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

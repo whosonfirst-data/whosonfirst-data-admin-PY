@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018719,
-    "geom:area_square_m":205572969.088391,
+    "geom:area_square_m":205572927.417527,
     "geom:bbox":"-55.854545,-27.44468,-55.662177,-27.2487",
     "geom:latitude":-27.356426,
     "geom:longitude":-55.763491,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.IT.CA",
         "wd:id":"Q3651213"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325773,
-    "wof:geomhash":"aea164e717b959aca0803bed62e4610b",
+    "wof:geomhash":"5e6666df548820e584e224073a33e29c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692865,
-    "wof:lastmodified":1690856989,
+    "wof:lastmodified":1695886816,
     "wof:name":"Cambyreta",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

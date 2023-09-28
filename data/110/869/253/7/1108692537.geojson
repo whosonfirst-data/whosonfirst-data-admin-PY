@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009343,
-    "geom:area_square_m":104093791.670074,
+    "geom:area_square_m":104093791.670039,
     "geom:bbox":"-56.5844481522,-25.7777625656,-56.474521741,-25.6390485793",
     "geom:latitude":-25.712148,
     "geom:longitude":-56.53142,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.GU.FC",
         "wd:id":"Q3755437"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325563,
-    "wof:geomhash":"eef11e70597ced1ef22662207b14f3d5",
+    "wof:geomhash":"79a9f090ada626faea297e10b645bede",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692537,
-    "wof:lastmodified":1566609498,
+    "wof:lastmodified":1695886836,
     "wof:name":"Felix Perez Cardozo",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00892,
-    "geom:area_square_m":99212959.57525,
+    "geom:area_square_m":99213157.774833,
     "geom:bbox":"-56.901329,-25.948277,-56.733133,-25.856199",
     "geom:latitude":-25.902249,
     "geom:longitude":-56.823124,
@@ -103,9 +103,10 @@
         "hasc:id":"PY.PG.LC",
         "wd:id":"Q376227"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325678,
-    "wof:geomhash":"fdd762dc09b73a887535ff26f56016a6",
+    "wof:geomhash":"0effdcbe365abce3a6ddcd6573921927",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108692715,
-    "wof:lastmodified":1690857014,
+    "wof:lastmodified":1695886836,
     "wof:name":"La Colmena",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

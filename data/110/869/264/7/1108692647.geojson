@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028698,
-    "geom:area_square_m":320680269.551094,
+    "geom:area_square_m":320680252.363175,
     "geom:bbox":"-56.386505,-25.425176,-56.087257,-25.26663",
     "geom:latitude":-25.353605,
     "geom:longitude":-56.219781,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CG.TC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325634,
-    "wof:geomhash":"d4591ef9025dd159687922bd7813f2df",
+    "wof:geomhash":"2d0b852f4b8c846d29e643d66fe4e8d3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108692647,
-    "wof:lastmodified":1642551754,
+    "wof:lastmodified":1695886510,
     "wof:name":"R.i. 3 Corrales",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

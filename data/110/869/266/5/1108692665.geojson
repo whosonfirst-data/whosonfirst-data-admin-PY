@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016856,
-    "geom:area_square_m":185672606.884718,
+    "geom:area_square_m":185672345.044859,
     "geom:bbox":"-55.888504,-27.167663,-55.561883,-26.860381",
     "geom:latitude":-27.021066,
     "geom:longitude":-55.7154,
@@ -142,9 +142,10 @@
         "hasc:id":"PY.IT.HO",
         "wd:id":"Q1984240"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325644,
-    "wof:geomhash":"7ee69f4628f4a988c80a0928a4b648c1",
+    "wof:geomhash":"c0ef728c9620d769b9addbd1964d6a0f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1108692665,
-    "wof:lastmodified":1690856996,
+    "wof:lastmodified":1695886095,
     "wof:name":"Hohenau",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

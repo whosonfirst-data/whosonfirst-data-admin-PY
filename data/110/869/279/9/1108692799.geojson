@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002881,
-    "geom:area_square_m":32166935.154479,
+    "geom:area_square_m":32166996.457692,
     "geom:bbox":"-57.471779,-25.460238,-57.398687,-25.396183",
     "geom:latitude":-25.432685,
     "geom:longitude":-57.433888,
@@ -178,9 +178,10 @@
         "hasc:id":"PY.CE.JS",
         "wd:id":"Q2717412"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325732,
-    "wof:geomhash":"872229a719cce3073191c85a8dce82a9",
+    "wof:geomhash":"47f3a5a5444e4827ce6142b0b47ddd38",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -190,7 +191,7 @@
         }
     ],
     "wof:id":1108692799,
-    "wof:lastmodified":1690857007,
+    "wof:lastmodified":1695886831,
     "wof:name":"J Augusto Saldivar",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

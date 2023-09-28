@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037977,
-    "geom:area_square_m":421272535.788502,
+    "geom:area_square_m":421272535.78846,
     "geom:bbox":"-56.6996200361,-26.3195466283,-56.3677543817,-26.1165939463",
     "geom:latitude":-26.220557,
     "geom:longitude":-56.513324,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.CZ.MA",
         "wd:id":"Q1748956"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325764,
-    "wof:geomhash":"7abd528c1c9e80373cbb6f502e9479a0",
+    "wof:geomhash":"f45da14f7c04f5407fe5dd78ffc91aef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692849,
-    "wof:lastmodified":1566609458,
+    "wof:lastmodified":1695886826,
     "wof:name":"Maciel",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

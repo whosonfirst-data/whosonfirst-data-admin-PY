@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013114,
-    "geom:area_square_m":146647733.687984,
+    "geom:area_square_m":146647733.687955,
     "geom:bbox":"-57.2252655207,-25.3606686375,-57.0977417961,-25.1295892043",
     "geom:latitude":-25.259931,
     "geom:longitude":-57.15459,
@@ -116,12 +116,13 @@
         "qs_pg:id":1264283,
         "wd:id":"Q2410308"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008907,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"568750fd044f10a47c19e44f5187f631",
+    "wof:geomhash":"47c451c0884a878fdf35d96d038edfa2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421171783,
-    "wof:lastmodified":1582360313,
+    "wof:lastmodified":1695886024,
     "wof:name":"Atyra",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144166,
-    "geom:area_square_m":1583297481.963804,
+    "geom:area_square_m":1583297481.96392,
     "geom:bbox":"-56.8848368486,-27.5918335646,-56.2663839622,-27.1456534203",
     "geom:latitude":-27.354937,
     "geom:longitude":-56.504194,
@@ -113,12 +113,13 @@
         "qs_pg:id":1264294,
         "wd:id":"Q1476962"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008893,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"97c06517a05e0da8e5889f7851a1931a",
+    "wof:geomhash":"64e9a4e3c70c57ddba5f7ff78fb80eae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421171423,
-    "wof:lastmodified":1582360312,
+    "wof:lastmodified":1695886021,
     "wof:name":"San Cosme Y Damian",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

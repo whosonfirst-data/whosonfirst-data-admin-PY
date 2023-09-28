@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081587,
-    "geom:area_square_m":912920669.545133,
+    "geom:area_square_m":912921145.562491,
     "geom:bbox":"-56.564242,-25.349054,-56.058441,-25.010675",
     "geom:latitude":-25.187479,
     "geom:longitude":-56.329036,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.CG.CR",
         "wd:id":"Q1751129"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325618,
-    "wof:geomhash":"33d1c0ba176a25acbbbdd41d6c897f71",
+    "wof:geomhash":"4ad2dd56074ecc93d2933b40cc534d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692623,
-    "wof:lastmodified":1690857017,
+    "wof:lastmodified":1695886838,
     "wof:name":"Carayao",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

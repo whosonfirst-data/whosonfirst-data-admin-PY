@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.181314,
-    "geom:area_square_m":13442357598.262493,
+    "geom:area_square_m":13442357946.906149,
     "geom:bbox":"-60.407038,-23.823629,-58.852064,-22.076224",
     "geom:latitude":-23.032365,
     "geom:longitude":-59.614204,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"PY.PH.PC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325745,
-    "wof:geomhash":"e6c2f5f710c3a617b95be65036cfa3d2",
+    "wof:geomhash":"356fc91f6f28bb01e7dbc95fa4b56892",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108692815,
-    "wof:lastmodified":1642551746,
+    "wof:lastmodified":1695886507,
     "wof:name":"Tte 1ro Manuel Irala Fernandez",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062975,
-    "geom:area_square_m":697592728.611205,
+    "geom:area_square_m":697592728.611171,
     "geom:bbox":"-56.8050345701,-26.4927342249,-56.3756785617,-26.2642164528",
     "geom:latitude":-26.381816,
     "geom:longitude":-56.594576,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.CZ.DB",
         "wd:id":"Q582045"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325761,
-    "wof:geomhash":"f2ff4c8daf386bb177ea36bd3ecbfd8a",
+    "wof:geomhash":"1926f896a98004fd8f9b382cfdc6b457",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692845,
-    "wof:lastmodified":1566609462,
+    "wof:lastmodified":1695886828,
     "wof:name":"Moises Bertoni",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

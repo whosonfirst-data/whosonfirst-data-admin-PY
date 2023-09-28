@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006794,
-    "geom:area_square_m":75630858.673223,
+    "geom:area_square_m":75630808.554657,
     "geom:bbox":"-56.689541,-25.887914,-56.617596,-25.700086",
     "geom:latitude":-25.798569,
     "geom:longitude":-56.654138,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"PY.GU.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325614,
-    "wof:geomhash":"b9d7fbf7c16bc15b18290a19dac2de92",
+    "wof:geomhash":"591618712b36365da02c930416106c80",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108692619,
-    "wof:lastmodified":1627522523,
+    "wof:lastmodified":1695886170,
     "wof:name":"Tebicuary",
     "wof:parent_id":85676685,
     "wof:placetype":"county",
