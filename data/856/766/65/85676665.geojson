@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.631337,
-    "geom:area_square_m":18589779981.537918,
+    "geom:area_square_m":18589779502.212677,
     "geom:bbox":"-57.993784,-23.509491,-56.125778,-22.079088",
     "geom:latitude":-22.84042,
     "geom:longitude":-57.10986,
@@ -264,6 +264,7 @@
         "gn:id":3438833,
         "gp:id":2346454,
         "hasc:id":"PY.CN",
+        "iso:code":"PY-1",
         "iso:id":"PY-1",
         "loc:id":"no2003101128",
         "qs_pg:id":1083856,
@@ -271,11 +272,12 @@
         "wd:id":"Q741009",
         "wk:page":"Concepci\u00f3n Department, Paraguay"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c3dc4bf561d3ad4d092ff28b4d45757e",
+    "wof:geomhash":"749f492874e0a9b984297f23af4e2872",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -292,7 +294,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856979,
+    "wof:lastmodified":1695884372,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.852798,
-    "geom:area_square_m":20899992348.68058,
+    "geom:area_square_m":20899992813.740276,
     "geom:bbox":"-57.473517,-25.019252,-55.701991,-23.300696",
     "geom:latitude":-24.177005,
     "geom:longitude":-56.630933,
@@ -317,17 +317,19 @@
         "gn:id":3437027,
         "gp:id":2346462,
         "hasc:id":"PY.SP",
+        "iso:code":"PY-2",
         "iso:id":"PY-2",
         "qs_pg:id":894948,
         "unlc:id":"PY-2",
         "wd:id":"Q526176",
         "wk:page":"San Pedro Department, Paraguay"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a5709d556765ee492f827f31486ad256",
+    "wof:geomhash":"09c4aea8d07baca6020e9b8ec96e220e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -344,7 +346,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856977,
+    "wof:lastmodified":1695884949,
     "wof:name":"San Pedro",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

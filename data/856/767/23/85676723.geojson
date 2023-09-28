@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.440705,
-    "geom:area_square_m":15895067810.396797,
+    "geom:area_square_m":15895068706.934893,
     "geom:bbox":"-56.884837,-27.591834,-54.648161,-26.092162",
     "geom:latitude":-26.840824,
     "geom:longitude":-55.759976,
@@ -314,17 +314,19 @@
         "gn:id":3437923,
         "gp:id":2346457,
         "hasc:id":"PY.IT",
+        "iso:code":"PY-7",
         "iso:id":"PY-7",
         "qs_pg:id":453723,
         "unlc:id":"PY-7",
         "wd:id":"Q222564",
         "wk:page":"Itap\u00faa Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4920005b8fb91c1ea065a3c775c44b5c",
+    "wof:geomhash":"9e2cf0502c5c4d52cc32b18a873a0213",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -341,7 +343,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856973,
+    "wof:lastmodified":1695884369,
     "wof:name":"Itap\u00faa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

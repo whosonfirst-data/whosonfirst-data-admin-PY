@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.862723,
-    "geom:area_square_m":9568172533.921345,
+    "geom:area_square_m":9568172103.24086,
     "geom:bbox":"-56.849114,-26.794376,-55.248192,-25.523566",
     "geom:latitude":-26.241934,
     "geom:longitude":-56.056601,
@@ -311,17 +311,19 @@
         "gn:id":3439296,
         "gp:id":2346452,
         "hasc:id":"PY.CZ",
+        "iso:code":"PY-6",
         "iso:id":"PY-6",
         "qs_pg:id":894953,
         "unlc:id":"PY-6",
         "wd:id":"Q881839",
         "wk:page":"Caazap\u00e1 Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"495aa847e8517fe6b04cf3a1c2470c41",
+    "wof:geomhash":"3b37caf6a5e96d6fee20427bdfdaed8d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -338,7 +340,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856974,
+    "wof:lastmodified":1695884370,
     "wof:name":"Caazap\u00e1",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

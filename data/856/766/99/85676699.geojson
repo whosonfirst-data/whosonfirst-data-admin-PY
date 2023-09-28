@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.775962,
-    "geom:area_square_m":8619504286.052525,
+    "geom:area_square_m":8619504493.165745,
     "geom:bbox":"-57.749377,-26.619597,-56.607556,-25.401783",
     "geom:latitude":-26.057883,
     "geom:longitude":-57.137185,
@@ -266,17 +266,19 @@
         "gn:id":3437599,
         "gp:id":2346460,
         "hasc:id":"PY.PG",
+        "iso:code":"PY-9",
         "iso:id":"PY-9",
         "qs_pg:id":1097047,
         "unlc:id":"PY-9",
         "wd:id":"Q240014",
         "wk:page":"Paraguar\u00ed Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68209bd5afda0f95efbeef6a0b96d5bd",
+    "wof:geomhash":"be4c14fc83983f20310edab220f26a70",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -293,7 +295,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856979,
+    "wof:lastmodified":1695884373,
     "wof:name":"Paraguar\u00ed",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

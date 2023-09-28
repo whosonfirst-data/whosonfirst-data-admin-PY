@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011511,
-    "geom:area_square_m":128689553.438333,
+    "geom:area_square_m":128689553.438066,
     "geom:bbox":"-57.673858,-25.380387,-57.52724,-25.223937",
     "geom:latitude":-25.291214,
     "geom:longitude":-57.604942,
@@ -614,11 +614,13 @@
         "gn:id":3474570,
         "gp:id":20070148,
         "hasc:id":"PY.AS",
+        "iso:code":"PY-ASU",
         "iso:id":"PY-ASU",
         "qs_pg:id":219910,
         "unlc:id":"PY-ASU",
         "wd:id":"Q2933"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421166713,
         1125905513
@@ -627,7 +629,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d25ad31332d7287aee54c72a2c0303f9",
+    "wof:geomhash":"1395a7ef89e8ff61efce826c022b7e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -644,7 +646,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856976,
+    "wof:lastmodified":1695884655,
     "wof:name":"Asunci\u00f3n",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

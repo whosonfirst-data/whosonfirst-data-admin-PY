@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.059534,
-    "geom:area_square_m":11696509623.801065,
+    "geom:area_square_m":11696511408.936218,
     "geom:bbox":"-58.664912,-27.444173,-57.182094,-25.767176",
     "geom:latitude":-26.773408,
     "geom:longitude":-57.8975,
@@ -317,17 +317,19 @@
         "gn:id":3437677,
         "gp:id":2346459,
         "hasc:id":"PY.NE",
+        "iso:code":"PY-12",
         "iso:id":"PY-12",
         "qs_pg:id":1168709,
         "unlc:id":"PY-12",
         "wd:id":"Q755115",
         "wk:page":"\u00d1eembuc\u00fa Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"90a78d5a1b0d6a01d7a577d93c34d011",
+    "wof:geomhash":"54316ec74b9a627ccbe8f2b73f9469ed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -344,7 +346,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856978,
+    "wof:lastmodified":1695884372,
     "wof:name":"\u00d1eembuc\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

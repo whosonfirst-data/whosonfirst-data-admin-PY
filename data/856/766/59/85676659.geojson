@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.716395,
-    "geom:area_square_m":88527758487.836914,
+    "geom:area_square_m":88527760169.562439,
     "geom:bbox":"-62.644617,-23.885785,-59.336595,-20.0892",
     "geom:latitude":-21.886237,
     "geom:longitude":-61.075515,
@@ -320,17 +320,19 @@
         "gn:id":3867442,
         "gp:id":2346450,
         "hasc:id":"PY.BQ",
+        "iso:code":"PY-19",
         "iso:id":"PY-19",
         "qs_pg:id":894943,
         "unlc:id":"PY-19",
         "wd:id":"Q741017",
         "wk:page":"Boquer\u00f3n department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"560f75b5ebd0276a227db66c8c6ce736",
+    "wof:geomhash":"3fa01ad95df207bfda462c5a772c1111",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -347,7 +349,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856975,
+    "wof:lastmodified":1695884372,
     "wof:name":"Boquer\u00f3n",
     "wof:parent_id":85632355,
     "wof:placetype":"region",
