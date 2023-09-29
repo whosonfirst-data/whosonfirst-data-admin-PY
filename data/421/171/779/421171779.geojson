@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.978678,
-    "geom:area_square_m":11020816757.980011,
+    "geom:area_square_m":11020819054.616014,
     "geom:bbox":"-58.717981,-25.102492,-57.416807,-23.802017",
     "geom:latitude":-24.396162,
     "geom:longitude":-58.045254,
@@ -203,12 +203,13 @@
         "qs_pg:id":1264279,
         "wd:id":"Q2475363"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008906,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b3ae17e9321ac894eff291e08f22a258",
+    "wof:geomhash":"b21dbaee01a20bf66e20da094009555b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -218,7 +219,7 @@
         }
     ],
     "wof:id":421171779,
-    "wof:lastmodified":1690857063,
+    "wof:lastmodified":1695886022,
     "wof:name":"Benjamin Aceval",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

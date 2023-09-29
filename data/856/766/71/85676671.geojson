@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.517372,
-    "geom:area_square_m":73831481730.673004,
+    "geom:area_square_m":73831481720.756088,
     "geom:bbox":"-60.785391,-25.354271,-57.149308,-22.076224",
     "geom:latitude":-23.619163,
     "geom:longitude":-58.682325,
@@ -316,17 +316,19 @@
         "gn:id":3437443,
         "gp:id":2346461,
         "hasc:id":"PY.PH",
+        "iso:code":"PY-15",
         "iso:id":"PY-15",
         "qs_pg:id":890096,
         "unlc:id":"PY-15",
         "wd:id":"Q750551",
         "wk:page":"Presidente Hayes Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d00a5d43c0841ba3da8fa7e615ffb3b3",
+    "wof:geomhash":"9150523f052c3b8c4f32c84e1f88c218",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -343,7 +345,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856981,
+    "wof:lastmodified":1695884950,
     "wof:name":"Presidente Hayes",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022425,
-    "geom:area_square_m":249732189.816397,
+    "geom:area_square_m":249732191.424073,
     "geom:bbox":"-56.997716,-25.888774,-56.758256,-25.623774",
     "geom:latitude":-25.760048,
     "geom:longitude":-56.886128,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.PG.GC",
         "wd:id":"Q1750497"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325675,
-    "wof:geomhash":"7fae22228ef22dd381014d49e35fbc60",
+    "wof:geomhash":"74640e0dceca7d916c110f5c1c7dcd5b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692709,
-    "wof:lastmodified":1690857003,
+    "wof:lastmodified":1695886826,
     "wof:name":"General Bernardino Caballero",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

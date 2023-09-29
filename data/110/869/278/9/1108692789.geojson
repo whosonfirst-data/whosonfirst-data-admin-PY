@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139233,
-    "geom:area_square_m":1542801252.926559,
+    "geom:area_square_m":1542800750.698323,
     "geom:bbox":"-58.231059,-26.604783,-57.619689,-26.144625",
     "geom:latitude":-26.347354,
     "geom:longitude":-57.960241,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"PY.NE.VF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325726,
-    "wof:geomhash":"7c553349bedd4cceb770aff920842ebc",
+    "wof:geomhash":"6722fec1893524667848e861ef2d367e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108692789,
-    "wof:lastmodified":1642551760,
+    "wof:lastmodified":1695886512,
     "wof:name":"Villa Franca",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

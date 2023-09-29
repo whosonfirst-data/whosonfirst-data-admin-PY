@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041653,
-    "geom:area_square_m":463861547.929224,
+    "geom:area_square_m":463861547.929661,
     "geom:bbox":"-57.4682092862,-25.8799443207,-57.1370830284,-25.6280469689",
     "geom:latitude":-25.759075,
     "geom:longitude":-57.328851,
@@ -122,12 +122,13 @@
         "qs_pg:id":772941,
         "wd:id":"Q1035409"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008833,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea0c8f2c5c6d3fea62b8a0860476f112",
+    "wof:geomhash":"7f5409535a6896a899b5ad8cadbe321a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421170015,
-    "wof:lastmodified":1582360308,
+    "wof:lastmodified":1695886019,
     "wof:name":"Carapegua",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

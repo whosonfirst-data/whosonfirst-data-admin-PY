@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052643,
-    "geom:area_square_m":583793777.973173,
+    "geom:area_square_m":583793777.973826,
     "geom:bbox":"-57.1472617207,-26.4179859075,-56.8568208342,-26.1128559691",
     "geom:latitude":-26.252735,
     "geom:longitude":-57.010441,
@@ -100,9 +100,10 @@
         "hasc:id":"PY.PG.QQ",
         "wd:id":"Q2639204"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325683,
-    "wof:geomhash":"d44b881515ae2fd7782c50a58b5b40b4",
+    "wof:geomhash":"e9e39f30f7439860bab7957e4fbcf6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108692723,
-    "wof:lastmodified":1566609411,
+    "wof:lastmodified":1695886816,
     "wof:name":"Quyquyho",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028986,
-    "geom:area_square_m":322445174.248246,
+    "geom:area_square_m":322445354.166442,
     "geom:bbox":"-57.207308,-25.977861,-56.915168,-25.790901",
     "geom:latitude":-25.88932,
     "geom:longitude":-57.076594,
@@ -100,9 +100,10 @@
         "hasc:id":"PY.PG.AC",
         "wd:id":"Q926511"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325672,
-    "wof:geomhash":"4aa9e2d7ca1c0710f738bcf6ee4923f7",
+    "wof:geomhash":"ca6a8f76d774417a35e1f27758f591a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108692705,
-    "wof:lastmodified":1690857004,
+    "wof:lastmodified":1695886826,
     "wof:name":"Acahay",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

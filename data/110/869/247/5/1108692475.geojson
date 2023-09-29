@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084153,
-    "geom:area_square_m":932390273.534176,
+    "geom:area_square_m":932390273.534739,
     "geom:bbox":"-55.212029771,-26.5472098558,-54.6964608255,-26.206021039",
     "geom:latitude":-26.357384,
     "geom:longitude":-54.925699,
@@ -82,9 +82,10 @@
         "hasc:id":"PY.IT.CL",
         "wd:id":"Q3660016"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325525,
-    "wof:geomhash":"5fe7ec590ec4054c322025b245442003",
+    "wof:geomhash":"746fcb916f020ae95ae4903513689447",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108692475,
-    "wof:lastmodified":1566609480,
+    "wof:lastmodified":1695886832,
     "wof:name":"Carlos Antonio Lopez",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

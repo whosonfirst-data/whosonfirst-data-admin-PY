@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02756,
-    "geom:area_square_m":303072305.521981,
+    "geom:area_square_m":303072596.967914,
     "geom:bbox":"-56.194844,-27.308322,-55.993186,-27.069365",
     "geom:latitude":-27.208451,
     "geom:longitude":-56.098259,
@@ -119,12 +119,13 @@
         "qs_pg:id":1113886,
         "wd:id":"Q1043738"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009627,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"efe8e3865fd5b1a8c825fa269cad7068",
+    "wof:geomhash":"0338647ca590c19ef64231607f6be6f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421189519,
-    "wof:lastmodified":1690857043,
+    "wof:lastmodified":1695886015,
     "wof:name":"Carmen Del Parana",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

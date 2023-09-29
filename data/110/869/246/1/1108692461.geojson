@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075418,
-    "geom:area_square_m":852405673.697241,
+    "geom:area_square_m":852405324.373863,
     "geom:bbox":"-56.0257,-24.06955,-55.413769,-23.795668",
     "geom:latitude":-23.928064,
     "geom:longitude":-55.767585,
@@ -142,9 +142,10 @@
         "hasc:id":"PY.CY.YP",
         "wd:id":"Q578964"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325516,
-    "wof:geomhash":"a522adfc2c41b43de66e48906a36bc38",
+    "wof:geomhash":"bf8e7aff9747e9bc5820624e1f4d6049",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1108692461,
-    "wof:lastmodified":1636503105,
+    "wof:lastmodified":1695886098,
     "wof:name":"Ype Jhu",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

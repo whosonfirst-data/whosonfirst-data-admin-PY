@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020523,
-    "geom:area_square_m":226763181.273707,
+    "geom:area_square_m":226763181.273533,
     "geom:bbox":"-55.2155599386,-26.7907095173,-54.9435612373,-26.5691204308",
     "geom:latitude":-26.671862,
     "geom:longitude":-55.051767,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.IT.YA",
         "wd:id":"Q771945"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325658,
-    "wof:geomhash":"8daaee50db9caa5b9ea1c0b5c91b1303",
+    "wof:geomhash":"64da6a6e9c5a2b3866aa1f6c4bd0bbb8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692685,
-    "wof:lastmodified":1566609426,
+    "wof:lastmodified":1695886819,
     "wof:name":"Yatytay",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

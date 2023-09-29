@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15725,
-    "geom:area_square_m":1773734466.300074,
+    "geom:area_square_m":1773734536.15873,
     "geom:bbox":"-54.732424,-24.537313,-54.258924,-23.812211",
     "geom:latitude":-24.186293,
     "geom:longitude":-54.466611,
@@ -148,9 +148,10 @@
         "hasc:id":"PY.CY.SG",
         "wd:id":"Q135983"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325510,
-    "wof:geomhash":"4b748b5382bff83f47c1b726d32ddc76",
+    "wof:geomhash":"5bb2ae075d7152b2a286511cbbae1781",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -160,7 +161,7 @@
         }
     ],
     "wof:id":1108692449,
-    "wof:lastmodified":1690856986,
+    "wof:lastmodified":1695886815,
     "wof:name":"Saltos Del Guaira",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

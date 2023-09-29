@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000421,
-    "geom:area_square_m":4709342.336221,
+    "geom:area_square_m":4709313.769506,
     "geom:bbox":"-57.723389,-25.296843,-57.679804,-25.266663",
     "geom:latitude":-25.282829,
     "geom:longitude":-57.700578,
@@ -199,12 +199,13 @@
         "qs_pg:id":1264295,
         "wd:id":"Q541522"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008896,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f46df572688edd693b42ff74382eec4",
+    "wof:geomhash":"057ea782cccf36901630a0ca1cda443d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -220,7 +221,7 @@
         }
     ],
     "wof:id":421171521,
-    "wof:lastmodified":1690857062,
+    "wof:lastmodified":1695886022,
     "wof:name":"Nanawa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

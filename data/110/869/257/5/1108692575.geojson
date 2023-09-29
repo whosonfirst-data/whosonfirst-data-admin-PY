@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091577,
-    "geom:area_square_m":1027540520.013423,
+    "geom:area_square_m":1027540106.868474,
     "geom:bbox":"-55.068402,-25.071751,-54.345807,-24.679505",
     "geom:latitude":-24.848403,
     "geom:longitude":-54.689897,
@@ -175,9 +175,10 @@
         "hasc:id":"PY.AA.SA",
         "wd:id":"Q2445785"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325587,
-    "wof:geomhash":"3a6db31bc36574ab62303888389a9ced",
+    "wof:geomhash":"0499640c896928ec1f9a251e443626d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":1108692575,
-    "wof:lastmodified":1690856992,
+    "wof:lastmodified":1695886818,
     "wof:name":"San Alberto",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

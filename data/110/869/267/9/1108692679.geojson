@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058125,
-    "geom:area_square_m":642764300.632087,
+    "geom:area_square_m":642764373.85317,
     "geom:bbox":"-55.539821,-26.783764,-55.190789,-26.350111",
     "geom:latitude":-26.580815,
     "geom:longitude":-55.381985,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.IT.ED",
         "wd:id":"Q1985377"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325654,
-    "wof:geomhash":"be3068d2e20548c405ec462882c995b8",
+    "wof:geomhash":"360fdae7fc6156c9dc25e596aa96f4b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692679,
-    "wof:lastmodified":1690856999,
+    "wof:lastmodified":1695886822,
     "wof:name":"Edelira",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

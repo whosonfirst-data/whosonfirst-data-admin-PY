@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022813,
-    "geom:area_square_m":253378815.570893,
+    "geom:area_square_m":253378815.570476,
     "geom:bbox":"-56.6157982479,-26.1918404384,-56.2743121888,-25.9386828257",
     "geom:latitude":-26.072284,
     "geom:longitude":-56.471033,
@@ -97,9 +97,10 @@
         "hasc:id":"PY.GU.IB",
         "wd:id":"Q2718422"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325604,
-    "wof:geomhash":"4c0275cb7ebc3af3ded1b756929e3fc0",
+    "wof:geomhash":"b500fbe868d7c8991af75df528d06606",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692601,
-    "wof:lastmodified":1566609441,
+    "wof:lastmodified":1695886822,
     "wof:name":"Iturbe",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.504059,
-    "geom:area_square_m":17283675676.968479,
+    "geom:area_square_m":17283675676.968342,
     "geom:bbox":"-59.9530677622,-22.3992232634,-57.8171488333,-21.0449786427",
     "geom:latitude":-21.666912,
     "geom:longitude":-58.979862,
@@ -175,9 +175,10 @@
         "hasc:id":"PY.AG.LV",
         "wd:id":"Q2636535"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325719,
-    "wof:geomhash":"ece4b20098ab3f461578c97f969cc45b",
+    "wof:geomhash":"627b065c82c95008e29185451be9f919",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":1108692777,
-    "wof:lastmodified":1566609468,
+    "wof:lastmodified":1695886829,
     "wof:name":"Puerto Casado",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

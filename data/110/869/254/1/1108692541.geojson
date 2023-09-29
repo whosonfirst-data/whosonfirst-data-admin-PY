@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014401,
-    "geom:area_square_m":160242247.687014,
+    "geom:area_square_m":160242247.687187,
     "geom:bbox":"-56.6339824001,-25.956063991,-56.4947790492,-25.7733820894",
     "geom:latitude":-25.854509,
     "geom:longitude":-56.566783,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.GU.IP",
         "wd:id":"Q2409449"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325566,
-    "wof:geomhash":"68832b2fcf1bd70809217540c52362d5",
+    "wof:geomhash":"4a85b6133fb88f5be5fd15ef954e68cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692541,
-    "wof:lastmodified":1566609499,
+    "wof:lastmodified":1695886837,
     "wof:name":"Itape",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

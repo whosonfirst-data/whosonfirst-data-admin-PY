@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002672,
-    "geom:area_square_m":29822673.224178,
+    "geom:area_square_m":29822625.840699,
     "geom:bbox":"-57.485321,-25.527398,-57.422155,-25.456363",
     "geom:latitude":-25.488652,
     "geom:longitude":-57.451822,
@@ -178,9 +178,10 @@
         "hasc:id":"PY.CE.GU",
         "wd:id":"Q2717421"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325595,
-    "wof:geomhash":"280e0f419a94c9f63867809f3ccb7044",
+    "wof:geomhash":"8ee72db54d89fe17cd3a5c5d645859d0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -190,7 +191,7 @@
         }
     ],
     "wof:id":1108692589,
-    "wof:lastmodified":1690857000,
+    "wof:lastmodified":1695886824,
     "wof:name":"Guarambare",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

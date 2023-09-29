@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058542,
-    "geom:area_square_m":643513905.13667,
+    "geom:area_square_m":643513311.223189,
     "geom:bbox":"-57.325792,-27.394798,-56.961817,-27.113239",
     "geom:latitude":-27.256282,
     "geom:longitude":-57.143038,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.PG.YC",
         "wd:id":"Q1749675"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325670,
-    "wof:geomhash":"e94073d80cc5a74198b8d1d070095e40",
+    "wof:geomhash":"0fd308f65f2e73071268de4c5dbc0ba8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692703,
-    "wof:lastmodified":1690857003,
+    "wof:lastmodified":1695886826,
     "wof:name":"Yabebyry",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

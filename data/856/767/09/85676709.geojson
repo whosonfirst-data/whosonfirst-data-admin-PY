@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.155827,
-    "geom:area_square_m":12931672336.750763,
+    "geom:area_square_m":12931670660.118847,
     "geom:bbox":"-56.856444,-25.708386,-54.923227,-24.465456",
     "geom:latitude":-25.200041,
     "geom:longitude":-55.886177,
@@ -320,17 +320,19 @@
         "gn:id":3439312,
         "gp:id":2346451,
         "hasc:id":"PY.CG",
+        "iso:code":"PY-5",
         "iso:id":"PY-5",
         "qs_pg:id":1097060,
         "unlc:id":"PY-5",
         "wd:id":"Q880399",
         "wk:page":"Caaguaz\u00fa Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2dfbed3744ad491a1f704eb330c75409",
+    "wof:geomhash":"0a3bf7a1f64c8bb1d6469d2db9fc587c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -347,7 +349,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856971,
+    "wof:lastmodified":1695884368,
     "wof:name":"Caaguaz\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

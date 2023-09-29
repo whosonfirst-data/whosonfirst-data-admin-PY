@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065702,
-    "geom:area_square_m":727662162.290582,
+    "geom:area_square_m":727662257.850403,
     "geom:bbox":"-56.276113,-26.550933,-55.849491,-26.242633",
     "geom:latitude":-26.405487,
     "geom:longitude":-56.067656,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CZ.YU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325770,
-    "wof:geomhash":"6104107846ffda6cdda79e0289969476",
+    "wof:geomhash":"733e8dc36ad35fed7c25be26d0720a82",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108692859,
-    "wof:lastmodified":1627522520,
+    "wof:lastmodified":1695886165,
     "wof:name":"3 De Mayo",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

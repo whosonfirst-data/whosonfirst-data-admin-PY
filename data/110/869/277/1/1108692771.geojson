@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068713,
-    "geom:area_square_m":772643483.056552,
+    "geom:area_square_m":772643008.844967,
     "geom:bbox":"-57.033474,-24.736438,-56.579511,-24.437158",
     "geom:latitude":-24.582386,
     "geom:longitude":-56.819594,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PY.SP.IR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325714,
-    "wof:geomhash":"7b45f65fb2c3477e22678b6153ef831e",
+    "wof:geomhash":"0f43f5e720583098eff0c7c5f29ec6c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108692771,
-    "wof:lastmodified":1627522522,
+    "wof:lastmodified":1695886169,
     "wof:name":"Itacurubi Del Rosario",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

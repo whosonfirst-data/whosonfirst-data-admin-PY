@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121978,
-    "geom:area_square_m":1345015176.614247,
+    "geom:area_square_m":1345015176.614178,
     "geom:bbox":"-56.6587961654,-27.1122726046,-56.0771691324,-26.7221092922",
     "geom:latitude":-26.905159,
     "geom:longitude":-56.375929,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.IT.GA",
         "wd:id":"Q1417671"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325568,
-    "wof:geomhash":"957c5f32ead49f8017e16a75eef78b1a",
+    "wof:geomhash":"bb717519fc7052f50d22d5f69dfbf1ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692545,
-    "wof:lastmodified":1566609501,
+    "wof:lastmodified":1695886837,
     "wof:name":"General Artigas",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

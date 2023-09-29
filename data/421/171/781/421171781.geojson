@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024198,
-    "geom:area_square_m":267853408.015144,
+    "geom:area_square_m":267853666.70141,
     "geom:bbox":"-57.25438,-26.571872,-56.995075,-26.376147",
     "geom:latitude":-26.466893,
     "geom:longitude":-57.122912,
@@ -124,12 +124,13 @@
         "qs_pg:id":1264282,
         "wd:id":"Q615791"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008906,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dc9bd7492cbcbdcd07ca824bbf53f5ca",
+    "wof:geomhash":"c48b954d3fcb44cf8ba05b705dc123fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421171781,
-    "wof:lastmodified":1690857066,
+    "wof:lastmodified":1695886024,
     "wof:name":"Villa Florida",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

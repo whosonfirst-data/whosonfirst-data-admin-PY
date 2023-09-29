@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063689,
-    "geom:area_square_m":723176269.541794,
+    "geom:area_square_m":723176399.85896,
     "geom:bbox":"-56.726394,-23.458558,-56.281779,-23.11619",
     "geom:latitude":-23.32344,
     "geom:longitude":-56.501137,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CN.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325707,
-    "wof:geomhash":"4d8e0a72d8a2b472cff3f60c7389f6cd",
+    "wof:geomhash":"6b88378d70ec54f37f55027bbac6b255",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108692757,
-    "wof:lastmodified":1627522520,
+    "wof:lastmodified":1695886164,
     "wof:name":"Azotey",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

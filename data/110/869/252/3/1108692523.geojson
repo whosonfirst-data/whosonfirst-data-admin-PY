@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007371,
-    "geom:area_square_m":82517684.6819,
+    "geom:area_square_m":82517684.68187,
     "geom:bbox":"-57.0428418568,-25.2117545589,-56.9086398258,-25.0564727246",
     "geom:latitude":-25.127132,
     "geom:longitude":-56.970936,
@@ -82,9 +82,10 @@
         "hasc:id":"PY.CR.PM",
         "wd:id":"Q2411058"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325554,
-    "wof:geomhash":"eb42fe8d6ebbdfc8563dd696507a342c",
+    "wof:geomhash":"255ab757e59085bfdeaecbed02b8f132",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108692523,
-    "wof:lastmodified":1566609520,
+    "wof:lastmodified":1695886843,
     "wof:name":"Primero De Marzo",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

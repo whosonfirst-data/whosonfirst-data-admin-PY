@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055976,
-    "geom:area_square_m":626513571.946211,
+    "geom:area_square_m":626513571.946202,
     "geom:bbox":"-55.7291105328,-25.2771014118,-55.3630745389,-25.0111971984",
     "geom:latitude":-25.15375,
     "geom:longitude":-55.575474,
@@ -82,9 +82,10 @@
         "hasc:id":"PY.CG.RO",
         "wd:id":"Q1751791"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325635,
-    "wof:geomhash":"56555b10bdb06bdbff4f56e9ea943c71",
+    "wof:geomhash":"aac28c7377e0268b507f7e9c8a3538d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108692649,
-    "wof:lastmodified":1566609507,
+    "wof:lastmodified":1695886838,
     "wof:name":"Raul Arsenio Oviedo",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

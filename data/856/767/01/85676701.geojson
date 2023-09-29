@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.104926,
-    "geom:area_square_m":12587297849.938017,
+    "geom:area_square_m":12587297961.372078,
     "geom:bbox":"-56.826067,-23.830937,-55.504321,-22.074456",
     "geom:latitude":-22.880042,
     "geom:longitude":-56.060955,
@@ -313,17 +313,19 @@
         "gn:id":3439433,
         "gp:id":2346449,
         "hasc:id":"PY.AM",
+        "iso:code":"PY-13",
         "iso:id":"PY-13",
         "qs_pg:id":235621,
         "unlc:id":"PY-13",
         "wd:id":"Q686586",
         "wk:page":"Amambay Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7d544e35b818af8474658d2f2b93b851",
+    "wof:geomhash":"b8ab26b8ae30791e3b542a1e9197ad7a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -340,7 +342,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856972,
+    "wof:lastmodified":1695884947,
     "wof:name":"Amambay",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

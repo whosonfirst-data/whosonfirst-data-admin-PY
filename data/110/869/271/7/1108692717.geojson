@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081599,
-    "geom:area_square_m":904643217.802505,
+    "geom:area_square_m":904643267.671684,
     "geom:bbox":"-57.009962,-26.541554,-56.628794,-25.972646",
     "geom:latitude":-26.287107,
     "geom:longitude":-56.810989,
@@ -94,9 +94,10 @@
         "hasc:id":"PY.PG.MB",
         "wd:id":"Q2410379"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325679,
-    "wof:geomhash":"967ac28b81e35cef10b8cb128e3ef45b",
+    "wof:geomhash":"cdd02ba7da9a80d5b159023fc73011e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108692717,
-    "wof:lastmodified":1690857014,
+    "wof:lastmodified":1695886835,
     "wof:name":"Mbuyapey",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

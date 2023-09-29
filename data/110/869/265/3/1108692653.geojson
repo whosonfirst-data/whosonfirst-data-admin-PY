@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077959,
-    "geom:area_square_m":872379572.468227,
+    "geom:area_square_m":872379572.467469,
     "geom:bbox":"-55.4223872474,-25.3875183829,-54.9232269419,-24.9907624128",
     "geom:latitude":-25.179476,
     "geom:longitude":-55.180127,
@@ -82,9 +82,10 @@
         "hasc:id":"PY.CG.ML",
         "wd:id":"Q3849345"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325637,
-    "wof:geomhash":"80bf1aa81567e47570df4a334bbde5d5",
+    "wof:geomhash":"da088b13f2731569dda055ec666aae60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108692653,
-    "wof:lastmodified":1566609505,
+    "wof:lastmodified":1695886838,
     "wof:name":"Mariscal Francisco Solano Lope",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

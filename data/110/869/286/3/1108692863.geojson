@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027266,
-    "geom:area_square_m":300420430.161556,
+    "geom:area_square_m":300420423.082154,
     "geom:bbox":"-55.761764,-27.109847,-55.41205,-26.766954",
     "geom:latitude":-26.99528,
     "geom:longitude":-55.545126,
@@ -139,9 +139,10 @@
         "hasc:id":"PY.IT.BV",
         "wd:id":"Q1986203"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325772,
-    "wof:geomhash":"544a0edaf6a4a9b7d4efc71c2b052d5e",
+    "wof:geomhash":"baac74acec15f62c619236a2489946b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108692863,
-    "wof:lastmodified":1642551741,
+    "wof:lastmodified":1695886504,
     "wof:name":"Bella Vista",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

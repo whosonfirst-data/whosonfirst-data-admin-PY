@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001977,
-    "geom:area_square_m":22076856.402826,
+    "geom:area_square_m":22076772.003965,
     "geom:bbox":"-57.597797,-25.455512,-57.534474,-25.384675",
     "geom:latitude":-25.418338,
     "geom:longitude":-57.561953,
@@ -205,9 +205,10 @@
         "hasc:id":"PY.CE.SA",
         "wd:id":"Q1093479"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325776,
-    "wof:geomhash":"81f577c18a9480c7cf091d4aee579c28",
+    "wof:geomhash":"665891f659d80f2ebe66edbd9989428a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -217,7 +218,7 @@
         }
     ],
     "wof:id":1108692869,
-    "wof:lastmodified":1690856988,
+    "wof:lastmodified":1695886504,
     "wof:name":"San Antonio",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

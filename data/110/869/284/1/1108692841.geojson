@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175946,
-    "geom:area_square_m":1957364081.884916,
+    "geom:area_square_m":1957364081.885348,
     "geom:bbox":"-56.0271601332,-26.1813341112,-55.399155771,-25.5235662678",
     "geom:latitude":-25.882618,
     "geom:longitude":-55.708855,
@@ -106,9 +106,10 @@
         "hasc:id":"PY.CZ.AB",
         "wd:id":"Q1318585"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325759,
-    "wof:geomhash":"4c8800716d0e580a7a322543c0ef6c19",
+    "wof:geomhash":"2afb1eeab4e4e97522e91fae6aee2421",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108692841,
-    "wof:lastmodified":1566609459,
+    "wof:lastmodified":1695886827,
     "wof:name":"Abai",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

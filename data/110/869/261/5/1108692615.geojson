@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006792,
-    "geom:area_square_m":75739650.988995,
+    "geom:area_square_m":75739650.988903,
     "geom:bbox":"-56.4439618788,-25.6339215323,-56.3025150181,-25.5647764285",
     "geom:latitude":-25.600861,
     "geom:longitude":-56.363792,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.GU.DB",
         "wd:id":"Q3712443"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325612,
-    "wof:geomhash":"bfd2d3d7d25a7b234d09d92db8f99ac9",
+    "wof:geomhash":"8617185cf13729f165e822c720f98c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692615,
-    "wof:lastmodified":1566609439,
+    "wof:lastmodified":1695886822,
     "wof:name":"Dr. Bottrell",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

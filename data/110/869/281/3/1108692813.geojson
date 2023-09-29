@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164356,
-    "geom:area_square_m":1843232453.131195,
+    "geom:area_square_m":1843231843.747506,
     "geom:bbox":"-58.502032,-25.270191,-57.643582,-24.689553",
     "geom:latitude":-24.909689,
     "geom:longitude":-58.124103,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.PH.JF",
         "wd:id":"Q2475375"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325743,
-    "wof:geomhash":"75def05dd923dcc18e88f749c15db1f4",
+    "wof:geomhash":"ddb2652a669d3c3daad547916cae9b04",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692813,
-    "wof:lastmodified":1690856991,
+    "wof:lastmodified":1695886817,
     "wof:name":"Jose Falcon",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

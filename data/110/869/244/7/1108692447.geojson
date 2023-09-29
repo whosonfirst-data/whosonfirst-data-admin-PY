@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046055,
-    "geom:area_square_m":525088930.683311,
+    "geom:area_square_m":525088797.768283,
     "geom:bbox":"-55.857878,-23.018369,-55.609331,-22.605487",
     "geom:latitude":-22.7719,
     "geom:longitude":-55.708776,
@@ -67,9 +67,10 @@
         "hasc:id":"PY.AM.PC",
         "wd:id":"Q17781865"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325508,
-    "wof:geomhash":"764b9885f8c5a7b573a51438ab728d99",
+    "wof:geomhash":"d25d86fe0686ba7d50c900ab7fab277b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108692447,
-    "wof:lastmodified":1690856987,
+    "wof:lastmodified":1695886815,
     "wof:name":"Zanja Pyta",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.21676,
-    "geom:area_square_m":2418143171.993568,
+    "geom:area_square_m":2418143021.67934,
     "geom:bbox":"-57.826763,-26.025117,-57.193009,-25.096463",
     "geom:latitude":-25.550429,
     "geom:longitude":-57.501662,
@@ -323,17 +323,19 @@
         "gn:id":3439137,
         "gp:id":2346453,
         "hasc:id":"PY.CE",
+        "iso:code":"PY-11",
         "iso:id":"PY-11",
         "qs_pg:id":894947,
         "unlc:id":"PY-11",
         "wd:id":"Q372461",
         "wk:page":"Central Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8faca17bb88508dbb8fa6ceff866996",
+    "wof:geomhash":"915f2492b2c644df97014b76ef05b656",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -350,7 +352,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856978,
+    "wof:lastmodified":1695884950,
     "wof:name":"Central",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

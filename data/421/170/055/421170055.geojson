@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00934,
-    "geom:area_square_m":104417110.39296,
+    "geom:area_square_m":104417291.90954,
     "geom:bbox":"-57.447979,-25.358877,-57.327387,-25.227507",
     "geom:latitude":-25.293912,
     "geom:longitude":-57.386338,
@@ -236,12 +236,13 @@
         "qs_pg:id":1264256,
         "wd:id":"Q135975"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008835,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"63afb2bf3b438d98c2c8f3a00e179a18",
+    "wof:geomhash":"fe88438a5df8c2913e70894b1b3b6f51",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -251,7 +252,7 @@
         }
     ],
     "wof:id":421170055,
-    "wof:lastmodified":1690857055,
+    "wof:lastmodified":1695886020,
     "wof:name":"Aregua",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102029,
-    "geom:area_square_m":1128001397.210224,
+    "geom:area_square_m":1128001302.8688,
     "geom:bbox":"-56.662111,-26.794376,-56.094861,-26.372378",
     "geom:latitude":-26.607242,
     "geom:longitude":-56.335234,
@@ -122,12 +122,13 @@
         "qs_pg:id":116278,
         "wd:id":"Q2475423"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009829,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b43e7a167db22db110e1bd8e00d69cd3",
+    "wof:geomhash":"c977aa158d55dab6ab113ef6d6116d24",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421195025,
-    "wof:lastmodified":1690857026,
+    "wof:lastmodified":1695886007,
     "wof:name":"Yuty",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

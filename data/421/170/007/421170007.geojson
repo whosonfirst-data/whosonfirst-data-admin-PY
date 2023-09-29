@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024196,
-    "geom:area_square_m":266809587.494448,
+    "geom:area_square_m":266809682.809523,
     "geom:bbox":"-58.385315,-27.035814,-58.007267,-26.791086",
     "geom:latitude":-26.903144,
     "geom:longitude":-58.216801,
@@ -163,12 +163,13 @@
         "hasc:id":"PY.NE.PI",
         "qs_pg:id":772888
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008833,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"345f3cc913c313005dcebe1dd175c9f2",
+    "wof:geomhash":"827ee8266c7632f3e353accc8988bd92",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":421170007,
-    "wof:lastmodified":1636503113,
+    "wof:lastmodified":1695886103,
     "wof:name":"Pilar",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

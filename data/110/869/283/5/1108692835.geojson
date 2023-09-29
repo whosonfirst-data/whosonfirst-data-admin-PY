@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053704,
-    "geom:area_square_m":601972658.854651,
+    "geom:area_square_m":601972651.418681,
     "geom:bbox":"-55.718222,-25.113142,-55.304041,-24.829474",
     "geom:latitude":-24.974212,
     "geom:longitude":-55.49037,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CG.ML"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325756,
-    "wof:geomhash":"708808f9838995bd2d8589761eacae44",
+    "wof:geomhash":"35de9a7fe804e744b5a9ff2f38fba6cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108692835,
-    "wof:lastmodified":1627522522,
+    "wof:lastmodified":1695886169,
     "wof:name":"Nueva Toledo",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

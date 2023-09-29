@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101389,
-    "geom:area_square_m":1141650664.278513,
+    "geom:area_square_m":1141650664.278365,
     "geom:bbox":"-56.5560508039,-24.5891369204,-56.1157902186,-24.1946199779",
     "geom:latitude":-24.407866,
     "geom:longitude":-56.34811,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.SP.GU",
         "wd:id":"Q2457120"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325532,
-    "wof:geomhash":"0f23777ac8528bbf6b3d883e1fca48e3",
+    "wof:geomhash":"f4a7325f9ceb391cdb0ae65c4a1ec787",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692489,
-    "wof:lastmodified":1566609463,
+    "wof:lastmodified":1695886828,
     "wof:name":"Guajayvi",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.710682,
-    "geom:area_square_m":8033373718.03025,
+    "geom:area_square_m":8033373067.994634,
     "geom:bbox":"-60.785391,-24.49785,-59.077755,-23.443132",
     "geom:latitude":-23.912686,
     "geom:longitude":-59.743788,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"PY.PH.VH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325746,
-    "wof:geomhash":"2387bc1ed407e7693913ea7871a1ff86",
+    "wof:geomhash":"8479efbb6c21a79042cb1ea3beac5e52",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108692817,
-    "wof:lastmodified":1627522523,
+    "wof:lastmodified":1695886171,
     "wof:name":"Tte. Esteban Martinez",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136808,
-    "geom:area_square_m":1510873562.980922,
+    "geom:area_square_m":1510873562.981225,
     "geom:bbox":"-56.2554314617,-26.9896022095,-55.7834286967,-26.4565256938",
     "geom:latitude":-26.730107,
     "geom:longitude":-56.008579,
@@ -100,9 +100,10 @@
         "hasc:id":"PY.IT.SP",
         "wd:id":"Q2445863"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325650,
-    "wof:geomhash":"faa957f11b0fec38fa9a6e2bcb51953f",
+    "wof:geomhash":"a9aabc751c9cc803184bf302ade4f78b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108692673,
-    "wof:lastmodified":1566609445,
+    "wof:lastmodified":1695886824,
     "wof:name":"San Pedro Del Parana",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

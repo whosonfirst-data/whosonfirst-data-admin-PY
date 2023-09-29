@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119628,
-    "geom:area_square_m":1345156841.389048,
+    "geom:area_square_m":1345156841.389202,
     "geom:bbox":"-55.0278339114,-24.7234000534,-54.3165123373,-24.4473227302",
     "geom:latitude":-24.581662,
     "geom:longitude":-54.653881,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.CY.NE",
         "wd:id":"Q3879288"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325521,
-    "wof:geomhash":"763022ad29cce6bb8939e99965db922a",
+    "wof:geomhash":"51f5be68b7dfdf7ad96c0127f7b5c8b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692469,
-    "wof:lastmodified":1566609474,
+    "wof:lastmodified":1695886831,
     "wof:name":"Nueva Esperanza",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

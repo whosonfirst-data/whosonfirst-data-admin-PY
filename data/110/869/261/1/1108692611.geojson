@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01386,
-    "geom:area_square_m":154087137.441015,
+    "geom:area_square_m":154087042.109606,
     "geom:bbox":"-56.494253,-26.039072,-56.349401,-25.879995",
     "geom:latitude":-25.957653,
     "geom:longitude":-56.426838,
@@ -97,9 +97,10 @@
         "hasc:id":"PY.GU.SS",
         "wd:id":"Q2411018"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325609,
-    "wof:geomhash":"486c2e1df713c8666e0ae694169f2c41",
+    "wof:geomhash":"da0a25897dc246bbfe1742bdc66a9e15",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692611,
-    "wof:lastmodified":1636503102,
+    "wof:lastmodified":1695886094,
     "wof:name":"San Salvador",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

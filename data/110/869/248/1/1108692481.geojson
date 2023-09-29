@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043908,
-    "geom:area_square_m":483849223.971047,
+    "geom:area_square_m":483849223.971036,
     "geom:bbox":"-58.518050208,-27.0608794928,-58.105583683,-26.8924574143",
     "geom:latitude":-26.978268,
     "geom:longitude":-58.317633,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.NE.IU",
         "wd:id":"Q2411034"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325528,
-    "wof:geomhash":"371f33caa3eaa103759ac6fe8a985c67",
+    "wof:geomhash":"a7d07f4f5ca0d76b5935046a60620c99",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692481,
-    "wof:lastmodified":1566609464,
+    "wof:lastmodified":1695886828,
     "wof:name":"Isla Umbu",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

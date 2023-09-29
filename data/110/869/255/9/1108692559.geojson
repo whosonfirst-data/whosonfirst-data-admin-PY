@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043648,
-    "geom:area_square_m":487121487.003514,
+    "geom:area_square_m":487121656.054789,
     "geom:bbox":"-54.956054,-25.653781,-54.720089,-25.356983",
     "geom:latitude":-25.503393,
     "geom:longitude":-54.841465,
@@ -136,9 +136,10 @@
         "hasc:id":"PY.AA.MG",
         "wd:id":"Q650191"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325578,
-    "wof:geomhash":"3b54835514de58fc029d7749d9f8e7fe",
+    "wof:geomhash":"571d23f017966d9736e51502d5a0eebd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1108692559,
-    "wof:lastmodified":1690857020,
+    "wof:lastmodified":1695886842,
     "wof:name":"Minga Guazu",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

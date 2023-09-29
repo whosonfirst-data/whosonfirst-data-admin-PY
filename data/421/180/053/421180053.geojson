@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020148,
-    "geom:area_square_m":221606604.464852,
+    "geom:area_square_m":221606660.099061,
     "geom:bbox":"-55.927495,-27.319519,-55.68832,-27.075518",
     "geom:latitude":-27.189661,
     "geom:longitude":-55.811685,
@@ -119,12 +119,13 @@
         "qs_pg:id":286280,
         "wd:id":"Q1984703"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009243,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9c06cecfb9419d90111a448c0e7095be",
+    "wof:geomhash":"1f1bf02a2cc321d955d40f01a9af9954",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421180053,
-    "wof:lastmodified":1690857038,
+    "wof:lastmodified":1695886011,
     "wof:name":"Capitan Miranda",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

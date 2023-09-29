@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075813,
-    "geom:area_square_m":841284888.249493,
+    "geom:area_square_m":841285131.547498,
     "geom:bbox":"-56.410984,-26.406709,-56.104643,-25.976187",
     "geom:latitude":-26.178807,
     "geom:longitude":-56.288311,
@@ -157,9 +157,10 @@
         "hasc:id":"PY.CZ.CA",
         "wd:id":"Q135939"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325757,
-    "wof:geomhash":"a61a982099d36a072eba12d7566f8f06",
+    "wof:geomhash":"5f9e008a8888b3d697bd5538c2c54ef9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":1108692839,
-    "wof:lastmodified":1690857006,
+    "wof:lastmodified":1695886829,
     "wof:name":"Caazapa",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

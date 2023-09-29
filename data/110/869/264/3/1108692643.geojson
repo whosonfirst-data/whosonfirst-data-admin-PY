@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126436,
-    "geom:area_square_m":1417937695.810706,
+    "geom:area_square_m":1417937695.810389,
     "geom:bbox":"-56.0241336909,-25.2145664585,-55.3756034267,-24.6024170306",
     "geom:latitude":-24.911842,
     "geom:longitude":-55.74918,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.CG.YH",
         "wd:id":"Q1751168"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325631,
-    "wof:geomhash":"cdd011f854802e43b94eab783d3d1db9",
+    "wof:geomhash":"9ff1f0517f4c7e23e2ed98529b06b47f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692643,
-    "wof:lastmodified":1566609509,
+    "wof:lastmodified":1695886839,
     "wof:name":"Yhu",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

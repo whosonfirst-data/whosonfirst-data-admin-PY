@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.741457,
-    "geom:area_square_m":8174931257.203284,
+    "geom:area_square_m":8174929489.667304,
     "geom:bbox":"-57.743139,-27.486148,-56.625861,-26.376147",
     "geom:latitude":-26.916642,
     "geom:longitude":-57.094524,
@@ -310,17 +310,19 @@
         "gn:id":3437727,
         "gp:id":2346458,
         "hasc:id":"PY.MI",
+        "iso:code":"PY-8",
         "iso:id":"PY-8",
         "qs_pg:id":890095,
         "unlc:id":"PY-8",
         "wd:id":"Q591194",
         "wk:page":"Misiones Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6bd9945a8f329bfac3df63f64131a32d",
+    "wof:geomhash":"71e1d78e6cc149cf6eb0ed08beec3539",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -337,7 +339,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856977,
+    "wof:lastmodified":1695884949,
     "wof:name":"Misiones",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

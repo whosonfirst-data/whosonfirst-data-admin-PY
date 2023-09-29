@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.319401,
-    "geom:area_square_m":3623951092.057446,
+    "geom:area_square_m":3623951401.326708,
     "geom:bbox":"-56.168368,-23.830937,-55.504321,-23.002021",
     "geom:latitude":-23.424184,
     "geom:longitude":-55.812917,
@@ -106,9 +106,10 @@
         "hasc:id":"PY.AM.CB",
         "wd:id":"Q2717429"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325507,
-    "wof:geomhash":"f466d79588fe07f6f598f0dfc5a5c25c",
+    "wof:geomhash":"63a842935f8ccb6a436284894f50791a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108692445,
-    "wof:lastmodified":1690856988,
+    "wof:lastmodified":1695886815,
     "wof:name":"Capitan Bado",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

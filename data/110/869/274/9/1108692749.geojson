@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071988,
-    "geom:area_square_m":818234128.150721,
+    "geom:area_square_m":818234383.534013,
     "geom:bbox":"-57.378252,-23.355072,-56.894144,-23.051185",
     "geom:latitude":-23.18896,
     "geom:longitude":-57.151191,
@@ -109,9 +109,10 @@
         "hasc:id":"PY.CN.LO",
         "wd:id":"Q3837130"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325702,
-    "wof:geomhash":"a2c479dbf4f1472d63e4425fa7403171",
+    "wof:geomhash":"a1828534912b9265d02ef141787ee2da",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108692749,
-    "wof:lastmodified":1642551774,
+    "wof:lastmodified":1695886517,
     "wof:name":"Loreto",
     "wof:parent_id":85676665,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045056,
-    "geom:area_square_m":502692999.7253,
+    "geom:area_square_m":502692999.72551,
     "geom:bbox":"-56.8564438973,-25.7022731181,-56.5593348659,-25.3975327489",
     "geom:latitude":-25.539431,
     "geom:longitude":-56.698615,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.CG.SA",
         "wd:id":"Q2406025"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325629,
-    "wof:geomhash":"b37716e10b1a63b46ca38ac95a68b9a8",
+    "wof:geomhash":"23f0be137b03a6d2dd1222fdc7cbaede",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692641,
-    "wof:lastmodified":1566609508,
+    "wof:lastmodified":1695886839,
     "wof:name":"San Jose De Los Arroyos",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

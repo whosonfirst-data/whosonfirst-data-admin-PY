@@ -166,6 +166,7 @@
         "hasc:id":"PY.BQ.ME",
         "wd:id":"Q1704617"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325782,
     "wof:geomhash":"05c755becfda2cc2a0d92afdbdc36cd6",
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":1108692881,
-    "wof:lastmodified":1694497833,
+    "wof:lastmodified":1695886815,
     "wof:name":"Loma Plata",
     "wof:parent_id":85676659,
     "wof:placetype":"county",

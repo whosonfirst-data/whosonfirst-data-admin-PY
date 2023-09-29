@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048216,
-    "geom:area_square_m":535253232.500249,
+    "geom:area_square_m":535253232.500175,
     "geom:bbox":"-55.2058030199,-26.2432545368,-54.8705678938,-25.9786234372",
     "geom:latitude":-26.132833,
     "geom:longitude":-55.033449,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.AA.NC",
         "wd:id":"Q596950"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325588,
-    "wof:geomhash":"91546a2a7de9dfa399b90f2970c6295e",
+    "wof:geomhash":"9bad04a022cc66c99edd1cb1fc28f42c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692577,
-    "wof:lastmodified":1566609418,
+    "wof:lastmodified":1695886817,
     "wof:name":"Iru\u00f1a",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

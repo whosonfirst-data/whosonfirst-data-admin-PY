@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003573,
-    "geom:area_square_m":39973502.465381,
+    "geom:area_square_m":39973588.405988,
     "geom:bbox":"-57.574556,-25.244546,-57.498381,-25.153876",
     "geom:latitude":-25.20126,
     "geom:longitude":-57.531212,
@@ -199,9 +199,10 @@
         "hasc:id":"PY.CE.MA",
         "wd:id":"Q37557"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325601,
-    "wof:geomhash":"0df9587fff8e70733e509886168ff8b2",
+    "wof:geomhash":"4cbf67cb1397de972d4d9d028a84d92a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":1108692595,
-    "wof:lastmodified":1690856997,
+    "wof:lastmodified":1695886821,
     "wof:name":"Mariano Roque Alonso",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

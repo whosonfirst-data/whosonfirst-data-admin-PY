@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025069,
-    "geom:area_square_m":277949715.842884,
+    "geom:area_square_m":277949715.842822,
     "geom:bbox":"-54.9196642962,-26.404360765,-54.6481605276,-26.1741943346",
     "geom:latitude":-26.278434,
     "geom:longitude":-54.768846,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.IT.MO",
         "wd:id":"Q1914490"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325648,
-    "wof:geomhash":"fb9e8c4608c4076018f80ab43e234fd2",
+    "wof:geomhash":"0cb06c43259d9a86ce2de14214808ded",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692671,
-    "wof:lastmodified":1566609444,
+    "wof:lastmodified":1695886823,
     "wof:name":"Mayor Ota\u00d1o",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

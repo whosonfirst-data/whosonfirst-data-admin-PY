@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035742,
-    "geom:area_square_m":393082308.776067,
+    "geom:area_square_m":393082336.45506,
     "geom:bbox":"-58.285707,-27.277199,-57.995984,-27.126428",
     "geom:latitude":-27.200891,
     "geom:longitude":-58.14559,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PY.NE.MM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325736,
-    "wof:geomhash":"e30a3d85cb5d3c3538d46981beacee4e",
+    "wof:geomhash":"48a4dbf16c8fed8763033d03469fb7f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108692807,
-    "wof:lastmodified":1642551781,
+    "wof:lastmodified":1695886519,
     "wof:name":"Mayor Martinez",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

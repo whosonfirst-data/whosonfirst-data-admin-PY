@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080295,
-    "geom:area_square_m":887866605.247973,
+    "geom:area_square_m":887866605.248104,
     "geom:bbox":"-55.8865786371,-26.8229826618,-55.5884680558,-26.3581345049",
     "geom:latitude":-26.588302,
     "geom:longitude":-55.742062,
@@ -119,12 +119,13 @@
         "qs_pg:id":1002650,
         "wd:id":"Q1987240"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009417,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"40587ce59111cbe7e21648780f8b7784",
+    "wof:geomhash":"83530f764705ba2fe1c206f03062bf24",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421184635,
-    "wof:lastmodified":1582360305,
+    "wof:lastmodified":1695886017,
     "wof:name":"Alto Vera",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

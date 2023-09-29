@@ -1178,6 +1178,7 @@
         "hasc:id":"PY",
         "icao:code":"ZP",
         "ioc:id":"PAR",
+        "iso:code":"PY",
         "itu:id":"PRG",
         "m49:code":"600",
         "marc:id":"py",
@@ -1191,6 +1192,7 @@
         "wk:page":"Paraguay",
         "wmo:id":"PY"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:country_alpha3":"PRY",
     "wof:geom_alt":[
@@ -1214,7 +1216,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1694639559,
+    "wof:lastmodified":1695881217,
     "wof:name":"Paraguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

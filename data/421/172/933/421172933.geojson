@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025108,
-    "geom:area_square_m":279181050.122414,
+    "geom:area_square_m":279181050.122446,
     "geom:bbox":"-56.2812456248,-26.0634123814,-56.1119214832,-25.8358284895",
     "geom:latitude":-25.941562,
     "geom:longitude":-56.197596,
@@ -125,12 +125,13 @@
         "qs_pg:id":485412,
         "wd:id":"Q2409529"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008959,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"449898bbaa4b154c22bad31c6c0172ec",
+    "wof:geomhash":"fd4ff5904277fd8e6aed823c2f553525",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421172933,
-    "wof:lastmodified":1582360304,
+    "wof:lastmodified":1695886015,
     "wof:name":"General Eugenio A. Garay",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

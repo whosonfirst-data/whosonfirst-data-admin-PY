@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.41537,
-    "geom:area_square_m":4735003323.902467,
+    "geom:area_square_m":4735002643.81648,
     "geom:bbox":"-56.31487,-23.34686,-55.655794,-22.270394",
     "geom:latitude":-22.79291,
     "geom:longitude":-55.983437,
@@ -266,12 +266,13 @@
         "qs_pg:id":1264257,
         "wd:id":"Q849292"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008835,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ade577587401a6d555e5ceaec4cb1d1b",
+    "wof:geomhash":"3dc9a5c5c6028d61308628483848cbf8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -281,7 +282,7 @@
         }
     ],
     "wof:id":421170059,
-    "wof:lastmodified":1690857056,
+    "wof:lastmodified":1695886105,
     "wof:name":"Pedro Juan Caballero",
     "wof:parent_id":85676701,
     "wof:placetype":"county",

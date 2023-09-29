@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012211,
-    "geom:area_square_m":135810038.195925,
+    "geom:area_square_m":135810071.229573,
     "geom:bbox":"-56.752771,-25.979505,-56.607556,-25.847711",
     "geom:latitude":-25.918018,
     "geom:longitude":-56.674784,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.PG.TE",
         "wd:id":"Q2410898"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325686,
-    "wof:geomhash":"ef51a571a26f9272a719d28e07ee8ffc",
+    "wof:geomhash":"8468bc8bcf42946449d229d67c454584",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692727,
-    "wof:lastmodified":1690856990,
+    "wof:lastmodified":1695886816,
     "wof:name":"Tebicuary-mi",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

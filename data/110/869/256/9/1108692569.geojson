@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055992,
-    "geom:area_square_m":623091445.577987,
+    "geom:area_square_m":623091445.577747,
     "geom:bbox":"-55.0628362656,-26.0210668202,-54.799303355,-25.638068802",
     "geom:latitude":-25.845616,
     "geom:longitude":-54.923178,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.AA.SM",
         "wd:id":"Q2445855"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325583,
-    "wof:geomhash":"8d4d2a61aaac89fcbcc88fa8436d33a3",
+    "wof:geomhash":"20b0fee14e8705d05a257d593dcfec01",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692569,
-    "wof:lastmodified":1566609450,
+    "wof:lastmodified":1695886825,
     "wof:name":"Santa Rosa Del Monday",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

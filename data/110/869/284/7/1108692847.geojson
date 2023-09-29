@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027847,
-    "geom:area_square_m":309378531.061745,
+    "geom:area_square_m":309378531.061799,
     "geom:bbox":"-56.2274863455,-26.1557474074,-55.9817694476,-25.8908599433",
     "geom:latitude":-26.040841,
     "geom:longitude":-56.082351,
@@ -94,9 +94,10 @@
         "hasc:id":"PY.CZ.GM",
         "wd:id":"Q1983611"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325762,
-    "wof:geomhash":"3a803da3135424a0a2112c6790446ec2",
+    "wof:geomhash":"ae05fbd4ff58ad8cf461a794a575d216",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108692847,
-    "wof:lastmodified":1566609459,
+    "wof:lastmodified":1695886827,
     "wof:name":"General Higinio Morinigo",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

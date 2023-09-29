@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.568623,
-    "geom:area_square_m":17748909109.793743,
+    "geom:area_square_m":17748906549.603512,
     "geom:bbox":"-59.417212,-25.354271,-57.149308,-23.062425",
     "geom:latitude":-23.780753,
     "geom:longitude":-58.047353,
@@ -233,12 +233,13 @@
         "qs_pg:id":1264308,
         "wd:id":"Q135953"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008891,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f3c0dd4f1363f3f1f0940b0e60e6771",
+    "wof:geomhash":"1fa68cb93c890ca3b9fd90689cc717dc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -248,7 +249,7 @@
         }
     ],
     "wof:id":421171367,
-    "wof:lastmodified":1690857065,
+    "wof:lastmodified":1695886107,
     "wof:name":"Villa Hayes",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

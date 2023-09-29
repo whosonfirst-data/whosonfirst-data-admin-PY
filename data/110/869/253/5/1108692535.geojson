@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010958,
-    "geom:area_square_m":122047579.026792,
+    "geom:area_square_m":122047579.026783,
     "geom:bbox":"-56.662313735,-25.8089227358,-56.5251697935,-25.6624746887",
     "geom:latitude":-25.742151,
     "geom:longitude":-56.602032,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.GU.CM",
         "wd:id":"Q1005030"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325562,
-    "wof:geomhash":"5c859cd70b0bbd6ebf9b2de7f6fc33f7",
+    "wof:geomhash":"7f3ed518b36eab39899d55cf5c3d001b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692535,
-    "wof:lastmodified":1566609499,
+    "wof:lastmodified":1695886836,
     "wof:name":"Coronel Martinez",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139306,
-    "geom:area_square_m":1576552695.040089,
+    "geom:area_square_m":1576552538.204426,
     "geom:bbox":"-56.593214,-23.920308,-55.973478,-23.575541",
     "geom:latitude":-23.759056,
     "geom:longitude":-56.27188,
@@ -79,9 +79,10 @@
         "hasc:id":"PY.SP.SR",
         "wd:id":"Q10862956"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325535,
-    "wof:geomhash":"f5c0088621f5ab4cbe3aea0f944d1972",
+    "wof:geomhash":"5110d30af060c7dee0d143d439a15e41",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108692493,
-    "wof:lastmodified":1690857011,
+    "wof:lastmodified":1695886832,
     "wof:name":"Santa Rosa Del Aguaray",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

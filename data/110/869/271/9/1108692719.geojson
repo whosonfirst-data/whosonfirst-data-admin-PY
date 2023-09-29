@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016513,
-    "geom:area_square_m":184332035.510602,
+    "geom:area_square_m":184331897.869269,
     "geom:bbox":"-57.31946,-25.551105,-57.125809,-25.401783",
     "geom:latitude":-25.477165,
     "geom:longitude":-57.214456,
@@ -103,9 +103,10 @@
         "hasc:id":"PY.PG.PI",
         "wd:id":"Q1750484"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325681,
-    "wof:geomhash":"5ed62712d9b9920f40f3ca9e3de05122",
+    "wof:geomhash":"c88cf2c33c65fc8b8047fc2936d37f53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108692719,
-    "wof:lastmodified":1690857014,
+    "wof:lastmodified":1695886836,
     "wof:name":"Pirayu",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

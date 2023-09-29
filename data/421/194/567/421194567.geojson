@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007875,
-    "geom:area_square_m":87981103.076316,
+    "geom:area_square_m":87981100.973973,
     "geom:bbox":"-57.51672,-25.439108,-57.398345,-25.307826",
     "geom:latitude":-25.377225,
     "geom:longitude":-57.451897,
@@ -236,12 +236,13 @@
         "qs_pg:id":772930,
         "wd:id":"Q723811"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009812,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cec1c41e49954d76b28a6634145a227f",
+    "wof:geomhash":"56106151d22904f5224c20c7618699db",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -251,7 +252,7 @@
         }
     ],
     "wof:id":421194567,
-    "wof:lastmodified":1690857028,
+    "wof:lastmodified":1695886008,
     "wof:name":"Capiata",
     "wof:parent_id":85676681,
     "wof:placetype":"county",

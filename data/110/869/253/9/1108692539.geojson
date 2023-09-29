@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044116,
-    "geom:area_square_m":491285893.641793,
+    "geom:area_square_m":491285893.641874,
     "geom:bbox":"-56.3138340112,-25.8663770473,-56.0290722081,-25.6241357114",
     "geom:latitude":-25.761947,
     "geom:longitude":-56.167387,
@@ -97,9 +97,10 @@
         "hasc:id":"PY.GU.IN",
         "wd:id":"Q1661083"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325565,
-    "wof:geomhash":"a9cad1cd531fe841c2ff825865efa6fa",
+    "wof:geomhash":"050f4dc51ba6908ee8621a6e79d0462d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692539,
-    "wof:lastmodified":1566609497,
+    "wof:lastmodified":1695886836,
     "wof:name":"Colonia Independencia",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

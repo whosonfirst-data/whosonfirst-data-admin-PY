@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065414,
-    "geom:area_square_m":738023396.252398,
+    "geom:area_square_m":738023333.097876,
     "geom:bbox":"-54.823285,-24.499062,-54.576956,-23.857164",
     "geom:latitude":-24.156535,
     "geom:longitude":-54.711447,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CY.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325517,
-    "wof:geomhash":"6caad641413496e8dff90eed28f5c7c1",
+    "wof:geomhash":"e11accbb70eb6b1e78f351ec28a8d570",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108692463,
-    "wof:lastmodified":1627522521,
+    "wof:lastmodified":1695886166,
     "wof:name":"Francisco Caballero Alvarez",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

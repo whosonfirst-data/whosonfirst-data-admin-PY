@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113533,
-    "geom:area_square_m":1257021921.412131,
+    "geom:area_square_m":1257021921.412421,
     "geom:bbox":"-55.452104409,-26.7041833508,-54.7837283604,-26.0921620694",
     "geom:latitude":-26.439679,
     "geom:longitude":-55.100627,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.IT.SR",
         "wd:id":"Q1985050"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325652,
-    "wof:geomhash":"2c334c6264bac96aa72070295b3a2ef5",
+    "wof:geomhash":"997bced0b413ab26aadbcac5318d4c30",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692677,
-    "wof:lastmodified":1566609443,
+    "wof:lastmodified":1695886823,
     "wof:name":"San Rafael Del Parana",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180325,
-    "geom:area_square_m":2034855756.158266,
+    "geom:area_square_m":2034855880.174572,
     "geom:bbox":"-55.844269,-24.374104,-55.18414,-23.873069",
     "geom:latitude":-24.133463,
     "geom:longitude":-55.481914,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CY.VY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325513,
-    "wof:geomhash":"1f9374d8324c86debe04a64b7d712442",
+    "wof:geomhash":"d4e9a0eb815696134d4d31d22f734645",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108692455,
-    "wof:lastmodified":1627522523,
+    "wof:lastmodified":1695886170,
     "wof:name":"Villa Ygatim\u00cd",
     "wof:parent_id":85676719,
     "wof:placetype":"county",

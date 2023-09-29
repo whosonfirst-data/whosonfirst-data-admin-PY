@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049604,
-    "geom:area_square_m":554248060.150389,
+    "geom:area_square_m":554248060.149655,
     "geom:bbox":"-55.982742223,-25.5172825564,-55.6628940452,-25.2092335691",
     "geom:latitude":-25.362111,
     "geom:longitude":-55.821632,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.CG.DF",
         "wd:id":"Q3712450"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325623,
-    "wof:geomhash":"d3d28a71727a95085e7bddfe16d77174",
+    "wof:geomhash":"903518d39103c1742f08c5691dd84817",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692631,
-    "wof:lastmodified":1566609511,
+    "wof:lastmodified":1695886840,
     "wof:name":"Dr. Juan Manuel Frutos",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

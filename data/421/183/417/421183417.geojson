@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083378,
-    "geom:area_square_m":931172488.275866,
+    "geom:area_square_m":931172312.165338,
     "geom:bbox":"-56.292372,-25.607682,-55.827904,-25.188015",
     "geom:latitude":-25.419216,
     "geom:longitude":-56.051728,
@@ -230,12 +230,13 @@
         "qs_pg:id":975245,
         "wd:id":"Q858120"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009368,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e537318ec2e8793a9d8205a4042c8abe",
+    "wof:geomhash":"367912922deb72c901e6c075991d30ad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -245,7 +246,7 @@
         }
     ],
     "wof:id":421183417,
-    "wof:lastmodified":1690857057,
+    "wof:lastmodified":1695886020,
     "wof:name":"Caaguazu",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

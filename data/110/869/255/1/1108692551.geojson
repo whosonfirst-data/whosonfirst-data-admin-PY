@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023974,
-    "geom:area_square_m":267596721.758667,
+    "geom:area_square_m":267596721.758729,
     "geom:bbox":"-55.3471858048,-25.5897718539,-55.0816136635,-25.3482482473",
     "geom:latitude":-25.48375,
     "geom:longitude":-55.254533,
@@ -172,9 +172,10 @@
         "hasc:id":"PY.AA.DM",
         "wd:id":"Q2445886"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325571,
-    "wof:geomhash":"5e3ee17bd7d8e548392bd0c76a157f73",
+    "wof:geomhash":"b20b635a27463b24c2e14db2d62bdbdc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":1108692551,
-    "wof:lastmodified":1566609517,
+    "wof:lastmodified":1695886842,
     "wof:name":"Dr. Juan Leon Mallorquin",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

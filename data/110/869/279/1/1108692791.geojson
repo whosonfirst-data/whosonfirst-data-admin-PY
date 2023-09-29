@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142994,
-    "geom:area_square_m":1588602686.990897,
+    "geom:area_square_m":1588602686.991356,
     "geom:bbox":"-58.0942089753,-26.2382420526,-57.4681359439,-25.7671761833",
     "geom:latitude":-26.044147,
     "geom:longitude":-57.727556,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.NE.VO",
         "wd:id":"Q1750358"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325727,
-    "wof:geomhash":"e08d478d7d7ed502011f500663d3f252",
+    "wof:geomhash":"502d2b99c6b46931bbd08f4202d5d0b1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692791,
-    "wof:lastmodified":1566609473,
+    "wof:lastmodified":1695886831,
     "wof:name":"Villa Oliva",
     "wof:parent_id":85676691,
     "wof:placetype":"county",

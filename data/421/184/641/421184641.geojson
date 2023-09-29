@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026178,
-    "geom:area_square_m":292168180.327786,
+    "geom:area_square_m":292167982.63457,
     "geom:bbox":"-57.141261,-25.59176,-56.925668,-25.376095",
     "geom:latitude":-25.49637,
     "geom:longitude":-57.042193,
@@ -140,12 +140,13 @@
         "qs_pg:id":1002653,
         "wd:id":"Q1093471"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009417,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"66b485d627264d2c7efb9dbf39208479",
+    "wof:geomhash":"e9de1cb591e1a2eeabe38505fe4d5ef3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421184641,
-    "wof:lastmodified":1690857052,
+    "wof:lastmodified":1695886018,
     "wof:name":"Piribebuy",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

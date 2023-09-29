@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.582,
-    "geom:area_square_m":6558277288.863697,
+    "geom:area_square_m":6558277857.376453,
     "geom:bbox":"-59.343049,-24.850966,-58.475293,-23.701562",
     "geom:latitude":-24.312065,
     "geom:longitude":-58.875262,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"PY.PH.VH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325747,
-    "wof:geomhash":"0603659c1dd09d4bf5520c595f33c8c9",
+    "wof:geomhash":"30f0d98165e16ac90455e4884328a27a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108692821,
-    "wof:lastmodified":1627522521,
+    "wof:lastmodified":1695886167,
     "wof:name":"General Jose Maria Bruguez",
     "wof:parent_id":85676671,
     "wof:placetype":"county",

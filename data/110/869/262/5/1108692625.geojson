@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011333,
-    "geom:area_square_m":126911741.175219,
+    "geom:area_square_m":126911807.99638,
     "geom:bbox":"-56.318141,-25.14076,-56.130938,-25.030934",
     "geom:latitude":-25.08912,
     "geom:longitude":-56.230851,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CG.DB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325620,
-    "wof:geomhash":"65724a0c09f778bf75e5f0f3fa4fb1a6",
+    "wof:geomhash":"943ce513b25002b8388b74a067aa66f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108692625,
-    "wof:lastmodified":1627522521,
+    "wof:lastmodified":1695886167,
     "wof:name":"Cecilio Baez",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

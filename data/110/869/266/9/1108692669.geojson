@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038516,
-    "geom:area_square_m":424642129.669907,
+    "geom:area_square_m":424642129.66986,
     "geom:bbox":"-55.8686347837,-27.1256349463,-55.5319184733,-26.7730159865",
     "geom:latitude":-26.921831,
     "geom:longitude":-55.708388,
@@ -91,9 +91,10 @@
         "hasc:id":"PY.IT.OB",
         "wd:id":"Q375095"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325647,
-    "wof:geomhash":"11a18ddd2d203b1dd91c21ac2da2e218",
+    "wof:geomhash":"6904499f36311ef1fcaf8c61a64555a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692669,
-    "wof:lastmodified":1566609430,
+    "wof:lastmodified":1695886820,
     "wof:name":"Obligado",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

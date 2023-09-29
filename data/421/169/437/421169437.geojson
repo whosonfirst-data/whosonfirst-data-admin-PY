@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013073,
-    "geom:area_square_m":145901811.3904,
+    "geom:area_square_m":145901762.082507,
     "geom:bbox":"-54.740117,-25.600135,-54.59361,-25.386655",
     "geom:latitude":-25.497955,
     "geom:longitude":-54.679745,
@@ -301,12 +301,13 @@
         "qs_pg:id":1264254,
         "wd:id":"Q192235"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008810,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6dd85be5913170c8ec16402e2ded6a50",
+    "wof:geomhash":"44bea4b1adef7ad793259c246093c418",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -316,7 +317,7 @@
         }
     ],
     "wof:id":421169437,
-    "wof:lastmodified":1690857032,
+    "wof:lastmodified":1695886009,
     "wof:name":"Ciudad Del Este",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194246,
-    "geom:area_square_m":2201963281.879028,
+    "geom:area_square_m":2201963281.879962,
     "geom:bbox":"-56.9795815415,-23.7977866396,-56.1471861973,-23.3006958468",
     "geom:latitude":-23.542501,
     "geom:longitude":-56.592784,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.SP.TA",
         "wd:id":"Q371991"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325750,
-    "wof:geomhash":"4cee619a2dff64c0dca77ddc3677b7df",
+    "wof:geomhash":"d4bee522ef4819585e0540ec473745d8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692825,
-    "wof:lastmodified":1566609490,
+    "wof:lastmodified":1695886834,
     "wof:name":"Tacuati",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

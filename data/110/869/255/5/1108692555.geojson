@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020274,
-    "geom:area_square_m":226303767.501298,
+    "geom:area_square_m":226303853.220059,
     "geom:bbox":"-55.426096,-25.629838,-55.305723,-25.33526",
     "geom:latitude":-25.480059,
     "geom:longitude":-55.365111,
@@ -175,9 +175,10 @@
         "hasc:id":"PY.AA.JO",
         "wd:id":"Q2445762"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325574,
-    "wof:geomhash":"b6febf06457fa80f570996dc68ea7557",
+    "wof:geomhash":"316a27a412e34762c989980807e9408c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":1108692555,
-    "wof:lastmodified":1690857021,
+    "wof:lastmodified":1695886843,
     "wof:name":"Juan E. O\u00b4leary",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

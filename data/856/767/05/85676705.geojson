@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.274689,
-    "geom:area_square_m":14238176318.837379,
+    "geom:area_square_m":14238176428.868757,
     "geom:bbox":"-55.55064,-26.257108,-54.345807,-24.476246",
     "geom:latitude":-25.395834,
     "geom:longitude":-54.952766,
@@ -326,17 +326,19 @@
         "gn:id":3439440,
         "gp:id":2346448,
         "hasc:id":"PY.AA",
+        "iso:code":"PY-10",
         "iso:id":"PY-10",
         "qs_pg:id":1047041,
         "unlc:id":"PY-10",
         "wd:id":"Q682654",
         "wk:page":"Alto Paran\u00e1 Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e6b131da66f3c085bf72a921435ad97",
+    "wof:geomhash":"6ffc03d3801a6cd3d78f3e7296a3c52e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -353,7 +355,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856969,
+    "wof:lastmodified":1695884367,
     "wof:name":"Alto Paran\u00e1",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

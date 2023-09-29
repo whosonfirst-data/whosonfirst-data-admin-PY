@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028437,
-    "geom:area_square_m":318035987.735695,
+    "geom:area_square_m":318035987.735724,
     "geom:bbox":"-56.6641434268,-25.3858892966,-56.4377939303,-25.1646178253",
     "geom:latitude":-25.250797,
     "geom:longitude":-56.550204,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.CG.LP",
         "wd:id":"Q1751637"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325638,
-    "wof:geomhash":"0846edafbc96716307922c0487e687ad",
+    "wof:geomhash":"c1e8144514e3d76b3bc087effdfffbf6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692655,
-    "wof:lastmodified":1566609506,
+    "wof:lastmodified":1695886838,
     "wof:name":"La Pastora",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

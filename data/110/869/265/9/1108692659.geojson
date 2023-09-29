@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021016,
-    "geom:area_square_m":235109900.319991,
+    "geom:area_square_m":235110014.670238,
     "geom:bbox":"-55.940699,-25.281939,-55.688051,-25.136002",
     "geom:latitude":-25.212614,
     "geom:longitude":-55.808083,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PY.CG.TF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325639,
-    "wof:geomhash":"e942a578fe210269585178402be75edf",
+    "wof:geomhash":"f7cf6d73b4c9742d566039f8ec3ef13e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108692659,
-    "wof:lastmodified":1627522519,
+    "wof:lastmodified":1695886163,
     "wof:name":"3 De Febrero",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

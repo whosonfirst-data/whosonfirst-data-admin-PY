@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05253,
-    "geom:area_square_m":592479967.440722,
+    "geom:area_square_m":592480272.319268,
     "geom:bbox":"-56.536191,-24.308341,-56.150125,-24.048718",
     "geom:latitude":-24.196401,
     "geom:longitude":-56.378378,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"PY.SP.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325538,
-    "wof:geomhash":"d3d632b2bd8a27a45c6ac9998a13df8f",
+    "wof:geomhash":"63f7e752306dfb19e37c129cc9c78fd2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108692499,
-    "wof:lastmodified":1627522522,
+    "wof:lastmodified":1695886168,
     "wof:name":"Liberacion",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

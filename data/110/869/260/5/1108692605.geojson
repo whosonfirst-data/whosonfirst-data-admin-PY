@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010198,
-    "geom:area_square_m":113406863.577702,
+    "geom:area_square_m":113406863.577715,
     "geom:bbox":"-56.1568319827,-26.0273961776,-56.0097615968,-25.86215656",
     "geom:latitude":-25.928498,
     "geom:longitude":-56.093845,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.GU.JF",
         "wd:id":"Q1754358"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325605,
-    "wof:geomhash":"e9a7cc6f4c6c8b062444e16b712c6577",
+    "wof:geomhash":"e2cff0ffc40673603d07bc3b26fa1651",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692605,
-    "wof:lastmodified":1566609441,
+    "wof:lastmodified":1695886822,
     "wof:name":"Jose Fassardi",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

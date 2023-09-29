@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.693203,
-    "geom:area_square_m":19584749131.132858,
+    "geom:area_square_m":19584747325.203102,
     "geom:bbox":"-59.887103,-21.299326,-57.817327,-20.130321",
     "geom:latitude":-20.702051,
     "geom:longitude":-58.962122,
@@ -233,12 +233,13 @@
         "qs_pg:id":1002651,
         "wd:id":"Q136498"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009417,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d9c97a4f7efcdde9d589363bf328e9cb",
+    "wof:geomhash":"08be15fcd02111e7efe0bdfb2b288084",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -248,7 +249,7 @@
         }
     ],
     "wof:id":421184639,
-    "wof:lastmodified":1690857053,
+    "wof:lastmodified":1695886102,
     "wof:name":"Fuerte Olimpo",
     "wof:parent_id":85676655,
     "wof:placetype":"county",

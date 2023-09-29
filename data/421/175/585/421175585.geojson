@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011681,
-    "geom:area_square_m":130645353.872861,
+    "geom:area_square_m":130645353.872812,
     "geom:bbox":"-57.2999781409,-25.3296379993,-57.1510710797,-25.1296241099",
     "geom:latitude":-25.245935,
     "geom:longitude":-57.221646,
@@ -131,12 +131,13 @@
         "qs_pg:id":1002652,
         "wd:id":"Q2388597"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009072,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f5f2392989aa664b18efc7356579080f",
+    "wof:geomhash":"d7771ed91fa26b51c70ff81cca359e93",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421175585,
-    "wof:lastmodified":1582360304,
+    "wof:lastmodified":1695886015,
     "wof:name":"Altos",
     "wof:parent_id":85676667,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057649,
-    "geom:area_square_m":652792875.626675,
+    "geom:area_square_m":652793003.893761,
     "geom:bbox":"-56.74662,-23.936317,-56.110924,-23.492972",
     "geom:latitude":-23.685579,
     "geom:longitude":-56.431551,
@@ -112,9 +112,10 @@
         "hasc:id":"PY.SP.NG",
         "wd:id":"Q928198"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325716,
-    "wof:geomhash":"a79843bd7b9efdebf56fa6da3e1b42ed",
+    "wof:geomhash":"779aafadef331ad89d3126c7519389fe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108692775,
-    "wof:lastmodified":1690857007,
+    "wof:lastmodified":1695886830,
     "wof:name":"Nueva Germania",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

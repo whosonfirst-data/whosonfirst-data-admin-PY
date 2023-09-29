@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011272,
-    "geom:area_square_m":125701001.778659,
+    "geom:area_square_m":125701008.923654,
     "geom:bbox":"-54.71189,-25.668866,-54.581112,-25.537928",
     "geom:latitude":-25.596662,
     "geom:longitude":-54.641504,
@@ -146,12 +146,13 @@
         "qs_pg:id":1264296,
         "wd:id":"Q2201876"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459008897,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a46d18be9a68a15140134375dd26ae5c",
+    "wof:geomhash":"bfb4ab8cc1dd32ef12af5613b8180145",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":421171537,
-    "wof:lastmodified":1690857064,
+    "wof:lastmodified":1695886024,
     "wof:name":"Presidente Franco",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

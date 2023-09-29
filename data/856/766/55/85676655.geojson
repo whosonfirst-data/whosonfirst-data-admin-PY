@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.806045,
-    "geom:area_square_m":78767137469.687286,
+    "geom:area_square_m":78767133792.559067,
     "geom:bbox":"-61.9224,-22.399223,-57.817149,-19.2896",
     "geom:latitude":-20.604826,
     "geom:longitude":-59.384297,
@@ -318,16 +318,18 @@
         "gn:id":3439441,
         "gp:id":2346463,
         "hasc:id":"PY.AG",
+        "iso:code":"PY-16",
         "iso:id":"PY-16",
         "qs_pg:id":894954,
         "wd:id":"Q682642",
         "wk:page":"Alto Paraguay Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2a8cdfdecbd4112172d72977fd96a716",
+    "wof:geomhash":"65b0ce898d262ed7ef5c7ad5dff5242c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -344,7 +346,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856980,
+    "wof:lastmodified":1695885134,
     "wof:name":"Alto Paraguay",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

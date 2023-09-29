@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072221,
-    "geom:area_square_m":813370056.343616,
+    "geom:area_square_m":813370056.343526,
     "geom:bbox":"-57.0079184434,-24.53592591,-56.601087003,-24.1946754607",
     "geom:latitude":-24.383363,
     "geom:longitude":-56.793329,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.SP.GA",
         "wd:id":"Q1989449"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325713,
-    "wof:geomhash":"988c816c5d14661a9d4380c8eb605530",
+    "wof:geomhash":"c5e5a411a6bbc793c7e3efd7195bac2a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692769,
-    "wof:lastmodified":1566609484,
+    "wof:lastmodified":1695886833,
     "wof:name":"General Elizardo Aquino",
     "wof:parent_id":85676675,
     "wof:placetype":"county",

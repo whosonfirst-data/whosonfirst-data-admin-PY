@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005723,
-    "geom:area_square_m":63786387.498938,
+    "geom:area_square_m":63786387.498985,
     "geom:bbox":"-56.3413086449,-25.7102534648,-56.2377106713,-25.6203204031",
     "geom:latitude":-25.664389,
     "geom:longitude":-56.284461,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.GU.NT",
         "wd:id":"Q1752721"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325607,
-    "wof:geomhash":"99d1363efae3c670985260335d152d0c",
+    "wof:geomhash":"e04cddfc5f2c1d823dc4b9f78c44b61b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692607,
-    "wof:lastmodified":1566609440,
+    "wof:lastmodified":1695886822,
     "wof:name":"Natalicio Talavera",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

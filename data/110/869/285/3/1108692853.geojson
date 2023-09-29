@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127048,
-    "geom:area_square_m":1409713924.417328,
+    "geom:area_square_m":1409713924.417241,
     "geom:bbox":"-55.8065558457,-26.4173905481,-55.2481921781,-25.9853999673",
     "geom:latitude":-26.188236,
     "geom:longitude":-55.529953,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.CZ.TA",
         "wd:id":"Q2475410"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325766,
-    "wof:geomhash":"76da48e818fc1d3ea101b148d36def72",
+    "wof:geomhash":"a80b6d8d8630108ad9f27375096140f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692853,
-    "wof:lastmodified":1566609493,
+    "wof:lastmodified":1695886835,
     "wof:name":"Tavai",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

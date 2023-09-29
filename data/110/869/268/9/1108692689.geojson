@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076146,
-    "geom:area_square_m":840180585.056279,
+    "geom:area_square_m":840180585.055472,
     "geom:bbox":"-55.7511305003,-26.9875999698,-55.2717309787,-26.6591607821",
     "geom:latitude":-26.833412,
     "geom:longitude":-55.514739,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.IT.PI",
         "wd:id":"Q547894"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325661,
-    "wof:geomhash":"00317c2c5600e32e533a4c8cb28eb1ea",
+    "wof:geomhash":"98733ee4c7211ba33d4d50a5077302b3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692689,
-    "wof:lastmodified":1566609422,
+    "wof:lastmodified":1695886818,
     "wof:name":"Pirapo",
     "wof:parent_id":85676723,
     "wof:placetype":"county",

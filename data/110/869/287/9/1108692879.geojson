@@ -202,6 +202,7 @@
         "hasc:id":"PY.BQ.GG",
         "wd:id":"Q733744"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325781,
     "wof:geomhash":"b68dd55fe15493803fc5506a290c081e",
@@ -214,7 +215,7 @@
         }
     ],
     "wof:id":1108692879,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886093,
     "wof:name":"Filadelfia",
     "wof:parent_id":85676659,
     "wof:placetype":"county",

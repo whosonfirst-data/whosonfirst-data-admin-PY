@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021488,
-    "geom:area_square_m":239070513.890192,
+    "geom:area_square_m":239070513.890206,
     "geom:bbox":"-57.4467985487,-25.9495279112,-57.1633537201,-25.8069206566",
     "geom:latitude":-25.875588,
     "geom:longitude":-57.297507,
@@ -85,9 +85,10 @@
         "hasc:id":"PY.PG.SG",
         "wd:id":"Q1750382"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325684,
-    "wof:geomhash":"6e96aad462de306ed9961bfb982673ee",
+    "wof:geomhash":"b673ba1ac5fcbf0851b6b153c106ba66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692725,
-    "wof:lastmodified":1566609412,
+    "wof:lastmodified":1695886816,
     "wof:name":"San Roque Gonzalez",
     "wof:parent_id":85676699,
     "wof:placetype":"county",

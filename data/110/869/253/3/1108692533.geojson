@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015203,
-    "geom:area_square_m":169503967.767698,
+    "geom:area_square_m":169503967.767944,
     "geom:bbox":"-56.3062594805,-25.6758300528,-55.9431382758,-25.5683598681",
     "geom:latitude":-25.621367,
     "geom:longitude":-56.1542,
@@ -88,9 +88,10 @@
         "hasc:id":"PY.GU.CT",
         "wd:id":"Q2412155"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325560,
-    "wof:geomhash":"ecea5901fa43d6d7a3bf1f6d3848d506",
+    "wof:geomhash":"0e43d04093c4226d28fd994dd9394a45",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692533,
-    "wof:lastmodified":1566609498,
+    "wof:lastmodified":1695886836,
     "wof:name":"Mauricio Jose Troche",
     "wof:parent_id":85676685,
     "wof:placetype":"county",

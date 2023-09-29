@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.338899,
-    "geom:area_square_m":15096818792.489574,
+    "geom:area_square_m":15096818581.55159,
     "geom:bbox":"-56.172538,-24.78397,-54.258924,-23.523292",
     "geom:latitude":-24.232715,
     "geom:longitude":-55.21934,
@@ -317,17 +317,19 @@
         "gn:id":3439216,
         "gp:id":2346464,
         "hasc:id":"PY.CY",
+        "iso:code":"PY-14",
         "iso:id":"PY-14",
         "qs_pg:id":1097059,
         "unlc:id":"PY-14",
         "wd:id":"Q279085",
         "wk:page":"Canindey\u00fa Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9434969d5951ef475b06626feba68e1d",
+    "wof:geomhash":"1f00189bc5308961014a47ae382c0b75",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -344,7 +346,7 @@
         "grn",
         "spa"
     ],
-    "wof:lastmodified":1690856970,
+    "wof:lastmodified":1695884652,
     "wof:name":"Canindey\u00fa",
     "wof:parent_id":85632355,
     "wof:placetype":"region",

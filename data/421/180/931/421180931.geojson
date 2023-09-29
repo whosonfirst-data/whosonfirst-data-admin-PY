@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195705,
-    "geom:area_square_m":2161652121.766526,
+    "geom:area_square_m":2161651199.695698,
     "geom:bbox":"-57.743139,-27.057374,-57.00103,-26.388213",
     "geom:latitude":-26.712204,
     "geom:longitude":-57.405886,
@@ -215,12 +215,13 @@
         "qs_pg:id":467349,
         "wd:id":"Q530895"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009276,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"819ee6d85970c527f20650e1a7fa5e21",
+    "wof:geomhash":"bfc71c62b94ec2ff93d0953b82f80f31",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -230,7 +231,7 @@
         }
     ],
     "wof:id":421180931,
-    "wof:lastmodified":1690857037,
+    "wof:lastmodified":1695886100,
     "wof:name":"San Juan Bautista",
     "wof:parent_id":85676689,
     "wof:placetype":"county",

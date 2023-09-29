@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056441,
-    "geom:area_square_m":630427396.072107,
+    "geom:area_square_m":630427064.616047,
     "geom:bbox":"-55.733103,-25.566371,-55.476412,-25.26182",
     "geom:latitude":-25.402858,
     "geom:longitude":-55.594056,
@@ -106,9 +106,10 @@
         "hasc:id":"PY.CG.DE",
         "wd:id":"Q2406918"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325632,
-    "wof:geomhash":"efd7b2d78d967e983e807b217622e25b",
+    "wof:geomhash":"6810a9fcfa4668218440c97a18cff57f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108692645,
-    "wof:lastmodified":1690857018,
+    "wof:lastmodified":1695886839,
     "wof:name":"J Eulogio Estigarribia",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

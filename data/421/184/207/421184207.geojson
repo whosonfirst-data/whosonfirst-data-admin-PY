@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078892,
-    "geom:area_square_m":880584699.4993,
+    "geom:area_square_m":880584553.518239,
     "geom:bbox":"-56.677524,-25.708386,-56.148319,-25.230817",
     "geom:latitude":-25.486581,
     "geom:longitude":-56.421111,
@@ -250,12 +250,13 @@
         "qs_pg:id":990189,
         "wd:id":"Q935504"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459009403,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de502f9c42473b876b2e63b97166bb66",
+    "wof:geomhash":"a61d8dd31d6c718c3ea958ecaef8f066",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -265,7 +266,7 @@
         }
     ],
     "wof:id":421184207,
-    "wof:lastmodified":1690857052,
+    "wof:lastmodified":1695886101,
     "wof:name":"Coronel Oviedo",
     "wof:parent_id":85676709,
     "wof:placetype":"county",

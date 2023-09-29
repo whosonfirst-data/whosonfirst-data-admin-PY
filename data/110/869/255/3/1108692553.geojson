@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175109,
-    "geom:area_square_m":1965337729.386758,
+    "geom:area_square_m":1965337729.387593,
     "geom:bbox":"-55.3500866958,-25.1813471033,-54.9495955801,-24.4762460723",
     "geom:latitude":-24.814184,
     "geom:longitude":-55.152669,
@@ -166,9 +166,10 @@
         "hasc:id":"PY.AA.IT",
         "wd:id":"Q2445898"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325573,
-    "wof:geomhash":"5a2b7a299fe0c9ea4189868e4eb42f90",
+    "wof:geomhash":"c3f65a70241aaf6ff65083b3ae46bda2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":1108692553,
-    "wof:lastmodified":1566609517,
+    "wof:lastmodified":1695886842,
     "wof:name":"Itakyry",
     "wof:parent_id":85676705,
     "wof:placetype":"county",

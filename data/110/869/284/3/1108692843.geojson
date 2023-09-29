@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012181,
-    "geom:area_square_m":135125058.181949,
+    "geom:area_square_m":135124995.145658,
     "geom:bbox":"-56.152064,-26.292257,-56.015073,-26.155752",
     "geom:latitude":-26.220982,
     "geom:longitude":-56.082786,
@@ -97,9 +97,10 @@
         "hasc:id":"PY.CZ.BV",
         "wd:id":"Q2475384"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1474325760,
-    "wof:geomhash":"ca12dc74120aa14fd08e44260ade6a3d",
+    "wof:geomhash":"12c8ff74fe2cef0591336197c71fd214",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692843,
-    "wof:lastmodified":1690857004,
+    "wof:lastmodified":1695886828,
     "wof:name":"Buena Vista",
     "wof:parent_id":85676713,
     "wof:placetype":"county",

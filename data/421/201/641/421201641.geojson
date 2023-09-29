@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.626594,
-    "geom:area_square_m":7138352786.622112,
+    "geom:area_square_m":7138351402.386449,
     "geom:bbox":"-57.940635,-23.509491,-56.649068,-22.364207",
     "geom:latitude":-22.879311,
     "geom:longitude":-57.367775,
@@ -254,12 +254,13 @@
         "qs_pg:id":1264255,
         "wd:id":"Q840962"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PY",
     "wof:created":1459010079,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ce26655461a167fce91ec6769d836d32",
+    "wof:geomhash":"e8ea87349f4a90bdc0386c847d4c4890",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -269,7 +270,7 @@
         }
     ],
     "wof:id":421201641,
-    "wof:lastmodified":1690857051,
+    "wof:lastmodified":1695886017,
     "wof:name":"Concepcion",
     "wof:parent_id":85676665,
     "wof:placetype":"county",
